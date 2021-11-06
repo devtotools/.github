@@ -13,4 +13,4 @@ jobs:
               with: 
                 readme_path: "profile/README.md"
                 max_post_count: "10"
-                feed_list: "https://dev.to/feed/devteam"
+                feed_list: "https://dev.to/feed/devteam" 
