@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-641)
+- [Do you have any questions about whistleblowing and worker’s rights in the tech industry? Ask to be featured on our podcast! 🎧](https://dev.to/devteam/do-you-have-any-questions-about-whistleblowing-and-workers-rights-in-the-tech-industry-ask-to-be-featured-on-our-podcast-420g)
+- [New CSS Features, Facebook’s Facial Recognition System in the Metaverse, &amp; more on DevNews!](https://dev.to/devteam/new-css-features-facebooks-facial-recognition-system-in-the-metaverse-more-on-devnews-47hp)
 - [Further Hacking on Emacs for Github Pull Requests](https://dev.to/devteam/further-hacking-on-emacs-for-github-pull-requests-f9a)
 - [Listen to the Season 7 Premiere of DevDiscuss: &quot;Deeply Human Stories in Software with The Changelog&quot;](https://dev.to/devteam/listen-to-the-season-7-premiere-of-devdiscuss-deeply-human-stories-in-software-with-the-changelog-ip1)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-658)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Share your GitHub Actions Hackathon 2021 Updates!](https://dev.to/devteam/share-your-github-actions-hackathon-2021-updates-57k)
 - [GitHub Actions Hackathon 2021 Help Thread](https://dev.to/devteam/github-actions-hackathon-2021-help-thread-1lk0)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-3p1o)
-- [What would you like to know about design justice? Ask to be featured on our podcast! 🎧](https://dev.to/devteam/what-would-you-like-to-know-about-design-justice-answer-to-be-featured-on-our-podcast-1en4)
-- [Software Complexity, Facebook’s Facial Recognition System, &amp; more on DevNews!](https://dev.to/devteam/software-complexity-facebooks-facial-recognition-system-more-on-devnews-me)
-- [Building and Documenting a Nuanced ActiveRecord Approach](https://dev.to/devteam/building-and-documenting-a-nuanced-activerecord-approach-3j81)
 <!-- BLOG-POST-LIST:END -->
 
 
