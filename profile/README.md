@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [On Writing Documentation](https://dev.to/devteam/on-writing-documentation-3km0)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-641)
 - [Do you have any questions about whistleblowing and worker’s rights in the tech industry? Ask to be featured on our podcast! 🎧](https://dev.to/devteam/do-you-have-any-questions-about-whistleblowing-and-workers-rights-in-the-tech-industry-ask-to-be-featured-on-our-podcast-420g)
 - [New CSS Features, Facebook’s Facial Recognition System in the Metaverse, &amp; more on DevNews!](https://dev.to/devteam/new-css-features-facebooks-facial-recognition-system-in-the-metaverse-more-on-devnews-47hp)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Join Us for the 2021 GitHub Actions Hackathon on DEV!](https://dev.to/devteam/join-us-for-the-2021-github-actions-hackathon-on-dev-4hn4)
 - [Share your GitHub Actions Hackathon 2021 Updates!](https://dev.to/devteam/share-your-github-actions-hackathon-2021-updates-57k)
 - [GitHub Actions Hackathon 2021 Help Thread](https://dev.to/devteam/github-actions-hackathon-2021-help-thread-1lk0)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-3p1o)
 <!-- BLOG-POST-LIST:END -->
 
 
