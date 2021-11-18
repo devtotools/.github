@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [No More Contacting Employees Off Hours in Portugal, Trojan Source Attacks, Another Apple Settlement, &amp; more on DevNews!](https://dev.to/devteam/no-more-contacting-employees-off-hours-in-portugal-trojan-source-attacks-another-apple-settlement-more-on-devnews-59i1)
+- [Gently Embracing Different Regular Expression Approaches in Ruby](https://dev.to/devteam/gently-embracing-different-regular-expression-approaches-in-ruby-1d0j)
 - [Listen to the S7E2 of DevDiscuss: &quot;The Story of Vue with Evan You&quot;](https://dev.to/devteam/listen-to-the-s7e2-of-devdiscuss-the-story-of-vue-with-evan-you-hk7)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-2jg3)
 - [On Writing Documentation](https://dev.to/devteam/on-writing-documentation-3km0)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [New CSS Features, Facebook’s Facial Recognition System in the Metaverse, &amp; more on DevNews!](https://dev.to/devteam/new-css-features-facebooks-facial-recognition-system-in-the-metaverse-more-on-devnews-47hp)
 - [Further Hacking on Emacs for Github Pull Requests](https://dev.to/devteam/further-hacking-on-emacs-for-github-pull-requests-f9a)
 - [Listen to the Season 7 Premiere of DevDiscuss: &quot;Deeply Human Stories in Software with The Changelog&quot;](https://dev.to/devteam/listen-to-the-season-7-premiere-of-devdiscuss-deeply-human-stories-in-software-with-the-changelog-ip1)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-658)
-- [Join Us for the 2021 GitHub Actions Hackathon on DEV!](https://dev.to/devteam/join-us-for-the-2021-github-actions-hackathon-on-dev-4hn4)
 <!-- BLOG-POST-LIST:END -->
 
 
