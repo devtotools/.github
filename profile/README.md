@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-3ad7)
 - [No More Contacting Employees Off Hours in Portugal, Trojan Source Attacks, Another Apple Settlement, &amp; more on DevNews!](https://dev.to/devteam/no-more-contacting-employees-off-hours-in-portugal-trojan-source-attacks-another-apple-settlement-more-on-devnews-59i1)
 - [Gently Embracing Different Regular Expression Approaches in Ruby](https://dev.to/devteam/gently-embracing-different-regular-expression-approaches-in-ruby-1d0j)
 - [Listen to the S7E2 of DevDiscuss: &quot;The Story of Vue with Evan You&quot;](https://dev.to/devteam/listen-to-the-s7e2-of-devdiscuss-the-story-of-vue-with-evan-you-hk7)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Do you have any questions about whistleblowing and worker’s rights in the tech industry? Ask to be featured on our podcast! 🎧](https://dev.to/devteam/do-you-have-any-questions-about-whistleblowing-and-workers-rights-in-the-tech-industry-ask-to-be-featured-on-our-podcast-420g)
 - [New CSS Features, Facebook’s Facial Recognition System in the Metaverse, &amp; more on DevNews!](https://dev.to/devteam/new-css-features-facebooks-facial-recognition-system-in-the-metaverse-more-on-devnews-47hp)
 - [Further Hacking on Emacs for Github Pull Requests](https://dev.to/devteam/further-hacking-on-emacs-for-github-pull-requests-f9a)
-- [Listen to the Season 7 Premiere of DevDiscuss: &quot;Deeply Human Stories in Software with The Changelog&quot;](https://dev.to/devteam/listen-to-the-season-7-premiere-of-devdiscuss-deeply-human-stories-in-software-with-the-changelog-ip1)
 <!-- BLOG-POST-LIST:END -->
 
 
