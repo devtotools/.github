@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Listen to the S7E3 of DevDiscuss: &quot;Getting a Read on Tech Publishing&quot;](https://dev.to/devteam/listen-to-the-s7e3-of-devdiscuss-getting-a-read-on-tech-publishing-3e7g)
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3nkk)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-3ad7)
 - [No More Contacting Employees Off Hours in Portugal, Trojan Source Attacks, Another Apple Settlement, &amp; more on DevNews!](https://dev.to/devteam/no-more-contacting-employees-off-hours-in-portugal-trojan-source-attacks-another-apple-settlement-more-on-devnews-59i1)
 - [Gently Embracing Different Regular Expression Approaches in Ruby](https://dev.to/devteam/gently-embracing-different-regular-expression-approaches-in-ruby-1d0j)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [On Writing Documentation](https://dev.to/devteam/on-writing-documentation-3km0)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-641)
 - [Do you have any questions about whistleblowing and worker’s rights in the tech industry? Ask to be featured on our podcast! 🎧](https://dev.to/devteam/do-you-have-any-questions-about-whistleblowing-and-workers-rights-in-the-tech-industry-ask-to-be-featured-on-our-podcast-420g)
-- [New CSS Features, Facebook’s Facial Recognition System in the Metaverse, &amp; more on DevNews!](https://dev.to/devteam/new-css-features-facebooks-facial-recognition-system-in-the-metaverse-more-on-devnews-47hp)
-- [Further Hacking on Emacs for Github Pull Requests](https://dev.to/devteam/further-hacking-on-emacs-for-github-pull-requests-f9a)
 <!-- BLOG-POST-LIST:END -->
 
 
