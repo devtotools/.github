@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Adding Emacs Function for my Forem Pull Requests](https://dev.to/devteam/adding-emacs-function-for-my-forem-pull-requests-58fc)
 - [Reminder — Join the GitHub Actions Hackathon 2021 on DEV ⏰](https://dev.to/devteam/reminder-join-the-github-actions-hackathon-2021-on-dev-6h2)
 - [Listen to the S7E3 of DevDiscuss: &quot;Getting a Read on Tech Publishing&quot;](https://dev.to/devteam/listen-to-the-s7e3-of-devdiscuss-getting-a-read-on-tech-publishing-3e7g)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3nkk)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Listen to the S7E2 of DevDiscuss: &quot;The Story of Vue with Evan You&quot;](https://dev.to/devteam/listen-to-the-s7e2-of-devdiscuss-the-story-of-vue-with-evan-you-hk7)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-2jg3)
 - [On Writing Documentation](https://dev.to/devteam/on-writing-documentation-3km0)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-641)
 <!-- BLOG-POST-LIST:END -->
 
 
