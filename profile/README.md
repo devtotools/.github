@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Feature update: Feed](https://dev.to/devteam/feature-update-feed-3go5)
+- [Feature update: Markdown toolbar](https://dev.to/devteam/feature-update-markdown-toolbar-2lma)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-30gf)
 - [Adding Emacs Function for my Forem Pull Requests](https://dev.to/devteam/adding-emacs-function-for-my-forem-pull-requests-58fc)
 - [Reminder — Join the GitHub Actions Hackathon 2021 on DEV ⏰](https://dev.to/devteam/reminder-join-the-github-actions-hackathon-2021-on-dev-6h2)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-3ad7)
 - [No More Contacting Employees Off Hours in Portugal, Trojan Source Attacks, Another Apple Settlement, &amp; more on DevNews!](https://dev.to/devteam/no-more-contacting-employees-off-hours-in-portugal-trojan-source-attacks-another-apple-settlement-more-on-devnews-59i1)
 - [Gently Embracing Different Regular Expression Approaches in Ruby](https://dev.to/devteam/gently-embracing-different-regular-expression-approaches-in-ruby-1d0j)
-- [Listen to the S7E2 of DevDiscuss: &quot;The Story of Vue with Evan You&quot;](https://dev.to/devteam/listen-to-the-s7e2-of-devdiscuss-the-story-of-vue-with-evan-you-hk7)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-2jg3)
 <!-- BLOG-POST-LIST:END -->
 
 
