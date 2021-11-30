@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Keeping the Stakes Low while Breaking Production](https://dev.to/devteam/keeping-the-stakes-low-while-breaking-production-3nej)
 - [Feature update: Feed](https://dev.to/devteam/feature-update-feed-3go5)
 - [Feature update: Markdown toolbar](https://dev.to/devteam/feature-update-markdown-toolbar-2lma)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-30gf)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3nkk)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-3ad7)
 - [No More Contacting Employees Off Hours in Portugal, Trojan Source Attacks, Another Apple Settlement, &amp; more on DevNews!](https://dev.to/devteam/no-more-contacting-employees-off-hours-in-portugal-trojan-source-attacks-another-apple-settlement-more-on-devnews-59i1)
-- [Gently Embracing Different Regular Expression Approaches in Ruby](https://dev.to/devteam/gently-embracing-different-regular-expression-approaches-in-ruby-1d0j)
 <!-- BLOG-POST-LIST:END -->
 
 
