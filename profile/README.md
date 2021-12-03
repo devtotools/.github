@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Last Chance to Join the 2021 GitHub Actions Hackathon on DEV!](https://dev.to/devteam/last-chance-to-join-the-2021-github-actions-hackathon-on-dev-1aje)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4l7b)
+- [Would you opt to have your consciousness live forever on a computer? Tell us for an upcoming episode of our podcast! 🎧](https://dev.to/devteam/would-you-want-to-have-your-consciousness-live-forever-on-a-computer-tell-us-for-an-upcoming-episode-of-our-podcast-2je3)
 - [Jack Dorsey Resigns, Apple Self-Repair, the Threat of Post-Quantum Cryptography, &amp; more on DevNews!](https://dev.to/devteam/jack-dorsey-resigns-apple-self-repair-the-threat-of-post-quantum-cryptography-more-on-devnews-3pmb)
 - [Ruby Script to Find Local Branches with Deleted Remotes](https://dev.to/devteam/ruby-script-to-find-local-branches-with-deleted-remotes-10if)
 - [How we made the markdown toolbar](https://dev.to/devteam/how-we-made-the-markdown-toolbar-4f09)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-5hj5)
 - [Keeping the Stakes Low while Breaking Production](https://dev.to/devteam/keeping-the-stakes-low-while-breaking-production-3nej)
 - [Feature update: Feed](https://dev.to/devteam/feature-update-feed-3go5)
-- [Feature update: Markdown toolbar](https://dev.to/devteam/feature-update-markdown-toolbar-2lma)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-30gf)
-- [Adding Emacs Function for my Forem Pull Requests](https://dev.to/devteam/adding-emacs-function-for-my-forem-pull-requests-58fc)
 <!-- BLOG-POST-LIST:END -->
 
 
