@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Integrating the Passport with the Forem Ecosystem](https://dev.to/devteam/integrating-the-passport-with-the-forem-ecosystem-42ea)
+- [Forem’s Approach to Decentralized Authentication and Authorization](https://dev.to/devteam/forems-approach-to-decentralized-authentication-and-authorization-49a1)
 - [Last Chance to Join the 2021 GitHub Actions Hackathon on DEV!](https://dev.to/devteam/last-chance-to-join-the-2021-github-actions-hackathon-on-dev-1aje)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4l7b)
 - [Would you opt to have your consciousness live forever on a computer? Tell us for an upcoming episode of our podcast! 🎧](https://dev.to/devteam/would-you-want-to-have-your-consciousness-live-forever-on-a-computer-tell-us-for-an-upcoming-episode-of-our-podcast-2je3)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [How we made the markdown toolbar](https://dev.to/devteam/how-we-made-the-markdown-toolbar-4f09)
 - [Listen to the S7E4 of DevDiscuss: &quot;Should We All Be Thinking About Design Justice?&quot;](https://dev.to/devteam/listen-to-the-s7e4-of-devdiscuss-should-we-all-be-thinking-about-design-justice-1gm9)
 - [Sunsetting the Dev.to iOS App](https://dev.to/devteam/sunsetting-the-devto-ios-app-44nl)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-5hj5)
-- [Keeping the Stakes Low while Breaking Production](https://dev.to/devteam/keeping-the-stakes-low-while-breaking-production-3nej)
 <!-- BLOG-POST-LIST:END -->
 
 
