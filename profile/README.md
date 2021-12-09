@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Listen to the S7E5 of DevDiscuss: &quot;How to Be a Successful Whistleblower&quot;](https://dev.to/devteam/listen-to-the-s7e5-of-devdiscuss-how-to-be-a-successful-whistleblower-34jc)
 - [Heads up: Stackbit integration removal](https://dev.to/devteam/heads-up-stackbit-integration-removal-2m11)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4c7j)
 - [Integrating the Passport with the Forem Ecosystem](https://dev.to/devteam/integrating-the-passport-with-the-forem-ecosystem-42ea)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Would you opt to have your consciousness live forever on a computer? Tell us for an upcoming episode of our podcast! 🎧](https://dev.to/devteam/would-you-want-to-have-your-consciousness-live-forever-on-a-computer-tell-us-for-an-upcoming-episode-of-our-podcast-2je3)
 - [Jack Dorsey Resigns, Apple Self-Repair, the Threat of Post-Quantum Cryptography, &amp; more on DevNews!](https://dev.to/devteam/jack-dorsey-resigns-apple-self-repair-the-threat-of-post-quantum-cryptography-more-on-devnews-3pmb)
 - [Ruby Script to Find Local Branches with Deleted Remotes](https://dev.to/devteam/ruby-script-to-find-local-branches-with-deleted-remotes-10if)
-- [How we made the markdown toolbar](https://dev.to/devteam/how-we-made-the-markdown-toolbar-4f09)
 <!-- BLOG-POST-LIST:END -->
 
 
