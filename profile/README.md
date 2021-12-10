@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-fhe)
+- [TikTok’s Algorithm, Timnit Gebru’s New Research Institution, and More &amp; more on DevNews!](https://dev.to/devteam/tiktoks-algorithm-timnit-gebrus-new-research-institution-and-more-more-on-devnews-3447)
 - [Listen to the S7E5 of DevDiscuss: &quot;How to Be a Successful Whistleblower&quot;](https://dev.to/devteam/listen-to-the-s7e5-of-devdiscuss-how-to-be-a-successful-whistleblower-34jc)
 - [Heads up: Stackbit integration removal](https://dev.to/devteam/heads-up-stackbit-integration-removal-2m11)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4c7j)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Last Chance to Join the 2021 GitHub Actions Hackathon on DEV!](https://dev.to/devteam/last-chance-to-join-the-2021-github-actions-hackathon-on-dev-1aje)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4l7b)
 - [Would you opt to have your consciousness live forever on a computer? Tell us for an upcoming episode of our podcast! 🎧](https://dev.to/devteam/would-you-want-to-have-your-consciousness-live-forever-on-a-computer-tell-us-for-an-upcoming-episode-of-our-podcast-2je3)
-- [Jack Dorsey Resigns, Apple Self-Repair, the Threat of Post-Quantum Cryptography, &amp; more on DevNews!](https://dev.to/devteam/jack-dorsey-resigns-apple-self-repair-the-threat-of-post-quantum-cryptography-more-on-devnews-3pmb)
-- [Ruby Script to Find Local Branches with Deleted Remotes](https://dev.to/devteam/ruby-script-to-find-local-branches-with-deleted-remotes-10if)
 <!-- BLOG-POST-LIST:END -->
 
 
