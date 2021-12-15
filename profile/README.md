@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Listen to the S7E6 of DevDiscuss: &quot;What a Quantitative Trader Can Teach You About A/B Testing&quot;](https://dev.to/devteam/listen-to-the-s7e6-of-devdiscuss-what-a-quantitative-trader-can-teach-you-about-ab-testing-43e8)
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1lpg)
 - [Announcing the MongoDB Atlas Hackathon on DEV!](https://dev.to/devteam/announcing-the-mongodb-atlas-hackathon-on-dev-4b6m)
 - [MongoDB Atlas Hackathon Help Thread](https://dev.to/devteam/mongodb-atlas-hackathon-help-thread-3g3a)
 - [Share your MongoDB Atlas Hackathon Updates!](https://dev.to/devteam/share-your-mongodb-atlas-hackathon-updates-5g4k)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Listen to the S7E5 of DevDiscuss: &quot;How to Be a Successful Whistleblower&quot;](https://dev.to/devteam/listen-to-the-s7e5-of-devdiscuss-how-to-be-a-successful-whistleblower-34jc)
 - [Heads up: Stackbit integration removal](https://dev.to/devteam/heads-up-stackbit-integration-removal-2m11)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4c7j)
-- [Integrating the Passport with the Forem Ecosystem](https://dev.to/devteam/integrating-the-passport-with-the-forem-ecosystem-42ea)
-- [Forem’s Approach to Decentralized Authentication and Authorization](https://dev.to/devteam/forems-approach-to-decentralized-authentication-and-authorization-49a1)
 <!-- BLOG-POST-LIST:END -->
 
 
