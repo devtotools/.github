@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [The Serendipity of Pairing with a New Developer](https://dev.to/devteam/the-serendipity-of-pairing-with-a-new-developer-gi)
 - [Congrats to our 2021 GitHub Actions Hackathon Winners!](https://dev.to/devteam/congrats-to-our-2021-github-actions-hackathon-winners-1fhk)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-31ag)
 - [An Intricate Job Recruitment Scam, a Law Against Some AI-Powered Recruitment Software, &amp; more on DevNews!](https://dev.to/devteam/an-intricate-job-recruitment-scam-a-law-against-some-ai-powered-recruitment-software-more-on-devnews-5b0m)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [MongoDB Atlas Hackathon Help Thread](https://dev.to/devteam/mongodb-atlas-hackathon-help-thread-3g3a)
 - [Share your MongoDB Atlas Hackathon Updates!](https://dev.to/devteam/share-your-mongodb-atlas-hackathon-updates-5g4k)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-fhe)
-- [TikTok’s Algorithm, Timnit Gebru’s New Research Institution, &amp; more on DevNews!](https://dev.to/devteam/tiktoks-algorithm-timnit-gebrus-new-research-institution-and-more-more-on-devnews-3447)
 <!-- BLOG-POST-LIST:END -->
 
 
