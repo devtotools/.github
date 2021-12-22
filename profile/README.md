@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Listen to the S7E7 of DevDiscuss: &quot;We Have Tools To Help You With Your Imposter Syndrome&quot;](https://dev.to/devteam/listen-to-the-s7e7-of-devdiscuss-we-have-tools-to-help-you-with-your-imposter-syndrome-32j0)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4aah)
 - [The Serendipity of Pairing with a New Developer](https://dev.to/devteam/the-serendipity-of-pairing-with-a-new-developer-gi)
 - [Congrats to our 2021 GitHub Actions Hackathon Winners!](https://dev.to/devteam/congrats-to-our-2021-github-actions-hackathon-winners-1fhk)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1lpg)
 - [Announcing the MongoDB Atlas Hackathon on DEV!](https://dev.to/devteam/announcing-the-mongodb-atlas-hackathon-on-dev-4b6m)
 - [MongoDB Atlas Hackathon Help Thread](https://dev.to/devteam/mongodb-atlas-hackathon-help-thread-3g3a)
-- [Share your MongoDB Atlas Hackathon Updates!](https://dev.to/devteam/share-your-mongodb-atlas-hackathon-updates-5g4k)
 <!-- BLOG-POST-LIST:END -->
 
 
