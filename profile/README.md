@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this YEAR?](https://dev.to/devteam/what-was-your-win-this-year-453j)
 - [Listen to the Season 7 Finale of DevDiscuss!](https://dev.to/devteam/listen-to-the-season-7-finale-of-devdiscuss-461d)
 - [Listen to the DevNews Season 6 Finale!](https://dev.to/devteam/listen-to-the-devnews-season-6-finale-1fm1)
 - [Listen to the S7E7 of DevDiscuss: &quot;We Have Tools To Help You With Your Imposter Syndrome&quot;](https://dev.to/devteam/listen-to-the-s7e7-of-devdiscuss-we-have-tools-to-help-you-with-your-imposter-syndrome-32j0)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-31ag)
 - [An Intricate Job Recruitment Scam, a Law Against Some AI-Powered Recruitment Software, &amp; more on DevNews!](https://dev.to/devteam/an-intricate-job-recruitment-scam-a-law-against-some-ai-powered-recruitment-software-more-on-devnews-5b0m)
 - [Listen to the S7E6 of DevDiscuss: &quot;What a Quantitative Trader Can Teach You About A/B Testing&quot;](https://dev.to/devteam/listen-to-the-s7e6-of-devdiscuss-what-a-quantitative-trader-can-teach-you-about-ab-testing-43e8)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1lpg)
 <!-- BLOG-POST-LIST:END -->
 
 
