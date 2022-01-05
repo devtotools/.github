@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1ee8)
+- [The CodeNewbie Challenge Is Returning for 2022 with Exciting New Updates](https://dev.to/devteam/the-codenewbie-challenge-is-returning-for-2022-with-exciting-new-updates-2b32)
 - [Forem Feed Experiment One: January Results](https://dev.to/devteam/forem-feed-experiment-one-january-results-3oof)
 - [Reminder — Join Us for the MongoDB Atlas Hackathon ⏰](https://dev.to/devteam/reminder-join-us-for-the-mongodb-atlas-hackathon-k0m)
 - [What was your win this YEAR?](https://dev.to/devteam/what-was-your-win-this-year-453j)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Listen to the S7E7 of DevDiscuss: &quot;We Have Tools To Help You With Your Imposter Syndrome&quot;](https://dev.to/devteam/listen-to-the-s7e7-of-devdiscuss-we-have-tools-to-help-you-with-your-imposter-syndrome-32j0)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4aah)
 - [The Serendipity of Pairing with a New Developer](https://dev.to/devteam/the-serendipity-of-pairing-with-a-new-developer-gi)
-- [Congrats to our 2021 GitHub Actions Hackathon Winners!](https://dev.to/devteam/congrats-to-our-2021-github-actions-hackathon-winners-1fhk)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-31ag)
 <!-- BLOG-POST-LIST:END -->
 
 
