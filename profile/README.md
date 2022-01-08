@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [It&#39;s the Final Stretch of the MongoDB Atlas Hackathon — and We&#39;ve Doubled the Participant Shop Prize 🎉](https://dev.to/devteam/its-the-final-stretch-of-the-mongodb-atlas-hackathon-and-weve-doubled-the-participant-prize-p3b)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-50km)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1ee8)
 - [The CodeNewbie Challenge Is Returning for 2022 with Exciting New Updates](https://dev.to/devteam/the-codenewbie-challenge-is-returning-for-2022-with-exciting-new-updates-2b32)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Listen to the Season 7 Finale of DevDiscuss!](https://dev.to/devteam/listen-to-the-season-7-finale-of-devdiscuss-461d)
 - [Listen to the DevNews Season 6 Finale!](https://dev.to/devteam/listen-to-the-devnews-season-6-finale-1fm1)
 - [Listen to the S7E7 of DevDiscuss: &quot;We Have Tools To Help You With Your Imposter Syndrome&quot;](https://dev.to/devteam/listen-to-the-s7e7-of-devdiscuss-we-have-tools-to-help-you-with-your-imposter-syndrome-32j0)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4aah)
 <!-- BLOG-POST-LIST:END -->
 
 
