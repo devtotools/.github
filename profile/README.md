@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2b5k)
 - [Listen to the DevNews Podcast Season 7 Premiere 🎤](https://dev.to/devteam/listen-to-the-devnews-podcast-season-7-premiere-l91)
 - [Emacs Packages to Get Stuff Done](https://dev.to/devteam/emacs-packages-to-get-stuff-done-23b4)
 - [Resolving an Unable to Resolve Link Error for Org Mode in Emacs](https://dev.to/devteam/resolving-an-unable-to-resolve-link-error-for-org-mode-in-emacs-2n1f)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1ee8)
 - [The CodeNewbie Challenge Is Returning for 2022 with Exciting New Updates](https://dev.to/devteam/the-codenewbie-challenge-is-returning-for-2022-with-exciting-new-updates-2b32)
 - [Forem Feed Experiment One: January Results](https://dev.to/devteam/forem-feed-experiment-one-january-results-3oof)
-- [Reminder — Join Us for the MongoDB Atlas Hackathon ⏰](https://dev.to/devteam/reminder-join-us-for-the-mongodb-atlas-hackathon-k0m)
 <!-- BLOG-POST-LIST:END -->
 
 
