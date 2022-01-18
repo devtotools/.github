@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-2m73)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2b5k)
 - [Listen to the DevNews Podcast Season 7 Premiere 🎤](https://dev.to/devteam/listen-to-the-devnews-podcast-season-7-premiere-l91)
 - [Emacs Packages to Get Stuff Done](https://dev.to/devteam/emacs-packages-to-get-stuff-done-23b4)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-50km)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1ee8)
 - [The CodeNewbie Challenge Is Returning for 2022 with Exciting New Updates](https://dev.to/devteam/the-codenewbie-challenge-is-returning-for-2022-with-exciting-new-updates-2b32)
-- [Forem Feed Experiment One: January Results](https://dev.to/devteam/forem-feed-experiment-one-january-results-3oof)
 <!-- BLOG-POST-LIST:END -->
 
 
