@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Safari 15’s IndexedDB Vulnerability, An Attack of the Wordle Clones, &amp; more on DevNews](https://dev.to/devteam/safari-15s-indexeddb-vulnerability-an-attack-of-the-wordle-clones-more-on-devnews-3ljh)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-2m73)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2b5k)
 - [Listen to the DevNews Podcast Season 7 Premiere 🎤](https://dev.to/devteam/listen-to-the-devnews-podcast-season-7-premiere-l91)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [It&#39;s the Final Stretch of the MongoDB Atlas Hackathon — and We&#39;ve Doubled the Participant Shop Prize 🎉](https://dev.to/devteam/its-the-final-stretch-of-the-mongodb-atlas-hackathon-and-weve-doubled-the-participant-prize-p3b)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-50km)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1ee8)
-- [The CodeNewbie Challenge Is Returning for 2022 with Exciting New Updates](https://dev.to/devteam/the-codenewbie-challenge-is-returning-for-2022-with-exciting-new-updates-2b32)
 <!-- BLOG-POST-LIST:END -->
 
 
