@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3ebh)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1h0b)
 - [Feature update: tag selector](https://dev.to/devteam/feature-update-tag-selector-41nf)
 - [Safari 15’s IndexedDB Vulnerability, An Attack of the Wordle Clones, &amp; more on DevNews](https://dev.to/devteam/safari-15s-indexeddb-vulnerability-an-attack-of-the-wordle-clones-more-on-devnews-3ljh)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Emacs Packages to Get Stuff Done](https://dev.to/devteam/emacs-packages-to-get-stuff-done-23b4)
 - [Resolving an Unable to Resolve Link Error for Org Mode in Emacs](https://dev.to/devteam/resolving-an-unable-to-resolve-link-error-for-org-mode-in-emacs-2n1f)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-5d39)
-- [It&#39;s the Final Stretch of the MongoDB Atlas Hackathon — and We&#39;ve Doubled the Participant Shop Prize 🎉](https://dev.to/devteam/its-the-final-stretch-of-the-mongodb-atlas-hackathon-and-weve-doubled-the-participant-prize-p3b)
 <!-- BLOG-POST-LIST:END -->
 
 
