@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Congrats to the MongoDB Atlas Hackathon Winners!](https://dev.to/devteam/congrats-to-the-mongodb-atlas-hackathon-winners-4cc0)
+- [Chatbots Could Help Mitigate Eating Disorders, Retro Slavic Adventure Games, &amp; more on DevNews 🗞](https://dev.to/devteam/chatbots-could-help-mitigate-eating-disorders-retro-slavic-adventure-games-more-on-devnews-2k8n)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3ebh)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1h0b)
 - [Feature update: tag selector](https://dev.to/devteam/feature-update-tag-selector-41nf)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2b5k)
 - [Listen to the DevNews Podcast Season 7 Premiere 🎤](https://dev.to/devteam/listen-to-the-devnews-podcast-season-7-premiere-l91)
 - [Emacs Packages to Get Stuff Done](https://dev.to/devteam/emacs-packages-to-get-stuff-done-23b4)
-- [Resolving an Unable to Resolve Link Error for Org Mode in Emacs](https://dev.to/devteam/resolving-an-unable-to-resolve-link-error-for-org-mode-in-emacs-2n1f)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-5d39)
 <!-- BLOG-POST-LIST:END -->
 
 
