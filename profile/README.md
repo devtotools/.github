@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1oih)
+- [Potential Effects of a Cyberwar Between Russia and Ukraine, a Coding Bootcamp Stands Strong In Afghanistan, &amp; more on DevNews 🗞](https://dev.to/devteam/potential-effects-of-a-cyberwar-between-russia-and-ukraine-a-coding-bootcamp-stands-strong-in-afghanistan-more-on-devnews-5dco)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-41f0)
 - [Congrats to the MongoDB Atlas Hackathon Winners!](https://dev.to/devteam/congrats-to-the-mongodb-atlas-hackathon-winners-4cc0)
 - [Chatbots Could Help Mitigate Eating Disorders, Retro Slavic Adventure Games, &amp; more on DevNews 🗞](https://dev.to/devteam/chatbots-could-help-mitigate-eating-disorders-retro-slavic-adventure-games-more-on-devnews-2k8n)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Feature update: tag selector](https://dev.to/devteam/feature-update-tag-selector-41nf)
 - [Safari 15’s IndexedDB Vulnerability, An Attack of the Wordle Clones, &amp; more on DevNews](https://dev.to/devteam/safari-15s-indexeddb-vulnerability-an-attack-of-the-wordle-clones-more-on-devnews-3ljh)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-2m73)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2b5k)
-- [Listen to the DevNews Podcast Season 7 Premiere 🎤](https://dev.to/devteam/listen-to-the-devnews-podcast-season-7-premiere-l91)
 <!-- BLOG-POST-LIST:END -->
 
 
