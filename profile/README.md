@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [DevDiscuss is BACK for Season 8!](https://dev.to/devteam/devdiscuss-is-back-for-season-8-4knb)
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-h6h)
 - [Announcing the Microsoft Azure Trial Hackathon on DEV!](https://dev.to/devteam/hack-the-microsoft-azure-trial-on-dev-2ne5)
 - [Community Discussion Thread — Microsoft Azure Trial Hackathon](https://dev.to/devteam/community-discussion-thread-microsoft-azure-trial-hackathon-5c75)
 - [Microsoft Azure Trial Hackathon Help Thread](https://dev.to/devteam/microsoft-azure-trial-hackathon-help-thread-1ljg)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-41f0)
 - [Congrats to the MongoDB Atlas Hackathon Winners!](https://dev.to/devteam/congrats-to-the-mongodb-atlas-hackathon-winners-4cc0)
 - [Chatbots Could Help Mitigate Eating Disorders, Retro Slavic Adventure Games, &amp; more on DevNews 🗞](https://dev.to/devteam/chatbots-could-help-mitigate-eating-disorders-retro-slavic-adventure-games-more-on-devnews-2k8n)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3ebh)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1h0b)
 <!-- BLOG-POST-LIST:END -->
 
 
