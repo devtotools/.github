@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [A German Court Rules Against Google Fonts, DeepMind’s AI Coding Engine, Raspberry Pi’s 64-bit OS, &amp; more on DevNews 🗞](https://dev.to/devteam/a-german-court-rules-against-google-fonts-deepminds-ai-coding-engine-raspberry-pis-64-bit-os-more-on-devnews-4i5n)
 - [DevDiscuss is BACK for Season 8!](https://dev.to/devteam/devdiscuss-is-back-for-season-8-4knb)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-h6h)
 - [Announcing the Microsoft Azure Trial Hackathon on DEV!](https://dev.to/devteam/hack-the-microsoft-azure-trial-on-dev-2ne5)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Potential Effects of a Cyberwar Between Russia and Ukraine, a Coding Bootcamp Stands Strong In Afghanistan, &amp; more on DevNews 🗞](https://dev.to/devteam/potential-effects-of-a-cyberwar-between-russia-and-ukraine-a-coding-bootcamp-stands-strong-in-afghanistan-more-on-devnews-5dco)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-41f0)
 - [Congrats to the MongoDB Atlas Hackathon Winners!](https://dev.to/devteam/congrats-to-the-mongodb-atlas-hackathon-winners-4cc0)
-- [Chatbots Could Help Mitigate Eating Disorders, Retro Slavic Adventure Games, &amp; more on DevNews 🗞](https://dev.to/devteam/chatbots-could-help-mitigate-eating-disorders-retro-slavic-adventure-games-more-on-devnews-2k8n)
 <!-- BLOG-POST-LIST:END -->
 
 
