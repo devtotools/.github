@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Listen to the S8E2 of DevDiscuss: &quot;You Too Can Create Beautiful Data-Driven Essays Like The Pudding&quot;](https://dev.to/devteam/listen-to-the-s8e2-of-devdiscuss-you-too-can-create-beautiful-data-driven-essays-like-the-pudding-546j)
+- [Feature update: Rich Content Embeds](https://dev.to/devteam/feature-update-rich-content-embeds-390e)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1oaj)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5c2m)
 - [A German Court Rules Against Google Fonts, DeepMind’s AI Coding Engine, Raspberry Pi’s 64-bit OS, &amp; more on DevNews 🗞](https://dev.to/devteam/a-german-court-rules-against-google-fonts-deepminds-ai-coding-engine-raspberry-pis-64-bit-os-more-on-devnews-4i5n)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Announcing the Microsoft Azure Trial Hackathon on DEV!](https://dev.to/devteam/hack-the-microsoft-azure-trial-on-dev-2ne5)
 - [Community Discussion Thread — Microsoft Azure Trial Hackathon](https://dev.to/devteam/community-discussion-thread-microsoft-azure-trial-hackathon-5c75)
 - [Microsoft Azure Trial Hackathon Help Thread](https://dev.to/devteam/microsoft-azure-trial-hackathon-help-thread-1ljg)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1oih)
-- [Potential Effects of a Cyberwar Between Russia and Ukraine, a Coding Bootcamp Stands Strong In Afghanistan, &amp; more on DevNews 🗞](https://dev.to/devteam/potential-effects-of-a-cyberwar-between-russia-and-ukraine-a-coding-bootcamp-stands-strong-in-afghanistan-more-on-devnews-5dco)
 <!-- BLOG-POST-LIST:END -->
 
 
