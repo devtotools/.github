@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Listen to the S8E3 of DevDiscuss: &quot;The Importance of Video Game Archival, Preservation, and Curation&quot;](https://dev.to/devteam/listen-to-the-s8e3-of-devdiscuss-the-importance-of-video-game-archival-preservation-and-curation-1dce)
+- [Reminder: Join the Microsoft Azure Trial Hackathon to Win Prizes &lpar;and Community Bragging Rights&rpar;](https://dev.to/devteam/reminder-join-the-microsoft-azure-trial-hackathon-to-win-prizes-and-community-bragging-rights-eab)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1452)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4bb2)
 - [The Growth of Online Romance Scams, Facebook’s Content Moderation &#39;Sweatshop,’ &amp; more on DevNews 🗞](https://dev.to/devteam/the-growth-of-online-romance-scams-facebooks-content-moderation-sweatshop-more-on-devnews-5bc9)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1oaj)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5c2m)
 - [A German Court Rules Against Google Fonts, DeepMind’s AI Coding Engine, Raspberry Pi’s 64-bit OS, &amp; more on DevNews 🗞](https://dev.to/devteam/a-german-court-rules-against-google-fonts-deepminds-ai-coding-engine-raspberry-pis-64-bit-os-more-on-devnews-4i5n)
-- [DevDiscuss is BACK for Season 8!](https://dev.to/devteam/devdiscuss-is-back-for-season-8-4knb)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-h6h)
 <!-- BLOG-POST-LIST:END -->
 
 
