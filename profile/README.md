@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-90d)
+- [Important Bionic Eye Tech Becoming Obsolete, Tech Recruitment Challenges, &amp; more on DevNews 🗞](https://dev.to/devteam/important-bionic-eye-tech-becoming-obsolete-tech-recruitment-challenges-more-on-devnews-4b9d)
 - [Listen to the S8E3 of DevDiscuss: &quot;The Importance of Video Game Archival, Preservation, and Curation&quot;](https://dev.to/devteam/listen-to-the-s8e3-of-devdiscuss-the-importance-of-video-game-archival-preservation-and-curation-1dce)
 - [Reminder: Join the Microsoft Azure Trial Hackathon to Win Prizes &lpar;and Community Bragging Rights&rpar;](https://dev.to/devteam/reminder-join-the-microsoft-azure-trial-hackathon-to-win-prizes-and-community-bragging-rights-eab)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1452)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Listen to the S8E2 of DevDiscuss: &quot;You Too Can Create Beautiful Data-Driven Essays Like The Pudding&quot;](https://dev.to/devteam/listen-to-the-s8e2-of-devdiscuss-you-too-can-create-beautiful-data-driven-essays-like-the-pudding-546j)
 - [Feature update: Rich Content Embeds](https://dev.to/devteam/feature-update-rich-content-embeds-390e)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1oaj)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5c2m)
-- [A German Court Rules Against Google Fonts, DeepMind’s AI Coding Engine, Raspberry Pi’s 64-bit OS, &amp; more on DevNews 🗞](https://dev.to/devteam/a-german-court-rules-against-google-fonts-deepminds-ai-coding-engine-raspberry-pis-64-bit-os-more-on-devnews-4i5n)
 <!-- BLOG-POST-LIST:END -->
 
 
