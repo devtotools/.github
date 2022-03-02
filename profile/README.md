@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-178o)
 - [Share Your 2022 #SheCoded Story to Donate $20 to Closing the Tech Gender Gap](https://dev.to/devteam/share-your-2022-shecoded-story-to-donate-20-to-closing-the-tech-gender-gap-2hid)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-90d)
 - [Important Bionic Eye Tech Becoming Obsolete, Tech Recruitment Challenges, &amp; more on DevNews 🗞](https://dev.to/devteam/important-bionic-eye-tech-becoming-obsolete-tech-recruitment-challenges-more-on-devnews-4b9d)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4bb2)
 - [The Growth of Online Romance Scams, Facebook’s Content Moderation &#39;Sweatshop,’ &amp; more on DevNews 🗞](https://dev.to/devteam/the-growth-of-online-romance-scams-facebooks-content-moderation-sweatshop-more-on-devnews-5bc9)
 - [Listen to the S8E2 of DevDiscuss: &quot;You Too Can Create Beautiful Data-Driven Essays Like The Pudding&quot;](https://dev.to/devteam/listen-to-the-s8e2-of-devdiscuss-you-too-can-create-beautiful-data-driven-essays-like-the-pudding-546j)
-- [Feature update: Rich Content Embeds](https://dev.to/devteam/feature-update-rich-content-embeds-390e)
 <!-- BLOG-POST-LIST:END -->
 
 
