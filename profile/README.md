@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Final Weekend of the Microsoft Azure Trial Hackathon!](https://dev.to/devteam/final-weekend-of-the-microsoft-azure-trial-hackathon-1a0k)
 - [Tune into the Season 7 Finale of DevNews!](https://dev.to/devteam/tune-into-the-season-7-finale-of-devnews-41kn)
 - [Listen to the S8E4 of DevDiscuss: &quot;How You Can Be Successful Breaking Into Tech Mid-Career&quot;](https://dev.to/devteam/listen-to-the-s8e4-of-devdiscuss-how-you-can-be-successful-breaking-into-tech-mid-career-3ia)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-178o)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Listen to the S8E3 of DevDiscuss: &quot;The Importance of Video Game Archival, Preservation, and Curation&quot;](https://dev.to/devteam/listen-to-the-s8e3-of-devdiscuss-the-importance-of-video-game-archival-preservation-and-curation-1dce)
 - [Reminder: Join the Microsoft Azure Trial Hackathon to Win Prizes &lpar;and Community Bragging Rights&rpar;](https://dev.to/devteam/reminder-join-the-microsoft-azure-trial-hackathon-to-win-prizes-and-community-bragging-rights-eab)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1452)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4bb2)
 <!-- BLOG-POST-LIST:END -->
 
 
