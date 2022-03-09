@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts from the Past Week: #SheCoded Edition](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-shecoded-edition-3j9d)
 - [Happy International Women&#39;s Day! Browse the 2022 #SheCoded Collection and Contribute Your Own Story.](https://dev.to/devteam/happy-international-womens-day-browse-the-2022-shecoded-collection-and-contribute-your-own-story-lno)
 - [How Forem is Supporting the People of Ukraine](https://dev.to/devteam/why-forem-is-donating-to-ukraine-support-eom)
 - [Introducing the Forem Shop! New Merch, Giveaways, and More.](https://dev.to/devteam/introducing-the-forem-shop-new-merch-giveaways-and-more-4kff)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-178o)
 - [Share Your 2022 #SheCoded Story to Donate $20 to Closing the Tech Gender Gap](https://dev.to/devteam/share-your-2022-shecoded-story-to-donate-20-to-closing-the-tech-gender-gap-2hid)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-90d)
-- [Important Bionic Eye Tech Becoming Obsolete, Tech Recruitment Challenges, &amp; more on DevNews 🗞](https://dev.to/devteam/important-bionic-eye-tech-becoming-obsolete-tech-recruitment-challenges-more-on-devnews-4b9d)
 <!-- BLOG-POST-LIST:END -->
 
 
