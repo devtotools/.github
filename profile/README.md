@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2oc0)
 - [Join us for a new kind of hackathon on DEV — brought to you by Deepgram!](https://dev.to/devteam/join-us-for-a-new-kind-of-hackathon-on-dev-brought-to-you-by-deepgram-2bjd)
 - [Community Discussion Thread — Deepgram Hackathon on DEV](https://dev.to/devteam/community-discussion-thread-deepgram-hackathon-on-dev-21pp)
 - [Deepgram x DEV Hackathon Help Thread](https://dev.to/devteam/deepgram-x-dev-hackathon-help-thread-47h9)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [How Forem is Supporting the People of Ukraine](https://dev.to/devteam/why-forem-is-donating-to-ukraine-support-eom)
 - [Introducing the Forem Shop! New Merch, Giveaways, and More.](https://dev.to/devteam/introducing-the-forem-shop-new-merch-giveaways-and-more-4kff)
 - [Final Weekend of the Microsoft Azure Trial Hackathon!](https://dev.to/devteam/final-weekend-of-the-microsoft-azure-trial-hackathon-1a0k)
-- [Tune into the Season 7 Finale of DevNews!](https://dev.to/devteam/tune-into-the-season-7-finale-of-devnews-41kn)
 <!-- BLOG-POST-LIST:END -->
 
 
