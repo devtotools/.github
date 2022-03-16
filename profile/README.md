@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [If you’re interested in WebAssembly, and don’t get enough depth here on DEV, read this…](https://dev.to/devteam/if-youre-interested-in-webassembly-and-dont-get-enough-depth-here-on-dev-read-this-pfl)
+- [#SheCoded Raised $2,000 for Girls Who Code!](https://dev.to/devteam/shecoded-raised-2000-for-girls-who-code-338o)
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-5538)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2oc0)
 - [Join us for a new kind of hackathon on DEV — brought to you by Deepgram!](https://dev.to/devteam/join-us-for-a-new-kind-of-hackathon-on-dev-brought-to-you-by-deepgram-2bjd)
 - [Community Discussion Thread — Deepgram Hackathon on DEV](https://dev.to/devteam/community-discussion-thread-deepgram-hackathon-on-dev-21pp)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Listen to the S8E5 of DevDiscuss: &quot;How to Manage Engineering Management&quot;](https://dev.to/devteam/listen-to-the-s8e5-of-devdiscuss-how-to-manage-engineering-management-5jb)
 - [Top 7 Featured DEV Posts from the Past Week: #SheCoded Edition](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-shecoded-edition-3j9d)
 - [Happy International Women&#39;s Day! Browse the 2022 #SheCoded Collection and Contribute Your Own Story.](https://dev.to/devteam/happy-international-womens-day-browse-the-2022-shecoded-collection-and-contribute-your-own-story-lno)
-- [How Forem is Supporting the People of Ukraine](https://dev.to/devteam/why-forem-is-donating-to-ukraine-support-eom)
-- [Introducing the Forem Shop! New Merch, Giveaways, and More.](https://dev.to/devteam/introducing-the-forem-shop-new-merch-giveaways-and-more-4kff)
-- [Final Weekend of the Microsoft Azure Trial Hackathon!](https://dev.to/devteam/final-weekend-of-the-microsoft-azure-trial-hackathon-1a0k)
 <!-- BLOG-POST-LIST:END -->
 
 
