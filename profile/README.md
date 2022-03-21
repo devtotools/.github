@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Regarding Documentation: A Letter to My Earlier Selfs](https://dev.to/devteam/regarding-documentation-a-letter-to-my-earlier-selfs-3jd4)
 - [The Why and How of Yardoc](https://dev.to/devteam/the-why-and-how-of-yardoc-479p)
 - [Listen to the S8E6 of DevDiscuss: &quot;How Physical Pen-Testing Will Expand Your Developer Mind&quot;](https://dev.to/devteam/listen-to-the-s8e6-of-devdiscuss-hhow-physical-pen-testing-will-expand-your-developer-mind-20ff)
 - [If you’re interested in WebAssembly, and don’t get enough depth here on DEV, read this…](https://dev.to/devteam/if-youre-interested-in-webassembly-and-dont-get-enough-depth-here-on-dev-read-this-pfl)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Join us for a new kind of hackathon on DEV — brought to you by Deepgram!](https://dev.to/devteam/join-us-for-a-new-kind-of-hackathon-on-dev-brought-to-you-by-deepgram-2bjd)
 - [Community Discussion Thread — Deepgram Hackathon on DEV](https://dev.to/devteam/community-discussion-thread-deepgram-hackathon-on-dev-21pp)
 - [Deepgram x DEV Hackathon Help Thread](https://dev.to/devteam/deepgram-x-dev-hackathon-help-thread-47h9)
-- [Listen to the S8E5 of DevDiscuss: &quot;How to Manage Engineering Management&quot;](https://dev.to/devteam/listen-to-the-s8e5-of-devdiscuss-how-to-manage-engineering-management-5jb)
 <!-- BLOG-POST-LIST:END -->
 
 
