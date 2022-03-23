@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Interested in learning more about Commercial Open Source? There’s a Forem for that.](https://dev.to/devteam/interested-in-learning-more-about-commercial-open-source-theres-a-forem-for-that-500d)
+- [Microsoft Azure Trial Hackathon Winners, Announced!](https://dev.to/devteam/microsoft-azure-trial-hackathon-winners-announced-1kkm)
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1a34)
 - [Regarding Documentation: A Letter to My Earlier Selfs](https://dev.to/devteam/regarding-documentation-a-letter-to-my-earlier-selfs-3jd4)
 - [The Why and How of Yardoc](https://dev.to/devteam/the-why-and-how-of-yardoc-479p)
 - [Listen to the S8E6 of DevDiscuss: &quot;How Physical Pen-Testing Will Expand Your Developer Mind&quot;](https://dev.to/devteam/listen-to-the-s8e6-of-devdiscuss-hhow-physical-pen-testing-will-expand-your-developer-mind-20ff)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [#SheCoded Raised $2,000 for Girls Who Code!](https://dev.to/devteam/shecoded-raised-2000-for-girls-who-code-338o)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-5538)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2oc0)
-- [Join us for a new kind of hackathon on DEV — brought to you by Deepgram!](https://dev.to/devteam/join-us-for-a-new-kind-of-hackathon-on-dev-brought-to-you-by-deepgram-2bjd)
-- [Community Discussion Thread — Deepgram Hackathon on DEV](https://dev.to/devteam/community-discussion-thread-deepgram-hackathon-on-dev-21pp)
-- [Deepgram x DEV Hackathon Help Thread](https://dev.to/devteam/deepgram-x-dev-hackathon-help-thread-47h9)
 <!-- BLOG-POST-LIST:END -->
 
 
