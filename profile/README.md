@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Forem for Android is Here! 🤖](https://dev.to/devteam/forem-for-android-is-here-38ik)
+- [Listen to the S8E7 of DevDiscuss: &quot;All Hail jQuery &lpar;Or Not&rpar;&quot;](https://dev.to/devteam/listen-to-the-s8e7-of-devdiscuss-all-hail-jquery-or-not-155a)
 - [Interested in learning more about Commercial Open Source? There’s a Forem for that.](https://dev.to/devteam/interested-in-learning-more-about-commercial-open-source-theres-a-forem-for-that-500d)
 - [Microsoft Azure Trial Hackathon Winners, Announced!](https://dev.to/devteam/microsoft-azure-trial-hackathon-winners-announced-1kkm)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1a34)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Listen to the S8E6 of DevDiscuss: &quot;How Physical Pen-Testing Will Expand Your Developer Mind&quot;](https://dev.to/devteam/listen-to-the-s8e6-of-devdiscuss-hhow-physical-pen-testing-will-expand-your-developer-mind-20ff)
 - [If you’re interested in WebAssembly, and don’t get enough depth here on DEV, read this…](https://dev.to/devteam/if-youre-interested-in-webassembly-and-dont-get-enough-depth-here-on-dev-read-this-pfl)
 - [#SheCoded Raised $2,000 for Girls Who Code!](https://dev.to/devteam/shecoded-raised-2000-for-girls-who-code-338o)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-5538)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2oc0)
 <!-- BLOG-POST-LIST:END -->
 
 
