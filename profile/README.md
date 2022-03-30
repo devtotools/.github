@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Curious about content-driven micropayments? You may want to join the Web Monetization Community](https://dev.to/devteam/curious-about-content-driven-micropayments-you-may-want-to-join-the-web-monetization-community-4lk6)
+- [Listen to the season 8 finale of DevDiscuss!](https://dev.to/devteam/listen-to-the-season-8-finale-of-devdiscuss-25db)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3bd2)
 - [The 2022 CodeLand CFP Closes on March 29 @ 11:59 PM UTC ⏰](https://dev.to/devteam/the-2022-codeland-cfp-closes-on-march-29-1159-pm-utc-4ikd)
 - [Using a File as a Template in Emacs](https://dev.to/devteam/using-a-file-as-a-template-in-emacs-gkn)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Deepgram Hackathon Reminder ⏰](https://dev.to/devteam/deepgram-hackathon-reminder-2ig0)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-3e0k)
 - [Forem for Android is Here! 🤖](https://dev.to/devteam/forem-for-android-is-here-38ik)
-- [Listen to the S8E7 of DevDiscuss: &quot;All Hail jQuery &lpar;Or Not&rpar;&quot;](https://dev.to/devteam/listen-to-the-s8e7-of-devdiscuss-all-hail-jquery-or-not-155a)
-- [Interested in learning more about Commercial Open Source? There’s a Forem for that.](https://dev.to/devteam/interested-in-learning-more-about-commercial-open-source-theres-a-forem-for-that-500d)
 <!-- BLOG-POST-LIST:END -->
 
 
