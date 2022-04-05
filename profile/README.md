@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-150c)
 - [Application Exception Handling in Rails](https://dev.to/devteam/application-exception-handling-in-rails-1pbh)
 - [Carrier Wave and How to Test Uploading a New Image to a ActiveRecord::Base Model](https://dev.to/devteam/carrier-wave-and-how-to-test-uploading-a-new-image-to-a-activerecordbase-model-foj)
 - [Curious about content-driven micropayments? You may want to join the Web Monetization Community](https://dev.to/devteam/curious-about-content-driven-micropayments-you-may-want-to-join-the-web-monetization-community-4lk6)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [The 2022 CodeLand CFP Closes on March 29 @ 11:59 PM UTC ⏰](https://dev.to/devteam/the-2022-codeland-cfp-closes-on-march-29-1159-pm-utc-4ikd)
 - [Using a File as a Template in Emacs](https://dev.to/devteam/using-a-file-as-a-template-in-emacs-gkn)
 - [Break the Code 2 x DEV Chat](https://dev.to/devteam/break-the-code-2-x-dev-chat-5739)
-- [Do You Have What it Takes to Break The Code?](https://dev.to/devteam/do-you-have-what-it-takes-to-break-the-code-2246)
 <!-- BLOG-POST-LIST:END -->
 
 
