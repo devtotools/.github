@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web3 Enthusiasts Have a Home: MetaPunk](https://dev.to/devteam/web3-enthusiasts-have-a-home-metapunk-3d60)
+- [Lesser Known Features of DEV — Ignoring a Tag via Negative Follow Weights](https://dev.to/devteam/lesser-known-features-of-dev-ignoring-a-tag-via-negative-follow-weights-6cd)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-150c)
 - [Application Exception Handling in Rails](https://dev.to/devteam/application-exception-handling-in-rails-1pbh)
 - [Carrier Wave and How to Test Uploading a New Image to a ActiveRecord::Base Model](https://dev.to/devteam/carrier-wave-and-how-to-test-uploading-a-new-image-to-a-activerecordbase-model-foj)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3bd2)
 - [The Three Caches of Forem](https://dev.to/devteam/the-three-caches-of-forem-492p)
 - [The 2022 CodeLand CFP Closes on March 29 @ 11:59 PM UTC ⏰](https://dev.to/devteam/the-2022-codeland-cfp-closes-on-march-29-1159-pm-utc-4ikd)
-- [Using a File as a Template in Emacs](https://dev.to/devteam/using-a-file-as-a-template-in-emacs-gkn)
-- [Break the Code 2 x DEV Chat](https://dev.to/devteam/break-the-code-2-x-dev-chat-5739)
 <!-- BLOG-POST-LIST:END -->
 
 
