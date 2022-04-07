@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [How do you orient to a &quot;new to you&quot; code base?](https://dev.to/devteam/how-do-you-orient-to-a-new-to-you-code-base-178k)
 - [Web3 Enthusiasts Have a Home: MetaPunk](https://dev.to/devteam/web3-enthusiasts-have-a-home-metapunk-3d60)
 - [Lesser Known Features of DEV — Ignoring a Tag via Negative Follow Weights](https://dev.to/devteam/lesser-known-features-of-dev-ignoring-a-tag-via-negative-follow-weights-6cd)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-150c)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Listen to the season 8 finale of DevDiscuss!](https://dev.to/devteam/listen-to-the-season-8-finale-of-devdiscuss-25db)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3bd2)
 - [The Three Caches of Forem](https://dev.to/devteam/the-three-caches-of-forem-492p)
-- [The 2022 CodeLand CFP Closes on March 29 @ 11:59 PM UTC ⏰](https://dev.to/devteam/the-2022-codeland-cfp-closes-on-march-29-1159-pm-utc-4ikd)
 <!-- BLOG-POST-LIST:END -->
 
 
