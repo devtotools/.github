@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s Something You Want to Learn How to Do in Your Code Editor?](https://dev.to/devteam/whats-something-you-want-to-learn-how-to-do-in-your-code-editor-1egl)
 - [These Are the [Feed] Levers I Know I Know](https://dev.to/devteam/these-are-the-feed-levers-i-know-i-know-3jj7)
 - [The Deepgram x DEV Hackathon ends soon! Don&#39;t miss your chance to join the fun ⏰](https://dev.to/devteam/the-deepgram-x-dev-hackathon-ends-soon-dont-miss-your-chance-to-join-the-fun-228n)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-59da)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-150c)
 - [Application Exception Handling in Rails](https://dev.to/devteam/application-exception-handling-in-rails-1pbh)
 - [Carrier Wave and How to Test Uploading a New Image to a ActiveRecord::Base Model](https://dev.to/devteam/carrier-wave-and-how-to-test-uploading-a-new-image-to-a-activerecordbase-model-foj)
-- [Curious about content-driven micropayments? You may want to join the Web Monetization Community](https://dev.to/devteam/curious-about-content-driven-micropayments-you-may-want-to-join-the-web-monetization-community-4lk6)
 <!-- BLOG-POST-LIST:END -->
 
 
