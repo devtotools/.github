@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Interested in the social impact you can have as a developer? Read this post.](https://dev.to/devteam/interested-in-the-social-impact-you-can-have-as-a-developer-read-this-post-31lh)
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-2e6k)
 - [Announcing the Appwrite Hackathon on DEV!](https://dev.to/devteam/announcing-the-appwrite-hackathon-on-dev-1oc0)
 - [Appwrite x DEV Hackathon Help Thread](https://dev.to/devteam/appwrite-x-dev-hackathon-help-thread-4jfj)
 - [Community Discussion Thread — Appwrite x DEV Hackathon](https://dev.to/devteam/community-discussion-thread-appwrite-x-dev-hackathon-13aj)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [The Deepgram x DEV Hackathon ends soon! Don&#39;t miss your chance to join the fun ⏰](https://dev.to/devteam/the-deepgram-x-dev-hackathon-ends-soon-dont-miss-your-chance-to-join-the-fun-228n)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-59da)
 - [How do you orient to a &quot;new to you&quot; code base?](https://dev.to/devteam/how-do-you-orient-to-a-new-to-you-code-base-178k)
-- [Web3 Enthusiasts Have a Home: MetaPunk](https://dev.to/devteam/web3-enthusiasts-have-a-home-metapunk-3d60)
-- [Lesser Known Features of DEV — Ignoring a Tag via Negative Follow Weights](https://dev.to/devteam/lesser-known-features-of-dev-ignoring-a-tag-via-negative-follow-weights-6cd)
 <!-- BLOG-POST-LIST:END -->
 
 
