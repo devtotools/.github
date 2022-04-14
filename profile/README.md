@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [The DevNews Podcast Season 8 Premiere is Here 🔊](https://dev.to/devteam/the-devnews-podcast-season-8-premiere-is-here-4c6m)
+- [What&#39;s a fun group activity that we could do during CodeLand 2022?](https://dev.to/devteam/whats-a-fun-group-activity-that-we-could-do-during-codeland-2022-1dh9)
 - [Interested in the social impact you can have as a developer? Read this post.](https://dev.to/devteam/interested-in-the-social-impact-you-can-have-as-a-developer-read-this-post-31lh)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-2e6k)
 - [Announcing the Appwrite Hackathon on DEV!](https://dev.to/devteam/announcing-the-appwrite-hackathon-on-dev-1oc0)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What&#39;s Something You Want to Learn How to Do in Your Code Editor?](https://dev.to/devteam/whats-something-you-want-to-learn-how-to-do-in-your-code-editor-1egl)
 - [These Are the [Feed] Levers I Know I Know](https://dev.to/devteam/these-are-the-feed-levers-i-know-i-know-3jj7)
 - [The Deepgram x DEV Hackathon ends soon! Don&#39;t miss your chance to join the fun ⏰](https://dev.to/devteam/the-deepgram-x-dev-hackathon-ends-soon-dont-miss-your-chance-to-join-the-fun-228n)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-59da)
-- [How do you orient to a &quot;new to you&quot; code base?](https://dev.to/devteam/how-do-you-orient-to-a-new-to-you-code-base-178k)
 <!-- BLOG-POST-LIST:END -->
 
 
