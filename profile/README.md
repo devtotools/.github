@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Discussion and Comment of the Week](https://dev.to/devteam/discussion-and-comment-of-the-week-22cl)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-18pe)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1lp6)
 - [The DevNews Podcast Season 8 Premiere is Here 🔊](https://dev.to/devteam/the-devnews-podcast-season-8-premiere-is-here-4c6m)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Announcing the Appwrite Hackathon on DEV!](https://dev.to/devteam/announcing-the-appwrite-hackathon-on-dev-1oc0)
 - [Appwrite x DEV Hackathon Help Thread](https://dev.to/devteam/appwrite-x-dev-hackathon-help-thread-4jfj)
 - [Community Discussion Thread — Appwrite x DEV Hackathon](https://dev.to/devteam/community-discussion-thread-appwrite-x-dev-hackathon-13aj)
-- [What&#39;s Something You Want to Learn How to Do in Your Code Editor?](https://dev.to/devteam/whats-something-you-want-to-learn-how-to-do-in-your-code-editor-1egl)
 <!-- BLOG-POST-LIST:END -->
 
 
