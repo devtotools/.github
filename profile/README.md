@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1g0f)
 - [Diving into Dev&#39;s Relevancy Feed Builder](https://dev.to/devteam/diving-into-devs-relevancy-feed-builder-30m6)
 - [Digging into Postgresql and DEV](https://dev.to/devteam/digging-into-postgresql-and-dev-3e43)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1blm)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-18pe)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1lp6)
 - [The DevNews Podcast Season 8 Premiere is Here 🔊](https://dev.to/devteam/the-devnews-podcast-season-8-premiere-is-here-4c6m)
-- [What&#39;s a fun group activity that we could do during CodeLand 2022?](https://dev.to/devteam/whats-a-fun-group-activity-that-we-could-do-during-codeland-2022-1dh9)
 <!-- BLOG-POST-LIST:END -->
 
 
