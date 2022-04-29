@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2ke8)
+- [Discussion and Comment of the Week - v2](https://dev.to/devteam/discussion-and-comment-of-the-week-v2-137)
+- [Working on Open Source Community Software Is My Job](https://dev.to/devteam/working-on-open-source-community-software-is-my-job-1721)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1g0f)
 - [Diving into Dev&#39;s Relevancy Feed Builder](https://dev.to/devteam/diving-into-devs-relevancy-feed-builder-30m6)
 - [Digging into Postgresql and DEV](https://dev.to/devteam/digging-into-postgresql-and-dev-3e43)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Have a Community-Powered Earth Day 🌍](https://dev.to/devteam/have-a-community-powered-earth-day-5jc)
 - [Listen to DevNews S8E2: AI Regulation In Different Cities, A GitHub Snafu, and Crypto-Miners Wreck a Town’s Power](https://dev.to/devteam/listen-to-devnews-s8e2-ai-regulation-in-different-cities-a-github-snafu-and-crypto-miners-wreck-a-towns-power-f6j)
 - [Discussion and Comment of the Week](https://dev.to/devteam/discussion-and-comment-of-the-week-22cl)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-18pe)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1lp6)
-- [The DevNews Podcast Season 8 Premiere is Here 🔊](https://dev.to/devteam/the-devnews-podcast-season-8-premiere-is-here-4c6m)
 <!-- BLOG-POST-LIST:END -->
 
 
