@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Appwrite Hackathon Reminder ⏰](https://dev.to/devteam/appwrite-hackathon-reminder-53ga)
+- [Join the Star Wars Costume Contest on DEV 🌌](https://dev.to/devteam/join-the-star-wars-costume-contest-on-dev-4642)
+- [On Sharpening Your Tools](https://dev.to/devteam/on-sharpening-your-tools-4jfk)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2ke8)
 - [Discussion and Comment of the Week - v2](https://dev.to/devteam/discussion-and-comment-of-the-week-v2-137)
 - [Working on Open Source Community Software Is My Job](https://dev.to/devteam/working-on-open-source-community-software-is-my-job-1721)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Diving into Dev&#39;s Relevancy Feed Builder](https://dev.to/devteam/diving-into-devs-relevancy-feed-builder-30m6)
 - [Digging into Postgresql and DEV](https://dev.to/devteam/digging-into-postgresql-and-dev-3e43)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1blm)
-- [Have a Community-Powered Earth Day 🌍](https://dev.to/devteam/have-a-community-powered-earth-day-5jc)
-- [Listen to DevNews S8E2: AI Regulation In Different Cities, A GitHub Snafu, and Crypto-Miners Wreck a Town’s Power](https://dev.to/devteam/listen-to-devnews-s8e2-ai-regulation-in-different-cities-a-github-snafu-and-crypto-miners-wreck-a-towns-power-f6j)
-- [Discussion and Comment of the Week](https://dev.to/devteam/discussion-and-comment-of-the-week-22cl)
 <!-- BLOG-POST-LIST:END -->
 
 
