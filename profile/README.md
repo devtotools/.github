@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [It is great to see what Wasm Builders is becoming](https://dev.to/devteam/it-is-great-to-see-what-wasm-builders-is-becoming-272j)
 - [Congrats to the Deepgram Hackathon Winners!](https://dev.to/devteam/congrats-to-the-deepgram-hackathon-winners-586i)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-55c8)
 - [Appwrite Hackathon Reminder ⏰](https://dev.to/devteam/appwrite-hackathon-reminder-53ga)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Discussion and Comment of the Week - v2](https://dev.to/devteam/discussion-and-comment-of-the-week-v2-137)
 - [Working on Open Source Community Software Is My Job](https://dev.to/devteam/working-on-open-source-community-software-is-my-job-1721)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1g0f)
-- [Diving into Dev&#39;s Relevancy Feed Builder](https://dev.to/devteam/diving-into-devs-relevancy-feed-builder-30m6)
 <!-- BLOG-POST-LIST:END -->
 
 
