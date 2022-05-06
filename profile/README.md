@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Final Weekend of the Appwrite Hackathon on DEV!](https://dev.to/devteam/final-weekend-of-the-appwrite-hackathon-on-dev-4ljd)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-31co)
+- [Listen to DevNews S8E4: A Surge In Hacks Against Russia, Privacy Concerns With Mental Health Apps, &amp; more!](https://dev.to/devteam/listen-to-devnews-s8e4-a-surge-in-hacks-against-russia-privacy-concerns-with-mental-health-apps-more-3ga)
+- [Discussion and Comment of the Week - v3](https://dev.to/devteam/discussion-and-comment-of-the-week-v3-3c68)
 - [It is great to see what Wasm Builders is becoming](https://dev.to/devteam/it-is-great-to-see-what-wasm-builders-is-becoming-272j)
 - [Congrats to the Deepgram Hackathon Winners!](https://dev.to/devteam/congrats-to-the-deepgram-hackathon-winners-586i)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-55c8)
 - [Appwrite Hackathon Reminder ⏰](https://dev.to/devteam/appwrite-hackathon-reminder-53ga)
 - [Join the Star Wars Costume Contest on DEV 🌌](https://dev.to/devteam/join-the-star-wars-costume-contest-on-dev-4642)
 - [On Sharpening Your Tools](https://dev.to/devteam/on-sharpening-your-tools-4jfk)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2ke8)
-- [Discussion and Comment of the Week - v2](https://dev.to/devteam/discussion-and-comment-of-the-week-v2-137)
-- [Working on Open Source Community Software Is My Job](https://dev.to/devteam/working-on-open-source-community-software-is-my-job-1721)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1g0f)
 <!-- BLOG-POST-LIST:END -->
 
 
