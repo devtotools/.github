@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing the Mayfield + DEV discussion series](https://dev.to/devteam/introducing-the-mayfield-dev-discussion-series-2cbo)
 - [Final Weekend of the Appwrite Hackathon on DEV!](https://dev.to/devteam/final-weekend-of-the-appwrite-hackathon-on-dev-4ljd)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-31co)
 - [Listen to DevNews S8E4: A Surge In Hacks Against Russia, Privacy Concerns With Mental Health Apps, &amp; more!](https://dev.to/devteam/listen-to-devnews-s8e4-a-surge-in-hacks-against-russia-privacy-concerns-with-mental-health-apps-more-3ga)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-55c8)
 - [Appwrite Hackathon Reminder ⏰](https://dev.to/devteam/appwrite-hackathon-reminder-53ga)
 - [Join the Star Wars Costume Contest on DEV 🌌](https://dev.to/devteam/join-the-star-wars-costume-contest-on-dev-4642)
-- [On Sharpening Your Tools](https://dev.to/devteam/on-sharpening-your-tools-4jfk)
 <!-- BLOG-POST-LIST:END -->
 
 
