@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What do you spend the most time on as a developer? ⏳](https://dev.to/devteam/what-do-you-spend-the-most-time-on-as-a-developer-8o)
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-fpb)
+- [What is your top priority as a developer in 2022?](https://dev.to/devteam/what-is-your-top-priority-as-a-developer-in-2022-dhp)
 - [Introducing the Mayfield + DEV discussion series](https://dev.to/devteam/introducing-the-mayfield-dev-discussion-series-2cbo)
 - [Final Weekend of the Appwrite Hackathon on DEV!](https://dev.to/devteam/final-weekend-of-the-appwrite-hackathon-on-dev-4ljd)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-31co)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Discussion and Comment of the Week - v3](https://dev.to/devteam/discussion-and-comment-of-the-week-v3-3c68)
 - [It is great to see what Wasm Builders is becoming](https://dev.to/devteam/it-is-great-to-see-what-wasm-builders-is-becoming-272j)
 - [Congrats to the Deepgram Hackathon Winners!](https://dev.to/devteam/congrats-to-the-deepgram-hackathon-winners-586i)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-55c8)
-- [Appwrite Hackathon Reminder ⏰](https://dev.to/devteam/appwrite-hackathon-reminder-53ga)
-- [Join the Star Wars Costume Contest on DEV 🌌](https://dev.to/devteam/join-the-star-wars-costume-contest-on-dev-4642)
 <!-- BLOG-POST-LIST:END -->
 
 
