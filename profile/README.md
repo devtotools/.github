@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What are your top three everyday pain points as a developer?](https://dev.to/devteam/what-are-your-top-three-everyday-pain-points-as-a-developer-23j2)
 - [What do you spend the most time on as a developer? ⏳](https://dev.to/devteam/what-do-you-spend-the-most-time-on-as-a-developer-8o)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-fpb)
 - [What is your top priority as a developer in 2022?](https://dev.to/devteam/what-is-your-top-priority-as-a-developer-in-2022-dhp)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Listen to DevNews S8E4: A Surge In Hacks Against Russia, Privacy Concerns With Mental Health Apps, &amp; more!](https://dev.to/devteam/listen-to-devnews-s8e4-a-surge-in-hacks-against-russia-privacy-concerns-with-mental-health-apps-more-3ga)
 - [Discussion and Comment of the Week - v3](https://dev.to/devteam/discussion-and-comment-of-the-week-v3-3c68)
 - [It is great to see what Wasm Builders is becoming](https://dev.to/devteam/it-is-great-to-see-what-wasm-builders-is-becoming-272j)
-- [Congrats to the Deepgram Hackathon Winners!](https://dev.to/devteam/congrats-to-the-deepgram-hackathon-winners-586i)
 <!-- BLOG-POST-LIST:END -->
 
 
