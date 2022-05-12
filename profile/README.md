@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Discussion and Comment of the Week - v4](https://dev.to/devteam/discussion-and-comment-of-the-week-v4-1i1o)
+- [Listen to DevNews S8E5: Big Tech Goes All-In On Passwordless Sign-In, Apple’s Gatekeeping of Web-Based AR, &amp; more!](https://dev.to/devteam/listen-to-devnews-s8e5-big-tech-goes-all-in-on-passwordless-sign-in-apples-gatekeeping-of-web-based-ar-more-2a0)
+- [Call to action for all VS Code users!](https://dev.to/devteam/call-to-action-for-all-vs-code-users-5b2l)
+- [Season 9 of DevDiscuss is here! Let&#39;s talk about design patterns...](https://dev.to/devteam/season-9-of-devdiscuss-is-here-lets-talk-about-design-patterns-16bj)
 - [What are your top three everyday pain points as a developer?](https://dev.to/devteam/what-are-your-top-three-everyday-pain-points-as-a-developer-23j2)
 - [What do you spend the most time on as a developer? ⏳](https://dev.to/devteam/what-do-you-spend-the-most-time-on-as-a-developer-8o)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-fpb)
 - [What is your top priority as a developer in 2022?](https://dev.to/devteam/what-is-your-top-priority-as-a-developer-in-2022-dhp)
 - [Introducing the Mayfield + DEV discussion series](https://dev.to/devteam/introducing-the-mayfield-dev-discussion-series-2cbo)
 - [Final Weekend of the Appwrite Hackathon on DEV!](https://dev.to/devteam/final-weekend-of-the-appwrite-hackathon-on-dev-4ljd)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-31co)
-- [Listen to DevNews S8E4: A Surge In Hacks Against Russia, Privacy Concerns With Mental Health Apps, &amp; more!](https://dev.to/devteam/listen-to-devnews-s8e4-a-surge-in-hacks-against-russia-privacy-concerns-with-mental-health-apps-more-3ga)
-- [Discussion and Comment of the Week - v3](https://dev.to/devteam/discussion-and-comment-of-the-week-v3-3c68)
-- [It is great to see what Wasm Builders is becoming](https://dev.to/devteam/it-is-great-to-see-what-wasm-builders-is-becoming-272j)
 <!-- BLOG-POST-LIST:END -->
 
 
