@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What is the most rewarding part of your job?](https://dev.to/devteam/what-is-the-most-rewarding-part-of-your-job-28jd)
+- [Based on what you know: Name the 3 best companies to work for as a developer](https://dev.to/devteam/based-on-what-you-know-name-the-3-best-companies-to-work-for-as-a-developer-52n2)
 - [Discussion and Comment of the Week - v4](https://dev.to/devteam/discussion-and-comment-of-the-week-v4-1i1o)
 - [Listen to DevNews S8E5: Big Tech Goes All-In On Passwordless Sign-In, Apple’s Gatekeeping of Web-Based AR, &amp; more!](https://dev.to/devteam/listen-to-devnews-s8e5-big-tech-goes-all-in-on-passwordless-sign-in-apples-gatekeeping-of-web-based-ar-more-2a0)
 - [Call to action for all VS Code users!](https://dev.to/devteam/call-to-action-for-all-vs-code-users-5b2l)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What do you spend the most time on as a developer? ⏳](https://dev.to/devteam/what-do-you-spend-the-most-time-on-as-a-developer-8o)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-fpb)
 - [What is your top priority as a developer in 2022?](https://dev.to/devteam/what-is-your-top-priority-as-a-developer-in-2022-dhp)
-- [Introducing the Mayfield + DEV discussion series](https://dev.to/devteam/introducing-the-mayfield-dev-discussion-series-2cbo)
-- [Final Weekend of the Appwrite Hackathon on DEV!](https://dev.to/devteam/final-weekend-of-the-appwrite-hackathon-on-dev-4ljd)
 <!-- BLOG-POST-LIST:END -->
 
 
