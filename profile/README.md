@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Benefits of Having a Call Method for Your Ruby Object](https://dev.to/devteam/benefits-of-having-a-call-method-for-your-ruby-object-30dk)
 - [What is the most rewarding part of your job?](https://dev.to/devteam/what-is-the-most-rewarding-part-of-your-job-28jd)
 - [Based on what you know: Name the 3 best companies to work for as a developer](https://dev.to/devteam/based-on-what-you-know-name-the-3-best-companies-to-work-for-as-a-developer-52n2)
 - [Discussion and Comment of the Week - v4](https://dev.to/devteam/discussion-and-comment-of-the-week-v4-1i1o)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What are your top three everyday pain points as a developer?](https://dev.to/devteam/what-are-your-top-three-everyday-pain-points-as-a-developer-23j2)
 - [What do you spend the most time on as a developer? ⏳](https://dev.to/devteam/what-do-you-spend-the-most-time-on-as-a-developer-8o)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-fpb)
-- [What is your top priority as a developer in 2022?](https://dev.to/devteam/what-is-your-top-priority-as-a-developer-in-2022-dhp)
 <!-- BLOG-POST-LIST:END -->
 
 
