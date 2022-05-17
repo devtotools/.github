@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-2p64)
+- [What’s the most annoying part of your job?](https://dev.to/devteam/whats-the-most-annoying-part-of-your-job-20fi)
 - [Benefits of Having a Call Method for Your Ruby Object](https://dev.to/devteam/benefits-of-having-a-call-method-for-your-ruby-object-30dk)
 - [What is the most rewarding part of your job?](https://dev.to/devteam/what-is-the-most-rewarding-part-of-your-job-28jd)
 - [Based on what you know: Name the 3 best companies to work for as a developer](https://dev.to/devteam/based-on-what-you-know-name-the-3-best-companies-to-work-for-as-a-developer-52n2)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Call to action for all VS Code users!](https://dev.to/devteam/call-to-action-for-all-vs-code-users-5b2l)
 - [Season 9 of DevDiscuss is here! Let&#39;s talk about design patterns...](https://dev.to/devteam/season-9-of-devdiscuss-is-here-lets-talk-about-design-patterns-16bj)
 - [What are your top three everyday pain points as a developer?](https://dev.to/devteam/what-are-your-top-three-everyday-pain-points-as-a-developer-23j2)
-- [What do you spend the most time on as a developer? ⏳](https://dev.to/devteam/what-do-you-spend-the-most-time-on-as-a-developer-8o)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-fpb)
 <!-- BLOG-POST-LIST:END -->
 
 
