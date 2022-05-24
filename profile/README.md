@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3n3k)
+- [Sunsetting the DEV.to Android App](https://dev.to/devteam/sunsetting-the-devto-android-app-nlp)
 - [What *new* technologies do you most want to learn?](https://dev.to/devteam/what-new-technologies-do-you-most-want-to-learn-34kb)
 - [Name your top 3 favorite software products that you use](https://dev.to/devteam/name-your-top-3-favorite-software-products-that-you-use-l22)
 - [Discussion and Comment of the Week - v5](https://dev.to/devteam/discussion-and-comment-of-the-week-v5-26hc)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Have you considered starting a company?](https://dev.to/devteam/have-you-considered-starting-a-company-4mgm)
 - [How the DEV {% embed %} codes were created 🎙](https://dev.to/devteam/how-the-dev-embed-codes-were-created-12aj)
 - [Show Off Your Comment Streak with Community Wellness Badges](https://dev.to/devteam/show-off-your-comment-streak-with-community-wellness-badges-k7f)
-- [What Cypress E2E testing has taught us about our code](https://dev.to/devteam/what-cypress-e2e-testing-has-taught-us-about-our-code-5aco)
-- [What developer products/tools should exist, but don&#39;t?](https://dev.to/devteam/what-developer-productstools-should-exist-but-dont-4ooe)
 <!-- BLOG-POST-LIST:END -->
 
 
