@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [When Companies Fake Diversity Initiatives 🎙](https://dev.to/devteam/when-companies-fake-diversity-initiatives-4m58)
+- [Follow Friday &lpar;27 May 2022&rpar;](https://dev.to/devteam/follow-friday-27-may-2022-27pg)
 - [This is Exciting: A New Destination for All Things DevOps](https://dev.to/devteam/this-is-exciting-a-new-destination-for-all-things-devops-1gpb)
 - [The Most Fun We&#39;ve Ever Had Coding! 🎙](https://dev.to/devteam/the-most-fun-weve-ever-had-coding-cb7)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3n3k)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Name your top 3 favorite software products that you use](https://dev.to/devteam/name-your-top-3-favorite-software-products-that-you-use-l22)
 - [Discussion and Comment of the Week - v5](https://dev.to/devteam/discussion-and-comment-of-the-week-v5-26hc)
 - [Interested in getting deeper into Web Components?](https://dev.to/devteam/interested-in-getting-deeper-into-web-components-1dom)
-- [Happy Global Accessibility Awareness Day!](https://dev.to/devteam/happy-global-accessibility-awareness-day-18i6)
-- [Have you considered starting a company?](https://dev.to/devteam/have-you-considered-starting-a-company-4mgm)
 <!-- BLOG-POST-LIST:END -->
 
 
