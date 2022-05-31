@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-10oj)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-57n2)
 - [When Companies Fake Diversity Initiatives 🎙](https://dev.to/devteam/when-companies-fake-diversity-initiatives-4m58)
 - [Follow Friday &lpar;27 May 2022&rpar;](https://dev.to/devteam/follow-friday-27-may-2022-27pg)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Sunsetting the DEV.to Android App](https://dev.to/devteam/sunsetting-the-devto-android-app-nlp)
 - [What *new* technologies do you most want to learn?](https://dev.to/devteam/what-new-technologies-do-you-most-want-to-learn-34kb)
 - [Name your top 3 favorite software products that you use](https://dev.to/devteam/name-your-top-3-favorite-software-products-that-you-use-l22)
-- [Discussion and Comment of the Week - v5](https://dev.to/devteam/discussion-and-comment-of-the-week-v5-26hc)
 <!-- BLOG-POST-LIST:END -->
 
 
