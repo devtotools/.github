@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Interested in high performance programming on the LLVM? There&#39;s a new community for you.](https://dev.to/devteam/interested-in-high-performance-programming-on-the-llvm-theres-a-new-community-for-you-4501)
+- [Celebrating Your LGBTQIA+ Pride Stories 💖](https://dev.to/devteam/celebrating-lgbtqia-pride-with-donations-to-the-marsha-p-johnson-institute-33aj)
+- [Getting Along with Your Co-workers... All of Them 🎙](https://dev.to/devteam/getting-along-with-your-co-workers-all-of-them-hlk)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-10oj)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-57n2)
 - [When Companies Fake Diversity Initiatives 🎙](https://dev.to/devteam/when-companies-fake-diversity-initiatives-4m58)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [This is Exciting: A New Destination for All Things DevOps](https://dev.to/devteam/this-is-exciting-a-new-destination-for-all-things-devops-1gpb)
 - [The Most Fun We&#39;ve Ever Had Coding! 🎙](https://dev.to/devteam/the-most-fun-weve-ever-had-coding-cb7)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3n3k)
-- [Sunsetting the DEV.to Android App](https://dev.to/devteam/sunsetting-the-devto-android-app-nlp)
-- [What *new* technologies do you most want to learn?](https://dev.to/devteam/what-new-technologies-do-you-most-want-to-learn-34kb)
-- [Name your top 3 favorite software products that you use](https://dev.to/devteam/name-your-top-3-favorite-software-products-that-you-use-l22)
 <!-- BLOG-POST-LIST:END -->
 
 
