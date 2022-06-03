@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Follow Friday: Ruby Edition &lpar;3 June 2022&rpar;](https://dev.to/devteam/follow-friday-ruby-edition-3-june-2022-1jmm)
+- [What stood out to you from the Mayfield + DEV Discussion Series?](https://dev.to/devteam/what-stood-out-to-you-from-the-mayfield-dev-discussion-series-3lim)
 - [Discussion and Comment of the Week - v6](https://dev.to/devteam/discussion-and-comment-of-the-week-v6-pmg)
 - [Can Open-Source Exist in China? 🎙](https://dev.to/devteam/can-open-source-exist-in-china-57nb)
 - [Interested in high performance programming on the LLVM? There&#39;s a new community for you.](https://dev.to/devteam/interested-in-high-performance-programming-on-the-llvm-theres-a-new-community-for-you-4501)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-10oj)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-57n2)
 - [When Companies Fake Diversity Initiatives 🎙](https://dev.to/devteam/when-companies-fake-diversity-initiatives-4m58)
-- [Follow Friday &lpar;27 May 2022&rpar;](https://dev.to/devteam/follow-friday-27-may-2022-27pg)
-- [This is Exciting: A New Destination for All Things DevOps](https://dev.to/devteam/this-is-exciting-a-new-destination-for-all-things-devops-1gpb)
 <!-- BLOG-POST-LIST:END -->
 
 
