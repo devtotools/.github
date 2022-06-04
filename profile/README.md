@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Adding Reproducible Randomization to SQL Queries](https://dev.to/devteam/adding-reproducible-randomization-to-sql-queries-3dnb)
 - [Follow Friday: Ruby Edition &lpar;3 June 2022&rpar;](https://dev.to/devteam/follow-friday-ruby-edition-3-june-2022-1jmm)
 - [What stood out to you from the Mayfield + DEV Discussion Series?](https://dev.to/devteam/what-stood-out-to-you-from-the-mayfield-dev-discussion-series-3lim)
 - [Discussion and Comment of the Week - v6](https://dev.to/devteam/discussion-and-comment-of-the-week-v6-pmg)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Getting Along with Your Co-workers... All of Them 🎙](https://dev.to/devteam/getting-along-with-your-co-workers-all-of-them-hlk)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-10oj)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-57n2)
-- [When Companies Fake Diversity Initiatives 🎙](https://dev.to/devteam/when-companies-fake-diversity-initiatives-4m58)
 <!-- BLOG-POST-LIST:END -->
 
 
