@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-49d1)
+- [Congrats to the Appwrite Hackathon Winners!](https://dev.to/devteam/congrats-to-the-appwrite-hackathon-winners-4dk9)
 - [What was your win LAST week?](https://dev.to/devteam/what-was-your-win-last-week-3efc)
 - [Redefining Ruby Instance Methods at Runtime](https://dev.to/devteam/redefining-ruby-instance-methods-at-runtime-3c9o)
 - [Leveraging Instance Variables in Ruby Classes](https://dev.to/devteam/leveraging-instance-variables-in-ruby-classes-4f90)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What stood out to you from the Mayfield + DEV Discussion Series?](https://dev.to/devteam/what-stood-out-to-you-from-the-mayfield-dev-discussion-series-3lim)
 - [Discussion and Comment of the Week - v6](https://dev.to/devteam/discussion-and-comment-of-the-week-v6-pmg)
 - [Can Open-Source Exist in China? 🎙](https://dev.to/devteam/can-open-source-exist-in-china-57nb)
-- [Interested in high performance programming on the LLVM? There&#39;s a new community for you.](https://dev.to/devteam/interested-in-high-performance-programming-on-the-llvm-theres-a-new-community-for-you-4501)
-- [Celebrating Your LGBTQIA+ Pride Stories 💖](https://dev.to/devteam/celebrating-lgbtqia-pride-with-donations-to-the-marsha-p-johnson-institute-33aj)
 <!-- BLOG-POST-LIST:END -->
 
 
