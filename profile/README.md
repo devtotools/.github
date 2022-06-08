@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [A new community space for open source maintainers and contributors! 🚀](https://dev.to/devteam/a-new-community-space-for-open-source-maintainers-and-contributors-32p3)
+- [Getting Your Conference Talk Proposal Accepted 🎙](https://dev.to/devteam/getting-your-conference-talk-proposal-accepted-1cb6)
+- [What&#39;s a More &quot;Advanced&quot; Topic You&#39;d Like to See on DEV?](https://dev.to/devteam/whats-a-more-advanced-topic-youd-like-to-see-on-dev-2ba5)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-49d1)
 - [Congrats to the Appwrite Hackathon Winners!](https://dev.to/devteam/congrats-to-the-appwrite-hackathon-winners-4dk9)
 - [What was your win LAST week?](https://dev.to/devteam/what-was-your-win-last-week-3efc)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Leveraging Instance Variables in Ruby Classes](https://dev.to/devteam/leveraging-instance-variables-in-ruby-classes-4f90)
 - [Adding Reproducible Randomization to SQL Queries](https://dev.to/devteam/adding-reproducible-randomization-to-sql-queries-3dnb)
 - [Follow Friday: Ruby Edition &lpar;3 June 2022&rpar;](https://dev.to/devteam/follow-friday-ruby-edition-3-june-2022-1jmm)
-- [What stood out to you from the Mayfield + DEV Discussion Series?](https://dev.to/devteam/what-stood-out-to-you-from-the-mayfield-dev-discussion-series-3lim)
-- [Discussion and Comment of the Week - v6](https://dev.to/devteam/discussion-and-comment-of-the-week-v6-pmg)
-- [Can Open-Source Exist in China? 🎙](https://dev.to/devteam/can-open-source-exist-in-china-57nb)
 <!-- BLOG-POST-LIST:END -->
 
 
