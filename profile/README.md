@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Discussion and Comment of the Week - v7](https://dev.to/devteam/discussion-and-comment-of-the-week-v7-4806)
+- [DevNews: Talking About The Recent Wave of Tech Layoffs 🎙](https://dev.to/devteam/devnews-talking-about-the-recent-wave-of-tech-layoffs-3gf3)
 - [A new community space for open source maintainers and contributors! 🚀](https://dev.to/devteam/a-new-community-space-for-open-source-maintainers-and-contributors-32p3)
 - [Getting Your Conference Talk Proposal Accepted 🎙](https://dev.to/devteam/getting-your-conference-talk-proposal-accepted-1cb6)
 - [What&#39;s a More &quot;Advanced&quot; Topic You&#39;d Like to See on DEV?](https://dev.to/devteam/whats-a-more-advanced-topic-youd-like-to-see-on-dev-2ba5)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What was your win LAST week?](https://dev.to/devteam/what-was-your-win-last-week-3efc)
 - [Redefining Ruby Instance Methods at Runtime](https://dev.to/devteam/redefining-ruby-instance-methods-at-runtime-3c9o)
 - [Leveraging Instance Variables in Ruby Classes](https://dev.to/devteam/leveraging-instance-variables-in-ruby-classes-4f90)
-- [Adding Reproducible Randomization to SQL Queries](https://dev.to/devteam/adding-reproducible-randomization-to-sql-queries-3dnb)
-- [Follow Friday: Ruby Edition &lpar;3 June 2022&rpar;](https://dev.to/devteam/follow-friday-ruby-edition-3-june-2022-1jmm)
 <!-- BLOG-POST-LIST:END -->
 
 
