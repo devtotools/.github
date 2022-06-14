@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4ghj)
 - [What was your win LAST week?](https://dev.to/devteam/what-was-your-win-last-week-57fb)
 - [Walk Through of Using Postgresql and Blazer to Generate a Cohort Report](https://dev.to/devteam/walk-through-of-using-postgresql-and-blazer-to-generate-a-cohort-report-3b44)
 - [Follow Friday: Security Edition &lpar;10 June 2022&rpar;](https://dev.to/devteam/follow-friday-security-edition-10-june-2022-1a70)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Getting Your Conference Talk Proposal Accepted 🎙](https://dev.to/devteam/getting-your-conference-talk-proposal-accepted-1cb6)
 - [What&#39;s a More &quot;Advanced&quot; Topic You&#39;d Like to See on DEV?](https://dev.to/devteam/whats-a-more-advanced-topic-youd-like-to-see-on-dev-2ba5)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-49d1)
-- [Congrats to the Appwrite Hackathon Winners!](https://dev.to/devteam/congrats-to-the-appwrite-hackathon-winners-4dk9)
 <!-- BLOG-POST-LIST:END -->
 
 
