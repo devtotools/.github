@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1hjp)
+- [DEV Team Update](https://dev.to/devteam/dev-team-update-261j)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-45f7)
 - [Discussion and Comment of the Week - v8](https://dev.to/devteam/discussion-and-comment-of-the-week-v8-h24)
 - [Happy 110th Birthday, Alan Turing!](https://dev.to/devteam/happy-110th-birthday-alan-turing-3m6o)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1ee2)
 - [SQL Has Evolved a Lot In Order To Meet New Challenges — But The Fundamentals Have Remained 🎙](https://dev.to/devteam/sql-has-evolved-a-lot-in-order-to-meet-new-challenges-but-the-fundamentals-have-remained-48o1)
 - [People rarely use complicated git commands on the weekend, and I have the data to prove it.](https://dev.to/devteam/people-rarely-use-complicated-git-commands-on-the-weekend-and-i-have-the-data-to-prove-it-3ae2)
-- [A Second Walk Through of Composing a SQL Query](https://dev.to/devteam/a-second-walk-through-of-composing-a-sql-query-561b)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4ghj)
 <!-- BLOG-POST-LIST:END -->
 
 
