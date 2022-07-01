@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Updates on DevDiscuss and DevNews](https://dev.to/devteam/updates-on-devdiscuss-and-devnews-39e4)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1m8a)
+- [Follow Friday: React Edition &lpar;1 July 2022&rpar;](https://dev.to/devteam/follow-friday-react-edition-1-july-2022-2kpa)
+- [Discussion and Comment of the Week - v9](https://dev.to/devteam/discussion-and-comment-of-the-week-v9-3pb9)
 - [Kids &amp; Coding](https://dev.to/devteam/kids-coding-4ja7)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1hjp)
 - [DEV Team Update](https://dev.to/devteam/dev-team-update-261j)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-45f7)
 - [Discussion and Comment of the Week - v8](https://dev.to/devteam/discussion-and-comment-of-the-week-v8-h24)
 - [Happy 110th Birthday, Alan Turing!](https://dev.to/devteam/happy-110th-birthday-alan-turing-3m6o)
-- [How the software we build is used maliciously and abusively 🎙](https://dev.to/devteam/how-the-software-we-build-is-used-maliciously-and-abusively-gpd)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1pc1)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1ee2)
-- [SQL Has Evolved a Lot In Order To Meet New Challenges — But The Fundamentals Have Remained 🎙](https://dev.to/devteam/sql-has-evolved-a-lot-in-order-to-meet-new-challenges-but-the-fundamentals-have-remained-48o1)
 <!-- BLOG-POST-LIST:END -->
 
 
