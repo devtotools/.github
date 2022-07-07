@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [If you could add one feature to DEV, what would it be?](https://dev.to/devteam/if-you-could-add-one-feature-to-dev-what-would-it-be-i98)
+- [Responsible Monkey Patching of Ruby Methods](https://dev.to/devteam/responsible-monkey-patching-of-ruby-methods-4590)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3o6b)
 - [That Time When the Only Test and Development Environment Was Production](https://dev.to/devteam/that-time-when-the-only-test-and-development-environment-was-production-1gnn)
 - [Updates on DevDiscuss and DevNews](https://dev.to/devteam/updates-on-devdiscuss-and-devnews-39e4)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Discussion and Comment of the Week - v9](https://dev.to/devteam/discussion-and-comment-of-the-week-v9-3pb9)
 - [Kids &amp; Coding](https://dev.to/devteam/kids-coding-4ja7)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1hjp)
-- [DEV Team Update](https://dev.to/devteam/dev-team-update-261j)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-45f7)
 <!-- BLOG-POST-LIST:END -->
 
 
