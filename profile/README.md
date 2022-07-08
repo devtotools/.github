@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Follow Friday: SQL Edition &lpar;8 July 2022&rpar;](https://dev.to/devteam/follow-friday-sql-edition-8-july-2022-4k2l)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1h13)
+- [Discussion and Comment of the Week - v10](https://dev.to/devteam/discussion-and-comment-of-the-week-v10-4n3d)
 - [If you could add one feature to DEV, what would it be?](https://dev.to/devteam/if-you-could-add-one-feature-to-dev-what-would-it-be-i98)
 - [Responsible Monkey Patching of Ruby Methods](https://dev.to/devteam/responsible-monkey-patching-of-ruby-methods-4590)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3o6b)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Updates on DevDiscuss and DevNews](https://dev.to/devteam/updates-on-devdiscuss-and-devnews-39e4)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1m8a)
 - [Follow Friday: React Edition &lpar;1 July 2022&rpar;](https://dev.to/devteam/follow-friday-react-edition-1-july-2022-2kpa)
-- [Discussion and Comment of the Week - v9](https://dev.to/devteam/discussion-and-comment-of-the-week-v9-3pb9)
-- [Kids &amp; Coding](https://dev.to/devteam/kids-coding-4ja7)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1hjp)
 <!-- BLOG-POST-LIST:END -->
 
 
