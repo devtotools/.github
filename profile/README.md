@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [SQL Proof of Concept for Collating Different Article Feed Selection Criteria for DEV.to](https://dev.to/devteam/sql-proof-of-concept-for-collating-different-article-feed-selection-criteria-for-devto-3810)
+- [Follow Friday: Git Edition &lpar;15 July 2022&rpar;](https://dev.to/devteam/follow-friday-git-edition-15-july-2022-10i1)
+- [Feature update: Markdown Toolbar coming to Comment Editor!](https://dev.to/devteam/feature-update-markdown-toolbar-coming-to-comment-editor-544o)
+- [Discussion and Comment of the Week - v11](https://dev.to/devteam/discussion-and-comment-of-the-week-v11-4b91)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-2nn2)
 - [Follow Friday: SQL Edition &lpar;8 July 2022&rpar;](https://dev.to/devteam/follow-friday-sql-edition-8-july-2022-4k2l)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1h13)
 - [Discussion and Comment of the Week - v10](https://dev.to/devteam/discussion-and-comment-of-the-week-v10-4n3d)
 - [If you could add one feature to DEV, what would it be?](https://dev.to/devteam/if-you-could-add-one-feature-to-dev-what-would-it-be-i98)
 - [Responsible Monkey Patching of Ruby Methods](https://dev.to/devteam/responsible-monkey-patching-of-ruby-methods-4590)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3o6b)
-- [That Time When the Only Test and Development Environment Was Production](https://dev.to/devteam/that-time-when-the-only-test-and-development-environment-was-production-1gnn)
-- [Updates on DevDiscuss and DevNews](https://dev.to/devteam/updates-on-devdiscuss-and-devnews-39e4)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1m8a)
 <!-- BLOG-POST-LIST:END -->
 
 
