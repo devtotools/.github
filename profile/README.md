@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-296m)
 - [Follow Friday: Linux Edition &lpar;22 July 2022&rpar;](https://dev.to/devteam/follow-friday-linux-edition-22-july-2022-1552)
 - [On Ruby Keyword Args, Structs, Splat, and Double Splat Operators &lpar;Oh My!&rpar;](https://dev.to/devteam/on-ruby-keyword-args-structs-splat-and-double-splat-operators-oh-my-3icp)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-55p3)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Discussion and Comment of the Week - v11](https://dev.to/devteam/discussion-and-comment-of-the-week-v11-4b91)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-2nn2)
 - [Follow Friday: SQL Edition &lpar;8 July 2022&rpar;](https://dev.to/devteam/follow-friday-sql-edition-8-july-2022-4k2l)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1h13)
 <!-- BLOG-POST-LIST:END -->
 
 
