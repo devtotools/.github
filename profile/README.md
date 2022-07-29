@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-191j)
+- [Follow Friday: UX/UI Edition &lpar;29 July 2022&rpar;](https://dev.to/devteam/follow-friday-uxui-edition-29-july-2022-2g1m)
 - [Discussion and Comment of the Week - v12](https://dev.to/devteam/discussion-and-comment-of-the-week-v12-1jn5)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-2nie)
 - [Help fight spam in our community! 🙌](https://dev.to/devteam/help-fight-spam-in-our-community-1ngb)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [On Ruby Keyword Args, Structs, Splat, and Double Splat Operators &lpar;Oh My!&rpar;](https://dev.to/devteam/on-ruby-keyword-args-structs-splat-and-double-splat-operators-oh-my-3icp)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-55p3)
 - [SQL Proof of Concept for Collating Different Article Feed Selection Criteria for DEV.to](https://dev.to/devteam/sql-proof-of-concept-for-collating-different-article-feed-selection-criteria-for-devto-3810)
-- [Follow Friday: Git Edition &lpar;15 July 2022&rpar;](https://dev.to/devteam/follow-friday-git-edition-15-july-2022-10i1)
-- [Feature update: Markdown Toolbar coming to Comment Editor!](https://dev.to/devteam/feature-update-markdown-toolbar-coming-to-comment-editor-544o)
 <!-- BLOG-POST-LIST:END -->
 
 
