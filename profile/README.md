@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2g2l)
+- [Follow Friday: Kubernetes Edition &lpar;5 August 2022&rpar;](https://dev.to/devteam/follow-friday-kubernetes-edition-5-august-2022-200f)
 - [Discussion and Comment of the Week - v13](https://dev.to/devteam/discussion-and-comment-of-the-week-v13-5fao)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-57oo)
 - [Announcing the Redis Hackathon on DEV!](https://dev.to/devteam/announcing-the-redis-hackathon-on-dev-3248)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-191j)
 - [Follow Friday: UX/UI Edition &lpar;29 July 2022&rpar;](https://dev.to/devteam/follow-friday-uxui-edition-29-july-2022-2g1m)
 - [Discussion and Comment of the Week - v12](https://dev.to/devteam/discussion-and-comment-of-the-week-v12-1jn5)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-2nie)
-- [Help fight spam in our community! 🙌](https://dev.to/devteam/help-fight-spam-in-our-community-1ngb)
 <!-- BLOG-POST-LIST:END -->
 
 
