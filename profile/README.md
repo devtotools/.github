@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Follow Friday: Golang Edition &lpar;12 August 2022&rpar;](https://dev.to/devteam/follow-friday-golang-edition-12-august-2022-2ofl)
+- [Discussion and Comment of the Week - v14](https://dev.to/devteam/discussion-and-comment-of-the-week-v14-2f1l)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-259h)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2g2l)
 - [Follow Friday: Kubernetes Edition &lpar;5 August 2022&rpar;](https://dev.to/devteam/follow-friday-kubernetes-edition-5-august-2022-200f)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Announcing the Redis Hackathon on DEV!](https://dev.to/devteam/announcing-the-redis-hackathon-on-dev-3248)
 - [Redis x DEV Hackathon Help Thread](https://dev.to/devteam/redis-x-dev-hackathon-help-thread-a7b)
 - [Community Discussion Thread — Redis x DEV Hackathon](https://dev.to/devteam/community-discussion-thread-redis-x-dev-hackathon-4cl6)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-191j)
-- [Follow Friday: UX/UI Edition &lpar;29 July 2022&rpar;](https://dev.to/devteam/follow-friday-uxui-edition-29-july-2022-2g1m)
 <!-- BLOG-POST-LIST:END -->
 
 
