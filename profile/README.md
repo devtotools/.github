@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4n66)
+- [Discussion and Comment of the Week - v15](https://dev.to/devteam/discussion-and-comment-of-the-week-v15-1o5l)
 - [Redis x DEV Hackathon Reminder ⏰](https://dev.to/devteam/redis-x-dev-hackathon-reminder-3b3e)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1m9b)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2aae)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-259h)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2g2l)
 - [Follow Friday: Kubernetes Edition &lpar;5 August 2022&rpar;](https://dev.to/devteam/follow-friday-kubernetes-edition-5-august-2022-200f)
-- [Discussion and Comment of the Week - v13](https://dev.to/devteam/discussion-and-comment-of-the-week-v13-5fao)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-57oo)
 <!-- BLOG-POST-LIST:END -->
 
 
