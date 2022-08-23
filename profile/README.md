@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Take the DEV Community Satisfaction Survey!](https://dev.to/devteam/take-the-dev-community-satisfaction-survey-3gja)
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-20h6)
+- [Follow Friday: PHP Edition &lpar;19 August 2022&rpar;](https://dev.to/devteam/follow-friday-php-edition-19-august-2022-1lo7)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4n66)
 - [Discussion and Comment of the Week - v15](https://dev.to/devteam/discussion-and-comment-of-the-week-v15-1o5l)
 - [Redis x DEV Hackathon Reminder ⏰](https://dev.to/devteam/redis-x-dev-hackathon-reminder-3b3e)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2aae)
 - [Follow Friday: Golang Edition &lpar;12 August 2022&rpar;](https://dev.to/devteam/follow-friday-golang-edition-12-august-2022-2ofl)
 - [Discussion and Comment of the Week - v14](https://dev.to/devteam/discussion-and-comment-of-the-week-v14-2f1l)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-259h)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2g2l)
-- [Follow Friday: Kubernetes Edition &lpar;5 August 2022&rpar;](https://dev.to/devteam/follow-friday-kubernetes-edition-5-august-2022-200f)
 <!-- BLOG-POST-LIST:END -->
 
 
