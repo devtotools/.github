@@ -21,13 +21,13 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Discussion and Comment of the Week - v16](https://dev.to/devteam/discussion-and-comment-of-the-week-v16-57ek)
 - [Final Weekend of the Redis Hackathon on DEV!](https://dev.to/devteam/final-weekend-of-the-redis-hackathon-on-dev-4mn7)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4ol6)
+- [Follow Friday: Open Source Edition &lpar;26 August 2022&rpar;](https://dev.to/devteam/follow-friday-open-source-edition-26-august-2022-1hb)
 - [What keeps ya coming back to DEV?](https://dev.to/devteam/what-keeps-ya-coming-back-to-dev-2nd0)
 - [Take the DEV Community Satisfaction Survey!](https://dev.to/devteam/take-the-dev-community-satisfaction-survey-3gja)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-20h6)
 - [Follow Friday: PHP Edition &lpar;19 August 2022&rpar;](https://dev.to/devteam/follow-friday-php-edition-19-august-2022-1lo7)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4n66)
 - [Discussion and Comment of the Week - v15](https://dev.to/devteam/discussion-and-comment-of-the-week-v15-1o5l)
-- [Redis x DEV Hackathon Reminder ⏰](https://dev.to/devteam/redis-x-dev-hackathon-reminder-3b3e)
 <!-- BLOG-POST-LIST:END -->
 
 
