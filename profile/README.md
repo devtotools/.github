@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Discussion and Comment of the Week - v17](https://dev.to/devteam/discussion-and-comment-of-the-week-v17-i8e)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3503)
 - [Discussion and Comment of the Week - v16](https://dev.to/devteam/discussion-and-comment-of-the-week-v16-57ek)
 - [Final Weekend of the Redis Hackathon on DEV!](https://dev.to/devteam/final-weekend-of-the-redis-hackathon-on-dev-4mn7)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Take the DEV Community Satisfaction Survey!](https://dev.to/devteam/take-the-dev-community-satisfaction-survey-3gja)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-20h6)
 - [Follow Friday: PHP Edition &lpar;19 August 2022&rpar;](https://dev.to/devteam/follow-friday-php-edition-19-august-2022-1lo7)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4n66)
 <!-- BLOG-POST-LIST:END -->
 
 
