@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Follow Friday: Career Edition &lpar;9 September 2022&rpar;](https://dev.to/devteam/follow-friday-career-edition-8-september-2022-3np5)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-d5f)
+- [Discussion and Comment of the Week - v18](https://dev.to/devteam/discussion-and-comment-of-the-week-v18-66m)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1dej)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2j2i)
 - [Follow Friday: CSS Edition &lpar;2 September 2022&rpar;](https://dev.to/devteam/follow-friday-css-edition-2-september-2022-4p01)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3503)
 - [Discussion and Comment of the Week - v16](https://dev.to/devteam/discussion-and-comment-of-the-week-v16-57ek)
 - [Final Weekend of the Redis Hackathon on DEV!](https://dev.to/devteam/final-weekend-of-the-redis-hackathon-on-dev-4mn7)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4ol6)
-- [Follow Friday: Open Source Edition &lpar;26 August 2022&rpar;](https://dev.to/devteam/follow-friday-open-source-edition-26-august-2022-1hb)
-- [What keeps ya coming back to DEV?](https://dev.to/devteam/what-keeps-ya-coming-back-to-dev-2nd0)
 <!-- BLOG-POST-LIST:END -->
 
 
