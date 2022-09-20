@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-599b)
+- [Redis Hackathon Winners, Announced!](https://dev.to/devteam/redis-hackathon-winners-announced-524d)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4jb2)
 - [Follow Friday: Tooling Edition &lpar;16 September 2022&rpar;](https://dev.to/devteam/follow-friday-tooling-edition-16-september-2022-5c49)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4phi)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Discussion and Comment of the Week - v18](https://dev.to/devteam/discussion-and-comment-of-the-week-v18-66m)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1dej)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2j2i)
-- [Follow Friday: CSS Edition &lpar;2 September 2022&rpar;](https://dev.to/devteam/follow-friday-css-edition-2-september-2022-4p01)
-- [Discussion and Comment of the Week - v17](https://dev.to/devteam/discussion-and-comment-of-the-week-v17-i8e)
 <!-- BLOG-POST-LIST:END -->
 
 
