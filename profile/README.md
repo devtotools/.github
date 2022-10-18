@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-2loc)
 - [Follow Friday: Web Dev Edition &lpar;14 Oct 2022&rpar;](https://dev.to/devteam/follow-friday-web-dev-edition-14-oct-2022-5bae)
 - [Discussion and Comment of the Week - v20](https://dev.to/devteam/discussion-and-comment-of-the-week-v20-1p6)
 - [The 7 Most Popular DEV Posts from the Past Week](https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-3knj)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Follow Friday: Preptember Edition &lpar;30 September 2022&rpar;](https://dev.to/devteam/follow-friday-preptember-edition-23-september-2022-43jh)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-593j)
 - [Our Dear Unicorn Friend is Going on Vacation](https://dev.to/devteam/our-dear-unicorn-friend-is-going-on-vacation-idm)
-- [Follow Friday: Python Edition &lpar;23 September 2022&rpar;](https://dev.to/devteam/follow-friday-python-edition-23-september-2022-5456)
 <!-- BLOG-POST-LIST:END -->
 
 
