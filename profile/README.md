@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [This Post is Scheduled for 11:30am US Eastern Time ⏰](https://dev.to/devteam/this-post-is-scheduled-for-1130am-299k)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-2loc)
 - [Follow Friday: Web Dev Edition &lpar;14 Oct 2022&rpar;](https://dev.to/devteam/follow-friday-web-dev-edition-14-oct-2022-5bae)
 - [Discussion and Comment of the Week - v20](https://dev.to/devteam/discussion-and-comment-of-the-week-v20-1p6)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Hacktoberfest is here — and this is the lowdown](https://dev.to/devteam/hacktoberfest-is-here-and-this-is-the-lowdown-3d76)
 - [Follow Friday: Preptember Edition &lpar;30 September 2022&rpar;](https://dev.to/devteam/follow-friday-preptember-edition-23-september-2022-43jh)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-593j)
-- [Our Dear Unicorn Friend is Going on Vacation](https://dev.to/devteam/our-dear-unicorn-friend-is-going-on-vacation-idm)
 <!-- BLOG-POST-LIST:END -->
 
 
