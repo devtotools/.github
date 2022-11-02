@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to make the most of DEV if you’re over Twitter](https://dev.to/devteam/how-to-make-the-most-of-dev-if-youre-over-twitter-4567)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-2gk3)
 - [Discussion and Comment of the Week - v22](https://dev.to/devteam/discussion-and-comment-of-the-week-v22-52gi)
 - [Follow Friday: Rust Edition &lpar;28 October 2022&rpar;](https://dev.to/devteam/follow-friday-rust-edition-28-october-2022-2hk9)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Follow Friday: NoSQL Edition &lpar;21 October 2022&rpar;](https://dev.to/devteam/follow-friday-nosql-edition-21-october-2022-3c3d)
 - [This Post is Scheduled for 11:30am US Eastern Time ⏰](https://dev.to/devteam/this-post-is-scheduled-for-1130am-299k)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-2loc)
-- [Follow Friday: Web Dev Edition &lpar;14 Oct 2022&rpar;](https://dev.to/devteam/follow-friday-web-dev-edition-14-oct-2022-5bae)
 <!-- BLOG-POST-LIST:END -->
 
 
