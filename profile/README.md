@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Announcing the MongoDB Atlas Hackathon 2022 on DEV!](https://dev.to/devteam/announcing-the-mongodb-atlas-hackathon-2022-on-dev-2107)
+- [Community Discussion Thread — MongoDB Atlas Hackathon 2022 on DEV](https://dev.to/devteam/community-discussion-thread-mongodb-atlas-hackathon-2022-on-dev-444l)
+- [Help Thread — MongoDB Atlas Hackathon 2022 on DEV](https://dev.to/devteam/help-thread-mongodb-atlas-hackathon-2022-on-dev-b0i)
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-jcj)
 - [#DEVCommunity: Now available via Toot 🦣](https://dev.to/devteam/devcommunity-now-available-via-toot-3ah3)
 - [Follow Friday: IoT Edition &lpar;4 November 2022&rpar;](https://dev.to/devteam/follow-friday-iot-edition-4-november-2022-1k3c)
 - [Discussion and Comment of the Week - v23](https://dev.to/devteam/discussion-and-comment-of-the-week-v23-1931)
 - [How to make the most of DEV if you’re over Twitter](https://dev.to/devteam/how-to-make-the-most-of-dev-if-youre-over-twitter-4567)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-2gk3)
 - [Discussion and Comment of the Week - v22](https://dev.to/devteam/discussion-and-comment-of-the-week-v22-52gi)
-- [Follow Friday: Rust Edition &lpar;28 October 2022&rpar;](https://dev.to/devteam/follow-friday-rust-edition-28-october-2022-2hk9)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3ock)
-- [DEV Community Satisfaction Survey Results!](https://dev.to/devteam/dev-community-satisfaction-survey-results-485f)
-- [Discussion and Comment of the Week - v21](https://dev.to/devteam/discussion-and-comment-of-the-week-v21-k4i)
 <!-- BLOG-POST-LIST:END -->
 
 
