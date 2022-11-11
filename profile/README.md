@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Share DEV articles to Mastodon](https://dev.to/devteam/share-dev-articles-to-mastodon-5cjn)
+- [Follow Friday: Productivity Edition &lpar;11 November 2022&rpar;](https://dev.to/devteam/follow-friday-productivity-edition-11-november-2022-192b)
 - [DEV Org Accounts: Tips for Reposting Blog Content](https://dev.to/devteam/dev-org-accounts-tips-for-reposting-blog-content-54eb)
 - [Announcing the MongoDB Atlas Hackathon 2022 on DEV!](https://dev.to/devteam/announcing-the-mongodb-atlas-hackathon-2022-on-dev-2107)
 - [Community Discussion Thread — MongoDB Atlas Hackathon 2022 on DEV](https://dev.to/devteam/community-discussion-thread-mongodb-atlas-hackathon-2022-on-dev-444l)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [#DEVCommunity: Now available via Toot 🦣](https://dev.to/devteam/devcommunity-now-available-via-toot-3ah3)
 - [Follow Friday: IoT Edition &lpar;4 November 2022&rpar;](https://dev.to/devteam/follow-friday-iot-edition-4-november-2022-1k3c)
 - [Discussion and Comment of the Week - v23](https://dev.to/devteam/discussion-and-comment-of-the-week-v23-1931)
-- [How to make the most of DEV if you’re over Twitter](https://dev.to/devteam/how-to-make-the-most-of-dev-if-youre-over-twitter-4567)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-2gk3)
 <!-- BLOG-POST-LIST:END -->
 
 
