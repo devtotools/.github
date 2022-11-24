@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Big Thanks to All Our Mods! 🙌](https://dev.to/devteam/big-thanks-to-all-our-mods-4jl)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-2mji)
 - [Follow Friday: NodeJS Edition &lpar;18 November 2022&rpar;](https://dev.to/devteam/follow-friday-nodejs-edition-18-november-2022-4e3p)
 - [The 7 Most Popular DEV Posts from the Past Week](https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-59ba)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Announcing the MongoDB Atlas Hackathon 2022 on DEV!](https://dev.to/devteam/announcing-the-mongodb-atlas-hackathon-2022-on-dev-2107)
 - [Community Discussion Thread — MongoDB Atlas Hackathon 2022 on DEV](https://dev.to/devteam/community-discussion-thread-mongodb-atlas-hackathon-2022-on-dev-444l)
 - [Help Thread — MongoDB Atlas Hackathon 2022 on DEV](https://dev.to/devteam/help-thread-mongodb-atlas-hackathon-2022-on-dev-b0i)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-jcj)
 <!-- BLOG-POST-LIST:END -->
 
 
