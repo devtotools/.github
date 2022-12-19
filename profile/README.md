@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Guidelines for AI-assisted Articles on DEV](https://dev.to/devteam/guidelines-for-ai-assisted-articles-on-dev-17n6)
 - [Follow Friday: Social Media Edition &lpar;16 December 2022&rpar;](https://dev.to/devteam/follow-friday-social-media-edition-16-december-2022-5aho)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-99g)
 - [Follow Friday: Hackathon Edition &lpar;9 December 2022&rpar;](https://dev.to/devteam/follow-friday-hackathon-edition-9-december-2022-5d9g)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Follow Friday: DevOps Edition &lpar;2 December 2022&rpar;](https://dev.to/devteam/follow-friday-devops-edition-2-december-2022-4g37)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-23oi)
 - [MongoDB Atlas Hackathon 2022 Reminder ⏰](https://dev.to/devteam/mongodb-atlas-hackathon-2022-reminder-dpg)
-- [Follow Friday: Vue Edition &lpar;25 November 2022&rpar;](https://dev.to/devteam/follow-friday-vue-edition-25-november-2022-4j7l)
 <!-- BLOG-POST-LIST:END -->
 
 
