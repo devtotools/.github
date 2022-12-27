@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-57cb)
 - [MongoDB Atlas Hackathon 2022 Winners, Announced!](https://dev.to/devteam/mongodb-atlas-hackathon-2022-winners-announced-iib)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3mmg)
 - [Guidelines for AI-assisted Articles on DEV](https://dev.to/devteam/guidelines-for-ai-assisted-articles-on-dev-17n6)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-30gi)
 - [The #openai and #gpt3 tags are now officially &quot;supported&quot; on DEV](https://dev.to/devteam/the-openai-and-gpt3-tags-are-now-officially-supported-on-dev-1bd)
 - [Final Weekend of the MongoDB Atlas Hackathon 2022 on DEV!](https://dev.to/devteam/final-weekend-of-the-mongodb-atlas-hackathon-2022-on-dev-1h8p)
-- [Follow Friday: DevOps Edition &lpar;2 December 2022&rpar;](https://dev.to/devteam/follow-friday-devops-edition-2-december-2022-4g37)
 <!-- BLOG-POST-LIST:END -->
 
 
