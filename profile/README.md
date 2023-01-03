@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What new badges would you like to see on DEV?](https://dev.to/devteam/what-new-badges-would-you-like-to-see-on-dev-35m5)
 - [We’ve moved to Fosstodon 🦣](https://dev.to/devteam/weve-moved-to-fosstodon-53e1)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-57cb)
 - [MongoDB Atlas Hackathon 2022 Winners, Announced!](https://dev.to/devteam/mongodb-atlas-hackathon-2022-winners-announced-iib)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-99g)
 - [Follow Friday: Hackathon Edition &lpar;9 December 2022&rpar;](https://dev.to/devteam/follow-friday-hackathon-edition-9-december-2022-5d9g)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-30gi)
-- [The #openai and #gpt3 tags are now officially &quot;supported&quot; on DEV](https://dev.to/devteam/the-openai-and-gpt3-tags-are-now-officially-supported-on-dev-1bd)
 <!-- BLOG-POST-LIST:END -->
 
 
