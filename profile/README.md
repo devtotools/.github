@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Lesser Known Features of DEV — Using Comment Templates](https://dev.to/devteam/lesser-known-features-of-dev-using-comment-templates-3jpe)
 - [#DevDiscuss: Monoliths vs. Microservices](https://dev.to/devteam/devdiscuss-monoliths-vs-microservices-5942)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-5epe)
 - [What new badges would you like to see on DEV?](https://dev.to/devteam/what-new-badges-would-you-like-to-see-on-dev-35m5)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3mmg)
 - [Guidelines for AI-assisted Articles on DEV](https://dev.to/devteam/guidelines-for-ai-assisted-articles-on-dev-17n6)
 - [Follow Friday: Social Media Edition &lpar;16 December 2022&rpar;](https://dev.to/devteam/follow-friday-social-media-edition-16-december-2022-5aho)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-99g)
 <!-- BLOG-POST-LIST:END -->
 
 
