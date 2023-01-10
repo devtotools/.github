@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4ikf)
 - [Follow Friday: Conferences Edition &lpar;6 January 2023&rpar;](https://dev.to/devteam/follow-friday-conferences-edition-6-january-2023-1b7f)
 - [Lesser Known Features of DEV — Using Comment Templates](https://dev.to/devteam/lesser-known-features-of-dev-using-comment-templates-3jpe)
 - [#DevDiscuss: Monoliths vs. Microservices](https://dev.to/devteam/devdiscuss-monoliths-vs-microservices-5942)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-57cb)
 - [MongoDB Atlas Hackathon 2022 Winners, Announced!](https://dev.to/devteam/mongodb-atlas-hackathon-2022-winners-announced-iib)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3mmg)
-- [Guidelines for AI-assisted Articles on DEV](https://dev.to/devteam/guidelines-for-ai-assisted-articles-on-dev-17n6)
 <!-- BLOG-POST-LIST:END -->
 
 
