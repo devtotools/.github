@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing @The_Cloud_Dev and @TheCSSDev ☁️🎨](https://dev.to/devteam/introducing-theclouddev-and-thecssdev-3j7e)
 - [We&#39;re on vue.land](https://dev.to/devteam/were-on-vueland-21d3)
 - [We&#39;re on dotnet.social](https://dev.to/devteam/were-on-dotnetsocial-4c71)
 - [#DevDiscuss: Uses of WebAssembly](https://dev.to/devteam/live-devdiscuss-uses-of-webassembly-516l)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [#DevDiscuss: Monoliths vs. Microservices](https://dev.to/devteam/devdiscuss-monoliths-vs-microservices-5942)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-5epe)
 - [What new badges would you like to see on DEV?](https://dev.to/devteam/what-new-badges-would-you-like-to-see-on-dev-35m5)
-- [We’ve moved to Fosstodon 🦣](https://dev.to/devteam/weve-moved-to-fosstodon-53e1)
 <!-- BLOG-POST-LIST:END -->
 
 
