@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [#DEVDiscuss: Linode + DEV Hackathon](https://dev.to/devteam/devdiscuss-linode-dev-hackathon-2f85)
 - [Announcing the Linode + DEV Hackathon!](https://dev.to/devteam/announcing-the-linode-dev-hackathon-377p)
 - [Community Discussion Thread — Linode + DEV Hackathon](https://dev.to/devteam/community-discussion-thread-linode-dev-hackathon-59k1)
 - [Linode + DEV Hackathon Help Thread](https://dev.to/devteam/linode-dev-hackathon-help-thread-1cmo)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-2dkd)
 - [We&#39;re on ruby.social](https://dev.to/devteam/were-on-rubysocial-1m3n)
 - [Introducing @The_Cloud_Dev and @TheCSSDev ☁️🎨](https://dev.to/devteam/introducing-theclouddev-and-thecssdev-3j7e)
-- [We&#39;re on vue.land](https://dev.to/devteam/were-on-vueland-21d3)
 <!-- BLOG-POST-LIST:END -->
 
 
