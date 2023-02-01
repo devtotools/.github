@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [#DEVDiscuss: to Specialize or to Generalize?](https://dev.to/devteam/devdiscuss-to-specialize-or-to-generalize-46lj)
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3id8)
 - [Welcome @devintelbyte, the 1 millionth registered DEV!](https://dev.to/devteam/welcome-devintelbyte-the-1-millionth-registered-dev-381i)
 - [#DEVDiscuss: Linode + DEV Hackathon](https://dev.to/devteam/devdiscuss-linode-dev-hackathon-2f85)
 - [Announcing the Linode + DEV Hackathon!](https://dev.to/devteam/announcing-the-linode-dev-hackathon-377p)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4ffi)
 - [Documenting Forem&#39;s v1 API](https://dev.to/devteam/documenting-the-forem-v1-api-15ck)
 - [#DevDiscuss: Passwordless Authentication](https://dev.to/devteam/live-devdiscuss-passwordless-authentication-13i2)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-2dkd)
-- [We&#39;re on ruby.social](https://dev.to/devteam/were-on-rubysocial-1m3n)
 <!-- BLOG-POST-LIST:END -->
 
 
