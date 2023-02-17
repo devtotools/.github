@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Final Weekend of the Linode Hackathon on DEV!](https://dev.to/devteam/final-weekend-of-the-linode-hackathon-on-dev-392c)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-40)
 - [Caching at DEV](https://dev.to/devteam/caching-at-dev-11el)
 - [Linode + DEV Hackathon Reminder ⏰](https://dev.to/devteam/linode-dev-hackathon-reminder-4h6k)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Asset Pipeline JS Migration](https://dev.to/devteam/asset-pipeline-js-migration-48ki)
 - [#DEVDiscuss: to Specialize or to Generalize?](https://dev.to/devteam/devdiscuss-to-specialize-or-to-generalize-46lj)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3id8)
-- [Welcome @devintelbyte, the 1 millionth registered DEV!](https://dev.to/devteam/welcome-devintelbyte-the-1-millionth-registered-dev-381i)
 <!-- BLOG-POST-LIST:END -->
 
 
