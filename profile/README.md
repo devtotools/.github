@@ -20,7 +20,6 @@ Some repositorys are forked from members who designed the script. If this is you
 <!-- BLOG-POST-LIST:START -->
 - [#DEVDiscuss: Building Your Own AI 🤖](https://dev.to/devteam/devdiscuss-building-your-own-ai-26p0)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4e99)
-- [Welcome Thread - v213](https://dev.to/devteam/welcome-thread-v213-1j9e)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4gh4)
 - [Some new features to look forward to on DEV](https://dev.to/devteam/some-new-features-to-look-forward-to-on-dev-5jk)
 - [Final Weekend of the Linode Hackathon on DEV!](https://dev.to/devteam/final-weekend-of-the-linode-hackathon-on-dev-392c)
@@ -28,6 +27,7 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Caching at DEV](https://dev.to/devteam/caching-at-dev-11el)
 - [Linode + DEV Hackathon Reminder ⏰](https://dev.to/devteam/linode-dev-hackathon-reminder-4h6k)
 - [#DEVDiscuss: Golden Handcuffs 💰](https://dev.to/devteam/devdiscuss-golden-handcuffs-4n67)
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1ni2)
 <!-- BLOG-POST-LIST:END -->
 
 
