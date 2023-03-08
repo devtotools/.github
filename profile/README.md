@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Join the WeCoded Virtual Meetup on 3/10 🌟](https://dev.to/devteam/join-the-wecoded-virtual-meetup-on-310-j1l)
+- [Join us for #WeCoded 2023!](https://dev.to/devteam/join-us-for-wecoded-2023-9cj)
+- [#DEVDiscuss: CI/CD Pipelines](https://dev.to/devteam/devdiscuss-cicd-pipelines-47fh)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4964)
 - [#DEVDiscuss: Building Your Own AI 🤖](https://dev.to/devteam/devdiscuss-building-your-own-ai-26p0)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4e99)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Some new features to look forward to on DEV](https://dev.to/devteam/some-new-features-to-look-forward-to-on-dev-5jk)
 - [Final Weekend of the Linode Hackathon on DEV!](https://dev.to/devteam/final-weekend-of-the-linode-hackathon-on-dev-392c)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-40)
-- [Caching at DEV](https://dev.to/devteam/caching-at-dev-11el)
-- [Linode + DEV Hackathon Reminder ⏰](https://dev.to/devteam/linode-dev-hackathon-reminder-4h6k)
-- [#DEVDiscuss: Golden Handcuffs 💰](https://dev.to/devteam/devdiscuss-golden-handcuffs-4n67)
 <!-- BLOG-POST-LIST:END -->
 
 
