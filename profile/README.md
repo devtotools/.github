@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [WeCoded Virtual Meetup Recap ✨](https://dev.to/devteam/wecoded-virtual-meetup-recap-1k06)
 - [#DEVDiscuss: Coding Against Bias](https://dev.to/devteam/devdiscuss-coding-against-bias-3npd)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-15mk)
 - [Reflecting on my journey: we need more senior+ and directors+ women engineers](https://dev.to/devteam/reflecting-on-my-journey-we-need-more-senior-and-directors-women-engineers-7gp)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Join us for #WeCoded 2023!](https://dev.to/devteam/join-us-for-wecoded-2023-9cj)
 - [#DEVDiscuss: CI/CD Pipelines](https://dev.to/devteam/devdiscuss-cicd-pipelines-47fh)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4964)
-- [#DEVDiscuss: Building Your Own AI 🤖](https://dev.to/devteam/devdiscuss-building-your-own-ai-26p0)
 <!-- BLOG-POST-LIST:END -->
 
 
