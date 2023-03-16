@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What can we do to create a healthier workplace culture?](https://dev.to/devteam/what-can-we-do-to-create-a-healthier-workplace-culture-5boi)
+- [How can leaders better support primary caregivers?](https://dev.to/devteam/how-can-leaders-better-support-primary-caregivers-35b8)
 - [WeCoded Virtual Meetup Recap ✨](https://dev.to/devteam/wecoded-virtual-meetup-recap-1k06)
 - [#DEVDiscuss: Coding Against Bias](https://dev.to/devteam/devdiscuss-coding-against-bias-3npd)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-15mk)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What does effective advocacy look like?](https://dev.to/devteam/what-does-effective-advocacy-look-like-5cnh)
 - [Join the WeCoded Virtual Meetup 🌟](https://dev.to/devteam/join-the-wecoded-virtual-meetup-on-310-j1l)
 - [Join us for #WeCoded 2023!](https://dev.to/devteam/join-us-for-wecoded-2023-9cj)
-- [#DEVDiscuss: CI/CD Pipelines](https://dev.to/devteam/devdiscuss-cicd-pipelines-47fh)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4964)
 <!-- BLOG-POST-LIST:END -->
 
 
