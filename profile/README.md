@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What have you learned through #WeCoded?](https://dev.to/devteam/what-have-you-learned-through-wecoded-16lg)
+- [We coded, together ✨](https://dev.to/devteam/we-coded-together-25bo)
 - [What can we do to create a healthier workplace culture?](https://dev.to/devteam/what-can-we-do-to-create-a-healthier-workplace-culture-5boi)
 - [How can leaders better support primary caregivers?](https://dev.to/devteam/how-can-leaders-better-support-primary-caregivers-35b8)
 - [WeCoded Virtual Meetup Recap ✨](https://dev.to/devteam/wecoded-virtual-meetup-recap-1k06)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Reflecting on my journey: we need more senior+ and directors+ women engineers](https://dev.to/devteam/reflecting-on-my-journey-we-need-more-senior-and-directors-women-engineers-7gp)
 - [Reflecting on my journey in tech](https://dev.to/devteam/reflecting-on-my-journey-in-tech-2lk9)
 - [What does effective advocacy look like?](https://dev.to/devteam/what-does-effective-advocacy-look-like-5cnh)
-- [Join the WeCoded Virtual Meetup 🌟](https://dev.to/devteam/join-the-wecoded-virtual-meetup-on-310-j1l)
-- [Join us for #WeCoded 2023!](https://dev.to/devteam/join-us-for-wecoded-2023-9cj)
 <!-- BLOG-POST-LIST:END -->
 
 
