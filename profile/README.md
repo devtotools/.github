@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-333n)
+- [Make a Difference on DEV as a Tag Moderator](https://dev.to/devteam/make-a-difference-on-dev-as-a-moderator-opl)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-5gdm)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-14dj)
 - [#DEVDiscuss: Design Patterns](https://dev.to/devteam/devdiscuss-design-patterns-5e02)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-53g9)
 - [#DEVDiscuss: The Future of AI](https://dev.to/devteam/devdiscuss-the-future-of-ai-45f2)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1cpi)
 - [Linode + DEV Hackathon Winners, Announced!](https://dev.to/devteam/linode-dev-hackathon-winners-announced-2821)
 - [What have you learned through #WeCoded?](https://dev.to/devteam/what-have-you-learned-through-wecoded-16lg)
-- [We coded, together ✨](https://dev.to/devteam/we-coded-together-25bo)
-- [What can we do to create a healthier workplace culture?](https://dev.to/devteam/what-can-we-do-to-create-a-healthier-workplace-culture-5boi)
-- [How can leaders better support primary caregivers?](https://dev.to/devteam/how-can-leaders-better-support-primary-caregivers-35b8)
 <!-- BLOG-POST-LIST:END -->
 
 
