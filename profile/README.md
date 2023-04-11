@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [How Did You Get Started with COBOL?](https://dev.to/devteam/how-did-you-get-started-with-cobol-3b3i)
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-316h)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-333n)
 - [Make a Difference on DEV as a Tag Moderator](https://dev.to/devteam/make-a-difference-on-dev-as-a-moderator-opl)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-5gdm)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-53g9)
 - [#DEVDiscuss: The Future of AI](https://dev.to/devteam/devdiscuss-the-future-of-ai-45f2)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1cpi)
-- [Linode + DEV Hackathon Winners, Announced!](https://dev.to/devteam/linode-dev-hackathon-winners-announced-2821)
-- [What have you learned through #WeCoded?](https://dev.to/devteam/what-have-you-learned-through-wecoded-16lg)
 <!-- BLOG-POST-LIST:END -->
 
 
