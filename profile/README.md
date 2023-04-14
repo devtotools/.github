@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [#DEVDiscuss: Rethinking the Modern Web](https://dev.to/devteam/devdiscuss-rethinking-the-modern-web-30e4)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-43im)
 - [How Did You Get Started with COBOL?](https://dev.to/devteam/how-did-you-get-started-with-cobol-3b3i)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-316h)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-333n)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-14dj)
 - [#DEVDiscuss: Design Patterns](https://dev.to/devteam/devdiscuss-design-patterns-5e02)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-53g9)
-- [#DEVDiscuss: The Future of AI](https://dev.to/devteam/devdiscuss-the-future-of-ai-45f2)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1cpi)
 <!-- BLOG-POST-LIST:END -->
 
 
