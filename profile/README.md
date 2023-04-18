@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [#DEVDiscuss: Documentation Workflows](https://dev.to/devteam/devdiscuss-documentation-workflows-4hok)
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4o7a)
+- [Challenge: Counting Numbers with 7s](https://dev.to/devteam/challenge-counting-numbers-with-7s-33c7)
 - [Best Practices for Writing on DEV: Formatting](https://dev.to/devteam/best-practices-for-writing-on-dev-formatting-5fnc)
 - [Best Practices for Writing on DEV: Creating a Series](https://dev.to/devteam/best-practices-for-writing-on-dev-creating-a-series-2bgj)
 - [#DEVDiscuss: Rethinking the Modern Web](https://dev.to/devteam/devdiscuss-rethinking-the-modern-web-30e4)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [How Did You Get Started with COBOL?](https://dev.to/devteam/how-did-you-get-started-with-cobol-3b3i)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-316h)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-333n)
-- [Make a Difference on DEV as a Tag Moderator](https://dev.to/devteam/make-a-difference-on-dev-as-a-moderator-opl)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-5gdm)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-14dj)
 <!-- BLOG-POST-LIST:END -->
 
 
