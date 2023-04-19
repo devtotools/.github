@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Featured Mod of the Month: Andy Piper](https://dev.to/devteam/featured-mod-of-the-month-andy-piper-2fg6)
 - [#DEVDiscuss: Documentation Workflows](https://dev.to/devteam/devdiscuss-documentation-workflows-4hok)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4o7a)
 - [Challenge: Counting Numbers with 7s](https://dev.to/devteam/challenge-counting-numbers-with-7s-33c7)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-43im)
 - [How Did You Get Started with COBOL?](https://dev.to/devteam/how-did-you-get-started-with-cobol-3b3i)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-316h)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-333n)
 <!-- BLOG-POST-LIST:END -->
 
 
