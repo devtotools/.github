@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Best Practices for Writing on DEV: Tone of Voice](https://dev.to/devteam/best-practices-for-writing-on-dev-tone-of-voice-32om)
 - [#DEVDiscuss: The Future of Social Media](https://dev.to/devteam/devdiscuss-the-future-of-social-media-32gh)
 - [RIP Blue Check 🪦](https://dev.to/devteam/rip-blue-check-jlh)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4ld4)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Challenge: Counting Numbers with 7s](https://dev.to/devteam/challenge-counting-numbers-with-7s-33c7)
 - [Best Practices for Writing on DEV: Formatting](https://dev.to/devteam/best-practices-for-writing-on-dev-formatting-5fnc)
 - [Best Practices for Writing on DEV: Creating a Series](https://dev.to/devteam/best-practices-for-writing-on-dev-creating-a-series-2bgj)
-- [#DEVDiscuss: Rethinking the Modern Web](https://dev.to/devteam/devdiscuss-rethinking-the-modern-web-30e4)
 <!-- BLOG-POST-LIST:END -->
 
 
