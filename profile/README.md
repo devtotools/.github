@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [#DEVDiscuss: Naming Things](https://dev.to/devteam/devdiscuss-naming-things-25p4)
+- [Announcing the GitHub + DEV 2023 Hackathon!](https://dev.to/devteam/announcing-the-github-dev-2023-hackathon-4ocn)
+- [Community Discussion Thread — GitHub + DEV Hackathon 2023](https://dev.to/devteam/community-discussion-thread-github-dev-hackathon-2023-5410)
+- [Help Thread — GitHub + DEV Hackathon 2023](https://dev.to/devteam/github-dev-hackathon-2023-help-thread-1pf)
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1d0h)
 - [Best Practices for Writing on DEV: Tone of Voice](https://dev.to/devteam/best-practices-for-writing-on-dev-tone-of-voice-32om)
 - [#DEVDiscuss: The Future of Social Media](https://dev.to/devteam/devdiscuss-the-future-of-social-media-32gh)
 - [RIP Blue Check 🪦](https://dev.to/devteam/rip-blue-check-jlh)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4ld4)
 - [Featured Mod of the Month: Andy Piper](https://dev.to/devteam/featured-mod-of-the-month-andy-piper-2fg6)
-- [#DEVDiscuss: Documentation Workflows](https://dev.to/devteam/devdiscuss-documentation-workflows-4hok)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4o7a)
-- [Challenge: Counting Numbers with 7s](https://dev.to/devteam/challenge-counting-numbers-with-7s-33c7)
-- [Best Practices for Writing on DEV: Formatting](https://dev.to/devteam/best-practices-for-writing-on-dev-formatting-5fnc)
-- [Best Practices for Writing on DEV: Creating a Series](https://dev.to/devteam/best-practices-for-writing-on-dev-creating-a-series-2bgj)
 <!-- BLOG-POST-LIST:END -->
 
 
