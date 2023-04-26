@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Going Against Conventional Wisdom: What&#39;s Your Unpopular Tech Opinion?](https://dev.to/devteam/going-against-conventional-wisdom-whats-your-unpopular-tech-opinion-5fag)
+- [Code Your Way: BadaBing!](https://dev.to/devteam/code-your-way-badabing-1cj3)
 - [#DEVDiscuss: Naming Things](https://dev.to/devteam/devdiscuss-naming-things-25p4)
 - [Announcing the GitHub + DEV 2023 Hackathon!](https://dev.to/devteam/announcing-the-github-dev-2023-hackathon-4ocn)
 - [Community Discussion Thread — GitHub + DEV Hackathon 2023](https://dev.to/devteam/community-discussion-thread-github-dev-hackathon-2023-5410)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Best Practices for Writing on DEV: Tone of Voice](https://dev.to/devteam/best-practices-for-writing-on-dev-tone-of-voice-32om)
 - [#DEVDiscuss: The Future of Social Media](https://dev.to/devteam/devdiscuss-the-future-of-social-media-32gh)
 - [RIP Blue Check 🪦](https://dev.to/devteam/rip-blue-check-jlh)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4ld4)
-- [Featured Mod of the Month: Andy Piper](https://dev.to/devteam/featured-mod-of-the-month-andy-piper-2fg6)
 <!-- BLOG-POST-LIST:END -->
 
 
