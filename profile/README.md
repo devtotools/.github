@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s the Most Efficient Setup for Your Code Editor or IDE?](https://dev.to/devteam/whats-the-most-efficient-setup-for-your-code-editor-or-ide-21hd)
+- [#DEVDiscuss: can the AT Protocol and the Fediverse coexist?](https://dev.to/devteam/devdiscuss-can-the-at-protocol-and-the-fediverse-coexist-4d74)
+- [We&#39;re on Bluesky ☁️](https://dev.to/devteam/were-on-bluesky-4k44)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-33e6)
+- [What Are Your Worst Coding Habits?](https://dev.to/devteam/what-are-your-worst-coding-habits-4jeh)
 - [Sloan&#39;s Inbox: Staying positive amidst industry drama](https://dev.to/devteam/sloans-inbox-staying-positive-amidst-industry-drama-16i4)
-- [Code Your Way: BadaBing!](https://dev.to/devteam/code-your-way-badabing-1cj3)
+- [What&#39;s the Most Efficient Setup for Your Code Editor or IDE?](https://dev.to/devteam/whats-the-most-efficient-setup-for-your-code-editor-or-ide-21hd)
 - [Going Against Conventional Wisdom: What&#39;s Your Unpopular Tech Opinion?](https://dev.to/devteam/going-against-conventional-wisdom-whats-your-unpopular-tech-opinion-5fag)
+- [Code Your Way: BadaBing!](https://dev.to/devteam/code-your-way-badabing-1cj3)
 - [#DEVDiscuss: Naming Things](https://dev.to/devteam/devdiscuss-naming-things-25p4)
 - [Announcing the GitHub + DEV 2023 Hackathon!](https://dev.to/devteam/announcing-the-github-dev-2023-hackathon-4ocn)
-- [Community Discussion Thread — GitHub + DEV Hackathon 2023](https://dev.to/devteam/community-discussion-thread-github-dev-hackathon-2023-5410)
-- [Help Thread — GitHub + DEV Hackathon 2023](https://dev.to/devteam/github-dev-hackathon-2023-help-thread-1pf)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1d0h)
-- [Best Practices for Writing on DEV: Tone of Voice](https://dev.to/devteam/best-practices-for-writing-on-dev-tone-of-voice-32om)
 <!-- BLOG-POST-LIST:END -->
 
 
