@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What Was Your First-ever Email Address &amp; Do You Still Use It Today?](https://dev.to/devteam/what-was-your-first-ever-email-address-do-you-still-use-it-today-2c9g)
 - [Predicting the Future: Which Programming Languages are Poised to Take the Lead?](https://dev.to/devteam/predicting-the-future-which-programming-languages-are-poised-to-take-the-lead-5f35)
 - [What Are Some of the Worst Security Practices You’ve Ever Seen in Software Development?](https://dev.to/devteam/what-are-some-of-the-worst-security-practices-youve-ever-seen-in-software-development-15h9)
 - [#DEVDiscuss: can the AT Protocol and the Fediverse coexist?](https://dev.to/devteam/devdiscuss-can-the-at-protocol-and-the-fediverse-coexist-4d74)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What&#39;s the Most Efficient Setup for Your Code Editor or IDE?](https://dev.to/devteam/whats-the-most-efficient-setup-for-your-code-editor-or-ide-21hd)
 - [Sloan&#39;s Inbox: Staying positive amidst industry drama](https://dev.to/devteam/sloans-inbox-staying-positive-amidst-industry-drama-16i4)
 - [Code Your Way: BadaBing!](https://dev.to/devteam/code-your-way-badabing-1cj3)
-- [Going Against Conventional Wisdom: What&#39;s Your Unpopular Tech Opinion?](https://dev.to/devteam/going-against-conventional-wisdom-whats-your-unpopular-tech-opinion-5fag)
 <!-- BLOG-POST-LIST:END -->
 
 
