@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [#DEVDiscuss: CSS Libraries, Frameworks, and Engines](https://dev.to/devteam/devdiscuss-css-libraries-frameworks-and-engines-52c1)
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4o85)
+- [What Are the Potential Consequences of AI and Automation on Employment and the Workforce?](https://dev.to/devteam/what-are-the-potential-consequences-of-ai-and-automation-on-employment-and-the-workforce-3ded)
 - [What Was Your First-ever Email Address &amp; Do You Still Use It Today?](https://dev.to/devteam/what-was-your-first-ever-email-address-do-you-still-use-it-today-2c9g)
 - [Predicting the Future: Which Programming Languages are Poised to Take the Lead?](https://dev.to/devteam/predicting-the-future-which-programming-languages-are-poised-to-take-the-lead-5f35)
 - [What Are Some of the Worst Security Practices You’ve Ever Seen in Software Development?](https://dev.to/devteam/what-are-some-of-the-worst-security-practices-youve-ever-seen-in-software-development-15h9)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [We&#39;re on Bluesky ☁️](https://dev.to/devteam/were-on-bluesky-4k44)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-33e6)
 - [What Are Your Worst Coding Habits?](https://dev.to/devteam/what-are-your-worst-coding-habits-4jeh)
-- [What&#39;s the Most Efficient Setup for Your Code Editor or IDE?](https://dev.to/devteam/whats-the-most-efficient-setup-for-your-code-editor-or-ide-21hd)
-- [Sloan&#39;s Inbox: Staying positive amidst industry drama](https://dev.to/devteam/sloans-inbox-staying-positive-amidst-industry-drama-16i4)
-- [Code Your Way: BadaBing!](https://dev.to/devteam/code-your-way-badabing-1cj3)
 <!-- BLOG-POST-LIST:END -->
 
 
