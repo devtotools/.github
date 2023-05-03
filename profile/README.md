@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome Thread - v223](https://dev.to/devteam/welcome-thread-v223-1ig7)
+- [Who Still Uses jQuery Regularly, and Why?](https://dev.to/devteam/who-still-uses-jquery-regularly-and-why-700)
 - [#DEVDiscuss: CSS Libraries, Frameworks, and Engines](https://dev.to/devteam/devdiscuss-css-libraries-frameworks-and-engines-52c1)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4o85)
 - [What Are the Potential Consequences of AI and Automation on Employment and the Workforce?](https://dev.to/devteam/what-are-the-potential-consequences-of-ai-and-automation-on-employment-and-the-workforce-3ded)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What Are Some of the Worst Security Practices You’ve Ever Seen in Software Development?](https://dev.to/devteam/what-are-some-of-the-worst-security-practices-youve-ever-seen-in-software-development-15h9)
 - [#DEVDiscuss: can the AT Protocol and the Fediverse coexist?](https://dev.to/devteam/devdiscuss-can-the-at-protocol-and-the-fediverse-coexist-4d74)
 - [We&#39;re on Bluesky ☁️](https://dev.to/devteam/were-on-bluesky-4k44)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-33e6)
-- [What Are Your Worst Coding Habits?](https://dev.to/devteam/what-are-your-worst-coding-habits-4jeh)
 <!-- BLOG-POST-LIST:END -->
 
 
