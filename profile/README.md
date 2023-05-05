@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2e4m)
+- [Fan Friday: Let&#39;s Give a Shout Out to Some Fantastic Folks in the Community](https://dev.to/devteam/fan-friday-lets-give-a-shout-out-to-some-fantastic-folks-in-the-community-p6p)
 - [Jedi Training Challenge](https://dev.to/devteam/jedi-training-challenge-5a48)
 - [Star Wars Tech: How Does It Compare to Current Technology?](https://dev.to/devteam/star-wars-tech-how-does-it-compare-to-current-technology-409o)
 - [Sloan&#39;s Inbox: Surviving A Job Performance Plan: Is There Hope?](https://dev.to/devteam/sloans-inbox-surviving-a-job-performance-plan-is-there-hope-550g)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [#DEVDiscuss: CSS Libraries, Frameworks, and Engines](https://dev.to/devteam/devdiscuss-css-libraries-frameworks-and-engines-52c1)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4o85)
 - [What Are the Potential Consequences of AI and Automation on Employment and the Workforce?](https://dev.to/devteam/what-are-the-potential-consequences-of-ai-and-automation-on-employment-and-the-workforce-3ded)
-- [What Was Your First-ever Email Address &amp; Do You Still Use It Today?](https://dev.to/devteam/what-was-your-first-ever-email-address-do-you-still-use-it-today-2c9g)
-- [Predicting the Future: Which Programming Languages are Poised to Take the Lead?](https://dev.to/devteam/predicting-the-future-which-programming-languages-are-poised-to-take-the-lead-5f35)
 <!-- BLOG-POST-LIST:END -->
 
 
