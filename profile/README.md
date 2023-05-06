@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s the Most Useless or Wasteful Software You&#39;ve Ever Encountered?](https://dev.to/devteam/whats-the-most-useless-or-wasteful-software-youve-ever-encountered-4jjj)
+- [#DEVDiscuss: Personal Branding for Developers](https://dev.to/devteam/devdiscuss-personal-branding-for-developers-4c0e)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2e4m)
 - [Fan Friday: Let&#39;s Give a Shout Out to Some Fantastic Folks in the Community](https://dev.to/devteam/fan-friday-lets-give-a-shout-out-to-some-fantastic-folks-in-the-community-p6p)
 - [Jedi Training Challenge](https://dev.to/devteam/jedi-training-challenge-5a48)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Welcome Thread - v223](https://dev.to/devteam/welcome-thread-v223-1ig7)
 - [Who Still Uses jQuery Regularly, and Why?](https://dev.to/devteam/who-still-uses-jquery-regularly-and-why-700)
 - [#DEVDiscuss: CSS Libraries, Frameworks, and Engines](https://dev.to/devteam/devdiscuss-css-libraries-frameworks-and-engines-52c1)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4o85)
-- [What Are the Potential Consequences of AI and Automation on Employment and the Workforce?](https://dev.to/devteam/what-are-the-potential-consequences-of-ai-and-automation-on-employment-and-the-workforce-3ded)
 <!-- BLOG-POST-LIST:END -->
 
 
