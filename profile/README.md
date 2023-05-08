@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Music Monday — What are you listening to? &lpar;Nostalgia Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-nostalgia-edition-5hfk)
 - [What&#39;s Your Favorite IT Quote or Rule? And How Does It Influence Your Work?](https://dev.to/devteam/whats-your-favorite-it-quote-or-rule-and-how-does-it-influence-your-work-26pa)
 - [What&#39;s the Most Useless or Wasteful Software You&#39;ve Ever Encountered?](https://dev.to/devteam/whats-the-most-useless-or-wasteful-software-youve-ever-encountered-4jjj)
 - [#DEVDiscuss: Personal Branding for Developers](https://dev.to/devteam/devdiscuss-personal-branding-for-developers-4c0e)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Star Wars Tech: How Does It Compare to Current Technology?](https://dev.to/devteam/star-wars-tech-how-does-it-compare-to-current-technology-409o)
 - [Sloan&#39;s Inbox: Surviving A Job Performance Plan: Is There Hope?](https://dev.to/devteam/sloans-inbox-surviving-a-job-performance-plan-is-there-hope-550g)
 - [Welcome Thread - v223](https://dev.to/devteam/welcome-thread-v223-1ig7)
-- [Who Still Uses jQuery Regularly, and Why?](https://dev.to/devteam/who-still-uses-jquery-regularly-and-why-700)
 <!-- BLOG-POST-LIST:END -->
 
 
