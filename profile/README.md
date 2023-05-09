@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Midpoint Reminder! — GitHub + DEV 2023 Hackathon](https://dev.to/devteam/midpoint-reminder-github-dev-2023-hackathon-lni)
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-40jm)
+- [What&#39;s the Wackiest Coding Hack You&#39;ve Ever Seen?](https://dev.to/devteam/whats-the-wackiest-coding-hack-youve-ever-seen-134k)
 - [Music Monday — What are you listening to? &lpar;Nostalgia Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-nostalgia-edition-5hfk)
 - [What&#39;s Your Favorite IT Quote or Rule? And How Does It Influence Your Work?](https://dev.to/devteam/whats-your-favorite-it-quote-or-rule-and-how-does-it-influence-your-work-26pa)
 - [What&#39;s the Most Useless or Wasteful Software You&#39;ve Ever Encountered?](https://dev.to/devteam/whats-the-most-useless-or-wasteful-software-youve-ever-encountered-4jjj)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2e4m)
 - [Fan Friday: Let&#39;s Give a Shout Out to Some Fantastic Folks in the Community](https://dev.to/devteam/fan-friday-lets-give-a-shout-out-to-some-fantastic-folks-in-the-community-p6p)
 - [Jedi Training Challenge](https://dev.to/devteam/jedi-training-challenge-5a48)
-- [Star Wars Tech: How Does It Compare to Current Technology?](https://dev.to/devteam/star-wars-tech-how-does-it-compare-to-current-technology-409o)
-- [Sloan&#39;s Inbox: Surviving A Job Performance Plan: Is There Hope?](https://dev.to/devteam/sloans-inbox-surviving-a-job-performance-plan-is-there-hope-550g)
-- [Welcome Thread - v223](https://dev.to/devteam/welcome-thread-v223-1ig7)
 <!-- BLOG-POST-LIST:END -->
 
 
