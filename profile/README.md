@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [#DEVDiscuss: What Happened to Web3?](https://dev.to/devteam/devdiscuss-what-happened-to-web3-11cl)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-3c91)
+- [Team or Solo: Which Path Leads to Project Success?](https://dev.to/devteam/team-or-solo-which-path-leads-to-project-success-337)
 - [&quot;Single Digit&quot; Spotlight v1](https://dev.to/devteam/single-digit-spotlight-v1-63)
 - [Sloan&#39;s Inbox: Newbie Seeking Guidance on Real-life Project](https://dev.to/devteam/sloans-inbox-newbie-seeking-guidance-on-real-life-project-1lkn)
 - [Can Coding Create More Efficient and Effective Remote Work Environments?](https://dev.to/devteam/can-coding-create-more-efficient-and-effective-remote-work-environments-3a9g)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Welcome Thread - v224](https://dev.to/devteam/welcome-thread-v224-1d4g)
 - [How Can We Create Inclusive Spaces for Diverse Perspectives?](https://dev.to/devteam/how-can-we-create-inclusive-spaces-for-diverse-perspectives-4d4i)
 - [Best Practices for Writing on DEV: Listicles](https://dev.to/devteam/best-practices-for-writing-on-dev-listicles-16e5)
-- [#DEVDiscuss: HTMX](https://dev.to/devteam/devdiscuss-htmx-415g)
-- [Midpoint Reminder! — GitHub + DEV 2023 Hackathon](https://dev.to/devteam/midpoint-reminder-github-dev-2023-hackathon-lni)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-40jm)
 <!-- BLOG-POST-LIST:END -->
 
 
