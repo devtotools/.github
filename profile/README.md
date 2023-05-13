@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [How Would You Create the Perfect Coding Language?](https://dev.to/devteam/how-would-you-create-the-perfect-coding-language-3gad)
 - [#DEVDiscuss: What Happened to Web3?](https://dev.to/devteam/devdiscuss-what-happened-to-web3-11cl)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-3c91)
 - [Team or Solo: Which Path Leads to Project Success?](https://dev.to/devteam/team-or-solo-which-path-leads-to-project-success-337)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Sloan&#39;s Inbox: How Do Badges Work on DEV?](https://dev.to/devteam/sloans-inbox-how-do-badges-work-on-dev-5e1k)
 - [Welcome Thread - v224](https://dev.to/devteam/welcome-thread-v224-1d4g)
 - [How Can We Create Inclusive Spaces for Diverse Perspectives?](https://dev.to/devteam/how-can-we-create-inclusive-spaces-for-diverse-perspectives-4d4i)
-- [Best Practices for Writing on DEV: Listicles](https://dev.to/devteam/best-practices-for-writing-on-dev-listicles-16e5)
 <!-- BLOG-POST-LIST:END -->
 
 
