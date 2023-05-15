@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Music Monday — What are you listening to? &lpar;Jazz Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-jazz-edition-519k)
+- [Decoding Linux: Why Isn&#39;t It More Popular?](https://dev.to/devteam/decoding-linux-why-isnt-it-more-popular-3k4o)
 - [What&#39;s the Most Obscure Coding Language You&#39;ve Ever Encountered?](https://dev.to/devteam/whats-the-most-obscure-coding-language-youve-ever-encountered-3af)
 - [How Would You Create the Perfect Coding Language?](https://dev.to/devteam/how-would-you-create-the-perfect-coding-language-3gad)
 - [#DEVDiscuss: What Happened to Web3?](https://dev.to/devteam/devdiscuss-what-happened-to-web3-11cl)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [&quot;Single Digit&quot; Spotlight v1](https://dev.to/devteam/single-digit-spotlight-v1-63)
 - [Sloan&#39;s Inbox: Newbie Seeking Guidance on Real-life Project](https://dev.to/devteam/sloans-inbox-newbie-seeking-guidance-on-real-life-project-1lkn)
 - [Can Coding Create More Efficient and Effective Remote Work Environments?](https://dev.to/devteam/can-coding-create-more-efficient-and-effective-remote-work-environments-3a9g)
-- [Sloan&#39;s Inbox: How Do Badges Work on DEV?](https://dev.to/devteam/sloans-inbox-how-do-badges-work-on-dev-5e1k)
-- [Welcome Thread - v224](https://dev.to/devteam/welcome-thread-v224-1d4g)
 <!-- BLOG-POST-LIST:END -->
 
 
