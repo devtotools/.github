@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [It&#39;s the Final Stretch of the GitHub + DEV 2023 Hackathon 🎉](https://dev.to/devteam/its-the-final-stretch-of-the-github-dev-2023-hackathon-4218)
+- [Sloan&#39;s Inbox: Navigating Career Confusion in ICT Domain](https://dev.to/devteam/sloans-inbox-navigating-career-confusion-in-ict-domain-2fgi)
 - [Welcome Thread - v225](https://dev.to/devteam/welcome-thread-v225-4aa3)
 - [Best Practices for Writing on DEV: Topics](https://dev.to/devteam/best-practices-for-writing-on-dev-topics-1d0j)
-- [What Programming Language Would You Recommend to Someone Who&#39;s Not Naturally Inclined toward Coding?](https://dev.to/devteam/what-programming-language-would-you-recommend-to-someone-whos-not-naturally-inclined-toward-coding-1gcg)
 - [What Are Your Recent Coding Habits for Better Productivity or Quality?](https://dev.to/devteam/what-are-your-recent-coding-habits-for-better-productivity-or-quality-5ei3)
+- [What Programming Language Would You Recommend to Someone Who&#39;s Not Naturally Inclined toward Coding?](https://dev.to/devteam/what-programming-language-would-you-recommend-to-someone-whos-not-naturally-inclined-toward-coding-1gcg)
 - [#DEVDiscuss: Succeeding in OSS](https://dev.to/devteam/devdiscuss-succeeding-in-oss-57nl)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-ibc)
 - [Python&#39;s Practical Prowess: Where Does It Outshine Other Languages?](https://dev.to/devteam/pythons-practical-prowess-where-does-it-outshine-other-languages-29g8)
 - [Music Monday — What are you listening to? &lpar;Jazz Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-jazz-edition-519k)
-- [Decoding Linux: Why Isn&#39;t It More Popular?](https://dev.to/devteam/decoding-linux-why-isnt-it-more-popular-3k4o)
-- [What&#39;s the Most Obscure Coding Language You&#39;ve Ever Encountered?](https://dev.to/devteam/whats-the-most-obscure-coding-language-youve-ever-encountered-3af)
 <!-- BLOG-POST-LIST:END -->
 
 
