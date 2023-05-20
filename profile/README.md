@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What Coding Communities &amp; Forums Have Transformed Your Coding Journey?](https://dev.to/devteam/what-coding-communities-forums-have-transformed-your-coding-journey-kcl)
+- [What is Your Coding Anthem?](https://dev.to/devteam/what-is-your-coding-anthem-57eg)
+- [Sloan&#39;s Inbox: What&#39;s Your Advice on Where to Start and How to Study in the World of Coding?](https://dev.to/devteam/sloans-inbox-whats-your-advice-on-where-to-start-and-how-to-study-in-the-world-of-coding-45jh)
 - [#DEVDiscuss: How will new leadership affect Twitter &lpar;and the broader tech industry&rpar;?](https://dev.to/devteam/devdiscuss-how-will-new-leadership-affect-twitter-and-the-broader-tech-industry-2kon)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1k8i)
 - [Striking a Balance: User-friendliness vs. Decentralization in dApp Interfaces?](https://dev.to/devteam/striking-a-balance-user-friendliness-vs-decentralization-in-dapp-interfaces-2bo5)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [It&#39;s the Final Stretch of the GitHub + DEV 2023 Hackathon 🎉](https://dev.to/devteam/its-the-final-stretch-of-the-github-dev-2023-hackathon-4218)
 - [Sloan&#39;s Inbox: Navigating Career Confusion in ICT Domain](https://dev.to/devteam/sloans-inbox-navigating-career-confusion-in-ict-domain-2fgi)
 - [Welcome Thread - v225](https://dev.to/devteam/welcome-thread-v225-4aa3)
-- [Best Practices for Writing on DEV: Topics](https://dev.to/devteam/best-practices-for-writing-on-dev-topics-1d0j)
-- [What Are Your Recent Coding Habits for Better Productivity or Quality?](https://dev.to/devteam/what-are-your-recent-coding-habits-for-better-productivity-or-quality-5ei3)
-- [What Programming Language Would You Recommend to Someone Who&#39;s Not Naturally Inclined toward Coding?](https://dev.to/devteam/what-programming-language-would-you-recommend-to-someone-whos-not-naturally-inclined-toward-coding-1gcg)
 <!-- BLOG-POST-LIST:END -->
 
 
