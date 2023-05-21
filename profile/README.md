@@ -18,8 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
-- [What Coding Communities &amp; Forums Have Transformed Your Coding Journey?](https://dev.to/devteam/what-coding-communities-forums-have-transformed-your-coding-journey-kcl)
+- [Sci-Fi Sunday: Guess the Movie Quote &amp; Pass It On](https://dev.to/devteam/sci-fi-sunday-guess-the-movie-quote-pass-it-on-50d)
 - [What is Your Coding Anthem?](https://dev.to/devteam/what-is-your-coding-anthem-57eg)
+- [What Coding Communities &amp; Forums Have Transformed Your Coding Journey?](https://dev.to/devteam/what-coding-communities-forums-have-transformed-your-coding-journey-kcl)
 - [Sloan&#39;s Inbox: What&#39;s Your Advice on Where to Start and How to Study in the World of Coding?](https://dev.to/devteam/sloans-inbox-whats-your-advice-on-where-to-start-and-how-to-study-in-the-world-of-coding-45jh)
 - [#DEVDiscuss: How will new leadership affect Twitter &lpar;and the broader tech industry&rpar;?](https://dev.to/devteam/devdiscuss-how-will-new-leadership-affect-twitter-and-the-broader-tech-industry-2kon)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1k8i)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [&quot;Single Digit&quot; Spotlight v2](https://dev.to/devteam/single-digit-spotlight-v2-4n2b)
 - [It&#39;s the Final Stretch of the GitHub + DEV 2023 Hackathon 🎉](https://dev.to/devteam/its-the-final-stretch-of-the-github-dev-2023-hackathon-4218)
 - [Sloan&#39;s Inbox: Navigating Career Confusion in ICT Domain](https://dev.to/devteam/sloans-inbox-navigating-career-confusion-in-ict-domain-2fgi)
-- [Welcome Thread - v225](https://dev.to/devteam/welcome-thread-v225-4aa3)
 <!-- BLOG-POST-LIST:END -->
 
 
