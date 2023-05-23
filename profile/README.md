@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-jod)
+- [Leveling Up as an Experienced Coder: Is Continuing Education Worth It?](https://dev.to/devteam/leveling-up-as-an-experienced-coder-is-continuing-education-worth-it-4kgp)
 - [Music Monday — What are you listening to? &lpar;Blues Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-blues-edition-1djk)
 - [Last Week&#39;s News 🗞️2023-05-22](https://dev.to/devteam/last-weeks-news-464m)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-288c)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What Coding Communities &amp; Forums Have Transformed Your Coding Journey?](https://dev.to/devteam/what-coding-communities-forums-have-transformed-your-coding-journey-kcl)
 - [Sloan&#39;s Inbox: What&#39;s Your Advice on Where to Start and How to Study in the World of Coding?](https://dev.to/devteam/sloans-inbox-whats-your-advice-on-where-to-start-and-how-to-study-in-the-world-of-coding-45jh)
 - [#DEVDiscuss: How will new leadership affect Twitter &lpar;and the broader tech industry&rpar;?](https://dev.to/devteam/devdiscuss-how-will-new-leadership-affect-twitter-and-the-broader-tech-industry-2kon)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1k8i)
-- [Striking a Balance: User-friendliness vs. Decentralization in dApp Interfaces?](https://dev.to/devteam/striking-a-balance-user-friendliness-vs-decentralization-in-dapp-interfaces-2bo5)
 <!-- BLOG-POST-LIST:END -->
 
 
