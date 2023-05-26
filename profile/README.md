@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [#DEVDiscuss: Developer Portfolios](https://dev.to/devteam/devdiscuss-developer-portfolios-24i3)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-57gp)
+- [Tech Taboo: What&#39;s A Tech Trend You Just Can&#39;t Get Behind?](https://dev.to/devteam/tech-taboo-whats-a-tech-trend-you-just-cant-get-behind-2d45)
 - [Lesser Known Features of DEV — Embedding Call To Action &lpar;CTA&rpar; Buttons](https://dev.to/devteam/lesser-known-features-of-dev-embedding-call-to-action-cta-buttons-2gni)
-- [How Do You Balance Passion Projects &amp; Professional Commitments?](https://dev.to/devteam/how-do-you-balance-passion-projects-professional-commitments-59c5)
 - [Sloan&#39;s Inbox: How Do You Balance Values and Professional Work?](https://dev.to/devteam/sloans-inbox-how-do-you-balance-values-and-professional-work-1f6p)
+- [How Do You Balance Passion Projects &amp; Professional Commitments?](https://dev.to/devteam/how-do-you-balance-passion-projects-professional-commitments-59c5)
 - [Featured Mod of the Month: Christine Belzie](https://dev.to/devteam/featured-mod-of-the-month-christine-belzie-p09)
 - [Welcome Thread - v226](https://dev.to/devteam/welcome-thread-v226-126e)
 - [Who Are the Key Collaborators Supporting Coders in Your Organization?](https://dev.to/devteam/who-are-the-key-collaborators-supporting-coders-in-your-organization-228)
 - [#DEVDiscuss: Recovering From Burnout](https://dev.to/devteam/devdiscuss-recovering-from-burnout-1k2j)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-jod)
-- [Leveling Up as an Experienced Coder: Is Continuing Education Worth It?](https://dev.to/devteam/leveling-up-as-an-experienced-coder-is-continuing-education-worth-it-4kgp)
-- [Music Monday — What are you listening to? &lpar;Blues Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-blues-edition-1djk)
 <!-- BLOG-POST-LIST:END -->
 
 
