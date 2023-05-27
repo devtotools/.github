@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Is It Burnout or Job Dissatisfaction?](https://dev.to/devteam/is-it-burnout-or-job-dissatisfaction-3l4b)
+- [Single-Digit Spotlight v1](https://dev.to/devteam/single-digit-spotlight-v1-4gfc)
 - [#DEVDiscuss: Developer Portfolios](https://dev.to/devteam/devdiscuss-developer-portfolios-24i3)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-57gp)
 - [Tech Taboo: What&#39;s A Tech Trend You Just Can&#39;t Get Behind?](https://dev.to/devteam/tech-taboo-whats-a-tech-trend-you-just-cant-get-behind-2d45)
 - [Lesser Known Features of DEV — Embedding Call To Action &lpar;CTA&rpar; Buttons](https://dev.to/devteam/lesser-known-features-of-dev-embedding-call-to-action-cta-buttons-2gni)
-- [Sloan&#39;s Inbox: How Do You Balance Values and Professional Work?](https://dev.to/devteam/sloans-inbox-how-do-you-balance-values-and-professional-work-1f6p)
 - [How Do You Balance Passion Projects &amp; Professional Commitments?](https://dev.to/devteam/how-do-you-balance-passion-projects-professional-commitments-59c5)
+- [Sloan&#39;s Inbox: How Do You Balance Values and Professional Work?](https://dev.to/devteam/sloans-inbox-how-do-you-balance-values-and-professional-work-1f6p)
 - [Featured Mod of the Month: Christine Belzie](https://dev.to/devteam/featured-mod-of-the-month-christine-belzie-p09)
 - [Welcome Thread - v226](https://dev.to/devteam/welcome-thread-v226-126e)
-- [Who Are the Key Collaborators Supporting Coders in Your Organization?](https://dev.to/devteam/who-are-the-key-collaborators-supporting-coders-in-your-organization-228)
-- [#DEVDiscuss: Recovering From Burnout](https://dev.to/devteam/devdiscuss-recovering-from-burnout-1k2j)
 <!-- BLOG-POST-LIST:END -->
 
 
