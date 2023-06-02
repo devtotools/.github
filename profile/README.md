@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [#DEVDiscuss: Geoffrey Hinton Quits Google](https://dev.to/devteam/devdiscuss-geoffrey-hinton-quits-google-2a85)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-35fe)
+- [When Sci-fi Gets Real: Which Story Hits Too Close to Home?](https://dev.to/devteam/when-sci-fi-gets-real-which-story-hits-too-close-to-home-2n86)
 - [Single-Digit Spotlight v2](https://dev.to/devteam/single-digit-spotlight-v2-10b2)
 - [Happy Pride Month, DEV Community! 🏳️‍🌈](https://dev.to/devteam/happy-pride-month-dev-community-298e)
 - [Representation Matters 🌈 Who Inspires You?](https://dev.to/devteam/representation-matters-who-inspires-you-1ip0)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Welcome Thread - v227](https://dev.to/devteam/welcome-thread-v227-2lb3)
 - [Share Your Expertise &amp; Stories with #devpride this Pride Month! 🌈](https://dev.to/devteam/share-your-expertise-stories-with-devpride-this-pride-month-39mc)
 - [#DEVDiscuss: What&#39;s New in ES2023?](https://dev.to/devteam/devdiscuss-whats-new-in-es2023-3d8b)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1cb6)
-- [What&#39;s the Most Unusual Thing You&#39;ve Discovered While Coding?](https://dev.to/devteam/whats-the-most-unusual-thing-youve-discovered-while-coding-1l21)
-- [Music Monday — What are you listening to? &lpar;Not Your Homeland Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-not-your-homeland-edition-gnm)
 <!-- BLOG-POST-LIST:END -->
 
 
