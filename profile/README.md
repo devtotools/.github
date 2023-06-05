@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Music Monday — What are you listening to? &lpar;Strange Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-strange-edition-2d00)
+- [What&#39;s Your Approach to Data Migration &amp; Database Versioning?](https://dev.to/devteam/whats-your-approach-to-data-migration-database-versioning-443o)
 - [How Have You Refractored or Optimized Code for Improved Performance?](https://dev.to/devteam/how-have-you-refractored-or-optimized-code-for-improved-performance-2791)
 - [What&#39;s the Strangest Support Request You&#39;ve Ever Received?](https://dev.to/devteam/whats-the-strangest-support-request-youve-ever-received-3gdc)
 - [#DEVDiscuss: Geoffrey Hinton Quits Google](https://dev.to/devteam/devdiscuss-geoffrey-hinton-quits-google-2a85)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Single-Digit Spotlight v2](https://dev.to/devteam/single-digit-spotlight-v2-10b2)
 - [Happy Pride Month, DEV Community! 🏳️‍🌈](https://dev.to/devteam/happy-pride-month-dev-community-298e)
 - [Sloan&#39;s Inbox: How to Approach Your Manager When Interviewing for a New Job?](https://dev.to/devteam/sloans-inbox-how-to-approach-your-manager-when-interviewing-for-a-new-job-129m)
-- [Representation Matters 🌈 Who Inspires You?](https://dev.to/devteam/representation-matters-who-inspires-you-1ip0)
-- [Welcome Thread - v227](https://dev.to/devteam/welcome-thread-v227-2lb3)
 <!-- BLOG-POST-LIST:END -->
 
 
