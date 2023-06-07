@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Community Spotlight: Out in Tech](https://dev.to/devteam/community-spotlight-out-in-tech-3c78)
+- [Catch DEV Lead Software Engineer Ridhwana Khan’s talk at Rubyday 2023](https://dev.to/devteam/catch-dev-lead-software-engineer-ridhwana-khans-talk-at-rubyday-2023-34i1)
+- [Welcome Thread - v228](https://dev.to/devteam/welcome-thread-v228-3jal)
+- [What Was Your First Cell Phone? 🙌📱](https://dev.to/devteam/what-was-your-first-cell-phone-4gko)
 - [#DEVDiscuss: Optimizing Dockerfiles](https://dev.to/devteam/devdiscuss-optimizing-dockerfiles-an1)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-34h0)
 - [What Are Your Strategies for Enhancing Code Reusability &amp; Maintainability?](https://dev.to/devteam/what-are-your-strategies-for-enhancing-code-reusability-maintainability-4bc4)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-2jcf)
 - [Music Monday — What are you listening to? &lpar;Strange Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-strange-edition-2d00)
 - [What&#39;s Your Approach to Data Migration &amp; Database Versioning?](https://dev.to/devteam/whats-your-approach-to-data-migration-database-versioning-443o)
-- [How Have You Refractored or Optimized Code for Improved Performance?](https://dev.to/devteam/how-have-you-refractored-or-optimized-code-for-improved-performance-2791)
-- [What&#39;s the Strangest Support Request You&#39;ve Ever Received?](https://dev.to/devteam/whats-the-strangest-support-request-youve-ever-received-3gdc)
-- [#DEVDiscuss: Geoffrey Hinton Quits Google](https://dev.to/devteam/devdiscuss-geoffrey-hinton-quits-google-2a85)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-35fe)
 <!-- BLOG-POST-LIST:END -->
 
 
