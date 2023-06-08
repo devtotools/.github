@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Fictional Tech Made Real: Your Choice? Why?](https://dev.to/devteam/fictional-tech-made-real-your-choice-why-lea)
+- [Sloan&#39;s Inbox: What Skills Do I Need to Land a Jr. Position?](https://dev.to/devteam/sloans-inbox-what-skills-do-i-need-to-land-a-jr-position-5eg4)
 - [Community Spotlight: Out in Tech](https://dev.to/devteam/community-spotlight-out-in-tech-3c78)
 - [Catch DEV Lead Software Engineer Ridhwana Khan’s talk at Rubyday 2023](https://dev.to/devteam/catch-dev-lead-software-engineer-ridhwana-khans-talk-at-rubyday-2023-34i1)
 - [Welcome Thread - v228](https://dev.to/devteam/welcome-thread-v228-3jal)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-34h0)
 - [What Are Your Strategies for Enhancing Code Reusability &amp; Maintainability?](https://dev.to/devteam/what-are-your-strategies-for-enhancing-code-reusability-maintainability-4bc4)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-2jcf)
-- [Music Monday — What are you listening to? &lpar;Strange Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-strange-edition-2d00)
-- [What&#39;s Your Approach to Data Migration &amp; Database Versioning?](https://dev.to/devteam/whats-your-approach-to-data-migration-database-versioning-443o)
 <!-- BLOG-POST-LIST:END -->
 
 
