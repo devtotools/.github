@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
-- [Fictional Tech Made Real: Your Choice? Why?](https://dev.to/devteam/fictional-tech-made-real-your-choice-why-lea)
+- [#DEVDiscuss: WWDC 2023](https://dev.to/devteam/devdiscuss-wwdc-2023-35b6)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5a1i)
+- [Debug or Refactor? The Coding Dilemma!](https://dev.to/devteam/debug-or-refactor-the-coding-dilemma-2e2j)
 - [Sloan&#39;s Inbox: What Skills Do I Need to Land a Jr. Position?](https://dev.to/devteam/sloans-inbox-what-skills-do-i-need-to-land-a-jr-position-5eg4)
+- [Fictional Tech Made Real: Your Choice? Why?](https://dev.to/devteam/fictional-tech-made-real-your-choice-why-lea)
 - [Community Spotlight: Out in Tech](https://dev.to/devteam/community-spotlight-out-in-tech-3c78)
 - [Catch DEV Lead Software Engineer Ridhwana Khan’s talk at Rubyday 2023](https://dev.to/devteam/catch-dev-lead-software-engineer-ridhwana-khans-talk-at-rubyday-2023-34i1)
 - [Welcome Thread - v228](https://dev.to/devteam/welcome-thread-v228-3jal)
 - [What Was Your First Cell Phone? 🙌📱](https://dev.to/devteam/what-was-your-first-cell-phone-4gko)
 - [#DEVDiscuss: Optimizing Dockerfiles](https://dev.to/devteam/devdiscuss-optimizing-dockerfiles-an1)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-34h0)
-- [What Are Your Strategies for Enhancing Code Reusability &amp; Maintainability?](https://dev.to/devteam/what-are-your-strategies-for-enhancing-code-reusability-maintainability-4bc4)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-2jcf)
 <!-- BLOG-POST-LIST:END -->
 
 
