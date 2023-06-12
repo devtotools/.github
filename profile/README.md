@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Music Monday — What are you listening to? &lpar;Pop Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-pop-edition-2652)
+- [Getting Project Timelines Right: How Do You Estimate Accurately?](https://dev.to/devteam/getting-project-timelines-right-how-do-you-estimate-accurately-1ceh)
 - [Dealing with Code Surprises: How Do You Handle Unexpected Results?](https://dev.to/devteam/dealing-with-code-surprises-how-do-you-handle-unexpected-results-4n0h)
 - [How Do You Balance Speed &amp; Quality When Delivering Code?](https://dev.to/devteam/how-do-you-balance-speed-quality-when-delivering-code-19co)
 - [#DEVDiscuss: WWDC 2023](https://dev.to/devteam/devdiscuss-wwdc-2023-35b6)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Sloan&#39;s Inbox: What Skills Do I Need to Land a Jr. Position?](https://dev.to/devteam/sloans-inbox-what-skills-do-i-need-to-land-a-jr-position-5eg4)
 - [Fictional Tech Made Real: Your Choice? Why?](https://dev.to/devteam/fictional-tech-made-real-your-choice-why-lea)
 - [Community Spotlight: Out in Tech](https://dev.to/devteam/community-spotlight-out-in-tech-3c78)
-- [Catch DEV Lead Software Engineer Ridhwana Khan’s talk at Rubyday 2023](https://dev.to/devteam/catch-dev-lead-software-engineer-ridhwana-khans-talk-at-rubyday-2023-34i1)
-- [Welcome Thread - v228](https://dev.to/devteam/welcome-thread-v228-3jal)
 <!-- BLOG-POST-LIST:END -->
 
 
