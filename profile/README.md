@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [#DEVDiscuss: Ultimate Tips for Writing Technical Content](https://dev.to/devteam/devdiscuss-ultimate-tips-for-writing-technical-content-2pae)
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-10ni)
+- [Freelance Devs: How Do You Secure Long-Term Clients and Maintain a Stable Income?](https://dev.to/devteam/freelance-devs-how-do-you-secure-long-term-clients-and-maintain-a-stable-income-a5p)
 - [Music Monday — What are you listening to? &lpar;Pop Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-pop-edition-2652)
 - [Getting Project Timelines Right: How Do You Estimate Accurately?](https://dev.to/devteam/getting-project-timelines-right-how-do-you-estimate-accurately-1ceh)
 - [Dealing with Code Surprises: How Do You Handle Unexpected Results?](https://dev.to/devteam/dealing-with-code-surprises-how-do-you-handle-unexpected-results-4n0h)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [#DEVDiscuss: WWDC 2023](https://dev.to/devteam/devdiscuss-wwdc-2023-35b6)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5a1i)
 - [Debug or Refactor? The Coding Dilemma!](https://dev.to/devteam/debug-or-refactor-the-coding-dilemma-2e2j)
-- [Sloan&#39;s Inbox: What Skills Do I Need to Land a Jr. Position?](https://dev.to/devteam/sloans-inbox-what-skills-do-i-need-to-land-a-jr-position-5eg4)
-- [Fictional Tech Made Real: Your Choice? Why?](https://dev.to/devteam/fictional-tech-made-real-your-choice-why-lea)
-- [Community Spotlight: Out in Tech](https://dev.to/devteam/community-spotlight-out-in-tech-3c78)
 <!-- BLOG-POST-LIST:END -->
 
 
