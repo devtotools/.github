@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Catch DEV Co-Founder Ben Halpern’s Keynote at RubyConf TH 2023](https://dev.to/devteam/catch-dev-co-founder-ben-halperns-keynote-at-rubyconf-th-2023-3keo)
+- [Welcome Thread - v229](https://dev.to/devteam/welcome-thread-v229-5l4)
+- [Cracking the Work-Life Balance Code: Unconventional Strategies for Remote Developers](https://dev.to/devteam/cracking-the-work-life-balance-code-unconventional-strategies-for-remote-developers-32jg)
+- [GitHub + DEV 2023 Hackathon Winners, Announced!](https://dev.to/devteam/github-dev-2023-hackathon-winners-announced-236o)
 - [#DEVDiscuss: Ultimate Tips for Writing Technical Content](https://dev.to/devteam/devdiscuss-ultimate-tips-for-writing-technical-content-2pae)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-10ni)
 - [Freelance Devs: How Do You Secure Long-Term Clients and Maintain a Stable Income?](https://dev.to/devteam/freelance-devs-how-do-you-secure-long-term-clients-and-maintain-a-stable-income-a5p)
 - [Music Monday — What are you listening to? &lpar;Pop Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-pop-edition-2652)
 - [Getting Project Timelines Right: How Do You Estimate Accurately?](https://dev.to/devteam/getting-project-timelines-right-how-do-you-estimate-accurately-1ceh)
 - [Dealing with Code Surprises: How Do You Handle Unexpected Results?](https://dev.to/devteam/dealing-with-code-surprises-how-do-you-handle-unexpected-results-4n0h)
-- [How Do You Balance Speed &amp; Quality When Delivering Code?](https://dev.to/devteam/how-do-you-balance-speed-quality-when-delivering-code-19co)
-- [#DEVDiscuss: WWDC 2023](https://dev.to/devteam/devdiscuss-wwdc-2023-35b6)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5a1i)
-- [Debug or Refactor? The Coding Dilemma!](https://dev.to/devteam/debug-or-refactor-the-coding-dilemma-2e2j)
 <!-- BLOG-POST-LIST:END -->
 
 
