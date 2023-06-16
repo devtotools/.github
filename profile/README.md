@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [#DEVDiscuss: When do I have a Minimum Viable Product &lpar;MVP&rpar;?](https://dev.to/devteam/devdiscuss-when-do-i-have-a-minimum-viable-product-mvp-4j41)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5345)
+- [Do Code Comments Deserve a Special Spot or Can Well-Written Code Speak for Itself?](https://dev.to/devteam/do-code-comments-deserve-a-special-spot-or-can-well-written-code-speak-for-itself-16hm)
 - [Git for All Developers: Essential or Optional?](https://dev.to/devteam/git-for-all-developers-essential-or-optional-50ml)
 - [Sloan&#39;s Inbox: What Are Your Favorite Tags, Orgs, and Coding Challenges?](https://dev.to/devteam/sloans-inbox-what-are-your-favorite-tags-orgs-and-coding-challenges-jjm)
 - [Catch DEV Co-Founder Ben Halpern’s Keynote at RubyConf TH 2023](https://dev.to/devteam/catch-dev-co-founder-ben-halperns-keynote-at-rubyconf-th-2023-3keo)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Cracking the Work-Life Balance Code: Unconventional Strategies for Remote Developers](https://dev.to/devteam/cracking-the-work-life-balance-code-unconventional-strategies-for-remote-developers-32jg)
 - [GitHub + DEV 2023 Hackathon Winners, Announced!](https://dev.to/devteam/github-dev-2023-hackathon-winners-announced-236o)
 - [#DEVDiscuss: Ultimate Tips for Writing Technical Content](https://dev.to/devteam/devdiscuss-ultimate-tips-for-writing-technical-content-2pae)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-10ni)
-- [Freelance Devs: How Do You Secure Long-Term Clients and Maintain a Stable Income?](https://dev.to/devteam/freelance-devs-how-do-you-secure-long-term-clients-and-maintain-a-stable-income-a5p)
-- [Music Monday — What are you listening to? &lpar;Pop Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-pop-edition-2652)
 <!-- BLOG-POST-LIST:END -->
 
 
