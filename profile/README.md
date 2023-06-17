@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s the Craziest Variable or Function Name You&#39;ve Encountered?](https://dev.to/devteam/whats-the-craziest-variable-or-function-name-youve-encountered-101k)
 - [#DEVDiscuss: When do I have a Minimum Viable Product &lpar;MVP&rpar;?](https://dev.to/devteam/devdiscuss-when-do-i-have-a-minimum-viable-product-mvp-4j41)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5345)
 - [Do Code Comments Deserve a Special Spot or Can Well-Written Code Speak for Itself?](https://dev.to/devteam/do-code-comments-deserve-a-special-spot-or-can-well-written-code-speak-for-itself-16hm)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Welcome Thread - v229](https://dev.to/devteam/welcome-thread-v229-5l4)
 - [Cracking the Work-Life Balance Code: Unconventional Strategies for Remote Developers](https://dev.to/devteam/cracking-the-work-life-balance-code-unconventional-strategies-for-remote-developers-32jg)
 - [GitHub + DEV 2023 Hackathon Winners, Announced!](https://dev.to/devteam/github-dev-2023-hackathon-winners-announced-236o)
-- [#DEVDiscuss: Ultimate Tips for Writing Technical Content](https://dev.to/devteam/devdiscuss-ultimate-tips-for-writing-technical-content-2pae)
 <!-- BLOG-POST-LIST:END -->
 
 
