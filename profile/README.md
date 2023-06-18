@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Open Source or Personal Focus: What&#39;s the Best Path for Developers?](https://dev.to/devteam/open-source-or-personal-focus-whats-the-best-path-for-developers-7n1)
 - [What&#39;s the Craziest Variable or Function Name You&#39;ve Encountered?](https://dev.to/devteam/whats-the-craziest-variable-or-function-name-youve-encountered-101k)
 - [#DEVDiscuss: When do I have a Minimum Viable Product &lpar;MVP&rpar;?](https://dev.to/devteam/devdiscuss-when-do-i-have-a-minimum-viable-product-mvp-4j41)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5345)
 - [Do Code Comments Deserve a Special Spot or Can Well-Written Code Speak for Itself?](https://dev.to/devteam/do-code-comments-deserve-a-special-spot-or-can-well-written-code-speak-for-itself-16hm)
-- [Git for All Developers: Essential or Optional?](https://dev.to/devteam/git-for-all-developers-essential-or-optional-50ml)
 - [Sloan&#39;s Inbox: What Are Your Favorite Tags, Orgs, and Coding Challenges?](https://dev.to/devteam/sloans-inbox-what-are-your-favorite-tags-orgs-and-coding-challenges-jjm)
+- [Git for All Developers: Essential or Optional?](https://dev.to/devteam/git-for-all-developers-essential-or-optional-50ml)
 - [Catch DEV Co-Founder Ben Halpern’s Keynote at RubyConf TH 2023](https://dev.to/devteam/catch-dev-co-founder-ben-halperns-keynote-at-rubyconf-th-2023-3keo)
 - [Welcome Thread - v229](https://dev.to/devteam/welcome-thread-v229-5l4)
 - [Cracking the Work-Life Balance Code: Unconventional Strategies for Remote Developers](https://dev.to/devteam/cracking-the-work-life-balance-code-unconventional-strategies-for-remote-developers-32jg)
-- [GitHub + DEV 2023 Hackathon Winners, Announced!](https://dev.to/devteam/github-dev-2023-hackathon-winners-announced-236o)
 <!-- BLOG-POST-LIST:END -->
 
 
