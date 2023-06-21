@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Announcing the refine + DEV Hackathon!](https://dev.to/devteam/announcing-the-refine-dev-hackathon-29fn)
+- [📢 Uplifting Black Technologists: Spotlight on Black Girls CODE](https://dev.to/devteam/uplifting-black-technologists-spotlight-on-black-girls-code-5dee)
+- [Welcome Thread - v230](https://dev.to/devteam/welcome-thread-v232-3l6i)
+- [Embracing Failure: What&#39;s Your Most Valuable Lesson as a Developer?](https://dev.to/devteam/embracing-failure-whats-your-most-valuable-lesson-as-a-developer-396n)
+- [#DEVDiscuss: Reddit&#39;s API Changes](https://dev.to/devteam/devdiscuss-reddits-api-changes-40dc)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-5368)
-- [What Global Problem Would Your Tech Solution Solve?](https://dev.to/devteam/what-global-problem-would-your-tech-solution-solve-fe1)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-25j9)
+- [What Global Problem Would Your Tech Solution Solve?](https://dev.to/devteam/what-global-problem-would-your-tech-solution-solve-fe1)
 - [Music Monday — What are you listening to? &lpar;Music You&#39;ve Made Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-music-youve-made-edition-31b8)
-- [Reimagining the Programming Industry: What Would You Change and Why?](https://dev.to/devteam/reimagining-the-programming-industry-what-would-you-change-and-why-2ld2)
 - [📢 Uplifting Black Technologists: Spotlight on CODE2040](https://dev.to/devteam/uplifting-black-technologists-spotlight-on-code2040-56o3)
-- [Honoring Juneteenth: Reflecting on History &amp; Empowering Change](https://dev.to/devteam/honoring-juneteenth-reflecting-on-history-empowering-change-2ang)
-- [Open Source or Personal Focus: What&#39;s the Best Path for Developers?](https://dev.to/devteam/open-source-or-personal-focus-whats-the-best-path-for-developers-7n1)
-- [What&#39;s the Craziest Variable or Function Name You&#39;ve Encountered?](https://dev.to/devteam/whats-the-craziest-variable-or-function-name-youve-encountered-101k)
-- [#DEVDiscuss: When do I have a Minimum Viable Product &lpar;MVP&rpar;?](https://dev.to/devteam/devdiscuss-when-do-i-have-a-minimum-viable-product-mvp-4j41)
 <!-- BLOG-POST-LIST:END -->
 
 
