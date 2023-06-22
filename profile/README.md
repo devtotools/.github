@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s the Most Influential Coding Book Ever?](https://dev.to/devteam/whats-the-most-influential-coding-book-ever-mia)
+- [Sloan&#39;s Inbox: How Do I Overcome Language Barriers in the Coding Community?](https://dev.to/devteam/sloans-inbox-how-do-i-overcome-language-barriers-in-the-coding-community-447l)
 - [Announcing the refine + DEV Hackathon!](https://dev.to/devteam/announcing-the-refine-dev-hackathon-29fn)
 - [📢 Uplifting Black Technologists: Spotlight on Black Girls CODE](https://dev.to/devteam/uplifting-black-technologists-spotlight-on-black-girls-code-5dee)
 - [Welcome Thread - v230](https://dev.to/devteam/welcome-thread-v232-3l6i)
 - [Embracing Failure: What&#39;s Your Most Valuable Lesson as a Developer?](https://dev.to/devteam/embracing-failure-whats-your-most-valuable-lesson-as-a-developer-396n)
 - [#DEVDiscuss: Reddit&#39;s API Changes](https://dev.to/devteam/devdiscuss-reddits-api-changes-40dc)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-5368)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-25j9)
 - [What Global Problem Would Your Tech Solution Solve?](https://dev.to/devteam/what-global-problem-would-your-tech-solution-solve-fe1)
-- [Music Monday — What are you listening to? &lpar;Music You&#39;ve Made Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-music-youve-made-edition-31b8)
-- [📢 Uplifting Black Technologists: Spotlight on CODE2040](https://dev.to/devteam/uplifting-black-technologists-spotlight-on-code2040-56o3)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-25j9)
 <!-- BLOG-POST-LIST:END -->
 
 
