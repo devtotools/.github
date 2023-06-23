@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [#DEVDiscuss: What&#39;s the Future of Careers in Web Dev?](https://dev.to/devteam/devdiscuss-should-web-devs-diversify-2f4g)
+- [📢 Uplifting Black Technologists: Spotlight on Black Tech Pipeline](https://dev.to/devteam/uplifting-black-technologists-spotlight-on-black-tech-pipeline-53e6)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4p1o)
+- [Which Programming Languages Have You Explored Lately?](https://dev.to/devteam/which-programming-languages-have-you-explored-lately-2ffm)
 - [What&#39;s the Most Influential Coding Book Ever?](https://dev.to/devteam/whats-the-most-influential-coding-book-ever-mia)
 - [Sloan&#39;s Inbox: How Do I Overcome Language Barriers in the Coding Community?](https://dev.to/devteam/sloans-inbox-how-do-i-overcome-language-barriers-in-the-coding-community-447l)
 - [Announcing the refine + DEV Hackathon!](https://dev.to/devteam/announcing-the-refine-dev-hackathon-29fn)
 - [📢 Uplifting Black Technologists: Spotlight on Black Girls CODE](https://dev.to/devteam/uplifting-black-technologists-spotlight-on-black-girls-code-5dee)
 - [Welcome Thread - v230](https://dev.to/devteam/welcome-thread-v232-3l6i)
 - [Embracing Failure: What&#39;s Your Most Valuable Lesson as a Developer?](https://dev.to/devteam/embracing-failure-whats-your-most-valuable-lesson-as-a-developer-396n)
-- [#DEVDiscuss: Reddit&#39;s API Changes](https://dev.to/devteam/devdiscuss-reddits-api-changes-40dc)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-5368)
-- [What Global Problem Would Your Tech Solution Solve?](https://dev.to/devteam/what-global-problem-would-your-tech-solution-solve-fe1)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-25j9)
 <!-- BLOG-POST-LIST:END -->
 
 
