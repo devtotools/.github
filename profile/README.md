@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Open-Source Software: Catalyst for Software Revolution?](https://dev.to/devteam/open-source-software-catalyst-for-software-revolution-5f4d)
 - [#DEVDiscuss: What&#39;s the Future of Careers in Web Dev?](https://dev.to/devteam/devdiscuss-should-web-devs-diversify-2f4g)
 - [📢 Uplifting Black Technologists: Spotlight on Black Tech Pipeline](https://dev.to/devteam/uplifting-black-technologists-spotlight-on-black-tech-pipeline-53e6)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4p1o)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Announcing the refine + DEV Hackathon!](https://dev.to/devteam/announcing-the-refine-dev-hackathon-29fn)
 - [📢 Uplifting Black Technologists: Spotlight on Black Girls CODE](https://dev.to/devteam/uplifting-black-technologists-spotlight-on-black-girls-code-5dee)
 - [Welcome Thread - v230](https://dev.to/devteam/welcome-thread-v232-3l6i)
-- [Embracing Failure: What&#39;s Your Most Valuable Lesson as a Developer?](https://dev.to/devteam/embracing-failure-whats-your-most-valuable-lesson-as-a-developer-396n)
 <!-- BLOG-POST-LIST:END -->
 
 
