@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome Thread - v231](https://dev.to/devteam/welcome-thread-v233-5h0a)
+- [Design Your Missing Emoji: What Emoji Do You Need Daily?](https://dev.to/devteam/design-your-missing-emoji-what-emoji-do-you-need-daily-3mjg)
 - [#DEVDiscuss: Developing SaaS Products](https://dev.to/devteam/devdiscuss-developing-saas-products-2kob)
 - [Featured Mod of the Month: Jeff Jessie](https://dev.to/devteam/featured-mod-of-the-month-jeff-jessie-5b6f)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-2cg4)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Happy 111th Birthday, Alan Turing!](https://dev.to/devteam/happy-111th-birthday-alan-turing-5271)
 - [What&#39;s One Thing You&#39;d Change about Coding Education?](https://dev.to/devteam/whats-one-thing-youd-change-about-coding-education-nd6)
 - [Music Monday — What are you listening to? &lpar;Sunny Weather Edition ☀️&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-sunny-weather-edition--1j5d)
-- [The Online Community Chronicles: Where Did Your Digital Adventure Begin?](https://dev.to/devteam/the-online-community-chronicles-where-did-your-digital-adventure-begin-3f2p)
-- [Open-Source Software: Catalyst for Software Revolution?](https://dev.to/devteam/open-source-software-catalyst-for-software-revolution-5f4d)
 <!-- BLOG-POST-LIST:END -->
 
 
