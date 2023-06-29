@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Sloan&#39;s Inbox: What is the Secret to a Truly Great Portfolio?](https://dev.to/devteam/sloans-inbox-what-is-the-secret-to-a-truly-great-portfolio-2ae)
+- [Hidden Gem&lpar;s&rpar;: What Are Your Favorite Lesser-Known Ruby Features &amp; Techniques? 💎💻](https://dev.to/devteam/hidden-gems-what-are-your-favorite-lesser-known-ruby-features-techniques-4m88)
 - [Welcome Thread - v231](https://dev.to/devteam/welcome-thread-v233-5h0a)
 - [Design Your Missing Emoji: What Emoji Do You Need Daily?](https://dev.to/devteam/design-your-missing-emoji-what-emoji-do-you-need-daily-3mjg)
 - [#DEVDiscuss: Developing SaaS Products](https://dev.to/devteam/devdiscuss-developing-saas-products-2kob)
 - [Featured Mod of the Month: Jeff Jessie](https://dev.to/devteam/featured-mod-of-the-month-jeff-jessie-5b6f)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-2cg4)
-- [Best Practices for Memory Management in C++: How Do You Prevent Leaks and Optimize Resource Usage?](https://dev.to/devteam/best-practices-for-memory-management-in-c-how-do-you-prevent-leaks-and-optimize-resource-usage-277b)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-3gje)
+- [Best Practices for Memory Management in C++: How Do You Prevent Leaks and Optimize Resource Usage?](https://dev.to/devteam/best-practices-for-memory-management-in-c-how-do-you-prevent-leaks-and-optimize-resource-usage-277b)
 - [Happy 111th Birthday, Alan Turing!](https://dev.to/devteam/happy-111th-birthday-alan-turing-5271)
-- [What&#39;s One Thing You&#39;d Change about Coding Education?](https://dev.to/devteam/whats-one-thing-youd-change-about-coding-education-nd6)
-- [Music Monday — What are you listening to? &lpar;Sunny Weather Edition ☀️&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-sunny-weather-edition--1j5d)
 <!-- BLOG-POST-LIST:END -->
 
 
