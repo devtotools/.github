@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s the Best Name for a Coding-inspired Superhero?](https://dev.to/devteam/whats-the-best-name-for-a-coding-inspired-superhero-4mc0)
 - [#DEVDiscuss: ChatGPT Lawsuits](https://dev.to/devteam/devdiscuss-chatgpt-lawsuits-p3o)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-10gb)
 - [Finding Fulfillment in Coding: What Lights You Up?](https://dev.to/devteam/finding-fulfillment-in-coding-what-lights-you-up-2cj6)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Design Your Missing Emoji: What Emoji Do You Need Daily?](https://dev.to/devteam/design-your-missing-emoji-what-emoji-do-you-need-daily-3mjg)
 - [#DEVDiscuss: Developing SaaS Products](https://dev.to/devteam/devdiscuss-developing-saas-products-2kob)
 - [Featured Mod of the Month: Jeff Jessie](https://dev.to/devteam/featured-mod-of-the-month-jeff-jessie-5b6f)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-2cg4)
 <!-- BLOG-POST-LIST:END -->
 
 
