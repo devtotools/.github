@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1n4l)
+- [Share Your Star Wars-inspired BBQ Creations](https://dev.to/devteam/share-your-star-wars-inspired-bbq-creations-2i13)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-ek1)
 - [Music Monday — What are you listening to? &lpar;Reggae Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-reggae-edition-3f75)
 - [Have You Used Python in Unexpected Ways?](https://dev.to/devteam/have-you-used-python-in-unexpected-ways-5fdm)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [#DEVDiscuss: ChatGPT Lawsuits](https://dev.to/devteam/devdiscuss-chatgpt-lawsuits-p3o)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-10gb)
 - [Finding Fulfillment in Coding: What Lights You Up?](https://dev.to/devteam/finding-fulfillment-in-coding-what-lights-you-up-2cj6)
-- [Sloan&#39;s Inbox: What is the Secret to a Truly Great Portfolio?](https://dev.to/devteam/sloans-inbox-what-is-the-secret-to-a-truly-great-portfolio-2ae)
-- [Hidden Gem&lpar;s&rpar;: What Are Your Favorite Lesser-Known Ruby Features &amp; Techniques? 💎💻](https://dev.to/devteam/hidden-gems-what-are-your-favorite-lesser-known-ruby-features-techniques-4m88)
 <!-- BLOG-POST-LIST:END -->
 
 
