@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome Thread - v232](https://dev.to/devteam/welcome-thread-v234-3ig8)
+- [Cutting-Edge or Stable: Which Technology Journey Would You Embark On?](https://dev.to/devteam/cutting-edge-or-stable-which-technology-journey-would-you-embark-on-11k7)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1n4l)
 - [Share Your Star Wars-inspired BBQ Creations](https://dev.to/devteam/share-your-star-wars-inspired-bbq-creations-2i13)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-ek1)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Code Reuse and Modularization: How Do You Maximize Efficiency and Promote Reusability?](https://dev.to/devteam/code-reuse-and-modularization-how-do-you-maximize-efficiency-and-promote-reusability-475d)
 - [What&#39;s the Best Name for a Coding-inspired Superhero?](https://dev.to/devteam/whats-the-best-name-for-a-coding-inspired-superhero-4mc0)
 - [#DEVDiscuss: ChatGPT Lawsuits](https://dev.to/devteam/devdiscuss-chatgpt-lawsuits-p3o)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-10gb)
-- [Finding Fulfillment in Coding: What Lights You Up?](https://dev.to/devteam/finding-fulfillment-in-coding-what-lights-you-up-2cj6)
 <!-- BLOG-POST-LIST:END -->
 
 
