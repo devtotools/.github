@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Sloan&#39;s Inbox: How Do You Find a Mentor That Is Right for You?](https://dev.to/devteam/sloans-inbox-how-do-you-find-a-mentor-that-is-right-for-you-4l6a)
+- [How Do You Foster Accountability &amp; Meet Deadlines in Coding Teams?](https://dev.to/devteam/how-do-you-foster-accountability-meet-deadlines-in-coding-teams-3dcm)
 - [Welcome Thread - v232](https://dev.to/devteam/welcome-thread-v234-3ig8)
 - [Cutting-Edge or Stable: Which Technology Journey Would You Embark On?](https://dev.to/devteam/cutting-edge-or-stable-which-technology-journey-would-you-embark-on-11k7)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1n4l)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Music Monday — What are you listening to? &lpar;Reggae Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-reggae-edition-3f75)
 - [Have You Used Python in Unexpected Ways?](https://dev.to/devteam/have-you-used-python-in-unexpected-ways-5fdm)
 - [Code Reuse and Modularization: How Do You Maximize Efficiency and Promote Reusability?](https://dev.to/devteam/code-reuse-and-modularization-how-do-you-maximize-efficiency-and-promote-reusability-475d)
-- [What&#39;s the Best Name for a Coding-inspired Superhero?](https://dev.to/devteam/whats-the-best-name-for-a-coding-inspired-superhero-4mc0)
-- [#DEVDiscuss: ChatGPT Lawsuits](https://dev.to/devteam/devdiscuss-chatgpt-lawsuits-p3o)
 <!-- BLOG-POST-LIST:END -->
 
 
