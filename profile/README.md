@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What Are Your Favorite JavaScript Libraries &amp; Frameworks?](https://dev.to/devteam/what-are-your-favorite-javascript-libraries-frameworks-11ha)
+- [Music Monday — What are you listening to? &lpar;Pets Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-pets-edition-5hk6)
 - [Have You Explored Coding Roles in New Industries?](https://dev.to/devteam/have-you-explored-coding-roles-in-new-industries-2h91)
 - [Instant Bug-fixing or Bug-free Code: Which Power Would You Pick?](https://dev.to/devteam/instant-bug-fixing-or-bug-free-code-which-power-would-you-pick-1n2c)
 - [#DEVDiscuss: Is Threads Truly Decentralized?](https://dev.to/devteam/devdiscuss-is-threads-truly-decentralized-2fa1)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Sloan&#39;s Inbox: How Do You Find a Mentor That Is Right for You?](https://dev.to/devteam/sloans-inbox-how-do-you-find-a-mentor-that-is-right-for-you-4l6a)
 - [How Do You Foster Accountability &amp; Meet Deadlines in Coding Teams?](https://dev.to/devteam/how-do-you-foster-accountability-meet-deadlines-in-coding-teams-3dcm)
 - [Welcome Thread - v232](https://dev.to/devteam/welcome-thread-v234-3ig8)
-- [Cutting-Edge or Stable: Which Technology Journey Would You Embark On?](https://dev.to/devteam/cutting-edge-or-stable-which-technology-journey-would-you-embark-on-11k7)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1n4l)
 <!-- BLOG-POST-LIST:END -->
 
 
