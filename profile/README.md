@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [#DEVDiscuss: Contributing to OSS](https://dev.to/devteam/devdiscuss-contributing-to-oss-3d99)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4ok)
+- [Welcome Thread - v233](https://dev.to/devteam/welcome-thread-v235-138i)
+- [Tech Icon Keynote or Hackathon Triumph: Which Event Excites You More?](https://dev.to/devteam/tech-icon-keynote-or-hackathon-triumph-which-event-excites-you-more-27p5)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-40ll)
 - [From Developer to Leader? What Are the Key Skills &amp; Experiences Needed for a Successful Transition?](https://dev.to/devteam/from-developer-to-leader-what-are-the-key-skills-experiences-needed-for-a-successful-transition-i1a)
 - [What Are Your Favorite JavaScript Libraries &amp; Frameworks?](https://dev.to/devteam/what-are-your-favorite-javascript-libraries-frameworks-11ha)
 - [Music Monday — What are you listening to? &lpar;Pets Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-pets-edition-5hk6)
 - [Have You Explored Coding Roles in New Industries?](https://dev.to/devteam/have-you-explored-coding-roles-in-new-industries-2h91)
 - [Instant Bug-fixing or Bug-free Code: Which Power Would You Pick?](https://dev.to/devteam/instant-bug-fixing-or-bug-free-code-which-power-would-you-pick-1n2c)
-- [#DEVDiscuss: Is Threads Truly Decentralized?](https://dev.to/devteam/devdiscuss-is-threads-truly-decentralized-2fa1)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4cj7)
-- [Is Manual Testing Superior to Automated Testing?](https://dev.to/devteam/is-manual-testing-superior-to-automated-testing-473n)
-- [Sloan&#39;s Inbox: How Do You Find a Mentor That Is Right for You?](https://dev.to/devteam/sloans-inbox-how-do-you-find-a-mentor-that-is-right-for-you-4l6a)
 <!-- BLOG-POST-LIST:END -->
 
 
