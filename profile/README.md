@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Sloan&#39;s Inbox: What&#39;s it take to go from 0 dev skills to successful game developer?](https://dev.to/devteam/sloans-inbox-whats-it-take-to-go-from-0-dev-skills-to-successful-game-developer-60h)
+- [Monolingual Maestro or Polyglot Prodigy: Which Programming Path Resonates with You?](https://dev.to/devteam/monolingual-maestro-or-polyglot-prodigy-which-programming-path-resonates-with-you-aeg)
 - [#DEVDiscuss: Contributing to OSS](https://dev.to/devteam/devdiscuss-contributing-to-oss-3d99)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4ok)
 - [Welcome Thread - v233](https://dev.to/devteam/welcome-thread-v235-138i)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [From Developer to Leader? What Are the Key Skills &amp; Experiences Needed for a Successful Transition?](https://dev.to/devteam/from-developer-to-leader-what-are-the-key-skills-experiences-needed-for-a-successful-transition-i1a)
 - [What Are Your Favorite JavaScript Libraries &amp; Frameworks?](https://dev.to/devteam/what-are-your-favorite-javascript-libraries-frameworks-11ha)
 - [Music Monday — What are you listening to? &lpar;Pets Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-pets-edition-5hk6)
-- [Have You Explored Coding Roles in New Industries?](https://dev.to/devteam/have-you-explored-coding-roles-in-new-industries-2h91)
-- [Instant Bug-fixing or Bug-free Code: Which Power Would You Pick?](https://dev.to/devteam/instant-bug-fixing-or-bug-free-code-which-power-would-you-pick-1n2c)
 <!-- BLOG-POST-LIST:END -->
 
 
