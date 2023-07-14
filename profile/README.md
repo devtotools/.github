@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [#DEVDiscuss: Unions in Tech](https://dev.to/devteam/devdiscuss-unions-in-tech-44c5)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-13db)
+- [LinkedIn: Networking Goldmine or Overrated Hype?](https://dev.to/devteam/linkedin-networking-goldmine-or-overrated-hype-1mij)
 - [Sloan&#39;s Inbox: What&#39;s it take to go from 0 dev skills to successful game developer?](https://dev.to/devteam/sloans-inbox-whats-it-take-to-go-from-0-dev-skills-to-successful-game-developer-60h)
 - [Monolingual Maestro or Polyglot Prodigy: Which Programming Path Resonates with You?](https://dev.to/devteam/monolingual-maestro-or-polyglot-prodigy-which-programming-path-resonates-with-you-aeg)
 - [#DEVDiscuss: Contributing to OSS](https://dev.to/devteam/devdiscuss-contributing-to-oss-3d99)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Welcome Thread - v233](https://dev.to/devteam/welcome-thread-v235-138i)
 - [Tech Icon Keynote or Hackathon Triumph: Which Event Excites You More?](https://dev.to/devteam/tech-icon-keynote-or-hackathon-triumph-which-event-excites-you-more-27p5)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-40ll)
-- [From Developer to Leader? What Are the Key Skills &amp; Experiences Needed for a Successful Transition?](https://dev.to/devteam/from-developer-to-leader-what-are-the-key-skills-experiences-needed-for-a-successful-transition-i1a)
-- [What Are Your Favorite JavaScript Libraries &amp; Frameworks?](https://dev.to/devteam/what-are-your-favorite-javascript-libraries-frameworks-11ha)
-- [Music Monday — What are you listening to? &lpar;Pets Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-pets-edition-5hk6)
 <!-- BLOG-POST-LIST:END -->
 
 
