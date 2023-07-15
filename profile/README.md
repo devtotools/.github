@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Balancing Skills: Beyond Coding Expertise](https://dev.to/devteam/balancing-skills-beyond-coding-expertise-4k93)
 - [#DEVDiscuss: Unions in Tech](https://dev.to/devteam/devdiscuss-unions-in-tech-44c5)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-13db)
 - [LinkedIn: Networking Goldmine or Overrated Hype?](https://dev.to/devteam/linkedin-networking-goldmine-or-overrated-hype-1mij)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4ok)
 - [Welcome Thread - v233](https://dev.to/devteam/welcome-thread-v235-138i)
 - [Tech Icon Keynote or Hackathon Triumph: Which Event Excites You More?](https://dev.to/devteam/tech-icon-keynote-or-hackathon-triumph-which-event-excites-you-more-27p5)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-40ll)
 <!-- BLOG-POST-LIST:END -->
 
 
