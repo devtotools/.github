@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [How Has Ruby&#39;s Expressive Syntax Enhanced Your Coding Experience?](https://dev.to/devteam/how-has-rubys-expressive-syntax-enhanced-your-coding-experience-26b6)
+- [Music Monday — What are you listening to? &lpar;Soundtrack Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-soundtrack-edition-49e1)
 - [Trailblazing Language or Legendary Software?](https://dev.to/devteam/trailblazing-language-or-legendary-software-1lf2)
 - [Balancing Skills: Beyond Coding Expertise](https://dev.to/devteam/balancing-skills-beyond-coding-expertise-4k93)
 - [#DEVDiscuss: Unions in Tech](https://dev.to/devteam/devdiscuss-unions-in-tech-44c5)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Sloan&#39;s Inbox: What&#39;s it take to go from 0 dev skills to successful game developer?](https://dev.to/devteam/sloans-inbox-whats-it-take-to-go-from-0-dev-skills-to-successful-game-developer-60h)
 - [Monolingual Maestro or Polyglot Prodigy: Which Programming Path Resonates with You?](https://dev.to/devteam/monolingual-maestro-or-polyglot-prodigy-which-programming-path-resonates-with-you-aeg)
 - [#DEVDiscuss: Contributing to OSS](https://dev.to/devteam/devdiscuss-contributing-to-oss-3d99)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4ok)
-- [Welcome Thread - v233](https://dev.to/devteam/welcome-thread-v235-138i)
 <!-- BLOG-POST-LIST:END -->
 
 
