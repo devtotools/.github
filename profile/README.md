@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3hl3)
+- [Java for Large-scale Enterprise Apps: Pros and Cons?](https://dev.to/devteam/java-for-large-scale-enterprise-apps-pros-and-cons-1h9h)
 - [How Has Ruby&#39;s Expressive Syntax Enhanced Your Coding Experience?](https://dev.to/devteam/how-has-rubys-expressive-syntax-enhanced-your-coding-experience-26b6)
 - [Music Monday — What are you listening to? &lpar;Soundtrack Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-soundtrack-edition-49e1)
 - [Trailblazing Language or Legendary Software?](https://dev.to/devteam/trailblazing-language-or-legendary-software-1lf2)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-13db)
 - [LinkedIn: Networking Goldmine or Overrated Hype?](https://dev.to/devteam/linkedin-networking-goldmine-or-overrated-hype-1mij)
 - [Sloan&#39;s Inbox: What&#39;s it take to go from 0 dev skills to successful game developer?](https://dev.to/devteam/sloans-inbox-whats-it-take-to-go-from-0-dev-skills-to-successful-game-developer-60h)
-- [Monolingual Maestro or Polyglot Prodigy: Which Programming Path Resonates with You?](https://dev.to/devteam/monolingual-maestro-or-polyglot-prodigy-which-programming-path-resonates-with-you-aeg)
-- [#DEVDiscuss: Contributing to OSS](https://dev.to/devteam/devdiscuss-contributing-to-oss-3d99)
 <!-- BLOG-POST-LIST:END -->
 
 
