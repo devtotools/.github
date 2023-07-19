@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [From Coder to Entrepreneur: Are You Exploring New Horizons?](https://dev.to/devteam/from-coder-to-entrepreneur-are-you-exploring-new-horizons-2pcm)
+- [Welcome Thread - v234](https://dev.to/devteam/welcome-thread-v236-29i1)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3hl3)
 - [Java for Large-scale Enterprise Apps: Pros and Cons?](https://dev.to/devteam/java-for-large-scale-enterprise-apps-pros-and-cons-1h9h)
 - [How Has Ruby&#39;s Expressive Syntax Enhanced Your Coding Experience?](https://dev.to/devteam/how-has-rubys-expressive-syntax-enhanced-your-coding-experience-26b6)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Balancing Skills: Beyond Coding Expertise](https://dev.to/devteam/balancing-skills-beyond-coding-expertise-4k93)
 - [#DEVDiscuss: Unions in Tech](https://dev.to/devteam/devdiscuss-unions-in-tech-44c5)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-13db)
-- [LinkedIn: Networking Goldmine or Overrated Hype?](https://dev.to/devteam/linkedin-networking-goldmine-or-overrated-hype-1mij)
-- [Sloan&#39;s Inbox: What&#39;s it take to go from 0 dev skills to successful game developer?](https://dev.to/devteam/sloans-inbox-whats-it-take-to-go-from-0-dev-skills-to-successful-game-developer-60h)
 <!-- BLOG-POST-LIST:END -->
 
 
