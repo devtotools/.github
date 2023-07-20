@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Sloan&#39;s Inbox: Considering taking a coding sabbatical...](https://dev.to/devteam/sloans-inbox-considering-taking-a-coding-sabbatical-4o87)
+- [#DEVDiscuss: Package Management &lpar;NPM&rpar;](https://dev.to/devteam/devdiscuss-package-management-npm-mn9)
+- [Got Any Unconventional Hacks to Boost Problem-Solving Skills?](https://dev.to/devteam/got-any-unconventional-hacks-to-boost-problem-solving-skills-5hcb)
 - [From Coder to Entrepreneur: Are You Exploring New Horizons?](https://dev.to/devteam/from-coder-to-entrepreneur-are-you-exploring-new-horizons-2pcm)
 - [Welcome Thread - v234](https://dev.to/devteam/welcome-thread-v236-29i1)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3hl3)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [How Has Ruby&#39;s Expressive Syntax Enhanced Your Coding Experience?](https://dev.to/devteam/how-has-rubys-expressive-syntax-enhanced-your-coding-experience-26b6)
 - [Music Monday — What are you listening to? &lpar;Soundtrack Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-soundtrack-edition-49e1)
 - [Trailblazing Language or Legendary Software?](https://dev.to/devteam/trailblazing-language-or-legendary-software-1lf2)
-- [Balancing Skills: Beyond Coding Expertise](https://dev.to/devteam/balancing-skills-beyond-coding-expertise-4k93)
-- [#DEVDiscuss: Unions in Tech](https://dev.to/devteam/devdiscuss-unions-in-tech-44c5)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-13db)
 <!-- BLOG-POST-LIST:END -->
 
 
