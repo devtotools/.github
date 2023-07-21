@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [#DEVDiscuss: Google or Grad School?](https://dev.to/devteam/devdiscuss-google-or-grad-school-119h)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2434)
+- [Transformative &quot;Aha!&quot; Moments: How Did They Change Your Coding Approach?](https://dev.to/devteam/transformative-aha-moments-how-did-they-change-your-coding-approach-509k)
 - [Sloan&#39;s Inbox: Considering taking a coding sabbatical...](https://dev.to/devteam/sloans-inbox-considering-taking-a-coding-sabbatical-4o87)
 - [#DEVDiscuss: Package Management &lpar;NPM&rpar;](https://dev.to/devteam/devdiscuss-package-management-npm-mn9)
 - [Got Any Unconventional Hacks to Boost Problem-Solving Skills?](https://dev.to/devteam/got-any-unconventional-hacks-to-boost-problem-solving-skills-5hcb)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Welcome Thread - v234](https://dev.to/devteam/welcome-thread-v236-29i1)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3hl3)
 - [Java for Large-scale Enterprise Apps: Pros and Cons?](https://dev.to/devteam/java-for-large-scale-enterprise-apps-pros-and-cons-1h9h)
-- [How Has Ruby&#39;s Expressive Syntax Enhanced Your Coding Experience?](https://dev.to/devteam/how-has-rubys-expressive-syntax-enhanced-your-coding-experience-26b6)
-- [Music Monday — What are you listening to? &lpar;Soundtrack Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-soundtrack-edition-49e1)
-- [Trailblazing Language or Legendary Software?](https://dev.to/devteam/trailblazing-language-or-legendary-software-1lf2)
 <!-- BLOG-POST-LIST:END -->
 
 
