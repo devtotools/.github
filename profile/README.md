@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What Makes Rust Stand Out?](https://dev.to/devteam/what-makes-rust-stand-out-2ijf)
+- [Music Monday — What are you listening to? &lpar;Wrestler Entrance Songs Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-wrestler-entrance-songs-edition-3d29)
 - [#DEVDiscuss: Google or Grad School?](https://dev.to/devteam/devdiscuss-google-or-grad-school-119h)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2434)
 - [Transformative &quot;Aha!&quot; Moments: How Did They Change Your Coding Approach?](https://dev.to/devteam/transformative-aha-moments-how-did-they-change-your-coding-approach-509k)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Got Any Unconventional Hacks to Boost Problem-Solving Skills?](https://dev.to/devteam/got-any-unconventional-hacks-to-boost-problem-solving-skills-5hcb)
 - [From Coder to Entrepreneur: Are You Exploring New Horizons?](https://dev.to/devteam/from-coder-to-entrepreneur-are-you-exploring-new-horizons-2pcm)
 - [Welcome Thread - v234](https://dev.to/devteam/welcome-thread-v236-29i1)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3hl3)
-- [Java for Large-scale Enterprise Apps: Pros and Cons?](https://dev.to/devteam/java-for-large-scale-enterprise-apps-pros-and-cons-1h9h)
 <!-- BLOG-POST-LIST:END -->
 
 
