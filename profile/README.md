@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3a6o)
+- [Is There Any Overlap Between Swift Developers &amp; Swifties?](https://dev.to/devteam/is-there-any-overlap-between-swift-developers-swifties-3n72)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-m6p)
 - [What Makes Rust Stand Out?](https://dev.to/devteam/what-makes-rust-stand-out-2ijf)
 - [Music Monday — What are you listening to? &lpar;Wrestler Entrance Songs Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-wrestler-entrance-songs-edition-3d29)
 - [#DEVDiscuss: Google or Grad School?](https://dev.to/devteam/devdiscuss-google-or-grad-school-119h)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Transformative &quot;Aha!&quot; Moments: How Did They Change Your Coding Approach?](https://dev.to/devteam/transformative-aha-moments-how-did-they-change-your-coding-approach-509k)
 - [Sloan&#39;s Inbox: Considering taking a coding sabbatical...](https://dev.to/devteam/sloans-inbox-considering-taking-a-coding-sabbatical-4o87)
 - [#DEVDiscuss: Package Management &lpar;NPM&rpar;](https://dev.to/devteam/devdiscuss-package-management-npm-mn9)
-- [Got Any Unconventional Hacks to Boost Problem-Solving Skills?](https://dev.to/devteam/got-any-unconventional-hacks-to-boost-problem-solving-skills-5hcb)
-- [From Coder to Entrepreneur: Are You Exploring New Horizons?](https://dev.to/devteam/from-coder-to-entrepreneur-are-you-exploring-new-horizons-2pcm)
-- [Welcome Thread - v234](https://dev.to/devteam/welcome-thread-v236-29i1)
 <!-- BLOG-POST-LIST:END -->
 
 
