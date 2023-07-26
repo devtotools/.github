@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [#DEVDiscuss: Time Management](https://dev.to/devteam/devdiscuss-time-management-3gcd)
+- [Welcome Thread - v235](https://dev.to/devteam/welcome-thread-v237-297p)
+- [What is PHP&#39;s Future with PHP 8?](https://dev.to/devteam/what-is-phps-future-with-php-8-2615)
+- [Introducing the Warm Welcome Badge! 🌟🎉](https://dev.to/devteam/introducing-the-warm-welcome-badge-4hnh)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3a6o)
 - [Is There Any Overlap Between Swift Developers &amp; Swifties?](https://dev.to/devteam/is-there-any-overlap-between-swift-developers-swifties-3n72)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-m6p)
 - [What Makes Rust Stand Out?](https://dev.to/devteam/what-makes-rust-stand-out-2ijf)
 - [Music Monday — What are you listening to? &lpar;Wrestler Entrance Songs Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-wrestler-entrance-songs-edition-3d29)
 - [#DEVDiscuss: Google or Grad School?](https://dev.to/devteam/devdiscuss-google-or-grad-school-119h)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2434)
-- [Transformative &quot;Aha!&quot; Moments: How Did They Change Your Coding Approach?](https://dev.to/devteam/transformative-aha-moments-how-did-they-change-your-coding-approach-509k)
-- [Sloan&#39;s Inbox: Considering taking a coding sabbatical...](https://dev.to/devteam/sloans-inbox-considering-taking-a-coding-sabbatical-4o87)
-- [#DEVDiscuss: Package Management &lpar;NPM&rpar;](https://dev.to/devteam/devdiscuss-package-management-npm-mn9)
 <!-- BLOG-POST-LIST:END -->
 
 
