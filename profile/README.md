@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome Thread - v236](https://dev.to/devteam/welcome-thread-v238-3lam)
+- [“Aha” Moments: When Did Coding Perspectives Click?](https://dev.to/devteam/aha-moments-when-did-coding-perspectives-click-1cfm)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-5b4g)
 - [Explore Our World of Badges &amp; Influence the Next Addition! 🏅🌟](https://dev.to/devteam/explore-our-world-of-badges-influence-the-next-addition-1fnf)
 - [Rubyist Hangout Thread](https://dev.to/devteam/rubyist-hangout-thread-859)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Music Monday — What are you listening to? &lpar;Music from Your Twenties Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-music-from-your-twenties-edition-2pe1)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-3baj)
 - [Does Ruby&#39;s Focus on Developer Happiness Drive Its Project Success?](https://dev.to/devteam/does-rubys-focus-on-developer-happiness-drive-its-project-success-d6j)
-- [Kotlin&#39;s Interoperability: Impact on Android Dev Choice?](https://dev.to/devteam/kotlins-interoperability-impact-on-android-dev-choice-3pim)
-- [How Is C# Evolving to Adapt to Modern Dev Trends?](https://dev.to/devteam/how-is-c-evolving-to-adapt-to-modern-dev-trends-3ljd)
 <!-- BLOG-POST-LIST:END -->
 
 
