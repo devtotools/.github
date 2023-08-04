@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [It&#39;s Follow Friday! Celebrate the Stars of dev.to! ✨💫](https://dev.to/devteam/its-follow-friday-celebrate-the-stars-of-devto-2h1o)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-44ag)
+- [Best Bosses: What Made Their Mentorship Stand Out?](https://dev.to/devteam/best-bosses-what-made-their-mentorship-stand-out-1gp0)
+- [Changelog: Don&#39;t forget to hit that notification bell](https://dev.to/devteam/changelog-dont-forget-to-hit-that-notification-bell-328c)
 - [refine + DEV Hackathon Winners, Announced!](https://dev.to/devteam/refine-dev-hackathon-winners-announced-237g)
 - [Sloan&#39;s Inbox: Any advice on how to advocate for a11y improvements at my org?](https://dev.to/devteam/sloans-inbox-any-advice-on-how-to-advocate-for-a11y-improvements-at-my-org-21i3)
 - [Mentors’ Influence: Changing Career Path Decisions?](https://dev.to/devteam/mentors-influence-changing-career-path-decisions-49n2)
 - [#DEVDiscuss: API Designing](https://dev.to/devteam/devdiscuss-api-designing-4c1e)
 - [Welcome Thread - v236](https://dev.to/devteam/welcome-thread-v238-3lam)
 - [“Aha” Moments: When Did Coding Perspectives Click?](https://dev.to/devteam/aha-moments-when-did-coding-perspectives-click-1cfm)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-5b4g)
-- [Explore Our World of Badges &amp; Influence the Next Addition! 🏅🌟](https://dev.to/devteam/explore-our-world-of-badges-influence-the-next-addition-1fnf)
-- [Impactful Mentorships: How Did They Shape Your Journey?](https://dev.to/devteam/impactful-mentorships-how-did-they-shape-your-journey-n9p)
-- [Rubyist Hangout Thread](https://dev.to/devteam/rubyist-hangout-thread-859)
 <!-- BLOG-POST-LIST:END -->
 
 
