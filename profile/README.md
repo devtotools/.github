@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Challenging Bosses: How Did You Navigate?](https://dev.to/devteam/challenging-bosses-how-did-you-navigate-3jia)
 - [It&#39;s Follow Friday! Celebrate the Stars of dev.to! ✨💫](https://dev.to/devteam/its-follow-friday-celebrate-the-stars-of-devto-2h1o)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-44ag)
 - [Best Bosses: What Made Their Mentorship Stand Out?](https://dev.to/devteam/best-bosses-what-made-their-mentorship-stand-out-1gp0)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Mentors’ Influence: Changing Career Path Decisions?](https://dev.to/devteam/mentors-influence-changing-career-path-decisions-49n2)
 - [#DEVDiscuss: API Designing](https://dev.to/devteam/devdiscuss-api-designing-4c1e)
 - [Welcome Thread - v236](https://dev.to/devteam/welcome-thread-v238-3lam)
-- [“Aha” Moments: When Did Coding Perspectives Click?](https://dev.to/devteam/aha-moments-when-did-coding-perspectives-click-1cfm)
 <!-- BLOG-POST-LIST:END -->
 
 
