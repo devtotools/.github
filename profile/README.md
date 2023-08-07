@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Writing your first post on DEV ✍️](https://dev.to/devteam/writing-your-first-post-on-dev-3m13)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-dch)
+- [Music Monday — What are you listening to? &lpar;Chill Edition II&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-chill-edition-ii-2j5p)
+- [Mentoring Others: How Did It Impact Your Growth?](https://dev.to/devteam/mentoring-others-how-did-it-impact-your-growth-452e)
 - [Code Clicks: When Have Colleagues Sparked Insights?](https://dev.to/devteam/code-clicks-when-have-colleagues-sparked-insights-3o0l)
 - [Challenging Bosses: How Did You Navigate?](https://dev.to/devteam/challenging-bosses-how-did-you-navigate-3jia)
 - [It&#39;s Follow Friday! Celebrate the Stars of dev.to! ✨💫](https://dev.to/devteam/its-follow-friday-celebrate-the-stars-of-devto-2h1o)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-44ag)
 - [Best Bosses: What Made Their Mentorship Stand Out?](https://dev.to/devteam/best-bosses-what-made-their-mentorship-stand-out-1gp0)
 - [Changelog: Don&#39;t forget to hit that notification bell](https://dev.to/devteam/changelog-dont-forget-to-hit-that-notification-bell-328c)
-- [refine + DEV Hackathon Winners, Announced!](https://dev.to/devteam/refine-dev-hackathon-winners-announced-237g)
-- [Sloan&#39;s Inbox: Any advice on how to advocate for a11y improvements at my org?](https://dev.to/devteam/sloans-inbox-any-advice-on-how-to-advocate-for-a11y-improvements-at-my-org-21i3)
-- [Mentors’ Influence: Changing Career Path Decisions?](https://dev.to/devteam/mentors-influence-changing-career-path-decisions-49n2)
-- [#DEVDiscuss: API Designing](https://dev.to/devteam/devdiscuss-api-designing-4c1e)
 <!-- BLOG-POST-LIST:END -->
 
 
