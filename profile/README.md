@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome Thread - v237](https://dev.to/devteam/welcome-thread-v239-2oij)
+- [Did Remote Work Uproot Your Routine?](https://dev.to/devteam/did-remote-work-uproot-your-routine-490b)
+- [Which Tech Trends Missed the Mark?](https://dev.to/devteam/which-tech-trends-missed-the-mark-2f7p)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-26gk)
 - [Writing your first post on DEV ✍️](https://dev.to/devteam/writing-your-first-post-on-dev-3m13)
-- [Music Monday — What are you listening to? &lpar;Chill Edition II&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-chill-edition-ii-2j5p)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-dch)
+- [Music Monday — What are you listening to? &lpar;Chill Edition II&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-chill-edition-ii-2j5p)
 - [Mentoring Others: How Did It Impact Your Growth?](https://dev.to/devteam/mentoring-others-how-did-it-impact-your-growth-452e)
 - [Code Clicks: When Have Colleagues Sparked Insights?](https://dev.to/devteam/code-clicks-when-have-colleagues-sparked-insights-3o0l)
 - [Challenging Bosses: How Did You Navigate?](https://dev.to/devteam/challenging-bosses-how-did-you-navigate-3jia)
-- [It&#39;s Follow Friday! Celebrate the Stars of dev.to! ✨💫](https://dev.to/devteam/its-follow-friday-celebrate-the-stars-of-devto-2h1o)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-44ag)
-- [Best Bosses: What Made Their Mentorship Stand Out?](https://dev.to/devteam/best-bosses-what-made-their-mentorship-stand-out-1gp0)
 <!-- BLOG-POST-LIST:END -->
 
 
