@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Music Monday — What are you listening to? &lpar;Niche Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-niche-music-1571)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-1gik)
+- [What&#39;s Your Favorite Outdated School &#39;Tech&#39; Gadget?](https://dev.to/devteam/whats-your-favorite-outdated-school-tech-gadget-2lgk)
 - [What&#39;s Your Funniest Coding Memory from the Retro Archives?](https://dev.to/devteam/whats-your-funniest-coding-memory-from-the-retro-archives-31di)
 - [Lonely vs. Connected: How Do You Balance Social Interaction in Remote Settings?](https://dev.to/devteam/lonely-vs-connected-how-do-you-balance-social-interaction-in-remote-settings-5b05)
 - [Share Your Secrets for Staying Connected with Colleagues](https://dev.to/devteam/share-your-secrets-for-staying-connected-with-colleagues-3hbg)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [This Week&#39;s Undiscovered](https://dev.to/devteam/this-weeks-undiscovered-491d)
 - [Sloan&#39;s Inbox: Applying for jobs with an inactive GitHub profile?](https://dev.to/devteam/sloans-inbox-applying-for-jobs-with-an-inactive-github-profile-31je)
 - [What Lessons Have You Learned from Remote Work?](https://dev.to/devteam/what-lessons-have-you-learned-from-remote-work-1hh7)
-- [#DEVDiscuss: AI Coding Tools](https://dev.to/devteam/devdiscuss-ai-coding-tools-489b)
-- [Welcome Thread - v237](https://dev.to/devteam/welcome-thread-v239-2oij)
-- [Did Remote Work Uproot Your Routine?](https://dev.to/devteam/did-remote-work-uproot-your-routine-490b)
 <!-- BLOG-POST-LIST:END -->
 
 
