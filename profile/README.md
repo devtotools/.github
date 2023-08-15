@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-21b8)
+- [DEV&#39;s Sorting Hat: What&#39;s Your Developer&#39;s Hogwart &quot;&#39;House&quot;?](https://dev.to/devteam/devs-sorting-hat-whats-your-developers-hogwart-house-3ohn)
 - [Music Monday — What are you listening to? &lpar;Niche Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-niche-music-1571)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-1gik)
 - [What&#39;s Your Favorite Outdated School &#39;Tech&#39; Gadget?](https://dev.to/devteam/whats-your-favorite-outdated-school-tech-gadget-2lgk)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Share Your Secrets for Staying Connected with Colleagues](https://dev.to/devteam/share-your-secrets-for-staying-connected-with-colleagues-3hbg)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-366p)
 - [This Week&#39;s Undiscovered](https://dev.to/devteam/this-weeks-undiscovered-491d)
-- [Sloan&#39;s Inbox: Applying for jobs with an inactive GitHub profile?](https://dev.to/devteam/sloans-inbox-applying-for-jobs-with-an-inactive-github-profile-31je)
-- [What Lessons Have You Learned from Remote Work?](https://dev.to/devteam/what-lessons-have-you-learned-from-remote-work-1hh7)
 <!-- BLOG-POST-LIST:END -->
 
 
