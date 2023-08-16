@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [#DEVDiscuss: Error Handling](https://dev.to/devteam/devdiscuss-error-handling-575i)
+- [Welcome Thread - v238](https://dev.to/devteam/welcome-thread-v239-2f67)
+- [Ctrl+Z to the Past: Time-Travelling to Your First Code Line](https://dev.to/devteam/ctrlz-to-the-past-time-travelling-to-your-first-code-line-elg)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-21b8)
 - [DEV&#39;s Sorting Hat: What&#39;s Your Developer&#39;s Hogwart &quot;&#39;House&quot;?](https://dev.to/devteam/devs-sorting-hat-whats-your-developers-hogwart-house-3ohn)
 - [Music Monday — What are you listening to? &lpar;Niche Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-niche-music-1571)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What&#39;s Your Favorite Outdated School &#39;Tech&#39; Gadget?](https://dev.to/devteam/whats-your-favorite-outdated-school-tech-gadget-2lgk)
 - [What&#39;s Your Funniest Coding Memory from the Retro Archives?](https://dev.to/devteam/whats-your-funniest-coding-memory-from-the-retro-archives-31di)
 - [Lonely vs. Connected: How Do You Balance Social Interaction in Remote Settings?](https://dev.to/devteam/lonely-vs-connected-how-do-you-balance-social-interaction-in-remote-settings-5b05)
-- [Share Your Secrets for Staying Connected with Colleagues](https://dev.to/devteam/share-your-secrets-for-staying-connected-with-colleagues-3hbg)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-366p)
-- [This Week&#39;s Undiscovered](https://dev.to/devteam/this-weeks-undiscovered-491d)
 <!-- BLOG-POST-LIST:END -->
 
 
