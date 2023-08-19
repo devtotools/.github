@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What Was Your Nobel Prize Moment?](https://dev.to/devteam/what-was-your-nobel-prize-moment-5j)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-6ff)
 - [What If Coding Classes Were Mandatory?](https://dev.to/devteam/what-if-coding-classes-were-mandatory-4jd5)
 - [This Week&#39;s Undiscovered &lpar;8/17/23&rpar;](https://dev.to/devteam/this-weeks-undiscovered-36cc)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Welcome Thread - v238](https://dev.to/devteam/welcome-thread-v239-2f67)
 - [Ctrl+Z to the Past: Time-Travelling to Your First Code Line](https://dev.to/devteam/ctrlz-to-the-past-time-travelling-to-your-first-code-line-elg)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-21b8)
-- [DEV&#39;s Sorting Hat: What&#39;s Your Developer&#39;s Hogwart &quot;&#39;House&quot;?](https://dev.to/devteam/devs-sorting-hat-whats-your-developers-hogwart-house-3ohn)
 <!-- BLOG-POST-LIST:END -->
 
 
