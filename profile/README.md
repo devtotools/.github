@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-10nm)
+- [Which Topic Would Shape Your TED Talk?](https://dev.to/devteam/which-topic-would-shape-your-ted-talk-5gdn)
 - [Announcing the Icebreaker Badge! 🧊🔨](https://dev.to/devteam/announcing-the-icebreaker-badge-20k3)
 - [Music Monday — What are you listening to? &lpar;Driving Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-driving-edition-47ee)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4bj6)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What Was Your Nobel Prize Moment?](https://dev.to/devteam/what-was-your-nobel-prize-moment-5j)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-6ff)
 - [What If Coding Classes Were Mandatory?](https://dev.to/devteam/what-if-coding-classes-were-mandatory-4jd5)
-- [This Week&#39;s Undiscovered &lpar;8/17/23&rpar;](https://dev.to/devteam/this-weeks-undiscovered-36cc)
-- [Sloan&#39;s Inbox: Bored... Is it time to get another job?](https://dev.to/devteam/sloans-inbox-bored-is-it-time-to-get-another-job-71e)
 <!-- BLOG-POST-LIST:END -->
 
 
