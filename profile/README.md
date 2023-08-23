@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [#DEVDiscuss: Sassy CSS](https://dev.to/devteam/devdiscuss-sassy-css-acn)
+- [Welcome Thread - v239](https://dev.to/devteam/welcome-thread-v241-hoc)
+- [Emerging Tech: Your Insights on Shaping the Future?](https://dev.to/devteam/emerging-tech-your-insights-on-shaping-the-future-o5n)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-10nm)
 - [Which Topic Would Shape Your TED Talk?](https://dev.to/devteam/which-topic-would-shape-your-ted-talk-5gdn)
 - [Announcing the Icebreaker Badge! 🧊🔨](https://dev.to/devteam/announcing-the-icebreaker-badge-20k3)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4bj6)
 - [Tech Upgrades: When to Make the Jump?](https://dev.to/devteam/tech-upgrades-when-to-make-the-jump-37gm)
 - [How Do You Manage Your Schedule Effectively While Working Remotely?](https://dev.to/devteam/how-do-you-manage-your-schedule-effectively-while-working-remotely-4opp)
-- [What Was Your Nobel Prize Moment?](https://dev.to/devteam/what-was-your-nobel-prize-moment-5j)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-6ff)
-- [What If Coding Classes Were Mandatory?](https://dev.to/devteam/what-if-coding-classes-were-mandatory-4jd5)
 <!-- BLOG-POST-LIST:END -->
 
 
