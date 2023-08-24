@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Sloan&#39;s Inbox: Any advice for estimating work?](https://dev.to/devteam/sloans-inbox-any-advice-for-estimating-work-284e)
+- [Developer Branding: How Does It Shape Your Path?](https://dev.to/devteam/developer-branding-how-does-it-shape-your-path-394l)
 - [#DEVDiscuss: Sassy CSS](https://dev.to/devteam/devdiscuss-sassy-css-acn)
 - [Welcome Thread - v239](https://dev.to/devteam/welcome-thread-v241-hoc)
 - [Emerging Tech: Your Insights on Shaping the Future?](https://dev.to/devteam/emerging-tech-your-insights-on-shaping-the-future-o5n)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Announcing the Icebreaker Badge! 🧊🔨](https://dev.to/devteam/announcing-the-icebreaker-badge-20k3)
 - [Music Monday — What are you listening to? &lpar;Driving Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-driving-edition-47ee)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4bj6)
-- [Tech Upgrades: When to Make the Jump?](https://dev.to/devteam/tech-upgrades-when-to-make-the-jump-37gm)
-- [How Do You Manage Your Schedule Effectively While Working Remotely?](https://dev.to/devteam/how-do-you-manage-your-schedule-effectively-while-working-remotely-4opp)
 <!-- BLOG-POST-LIST:END -->
 
 
