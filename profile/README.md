@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week&#39;s Undiscovered &lpar;8/25/23&rpar;](https://dev.to/devteam/this-weeks-undiscovered-82523-38jf)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-bbi)
+- [Open Source: What’s Your Contribution?](https://dev.to/devteam/open-source-whats-your-contribution-51p5)
 - [Sloan&#39;s Inbox: Any advice for estimating work?](https://dev.to/devteam/sloans-inbox-any-advice-for-estimating-work-284e)
 - [Developer Branding: How Does It Shape Your Path?](https://dev.to/devteam/developer-branding-how-does-it-shape-your-path-394l)
 - [#DEVDiscuss: Sassy CSS](https://dev.to/devteam/devdiscuss-sassy-css-acn)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Emerging Tech: Your Insights on Shaping the Future?](https://dev.to/devteam/emerging-tech-your-insights-on-shaping-the-future-o5n)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-10nm)
 - [Which Topic Would Shape Your TED Talk?](https://dev.to/devteam/which-topic-would-shape-your-ted-talk-5gdn)
-- [Announcing the Icebreaker Badge! 🧊🔨](https://dev.to/devteam/announcing-the-icebreaker-badge-20k3)
-- [Music Monday — What are you listening to? &lpar;Driving Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-driving-edition-47ee)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4bj6)
 <!-- BLOG-POST-LIST:END -->
 
 
