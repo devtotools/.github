@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Music Monday — What are you listening to? &lpar;Favorite Lyricists Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-favorite-lyricists-edition-1li0)
+- [What&#39;s Your Role in Nurturing the Coding Community?](https://dev.to/devteam/whats-your-role-in-nurturing-the-coding-community-1de)
 - [What Have You Learned from Your Tech Career Changes?](https://dev.to/devteam/what-have-you-learned-from-your-tech-career-changes-3amc)
 - [This Week&#39;s Undiscovered &lpar;8/25/23&rpar;](https://dev.to/devteam/this-weeks-undiscovered-82523-38jf)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-bbi)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Developer Branding: How Does It Shape Your Path?](https://dev.to/devteam/developer-branding-how-does-it-shape-your-path-394l)
 - [#DEVDiscuss: Sassy CSS](https://dev.to/devteam/devdiscuss-sassy-css-acn)
 - [Welcome Thread - v239](https://dev.to/devteam/welcome-thread-v241-hoc)
-- [Emerging Tech: Your Insights on Shaping the Future?](https://dev.to/devteam/emerging-tech-your-insights-on-shaping-the-future-o5n)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-10nm)
 <!-- BLOG-POST-LIST:END -->
 
 
