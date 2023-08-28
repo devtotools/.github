@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [We Are Turning off Listings](https://dev.to/devteam/we-are-turning-off-listings-5857)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-23n8)
+- [Tech Ethics: Have You Managed Complex Dilemmas?](https://dev.to/devteam/tech-ethics-have-you-managed-complex-dilemmas-35k4)
 - [Music Monday — What are you listening to? &lpar;Favorite Lyricists Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-favorite-lyricists-edition-1li0)
 - [What&#39;s Your Role in Nurturing the Coding Community?](https://dev.to/devteam/whats-your-role-in-nurturing-the-coding-community-1de)
 - [What Have You Learned from Your Tech Career Changes?](https://dev.to/devteam/what-have-you-learned-from-your-tech-career-changes-3amc)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-bbi)
 - [Open Source: What’s Your Contribution?](https://dev.to/devteam/open-source-whats-your-contribution-51p5)
 - [Sloan&#39;s Inbox: Any advice for estimating work?](https://dev.to/devteam/sloans-inbox-any-advice-for-estimating-work-284e)
-- [Developer Branding: How Does It Shape Your Path?](https://dev.to/devteam/developer-branding-how-does-it-shape-your-path-394l)
-- [#DEVDiscuss: Sassy CSS](https://dev.to/devteam/devdiscuss-sassy-css-acn)
-- [Welcome Thread - v239](https://dev.to/devteam/welcome-thread-v241-hoc)
 <!-- BLOG-POST-LIST:END -->
 
 
