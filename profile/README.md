@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Advice for Aspiring Developers](https://dev.to/devteam/advice-for-aspiring-developers-3jgg)
+- [If You Switched Languages, Which Would You Choose?](https://dev.to/devteam/if-you-switched-languages-which-would-you-choose-gfd)
 - [We Are Turning off Listings](https://dev.to/devteam/we-are-turning-off-listings-5857)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-23n8)
 - [Tech Ethics: Have You Managed Complex Dilemmas?](https://dev.to/devteam/tech-ethics-have-you-managed-complex-dilemmas-35k4)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What Have You Learned from Your Tech Career Changes?](https://dev.to/devteam/what-have-you-learned-from-your-tech-career-changes-3amc)
 - [This Week&#39;s Undiscovered &lpar;8/25/23&rpar;](https://dev.to/devteam/this-weeks-undiscovered-82523-38jf)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-bbi)
-- [Open Source: What’s Your Contribution?](https://dev.to/devteam/open-source-whats-your-contribution-51p5)
-- [Sloan&#39;s Inbox: Any advice for estimating work?](https://dev.to/devteam/sloans-inbox-any-advice-for-estimating-work-284e)
 <!-- BLOG-POST-LIST:END -->
 
 
