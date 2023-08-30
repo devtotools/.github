@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
-- [Advice for Aspiring Developers](https://dev.to/devteam/advice-for-aspiring-developers-3jgg)
+- [#DEVDiscuss: Marketing for Developers](https://dev.to/devteam/devdiscuss-5504)
+- [Featured Mod of the Month: Ayu Adiati](https://dev.to/devteam/featured-mod-of-the-month-ayu-adiati-3o1e)
+- [Welcome Thread - v240](https://dev.to/devteam/welcome-thread-v242-j0p)
+- [What&#39;s Your Current Project&#39;s Elevator Pitch?](https://dev.to/devteam/whats-your-current-projects-elevator-pitch-527l)
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-33i3)
 - [If You Switched Languages, Which Would You Choose?](https://dev.to/devteam/if-you-switched-languages-which-would-you-choose-gfd)
+- [Advice for Aspiring Developers](https://dev.to/devteam/advice-for-aspiring-developers-3jgg)
 - [We Are Turning off Listings](https://dev.to/devteam/we-are-turning-off-listings-5857)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-23n8)
 - [Tech Ethics: Have You Managed Complex Dilemmas?](https://dev.to/devteam/tech-ethics-have-you-managed-complex-dilemmas-35k4)
-- [Music Monday — What are you listening to? &lpar;Favorite Lyricists Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-favorite-lyricists-edition-1li0)
-- [What&#39;s Your Role in Nurturing the Coding Community?](https://dev.to/devteam/whats-your-role-in-nurturing-the-coding-community-1de)
-- [What Have You Learned from Your Tech Career Changes?](https://dev.to/devteam/what-have-you-learned-from-your-tech-career-changes-3amc)
-- [This Week&#39;s Undiscovered &lpar;8/25/23&rpar;](https://dev.to/devteam/this-weeks-undiscovered-82523-38jf)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-bbi)
 <!-- BLOG-POST-LIST:END -->
 
 
