@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Post an Elegant Code Snippet You Love.](https://dev.to/devteam/post-an-elegant-code-snippet-you-love-2mne)
 - [#DEVDiscuss: Marketing for Developers](https://dev.to/devteam/devdiscuss-5504)
 - [Featured Mod of the Month: Ayu Adiati](https://dev.to/devteam/featured-mod-of-the-month-ayu-adiati-3o1e)
 - [Welcome Thread - v240](https://dev.to/devteam/welcome-thread-v242-j0p)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Advice for Aspiring Developers](https://dev.to/devteam/advice-for-aspiring-developers-3jgg)
 - [We Are Turning off Listings](https://dev.to/devteam/we-are-turning-off-listings-5857)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-23n8)
-- [Tech Ethics: Have You Managed Complex Dilemmas?](https://dev.to/devteam/tech-ethics-have-you-managed-complex-dilemmas-35k4)
 <!-- BLOG-POST-LIST:END -->
 
 
