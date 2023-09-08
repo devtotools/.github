@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Our Community Badges Page Just Got Better!](https://dev.to/devteam/our-community-badges-page-just-got-better-8c2)
+- [Changelog: Take control of your feed with hidden tags](https://dev.to/devteam/changelog-take-control-of-your-feed-with-hidden-tags-5db5)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-8fh)
+- [What Are the Benefits of Being Uncomfortable?](https://dev.to/devteam/what-are-the-benefits-of-being-uncomfortable-411e)
+- [Discussion of the Week - v1](https://dev.to/devteam/discussion-of-the-week-v1-2alj)
 - [#DEVDiscuss: Memorization and Learning to Code](https://dev.to/devteam/devdiscuss-marketing-for-developers-f9k)
 - [What Do You Wish People Asked?](https://dev.to/devteam/what-do-you-wish-people-asked-2d2k)
 - [Sloan&#39;s Inbox: Considering a role as a Dev Advocate, but worried about less coding &amp; more marketing...](https://dev.to/devteam/sloans-inbox-considering-a-role-as-a-dev-advocate-but-worried-about-less-coding-more-marketing-152c)
 - [Welcome Thread - v241](https://dev.to/devteam/welcome-thread-v241-14jg)
-- [Code Pet Peeves: What&#39;s Yours?](https://dev.to/devteam/code-pet-peeves-whats-yours-158l)
 - [Share Your Proudest UI Element Screenshot!](https://dev.to/devteam/share-your-proudest-ui-element-screenshot-2gpi)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3mig)
-- [How Does It Feel When Your Code Works?](https://dev.to/devteam/how-does-it-feel-when-your-code-works-2nf0)
-- [Music Monday — What are you listening to? &lpar;Heavy Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-heavy-edition-apl)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-1k97)
 <!-- BLOG-POST-LIST:END -->
 
 
