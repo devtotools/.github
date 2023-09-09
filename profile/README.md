@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Can You Explain Your Project to a 5-Year-Old?](https://dev.to/devteam/can-you-explain-your-project-to-a-5-year-old-14h2)
 - [Our Community Badges Page Just Got Better!](https://dev.to/devteam/our-community-badges-page-just-got-better-8c2)
 - [Changelog: Take control of your feed with hidden tags](https://dev.to/devteam/changelog-take-control-of-your-feed-with-hidden-tags-5db5)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-8fh)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What Do You Wish People Asked?](https://dev.to/devteam/what-do-you-wish-people-asked-2d2k)
 - [Sloan&#39;s Inbox: Considering a role as a Dev Advocate, but worried about less coding &amp; more marketing...](https://dev.to/devteam/sloans-inbox-considering-a-role-as-a-dev-advocate-but-worried-about-less-coding-more-marketing-152c)
 - [Welcome Thread - v241](https://dev.to/devteam/welcome-thread-v241-14jg)
-- [Share Your Proudest UI Element Screenshot!](https://dev.to/devteam/share-your-proudest-ui-element-screenshot-2gpi)
 <!-- BLOG-POST-LIST:END -->
 
 
