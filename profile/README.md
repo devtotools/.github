@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-5fbg)
+- [Music Monday — What are you listening to? &lpar;Soft Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-soft-edition-1mc9)
+- [Who Has a Positive Opinion of You?](https://dev.to/devteam/who-has-a-positive-opinion-of-you-305j)
 - [How Do You Get Unstuck from A Difficult Problem?](https://dev.to/devteam/how-do-you-get-unstuck-from-a-difficult-problem-3ocj)
 - [Can You Explain Your Project to a 5-Year-Old?](https://dev.to/devteam/can-you-explain-your-project-to-a-5-year-old-14h2)
 - [Our Community Badges Page Just Got Better!](https://dev.to/devteam/our-community-badges-page-just-got-better-8c2)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-8fh)
 - [What Are the Benefits of Being Uncomfortable?](https://dev.to/devteam/what-are-the-benefits-of-being-uncomfortable-411e)
 - [Discussion of the Week - v1](https://dev.to/devteam/discussion-of-the-week-v1-2alj)
-- [#DEVDiscuss: Memorization and Learning to Code](https://dev.to/devteam/devdiscuss-marketing-for-developers-f9k)
-- [What Do You Wish People Asked?](https://dev.to/devteam/what-do-you-wish-people-asked-2d2k)
-- [Sloan&#39;s Inbox: Considering a role as a Dev Advocate, but worried about less coding &amp; more marketing...](https://dev.to/devteam/sloans-inbox-considering-a-role-as-a-dev-advocate-but-worried-about-less-coding-more-marketing-152c)
 <!-- BLOG-POST-LIST:END -->
 
 
