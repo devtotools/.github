@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome Thread - v242](https://dev.to/devteam/welcome-thread-v242-1b40)
+- [How Do You Create Inclusive Workplaces?](https://dev.to/devteam/how-do-you-create-inclusive-workplaces-d5m)
 - [Trending Discussions of the Week - 9/12/23](https://dev.to/devteam/trending-discussions-of-the-week-91223-4kim)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4bfl)
 - [Got Coding Superstitions?🤞](https://dev.to/devteam/got-coding-superstitions-8im)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Who Has a Positive Opinion of You?](https://dev.to/devteam/who-has-a-positive-opinion-of-you-305j)
 - [How Do You Get Unstuck from A Difficult Problem?](https://dev.to/devteam/how-do-you-get-unstuck-from-a-difficult-problem-3ocj)
 - [Can You Explain Your Project to a 5-Year-Old?](https://dev.to/devteam/can-you-explain-your-project-to-a-5-year-old-14h2)
-- [Our Community Badges Page Just Got Better!](https://dev.to/devteam/our-community-badges-page-just-got-better-8c2)
-- [Changelog: Take control of your feed with hidden tags](https://dev.to/devteam/changelog-take-control-of-your-feed-with-hidden-tags-5db5)
 <!-- BLOG-POST-LIST:END -->
 
 
