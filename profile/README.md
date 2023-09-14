@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [#DEVDiscuss: JavaScript Runtimes](https://dev.to/devteam/devdiscuss-javascript-runtimes-2e4d)
+- [Sloan&#39;s Inbox: Do I need to write blog posts to be a successful dev?](https://dev.to/devteam/sloans-inbox-do-i-need-to-posts-blogs-to-be-a-successful-dev-27j4)
+- [Favorite Dev Tool?](https://dev.to/devteam/favorite-dev-tool-1p0j)
 - [Welcome Thread - v242](https://dev.to/devteam/welcome-thread-v242-1b40)
 - [How Do You Create Inclusive Workplaces?](https://dev.to/devteam/how-do-you-create-inclusive-workplaces-d5m)
 - [Trending Discussions of the Week - 9/12/23](https://dev.to/devteam/trending-discussions-of-the-week-91223-4kim)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Got Coding Superstitions?🤞](https://dev.to/devteam/got-coding-superstitions-8im)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-5fbg)
 - [Music Monday — What are you listening to? &lpar;Soft Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-soft-edition-1mc9)
-- [Who Has a Positive Opinion of You?](https://dev.to/devteam/who-has-a-positive-opinion-of-you-305j)
-- [How Do You Get Unstuck from A Difficult Problem?](https://dev.to/devteam/how-do-you-get-unstuck-from-a-difficult-problem-3ocj)
-- [Can You Explain Your Project to a 5-Year-Old?](https://dev.to/devteam/can-you-explain-your-project-to-a-5-year-old-14h2)
 <!-- BLOG-POST-LIST:END -->
 
 
