@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [How Do You Find Balance? 🍵🌊](https://dev.to/devteam/how-do-you-find-balance-3m65)
 - [It&#39;s Not Me, Is It?](https://dev.to/devteam/its-not-me-is-it-598o)
 - [Changelog: Tools for Organizations](https://dev.to/devteam/changelog-tools-for-organizations-mbp)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5epj)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [#DEVDiscuss: JavaScript Runtimes](https://dev.to/devteam/devdiscuss-javascript-runtimes-2e4d)
 - [Sloan&#39;s Inbox: Do I need to write blog posts to be a successful dev?](https://dev.to/devteam/sloans-inbox-do-i-need-to-posts-blogs-to-be-a-successful-dev-27j4)
 - [Favorite Dev Tool?](https://dev.to/devteam/favorite-dev-tool-1p0j)
-- [Welcome Thread - v242](https://dev.to/devteam/welcome-thread-v242-1b40)
 <!-- BLOG-POST-LIST:END -->
 
 
