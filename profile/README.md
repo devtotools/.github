@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Hacktoberfest 2023: Sneak Peek at Badges &amp; What&#39;s to Come](https://dev.to/devteam/hacktoberfest-2023-sneak-peek-at-badges-whats-to-come-4h22)
+- [Music Monday — What are you listening to? &lpar;New Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-new-edition-1d32)
+- [What&#39;s Your Ideal Coding Environment?](https://dev.to/devteam/whats-your-ideal-coding-environment-414i)
 - [How Do You Find Balance? 🍵🌊](https://dev.to/devteam/how-do-you-find-balance-3m65)
 - [It&#39;s Not Me, Is It?](https://dev.to/devteam/its-not-me-is-it-598o)
 - [Changelog: Tools for Organizations](https://dev.to/devteam/changelog-tools-for-organizations-mbp)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Toughest Learning Moment?](https://dev.to/devteam/toughest-learning-moment-1la2)
 - [We Updated Our &quot;Year Club&quot; Badges!](https://dev.to/devteam/we-updated-our-year-club-badges-1lhi)
 - [Discussion of the Week - v2](https://dev.to/devteam/discussion-of-the-week-v2-517c)
-- [#DEVDiscuss: JavaScript Runtimes](https://dev.to/devteam/devdiscuss-javascript-runtimes-2e4d)
-- [Sloan&#39;s Inbox: Do I need to write blog posts to be a successful dev?](https://dev.to/devteam/sloans-inbox-do-i-need-to-posts-blogs-to-be-a-successful-dev-27j4)
-- [Favorite Dev Tool?](https://dev.to/devteam/favorite-dev-tool-1p0j)
 <!-- BLOG-POST-LIST:END -->
 
 
