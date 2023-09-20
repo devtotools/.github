@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome Thread - v243](https://dev.to/devteam/welcome-thread-v243-10b)
+- [Recent &#39;Panic Moment&#39;?](https://dev.to/devteam/recent-panic-moment-49n5)
 - [Trending Discussions of the Week - 9/19/23](https://dev.to/devteam/trending-discussions-of-the-week-91923-5di7)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3dg4)
 - [Hiring Decision Influences?](https://dev.to/devteam/hiring-decision-influences-4nej)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What&#39;s Your Ideal Coding Environment?](https://dev.to/devteam/whats-your-ideal-coding-environment-414i)
 - [How Do You Find Balance? 🍵🌊](https://dev.to/devteam/how-do-you-find-balance-3m65)
 - [It&#39;s Not Me, Is It?](https://dev.to/devteam/its-not-me-is-it-598o)
-- [Changelog: Tools for Organizations](https://dev.to/devteam/changelog-tools-for-organizations-mbp)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5epj)
 <!-- BLOG-POST-LIST:END -->
 
 
