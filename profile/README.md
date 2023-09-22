@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Check Out DEV Lead Software Engineer Ridhwana Khan’s talk at Rocky Mountain Ruby!](https://dev.to/devteam/checkout-dev-lead-software-engineer-ridhwana-khans-talk-at-rocky-mountain-ruby-2ci7)
+- [Changelog: DEV Community Bug Roundup - v1](https://dev.to/devteam/changelog-dev-community-bug-roundup-v1-400d)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1158)
+- [What&#39;s A Tough Concept You&#39;re &lpar;Re&rpar;Learning?](https://dev.to/devteam/whats-a-tough-concept-youre-relearning-1n5e)
+- [📢 Announcing New Local Dev Setup Options for Contributing to Forem!](https://dev.to/devteam/announcing-new-local-dev-setup-options-for-contributing-to-forem-2p49)
+- [Discussion of the Week - v3](https://dev.to/devteam/discussion-of-the-week-v3-4fn1)
 - [Is Unity&#39;s New Pricing Model a Game Changer or Game Over?](https://dev.to/devteam/is-unitys-new-pricing-model-a-game-changer-or-game-over-1277)
 - [Now Awarding Badges to Elevate Top Discussions 💬💥](https://dev.to/devteam/now-awarding-badges-to-elevate-top-discussions-2bi5)
 - [Sloan&#39;s Inbox: Striving to be a T-shaped developer... how to find my specialization?](https://dev.to/devteam/sloans-inbox-striving-to-be-a-t-shaped-developer-how-to-find-my-specialization-ljn)
 - [Haikus for Coding? Wax Poetic!](https://dev.to/devteam/haikus-for-coding-wax-poetic-3dcm)
-- [Welcome Thread - v243](https://dev.to/devteam/welcome-thread-v243-10b)
-- [Recent &#39;Panic Moment&#39;?](https://dev.to/devteam/recent-panic-moment-49n5)
-- [Trending Discussions of the Week - 9/19/23](https://dev.to/devteam/trending-discussions-of-the-week-91923-5di7)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3dg4)
-- [Hiring Decision Influences?](https://dev.to/devteam/hiring-decision-influences-4nej)
-- [Hacktoberfest 2023: Sneak Peek at Badges &amp; What&#39;s to Come](https://dev.to/devteam/hacktoberfest-2023-sneak-peek-at-badges-whats-to-come-4h22)
 <!-- BLOG-POST-LIST:END -->
 
 
