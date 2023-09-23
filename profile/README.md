@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [First Coding Burnout?](https://dev.to/devteam/first-coding-burnout-aib)
 - [Check Out DEV Lead Software Engineer Ridhwana Khan’s talk at Rocky Mountain Ruby!](https://dev.to/devteam/checkout-dev-lead-software-engineer-ridhwana-khans-talk-at-rocky-mountain-ruby-2ci7)
 - [Changelog: DEV Community Bug Roundup - v1](https://dev.to/devteam/changelog-dev-community-bug-roundup-v1-400d)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1158)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Is Unity&#39;s New Pricing Model a Game Changer or Game Over?](https://dev.to/devteam/is-unitys-new-pricing-model-a-game-changer-or-game-over-1277)
 - [Now Awarding Badges to Elevate Top Discussions 💬💥](https://dev.to/devteam/now-awarding-badges-to-elevate-top-discussions-2bi5)
 - [Sloan&#39;s Inbox: Striving to be a T-shaped developer... how to find my specialization?](https://dev.to/devteam/sloans-inbox-striving-to-be-a-t-shaped-developer-how-to-find-my-specialization-ljn)
-- [Haikus for Coding? Wax Poetic!](https://dev.to/devteam/haikus-for-coding-wax-poetic-3dcm)
 <!-- BLOG-POST-LIST:END -->
 
 
