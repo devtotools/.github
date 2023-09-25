@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-e7o)
+- [Music Monday — What are you listening to? &lpar;Earworm Edition 👂🐛&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-earworm-edition--41p3)
+- [Is There a Developer Shortage?](https://dev.to/devteam/is-there-a-developer-shortage-2l56)
 - [What&#39;s the Main Issue in Software Today?](https://dev.to/devteam/whats-the-main-issue-in-software-today-4nk1)
 - [First Coding Burnout?](https://dev.to/devteam/first-coding-burnout-aib)
 - [Check Out DEV Lead Software Engineer Ridhwana Khan’s talk at Rocky Mountain Ruby!](https://dev.to/devteam/checkout-dev-lead-software-engineer-ridhwana-khans-talk-at-rocky-mountain-ruby-2ci7)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1158)
 - [What&#39;s A Tough Concept You&#39;re &lpar;Re&rpar;Learning?](https://dev.to/devteam/whats-a-tough-concept-youre-relearning-1n5e)
 - [📢 Announcing New Local Dev Setup Options for Contributing to Forem!](https://dev.to/devteam/announcing-new-local-dev-setup-options-for-contributing-to-forem-2p49)
-- [Discussion of the Week - v3](https://dev.to/devteam/discussion-of-the-week-v3-4fn1)
-- [Is Unity&#39;s New Pricing Model a Game Changer or Game Over?](https://dev.to/devteam/is-unitys-new-pricing-model-a-game-changer-or-game-over-1277)
-- [Now Awarding Badges to Elevate Top Discussions 💬💥](https://dev.to/devteam/now-awarding-badges-to-elevate-top-discussions-2bi5)
 <!-- BLOG-POST-LIST:END -->
 
 
