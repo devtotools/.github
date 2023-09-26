@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-160a)
+- [Announcing Our Hacktoberfest Issue Board!](https://dev.to/devteam/announcing-our-hacktoberfest-issue-board-1835)
+- [📣 Registration Opens Today! Hacktoberfest 2023 🍁🎃](https://dev.to/devteam/registration-opens-today-hacktoberfest-2023-5898)
+- [DEV Team Update](https://dev.to/devteam/dev-team-update-22c9)
+- [Which Developers Are in High Demand Now?](https://dev.to/devteam/which-developers-are-in-high-demand-now-5hga)
+- [Hacktoberfest 2023 for Maintainers](https://dev.to/devteam/hacktoberfest-2023-for-maintainers-4fhj)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-e7o)
 - [Music Monday — What are you listening to? &lpar;Earworm Edition 👂🐛&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-earworm-edition--41p3)
 - [Is There a Developer Shortage?](https://dev.to/devteam/is-there-a-developer-shortage-2l56)
 - [What&#39;s the Main Issue in Software Today?](https://dev.to/devteam/whats-the-main-issue-in-software-today-4nk1)
-- [First Coding Burnout?](https://dev.to/devteam/first-coding-burnout-aib)
-- [Check Out DEV Lead Software Engineer Ridhwana Khan’s talk at Rocky Mountain Ruby!](https://dev.to/devteam/checkout-dev-lead-software-engineer-ridhwana-khans-talk-at-rocky-mountain-ruby-2ci7)
-- [Changelog: DEV Community Bug Roundup - v1](https://dev.to/devteam/changelog-dev-community-bug-roundup-v1-400d)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1158)
-- [What&#39;s A Tough Concept You&#39;re &lpar;Re&rpar;Learning?](https://dev.to/devteam/whats-a-tough-concept-youre-relearning-1n5e)
-- [📢 Announcing New Local Dev Setup Options for Contributing to Forem!](https://dev.to/devteam/announcing-new-local-dev-setup-options-for-contributing-to-forem-2p49)
 <!-- BLOG-POST-LIST:END -->
 
 
