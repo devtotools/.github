@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Blockchain Dev Decline: Advice for Specialists?](https://dev.to/devteam/blockchain-dev-decline-advice-for-specialists-2fpe)
 - [Featured Mod of the Month: Pradumna Saraf](https://dev.to/devteam/featured-mod-of-the-month-pradumna-saraf-e7j)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1841)
 - [Is GitHub Copilot a Game-Changer?](https://dev.to/devteam/is-github-copilot-a-game-changer-42gh)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What Are the Top 3 Qualities of Successful Devs?](https://dev.to/devteam/what-are-the-top-3-qualities-of-successful-devs-5bm4)
 - [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-160a)
 - [Announcing Our Hacktoberfest Issue Board!](https://dev.to/devteam/announcing-our-hacktoberfest-issue-board-1835)
-- [📣 Registration Opens Today! Hacktoberfest 2023 🍁🎃](https://dev.to/devteam/registration-opens-today-hacktoberfest-2023-5898)
 <!-- BLOG-POST-LIST:END -->
 
 
