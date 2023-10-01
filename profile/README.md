@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Hacktoberfest 2023 Help Thread: Your Community Hub!](https://dev.to/devteam/hacktoberfest-2023-help-thread-your-community-hub-4o69)
+- [💻🎃 Hacktoberfest 2023 is Here!](https://dev.to/devteam/hacktoberfest-2023-is-here-58bo)
+- [Low-Code Challenges: What&#39;s Next](https://dev.to/devteam/low-code-challenges-whats-next-5a9d)
 - [Blockchain Dev Decline: Advice for Specialists?](https://dev.to/devteam/blockchain-dev-decline-advice-for-specialists-2fpe)
 - [Featured Mod of the Month: Pradumna Saraf](https://dev.to/devteam/featured-mod-of-the-month-pradumna-saraf-e7j)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1841)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Discussion of the Week - v4](https://dev.to/devteam/discussion-of-the-week-v4-jj2)
 - [The Dev&#39;s Future Landscape: What Lies Ahead?](https://dev.to/devteam/the-devs-future-landscape-what-lies-ahead-34b6)
 - [Welcome Thread - v244](https://dev.to/devteam/welcome-thread-v242-3a4g)
-- [What Are the Top 3 Qualities of Successful Devs?](https://dev.to/devteam/what-are-the-top-3-qualities-of-successful-devs-5bm4)
-- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-160a)
-- [Announcing Our Hacktoberfest Issue Board!](https://dev.to/devteam/announcing-our-hacktoberfest-issue-board-1835)
 <!-- BLOG-POST-LIST:END -->
 
 
