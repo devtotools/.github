@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Outsourcing Software Dev: What Factors Matter?](https://dev.to/devteam/outsourcing-software-dev-what-factors-matter-42a5)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2jnj)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-3hlb)
 - [Music Monday — What are you listening to? &lpar;Our Parents&#39; Faves Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-our-parents-faves-edition-635)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Low-Code Challenges: What&#39;s Next](https://dev.to/devteam/low-code-challenges-whats-next-5a9d)
 - [Blockchain Dev Decline: Advice for Specialists?](https://dev.to/devteam/blockchain-dev-decline-advice-for-specialists-2fpe)
 - [Featured Mod of the Month: Pradumna Saraf](https://dev.to/devteam/featured-mod-of-the-month-pradumna-saraf-e7j)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1841)
 <!-- BLOG-POST-LIST:END -->
 
 
