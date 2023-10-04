@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Career Growth After 35: What Awaits Programmers?](https://dev.to/devteam/career-growth-after-35-what-awaits-programmers-1ff0)
+- [Changelog: Supporting Tag Moderators](https://dev.to/devteam/changelog-supporting-tag-moderators-38i)
+- [Welcome Thread - v245](https://dev.to/devteam/welcome-thread-v245-l3p)
 - [Outsourcing Software Dev: What Factors Matter?](https://dev.to/devteam/outsourcing-software-dev-what-factors-matter-42a5)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2jnj)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-3hlb)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Monolithic Apps in Containers: Viable or Not?](https://dev.to/devteam/monolithic-apps-in-containers-viable-or-not-11pm)
 - [Hacktoberfest 2023 Help Thread: Your Community Hub!](https://dev.to/devteam/hacktoberfest-2023-help-thread-your-community-hub-4o69)
 - [💻🎃 Hacktoberfest 2023 is Here!](https://dev.to/devteam/hacktoberfest-2023-is-here-58bo)
-- [Low-Code Challenges: What&#39;s Next](https://dev.to/devteam/low-code-challenges-whats-next-5a9d)
-- [Blockchain Dev Decline: Advice for Specialists?](https://dev.to/devteam/blockchain-dev-decline-advice-for-specialists-2fpe)
-- [Featured Mod of the Month: Pradumna Saraf](https://dev.to/devteam/featured-mod-of-the-month-pradumna-saraf-e7j)
 <!-- BLOG-POST-LIST:END -->
 
 
