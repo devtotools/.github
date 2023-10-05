@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What Draws You to a Job Besides Salary?](https://dev.to/devteam/what-draws-you-to-a-job-besides-salary-2idk)
+- [Sloan&#39;s Inbox: How to connect with folks over Open Source?](https://dev.to/devteam/sloans-inbox-how-to-connect-with-folks-over-open-source-2ojl)
 - [Career Growth After 35: What Awaits Programmers?](https://dev.to/devteam/career-growth-after-35-what-awaits-programmers-1ff0)
 - [Changelog: Supporting Tag Moderators](https://dev.to/devteam/changelog-supporting-tag-moderators-38i)
 - [Welcome Thread - v245](https://dev.to/devteam/welcome-thread-v245-l3p)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-3hlb)
 - [Music Monday — What are you listening to? &lpar;Our Parents&#39; Faves Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-our-parents-faves-edition-635)
 - [Monolithic Apps in Containers: Viable or Not?](https://dev.to/devteam/monolithic-apps-in-containers-viable-or-not-11pm)
-- [Hacktoberfest 2023 Help Thread: Your Community Hub!](https://dev.to/devteam/hacktoberfest-2023-help-thread-your-community-hub-4o69)
-- [💻🎃 Hacktoberfest 2023 is Here!](https://dev.to/devteam/hacktoberfest-2023-is-here-58bo)
 <!-- BLOG-POST-LIST:END -->
 
 
