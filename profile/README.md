@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4fk3)
+- [Can You -- and Should You -- Stop Caring What Others Think?](https://dev.to/devteam/can-you-and-should-you-stop-caring-what-others-think-4bm4)
 - [Discussion of the Week - v5](https://dev.to/devteam/discussion-of-the-week-v5-19bo)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-aod)
 - [What Draws You to a Job Besides Salary?](https://dev.to/devteam/what-draws-you-to-a-job-besides-salary-2idk)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Changelog: Supporting Tag Moderators](https://dev.to/devteam/changelog-supporting-tag-moderators-38i)
 - [Welcome Thread - v245](https://dev.to/devteam/welcome-thread-v245-l3p)
 - [Outsourcing Software Dev: What Factors Matter?](https://dev.to/devteam/outsourcing-software-dev-what-factors-matter-42a5)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2jnj)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-3hlb)
 <!-- BLOG-POST-LIST:END -->
 
 
