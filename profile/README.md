@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Which Beliefs or Practices Have You Reevaluated Over Time?](https://dev.to/devteam/which-beliefs-or-practices-have-your-reevaluated-over-time-59c)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5770)
 - [Music Monday — What are you listening to? &lpar;Metal Edition 🤘&rpar;](https://dev.to/devteam/music-monday--18n)
 - [If You Could Automate One Aspect of Your Life, What Would It Be?](https://dev.to/devteam/if-you-could-automate-one-aspect-of-your-life-what-would-it-be-4nop)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-aod)
 - [What Draws You to a Job Besides Salary?](https://dev.to/devteam/what-draws-you-to-a-job-besides-salary-2idk)
 - [Sloan&#39;s Inbox: How to connect with folks over Open Source?](https://dev.to/devteam/sloans-inbox-how-to-connect-with-folks-over-open-source-2ojl)
-- [Career Growth After 35: What Awaits Programmers?](https://dev.to/devteam/career-growth-after-35-what-awaits-programmers-1ff0)
 <!-- BLOG-POST-LIST:END -->
 
 
