@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome Thread - v246](https://dev.to/devteam/welcome-thread-v246-2e94)
+- [The Multitasking Dilemma: Who Among Us Still Does It?](https://dev.to/devteam/the-multitasking-dilemma-who-among-us-still-does-it-40f)
 - [Which Beliefs or Practices Have You Reevaluated Over Time?](https://dev.to/devteam/which-beliefs-or-practices-have-your-reevaluated-over-time-59c)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5770)
 - [Music Monday — What are you listening to? &lpar;Metal Edition 🤘&rpar;](https://dev.to/devteam/music-monday--18n)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Can You -- and Should You -- Stop Caring What Others Think?](https://dev.to/devteam/can-you-and-should-you-stop-caring-what-others-think-4bm4)
 - [Discussion of the Week - v5](https://dev.to/devteam/discussion-of-the-week-v5-19bo)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-aod)
-- [What Draws You to a Job Besides Salary?](https://dev.to/devteam/what-draws-you-to-a-job-besides-salary-2idk)
-- [Sloan&#39;s Inbox: How to connect with folks over Open Source?](https://dev.to/devteam/sloans-inbox-how-to-connect-with-folks-over-open-source-2ojl)
 <!-- BLOG-POST-LIST:END -->
 
 
