@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [How Do You Sleep &lpar;Better&rpar;?](https://dev.to/devteam/how-do-you-sleep-better-5h5h)
+- [Sloan&#39;s Inbox: How to stand out as a beginner dev?](https://dev.to/devteam/sloans-inbox-how-to-stand-out-as-a-beginner-dev-chh)
 - [Welcome Thread - v246](https://dev.to/devteam/welcome-thread-v246-2e94)
 - [The Multitasking Dilemma: Who Among Us Still Does It?](https://dev.to/devteam/the-multitasking-dilemma-who-among-us-still-does-it-40f)
 - [Which Beliefs or Practices Have You Reevaluated Over Time?](https://dev.to/devteam/which-beliefs-or-practices-have-your-reevaluated-over-time-59c)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [If You Could Automate One Aspect of Your Life, What Would It Be?](https://dev.to/devteam/if-you-could-automate-one-aspect-of-your-life-what-would-it-be-4nop)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4fk3)
 - [Can You -- and Should You -- Stop Caring What Others Think?](https://dev.to/devteam/can-you-and-should-you-stop-caring-what-others-think-4bm4)
-- [Discussion of the Week - v5](https://dev.to/devteam/discussion-of-the-week-v5-19bo)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-aod)
 <!-- BLOG-POST-LIST:END -->
 
 
