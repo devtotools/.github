@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Community Contributor Spotlight: @ktmouk](https://dev.to/devteam/community-contributor-spotlight-ktmouk-2e9n)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-81k)
+- [What&#39;s the One Work Task You&#39;d Cut?](https://dev.to/devteam/whats-the-one-work-task-youd-cut-26ge)
+- [Hacktoberfest 2023 Chronicles: Diverse Insights &amp; Viewpoints](https://dev.to/devteam/hacktoberfest-2023-chronicles-diverse-insights-viewpoints-4i8l)
+- [Discussion of the Week - v6](https://dev.to/devteam/discussion-of-the-week-v6-46h0)
 - [How Do You Sleep &lpar;Better&rpar;?](https://dev.to/devteam/how-do-you-sleep-better-5h5h)
 - [Sloan&#39;s Inbox: How to stand out as a beginner dev?](https://dev.to/devteam/sloans-inbox-how-to-stand-out-as-a-beginner-dev-chh)
 - [Welcome Thread - v246](https://dev.to/devteam/welcome-thread-v246-2e94)
 - [The Multitasking Dilemma: Who Among Us Still Does It?](https://dev.to/devteam/the-multitasking-dilemma-who-among-us-still-does-it-40f)
 - [Which Beliefs or Practices Have You Reevaluated Over Time?](https://dev.to/devteam/which-beliefs-or-practices-have-your-reevaluated-over-time-59c)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5770)
-- [Music Monday — What are you listening to? &lpar;Metal Edition 🤘&rpar;](https://dev.to/devteam/music-monday--18n)
-- [If You Could Automate One Aspect of Your Life, What Would It Be?](https://dev.to/devteam/if-you-could-automate-one-aspect-of-your-life-what-would-it-be-4nop)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4fk3)
-- [Can You -- and Should You -- Stop Caring What Others Think?](https://dev.to/devteam/can-you-and-should-you-stop-caring-what-others-think-4bm4)
 <!-- BLOG-POST-LIST:END -->
 
 
