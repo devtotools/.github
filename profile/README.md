@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s A Life Lesson You Wish You&#39;d Learned Sooner?](https://dev.to/devteam/whats-a-life-lesson-you-wish-youd-learned-sooner-163d)
 - [Community Contributor Spotlight: @ktmouk](https://dev.to/devteam/community-contributor-spotlight-ktmouk-2e9n)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-81k)
 - [What&#39;s the One Work Task You&#39;d Cut?](https://dev.to/devteam/whats-the-one-work-task-youd-cut-26ge)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Sloan&#39;s Inbox: How to stand out as a beginner dev?](https://dev.to/devteam/sloans-inbox-how-to-stand-out-as-a-beginner-dev-chh)
 - [Welcome Thread - v246](https://dev.to/devteam/welcome-thread-v246-2e94)
 - [The Multitasking Dilemma: Who Among Us Still Does It?](https://dev.to/devteam/the-multitasking-dilemma-who-among-us-still-does-it-40f)
-- [Which Beliefs or Practices Have You Reevaluated Over Time?](https://dev.to/devteam/which-beliefs-or-practices-have-your-reevaluated-over-time-59c)
 <!-- BLOG-POST-LIST:END -->
 
 
