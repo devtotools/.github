@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome Thread - v247](https://dev.to/devteam/welcome-thread-v247-11p4)
+- [How Do You Relax?](https://dev.to/devteam/how-do-you-relax-5c0b)
 - [If You Could Redefine Your Life, What Career Would You Choose?](https://dev.to/devteam/if-you-could-redefine-your-life-what-career-would-you-choose-2ei1)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-6di)
 - [Music Monday — What are you listening to? &lpar;Movie Soundtrack Edition 🍿&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-movie-soundtrack-edition-5c0d)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Which Trends Will Become Obsolete?](https://dev.to/devteam/which-trends-will-become-obsolete-35jj)
 - [What&#39;s A Life Lesson You Wish You&#39;d Learned Sooner?](https://dev.to/devteam/whats-a-life-lesson-you-wish-youd-learned-sooner-163d)
 - [Community Contributor Spotlight: @ktmouk](https://dev.to/devteam/community-contributor-spotlight-ktmouk-2e9n)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-81k)
-- [What&#39;s the One Work Task You&#39;d Cut?](https://dev.to/devteam/whats-the-one-work-task-youd-cut-26ge)
 <!-- BLOG-POST-LIST:END -->
 
 
