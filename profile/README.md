@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Unveil Your App Secrets!](https://dev.to/devteam/unveil-your-app-secrets-lll)
 - [DEV Community Contributor Spotlight: @narender2031](https://dev.to/devteam/community-contributor-spotlight-narender2031-2a58)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-lba)
 - [What Fundamental Principles Persist in Backend Engineering?](https://dev.to/devteam/what-fundamental-principles-persist-in-backend-engineering-56g7)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Got A Home Gadget Game Changer?](https://dev.to/devteam/got-a-home-gadget-game-changer-532p)
 - [What&#39;s your favorite scary movie? 😱](https://dev.to/devteam/whats-your-favorite-scary-movie-35lj)
 - [Important Hacktoberfest 2023 Completion Instructions 🚀](https://dev.to/devteam/important-hacktoberfest-2023-completion-instructions-3ldg)
-- [Welcome Thread - v247](https://dev.to/devteam/welcome-thread-v247-11p4)
 <!-- BLOG-POST-LIST:END -->
 
 
