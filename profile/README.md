@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Music Monday — What are you listening to? &lpar;Video Game Soundtrack Edition 👾&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-video-game-soundtrack-edition--13p0)
+- [Are Tech Industry Layoffs Reflecting New Tech Landscape Realities?](https://dev.to/devteam/are-tech-industry-layoffs-reflecting-new-tech-landscape-realities-3470)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-48bl)
 - [Unveil Your App Secrets!](https://dev.to/devteam/unveil-your-app-secrets-lll)
 - [DEV Community Contributor Spotlight: @narender2031](https://dev.to/devteam/community-contributor-spotlight-narender2031-2a58)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-lba)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Discussion of the Week - v7](https://dev.to/devteam/discussion-of-the-week-v7-3a)
 - [Coding in Costume! Join Our Halloween Costume Contest! 👻🎃](https://dev.to/devteam/coding-in-costume-join-our-halloween-costume-contest-3dg1)
 - [Sloan&#39;s Inbox: How and when to choose a JavaScript Framework?](https://dev.to/devteam/sloans-inbox-how-and-when-to-choose-a-javascript-framework-ch9)
-- [Got A Home Gadget Game Changer?](https://dev.to/devteam/got-a-home-gadget-game-changer-532p)
-- [What&#39;s your favorite scary movie? 😱](https://dev.to/devteam/whats-your-favorite-scary-movie-35lj)
-- [Important Hacktoberfest 2023 Completion Instructions 🚀](https://dev.to/devteam/important-hacktoberfest-2023-completion-instructions-3ldg)
 <!-- BLOG-POST-LIST:END -->
 
 
