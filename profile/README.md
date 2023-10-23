@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-9i1)
+- [What Innovative Possibilities Does Generative AI Unlock?](https://dev.to/devteam/what-innovative-possibilities-does-generative-ai-unlock-504)
 - [Music Monday — What are you listening to? &lpar;Video Game Soundtrack Edition 👾&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-video-game-soundtrack-edition--13p0)
-- [Are Tech Industry Layoffs Reflecting New Tech Landscape Realities?](https://dev.to/devteam/are-tech-industry-layoffs-reflecting-new-tech-landscape-realities-3470)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-48bl)
+- [Are Tech Industry Layoffs Reflecting New Tech Landscape Realities?](https://dev.to/devteam/are-tech-industry-layoffs-reflecting-new-tech-landscape-realities-3470)
 - [Unveil Your App Secrets!](https://dev.to/devteam/unveil-your-app-secrets-lll)
 - [DEV Community Contributor Spotlight: @narender2031](https://dev.to/devteam/community-contributor-spotlight-narender2031-2a58)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-lba)
 - [What Fundamental Principles Persist in Backend Engineering?](https://dev.to/devteam/what-fundamental-principles-persist-in-backend-engineering-56g7)
 - [Discussion of the Week - v7](https://dev.to/devteam/discussion-of-the-week-v7-3a)
-- [Coding in Costume! Join Our Halloween Costume Contest! 👻🎃](https://dev.to/devteam/coding-in-costume-join-our-halloween-costume-contest-3dg1)
-- [Sloan&#39;s Inbox: How and when to choose a JavaScript Framework?](https://dev.to/devteam/sloans-inbox-how-and-when-to-choose-a-javascript-framework-ch9)
 <!-- BLOG-POST-LIST:END -->
 
 
