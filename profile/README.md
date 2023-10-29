@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Have You Ever Encountered A Ghost in the Machine? 👻](https://dev.to/devteam/favorite-spooky-movie-for-the-season-5c9b)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-3jh)
 - [Your Go-to Coding Snacks for Chilly Nights?](https://dev.to/devteam/your-go-to-coding-snacks-for-chilly-nights-3kh5)
 - [Hacktoberfest 2023: Celebrating the Home Stretch](https://dev.to/devteam/hacktoberfest-2023-celebrating-the-home-stretch-46kp)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-45d6)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Sloan&#39;s Inbox: Considering a career change from coding to graphic design, any advice?](https://dev.to/devteam/sloans-inbox-considering-a-career-change-from-coding-to-graphic-design-any-advice-565n)
 - [Signed Up for Any Spooky Fall Challenges or Projects? 🍁](https://dev.to/devteam/signed-up-for-any-spooky-fall-challenges-or-projects-2d72)
 - [What&#39;s Beyond Senior Engineer?](https://dev.to/devteam/whats-beyond-senior-engineer-2f5o)
-- [Welcome Thread - v248](https://dev.to/devteam/welcome-thread-v248-j2i)
-- [Key Python Concepts for Your Coding Journey?](https://dev.to/devteam/key-python-concepts-for-your-coding-journey-24ec)
 <!-- BLOG-POST-LIST:END -->
 
 
