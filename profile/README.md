@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5e0p)
+- [Music Monday — What are you listening to? &lpar;Halloween Edition 🎃&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-halloween-edition--2ejj)
+- [All-Time Favorite Halloween Costume?](https://dev.to/devteam/all-time-favorite-halloween-costume-4gnk)
 - [Have You Ever Encountered A Ghost in the Machine? 👻](https://dev.to/devteam/favorite-spooky-movie-for-the-season-5c9b)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-3jh)
 - [Your Go-to Coding Snacks for Chilly Nights?](https://dev.to/devteam/your-go-to-coding-snacks-for-chilly-nights-3kh5)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-45d6)
 - [What Tech Gadget Gives You Pumpkin Spice Vibes? 🎃](https://dev.to/devteam/what-tech-gadget-gives-you-pumpkin-spice-vibes-208e)
 - [Discussion of the Week - v8](https://dev.to/devteam/discussion-of-the-week-v8-194n)
-- [Sloan&#39;s Inbox: Considering a career change from coding to graphic design, any advice?](https://dev.to/devteam/sloans-inbox-considering-a-career-change-from-coding-to-graphic-design-any-advice-565n)
-- [Signed Up for Any Spooky Fall Challenges or Projects? 🍁](https://dev.to/devteam/signed-up-for-any-spooky-fall-challenges-or-projects-2d72)
-- [What&#39;s Beyond Senior Engineer?](https://dev.to/devteam/whats-beyond-senior-engineer-2f5o)
 <!-- BLOG-POST-LIST:END -->
 
 
