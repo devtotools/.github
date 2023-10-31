@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Featured Mod of the Month: Elizabeth Mattijsen](https://dev.to/devteam/featured-mod-of-the-month-elizabeth-mattijsen-3gfe)
+- [Beware the Creepiest Crawliest Coding Bugs! 👾👾👾](https://dev.to/devteam/beware-the-creepiest-crawliest-coding-bugs-803)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5e0p)
 - [Music Monday — What are you listening to? &lpar;Halloween Edition 🎃&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-halloween-edition--2ejj)
 - [All-Time Favorite Halloween Costume?](https://dev.to/devteam/all-time-favorite-halloween-costume-4gnk)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Your Go-to Coding Snacks for Chilly Nights?](https://dev.to/devteam/your-go-to-coding-snacks-for-chilly-nights-3kh5)
 - [Hacktoberfest 2023: Celebrating the Home Stretch](https://dev.to/devteam/hacktoberfest-2023-celebrating-the-home-stretch-46kp)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-45d6)
-- [What Tech Gadget Gives You Pumpkin Spice Vibes? 🎃](https://dev.to/devteam/what-tech-gadget-gives-you-pumpkin-spice-vibes-208e)
-- [Discussion of the Week - v8](https://dev.to/devteam/discussion-of-the-week-v8-194n)
 <!-- BLOG-POST-LIST:END -->
 
 
