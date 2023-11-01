@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome Thread - v249](https://dev.to/devteam/welcome-thread-v249-2jj2)
 - [Featured Mod of the Month: Elizabeth Mattijsen](https://dev.to/devteam/featured-mod-of-the-month-elizabeth-mattijsen-3gfe)
 - [Beware the Creepiest Crawliest Coding Bugs! 👾👾👾](https://dev.to/devteam/beware-the-creepiest-crawliest-coding-bugs-803)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5e0p)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-3jh)
 - [Your Go-to Coding Snacks for Chilly Nights?](https://dev.to/devteam/your-go-to-coding-snacks-for-chilly-nights-3kh5)
 - [Hacktoberfest 2023: Celebrating the Home Stretch](https://dev.to/devteam/hacktoberfest-2023-celebrating-the-home-stretch-46kp)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-45d6)
 <!-- BLOG-POST-LIST:END -->
 
 
