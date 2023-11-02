@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Sloan&#39;s Inbox: Advice for a dev hobbyist that wants to get a career in software development?](https://dev.to/devteam/sloans-inbox-advice-for-a-dev-hobbyist-that-wants-to-get-a-career-in-software-development-1g7e)
+- [How to Boost Productivity Amidst Disengagement?](https://dev.to/devteam/how-to-boost-productivity-amidst-disengagement-mk8)
+- [Embracing Key Communication Trends?](https://dev.to/devteam/embracing-key-communication-trends-249p)
 - [Welcome Thread - v249](https://dev.to/devteam/welcome-thread-v249-2jj2)
 - [Featured Mod of the Month: Elizabeth Mattijsen](https://dev.to/devteam/featured-mod-of-the-month-elizabeth-mattijsen-3gfe)
 - [Beware the Creepiest Crawliest Coding Bugs! 👾👾👾](https://dev.to/devteam/beware-the-creepiest-crawliest-coding-bugs-803)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Music Monday — What are you listening to? &lpar;Halloween Edition 🎃&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-halloween-edition--2ejj)
 - [All-Time Favorite Halloween Costume?](https://dev.to/devteam/all-time-favorite-halloween-costume-4gnk)
 - [Have You Ever Encountered A Ghost in the Machine? 👻](https://dev.to/devteam/favorite-spooky-movie-for-the-season-5c9b)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-3jh)
-- [Your Go-to Coding Snacks for Chilly Nights?](https://dev.to/devteam/your-go-to-coding-snacks-for-chilly-nights-3kh5)
-- [Hacktoberfest 2023: Celebrating the Home Stretch](https://dev.to/devteam/hacktoberfest-2023-celebrating-the-home-stretch-46kp)
 <!-- BLOG-POST-LIST:END -->
 
 
