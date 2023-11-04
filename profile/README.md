@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [How Can You Regain Lost Motivation?](https://dev.to/devteam/how-can-you-regain-lost-motivation-39k1)
 - [New Sponsorship Partners on DEV](https://dev.to/devteam/new-sponsorship-partners-on-dev-1pgi)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-20pe)
 - [Is There a Faster Alternative to JSON?](https://dev.to/devteam/is-there-a-faster-alternative-to-json-o38)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Embracing Key Communication Trends?](https://dev.to/devteam/embracing-key-communication-trends-249p)
 - [Welcome Thread - v249](https://dev.to/devteam/welcome-thread-v249-2jj2)
 - [Featured Mod of the Month: Elizabeth Mattijsen](https://dev.to/devteam/featured-mod-of-the-month-elizabeth-mattijsen-3gfe)
-- [Beware the Creepiest Crawliest Coding Bugs! 👾👾👾](https://dev.to/devteam/beware-the-creepiest-crawliest-coding-bugs-803)
 <!-- BLOG-POST-LIST:END -->
 
 
