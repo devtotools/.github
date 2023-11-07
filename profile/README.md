@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Are You Overstimulated?](https://dev.to/devteam/are-you-overstimulated-p3m)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4ho)
 - [Music Monday — What are you listening to? &lpar;Guitar Hero Edition 🎸&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-guitar-hero-edition--3595)
 - [How Do You Achieve Your Life Goals?](https://dev.to/devteam/how-do-you-achieve-your-life-goals-5bkj)
-- [Is Living for Your Passion Possible?](https://dev.to/devteam/is-living-for-your-passion-possible-2gdf)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-49g3)
+- [Is Living for Your Passion Possible?](https://dev.to/devteam/is-living-for-your-passion-possible-2gdf)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-33a9)
 - [How Can You Regain Lost Motivation?](https://dev.to/devteam/how-can-you-regain-lost-motivation-39k1)
 - [New Sponsorship Partners on DEV](https://dev.to/devteam/new-sponsorship-partners-on-dev-1pgi)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-20pe)
-- [Is There a Faster Alternative to JSON?](https://dev.to/devteam/is-there-a-faster-alternative-to-json-o38)
-- [Discussion of the Week - v9](https://dev.to/devteam/discussion-of-the-week-v9-4oal)
 <!-- BLOG-POST-LIST:END -->
 
 
