@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome Thread - v250](https://dev.to/devteam/welcome-thread-v250-1hhd)
+- [How Has Your Career Perspective Evolved?](https://dev.to/devteam/how-has-your-career-perspective-evolved-aj7)
 - [Are You Overstimulated?](https://dev.to/devteam/are-you-overstimulated-p3m)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4ho)
 - [Music Monday — What are you listening to? &lpar;Guitar Hero Edition 🎸&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-guitar-hero-edition--3595)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Is Living for Your Passion Possible?](https://dev.to/devteam/is-living-for-your-passion-possible-2gdf)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-33a9)
 - [How Can You Regain Lost Motivation?](https://dev.to/devteam/how-can-you-regain-lost-motivation-39k1)
-- [New Sponsorship Partners on DEV](https://dev.to/devteam/new-sponsorship-partners-on-dev-1pgi)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-20pe)
 <!-- BLOG-POST-LIST:END -->
 
 
