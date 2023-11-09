@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Sloan&#39;s Inbox: Struggling to focus, any advice?](https://dev.to/devteam/sloans-inbox-struggling-to-focus-any-advice-13b0)
+- [How Do You Manage Tech Debt Effectively?](https://dev.to/devteam/how-do-you-manage-tech-debt-effectively-2ekf)
 - [Welcome Thread - v250](https://dev.to/devteam/welcome-thread-v250-1hhd)
 - [How Has Your Career Perspective Evolved?](https://dev.to/devteam/how-has-your-career-perspective-evolved-aj7)
 - [Are You Overstimulated?](https://dev.to/devteam/are-you-overstimulated-p3m)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4ho)
 - [Music Monday — What are you listening to? &lpar;Guitar Hero Edition 🎸&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-guitar-hero-edition--3595)
 - [How Do You Achieve Your Life Goals?](https://dev.to/devteam/how-do-you-achieve-your-life-goals-5bkj)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-49g3)
-- [Is Living for Your Passion Possible?](https://dev.to/devteam/is-living-for-your-passion-possible-2gdf)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-33a9)
-- [How Can You Regain Lost Motivation?](https://dev.to/devteam/how-can-you-regain-lost-motivation-39k1)
+- [Is Living for Your Passion Possible?](https://dev.to/devteam/is-living-for-your-passion-possible-2gdf)
 <!-- BLOG-POST-LIST:END -->
 
 
