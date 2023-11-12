@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Is &quot;Work Less, Earn More&quot; an Achievable Dream?](https://dev.to/devteam/is-work-less-earn-more-an-achievable-dream-1nh)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-43lk)
 - [Why Should Standing Out Be Non-Negotiable?](https://dev.to/devteam/why-should-standing-out-be-non-negotiable-58fb)
 - [DEV Community Contributor Spotlight: Christine Belzie](https://dev.to/devteam/dev-community-contributor-spotlight-christine-belzie-38bg)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-30k1)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Sloan&#39;s Inbox: Struggling to focus, any advice?](https://dev.to/devteam/sloans-inbox-struggling-to-focus-any-advice-13b0)
 - [How Do You Manage Tech Debt Effectively?](https://dev.to/devteam/how-do-you-manage-tech-debt-effectively-2ekf)
 - [Welcome Thread - v250](https://dev.to/devteam/welcome-thread-v250-1hhd)
-- [How Has Your Career Perspective Evolved?](https://dev.to/devteam/how-has-your-career-perspective-evolved-aj7)
-- [Are You Overstimulated?](https://dev.to/devteam/are-you-overstimulated-p3m)
 <!-- BLOG-POST-LIST:END -->
 
 
