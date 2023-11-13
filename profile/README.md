@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Music Monday — What are you listening to? &lpar;Synth Heroes Edition 🎹&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-synth-heroes-edition--1fg9)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-59oj)
+- [What Are the Secrets Behind Developer Success?](https://dev.to/devteam/what-are-the-secrets-behind-developer-success-success-f4j)
 - [Is &quot;Work Less, Earn More&quot; an Achievable Dream?](https://dev.to/devteam/is-work-less-earn-more-an-achievable-dream-1nh)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-43lk)
 - [Why Should Standing Out Be Non-Negotiable?](https://dev.to/devteam/why-should-standing-out-be-non-negotiable-58fb)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-30k1)
 - [Can the First 5 Minutes of Your Day Set the Tone?](https://dev.to/devteam/can-the-first-5-minutes-of-your-day-set-the-tone-21h3)
 - [Discussion of the Week - v10](https://dev.to/devteam/discussion-of-the-week-v9-2a3g)
-- [Sloan&#39;s Inbox: Struggling to focus, any advice?](https://dev.to/devteam/sloans-inbox-struggling-to-focus-any-advice-13b0)
-- [How Do You Manage Tech Debt Effectively?](https://dev.to/devteam/how-do-you-manage-tech-debt-effectively-2ekf)
-- [Welcome Thread - v250](https://dev.to/devteam/welcome-thread-v250-1hhd)
 <!-- BLOG-POST-LIST:END -->
 
 
