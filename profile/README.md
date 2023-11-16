@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Climb the Tech Company Ladder?](https://dev.to/devteam/how-to-climb-the-tech-company-ladder-2o90)
 - [Welcome Thread - v251](https://dev.to/devteam/welcome-thread-v251-4fjl)
 - [Thumbs Up Milestone Badges! 👍](https://dev.to/devteam/thumbs-up-milestone-badges-4992)
 - [What Traits Lead to Fast Promotion?](https://dev.to/devteam/what-traits-lead-to-fast-promotion-h5g)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-43lk)
 - [Is &quot;Work Less, Earn More&quot; an Achievable Dream?](https://dev.to/devteam/is-work-less-earn-more-an-achievable-dream-1nh)
 - [Why Should Standing Out Be Non-Negotiable?](https://dev.to/devteam/why-should-standing-out-be-non-negotiable-58fb)
-- [DEV Community Contributor Spotlight: Christine Belzie](https://dev.to/devteam/dev-community-contributor-spotlight-christine-belzie-38bg)
 <!-- BLOG-POST-LIST:END -->
 
 
