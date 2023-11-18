@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [How Does Age Awareness Affect Personal Growth?](https://dev.to/devteam/how-does-age-awareness-affect-personal-growth-2ilk)
 - [DEV Community Contributor Spotlight: @joaogabriel55](https://dev.to/devteam/dev-community-contributor-spotlight-joaogabriel55-2b57)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2ebf)
 - [What Can We Learn from Billionaires &amp; Icons?](https://dev.to/devteam/what-can-we-learn-from-billionaires-icons-10n1)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Welcome Thread - v251](https://dev.to/devteam/welcome-thread-v251-4fjl)
 - [Thumbs Up Milestone Badges! 👍](https://dev.to/devteam/thumbs-up-milestone-badges-4992)
 - [What Traits Lead to Fast Promotion?](https://dev.to/devteam/what-traits-lead-to-fast-promotion-h5g)
-- [Music Monday — What are you listening to? &lpar;Synth Heroes Edition 🎹&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-synth-heroes-edition--1fg9)
 <!-- BLOG-POST-LIST:END -->
 
 
