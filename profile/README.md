@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Overcome Fear in Pursuing Goals?](https://dev.to/devteam/how-to-overcome-fear-in-pursuing-goals-ieo)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-2iij)
 - [How Does Age Awareness Affect Personal Growth?](https://dev.to/devteam/how-does-age-awareness-affect-personal-growth-2ilk)
 - [DEV Community Contributor Spotlight: @joaogabriel55](https://dev.to/devteam/dev-community-contributor-spotlight-joaogabriel55-2b57)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2ebf)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Discussion of the Week - v11](https://dev.to/devteam/discussion-of-the-week-v11-449)
 - [How to Climb the Tech Company Ladder?](https://dev.to/devteam/how-to-climb-the-tech-company-ladder-2o90)
 - [Welcome Thread - v251](https://dev.to/devteam/welcome-thread-v251-4fjl)
-- [Thumbs Up Milestone Badges! 👍](https://dev.to/devteam/thumbs-up-milestone-badges-4992)
-- [What Traits Lead to Fast Promotion?](https://dev.to/devteam/what-traits-lead-to-fast-promotion-h5g)
 <!-- BLOG-POST-LIST:END -->
 
 
