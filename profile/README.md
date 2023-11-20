@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Overcome Fear in Pursuing Goals?](https://dev.to/devteam/how-to-overcome-fear-in-pursuing-goals-ieo)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3bdn)
+- [Music Monday — What are you listening to? &lpar;Sunrise Edition 🌅&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-sunrise-edition--2401)
+- [What Are the Trends &amp; Concerns of Remote Work?](https://dev.to/devteam/what-are-the-trends-concerns-of-remote-work-40il)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-2iij)
+- [How to Overcome Fear in Pursuing Goals?](https://dev.to/devteam/how-to-overcome-fear-in-pursuing-goals-ieo)
 - [How Does Age Awareness Affect Personal Growth?](https://dev.to/devteam/how-does-age-awareness-affect-personal-growth-2ilk)
 - [DEV Community Contributor Spotlight: @joaogabriel55](https://dev.to/devteam/dev-community-contributor-spotlight-joaogabriel55-2b57)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2ebf)
 - [What Can We Learn from Billionaires &amp; Icons?](https://dev.to/devteam/what-can-we-learn-from-billionaires-icons-10n1)
 - [Sloan&#39;s Inbox: How do you find a mentor?](https://dev.to/devteam/sloans-inbox-how-do-you-find-a-mentor-25)
-- [Discussion of the Week - v11](https://dev.to/devteam/discussion-of-the-week-v11-449)
-- [How to Climb the Tech Company Ladder?](https://dev.to/devteam/how-to-climb-the-tech-company-ladder-2o90)
-- [Welcome Thread - v251](https://dev.to/devteam/welcome-thread-v251-4fjl)
 <!-- BLOG-POST-LIST:END -->
 
 
