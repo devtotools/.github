@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What Evening Habits Boost Productivity?](https://dev.to/devteam/what-evening-habits-boost-productivity-466n)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3bdn)
 - [Music Monday — What are you listening to? &lpar;Sunrise Edition 🌅&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-sunrise-edition--2401)
 - [What Are the Trends &amp; Concerns of Remote Work?](https://dev.to/devteam/what-are-the-trends-concerns-of-remote-work-40il)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [DEV Community Contributor Spotlight: @joaogabriel55](https://dev.to/devteam/dev-community-contributor-spotlight-joaogabriel55-2b57)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2ebf)
 - [What Can We Learn from Billionaires &amp; Icons?](https://dev.to/devteam/what-can-we-learn-from-billionaires-icons-10n1)
-- [Sloan&#39;s Inbox: How do you find a mentor?](https://dev.to/devteam/sloans-inbox-how-do-you-find-a-mentor-25)
 <!-- BLOG-POST-LIST:END -->
 
 
