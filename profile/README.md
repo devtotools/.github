@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What Are Effective Strategies for Mental Well-Being?](https://dev.to/devteam/what-are-effective-strategies-for-mental-well-being-1d05)
 - [Welcome Thread - v252](https://dev.to/devteam/welcome-thread-v252-5hm3)
 - [How to Improve Cognitive Error in the Workplace?](https://dev.to/devteam/how-to-improve-cognitive-error-in-the-workplace-3939)
 - [What Evening Habits Boost Productivity?](https://dev.to/devteam/what-evening-habits-boost-productivity-466n)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-2iij)
 - [How to Overcome Fear in Pursuing Goals?](https://dev.to/devteam/how-to-overcome-fear-in-pursuing-goals-ieo)
 - [How Does Age Awareness Affect Personal Growth?](https://dev.to/devteam/how-does-age-awareness-affect-personal-growth-2ilk)
-- [DEV Community Contributor Spotlight: @joaogabriel55](https://dev.to/devteam/dev-community-contributor-spotlight-joaogabriel55-2b57)
 <!-- BLOG-POST-LIST:END -->
 
 
