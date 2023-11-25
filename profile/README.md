@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Develop Assertive Communication Skills?](https://dev.to/devteam/how-to-develop-assertive-communication-skills-4528)
 - [Which YouTube Channels Enhance Developer Skills?](https://dev.to/devteam/which-youtube-channels-enhance-developer-skills-441f)
 - [What Are Effective Strategies for Mental Well-Being?](https://dev.to/devteam/what-are-effective-strategies-for-mental-well-being-1d05)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-250i)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3bdn)
 - [Music Monday — What are you listening to? &lpar;Sunrise Edition 🌅&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-sunrise-edition--2401)
 - [What Are the Trends &amp; Concerns of Remote Work?](https://dev.to/devteam/what-are-the-trends-concerns-of-remote-work-40il)
-- [How to Overcome Fear in Pursuing Goals?](https://dev.to/devteam/how-to-overcome-fear-in-pursuing-goals-ieo)
 <!-- BLOG-POST-LIST:END -->
 
 
