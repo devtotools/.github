@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Music Monday — What are you listening to? &lpar;Sunset Edition 🌆&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-sunset-edition--54lj)
+- [Can You Transform Your Life in 6 Months?](https://dev.to/devteam/can-you-transform-your-life-in-6-months-2imb)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4bli)
 - [Have You Explored Any New Career Opportunities in 2023?](https://dev.to/devteam/have-you-explored-any-new-career-opportunities-in-2023-23eg)
 - [How to Develop Assertive Communication Skills?](https://dev.to/devteam/how-to-develop-assertive-communication-skills-4528)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-250i)
 - [Welcome Thread - v252](https://dev.to/devteam/welcome-thread-v252-5hm3)
 - [How to Improve Cognitive Error in the Workplace?](https://dev.to/devteam/how-to-improve-cognitive-error-in-the-workplace-3939)
-- [What Evening Habits Boost Productivity?](https://dev.to/devteam/what-evening-habits-boost-productivity-466n)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3bdn)
 <!-- BLOG-POST-LIST:END -->
 
 
