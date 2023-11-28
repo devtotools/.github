@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What Behaviors Boost Perceived Status Instantly?](https://dev.to/devteam/what-behaviors-boost-perceived-status-instantly-3e7o)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2i23)
 - [Music Monday — What are you listening to? &lpar;Sunset Edition 🌆&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-sunset-edition--54lj)
 - [Can You Transform Your Life in 6 Months?](https://dev.to/devteam/can-you-transform-your-life-in-6-months-2imb)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4bli)
 - [Have You Explored Any New Career Opportunities in 2023?](https://dev.to/devteam/have-you-explored-any-new-career-opportunities-in-2023-23eg)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4bli)
 - [How to Develop Assertive Communication Skills?](https://dev.to/devteam/how-to-develop-assertive-communication-skills-4528)
 - [Which YouTube Channels Enhance Developer Skills?](https://dev.to/devteam/which-youtube-channels-enhance-developer-skills-441f)
 - [What Are Effective Strategies for Mental Well-Being?](https://dev.to/devteam/what-are-effective-strategies-for-mental-well-being-1d05)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-250i)
-- [Welcome Thread - v252](https://dev.to/devteam/welcome-thread-v252-5hm3)
-- [How to Improve Cognitive Error in the Workplace?](https://dev.to/devteam/how-to-improve-cognitive-error-in-the-workplace-3939)
 <!-- BLOG-POST-LIST:END -->
 
 
