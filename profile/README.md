@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome Thread - v253](https://dev.to/devteam/welcome-thread-v253-1p3b)
+- [How Do Snap Judgments Shape Our Perceptions?](https://dev.to/devteam/how-do-snap-judgments-shape-our-perceptions-cam)
 - [What Behaviors Boost Perceived Status Instantly?](https://dev.to/devteam/what-behaviors-boost-perceived-status-instantly-3e7o)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2i23)
 - [Music Monday — What are you listening to? &lpar;Sunset Edition 🌆&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-sunset-edition--54lj)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4bli)
 - [How to Develop Assertive Communication Skills?](https://dev.to/devteam/how-to-develop-assertive-communication-skills-4528)
 - [Which YouTube Channels Enhance Developer Skills?](https://dev.to/devteam/which-youtube-channels-enhance-developer-skills-441f)
-- [What Are Effective Strategies for Mental Well-Being?](https://dev.to/devteam/what-are-effective-strategies-for-mental-well-being-1d05)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-250i)
 <!-- BLOG-POST-LIST:END -->
 
 
