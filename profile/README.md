@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Sloan&#39;s Inbox: What strategies are most effective for retaining acquired knowledge?](https://dev.to/devteam/sloans-inbox-what-strategies-are-most-effective-for-retaining-acquired-knowledge-131j)
+- [What Makes Confident People Confident, Including Healthy Boundaries?](https://dev.to/devteam/what-makes-confident-people-confident-including-healthy-boundaries-4jli)
 - [Welcome Thread - v253](https://dev.to/devteam/welcome-thread-v253-1p3b)
 - [How Do Snap Judgments Shape Our Perceptions?](https://dev.to/devteam/how-do-snap-judgments-shape-our-perceptions-cam)
 - [What Behaviors Boost Perceived Status Instantly?](https://dev.to/devteam/what-behaviors-boost-perceived-status-instantly-3e7o)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Can You Transform Your Life in 6 Months?](https://dev.to/devteam/can-you-transform-your-life-in-6-months-2imb)
 - [Have You Explored Any New Career Opportunities in 2023?](https://dev.to/devteam/have-you-explored-any-new-career-opportunities-in-2023-23eg)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4bli)
-- [How to Develop Assertive Communication Skills?](https://dev.to/devteam/how-to-develop-assertive-communication-skills-4528)
-- [Which YouTube Channels Enhance Developer Skills?](https://dev.to/devteam/which-youtube-channels-enhance-developer-skills-441f)
 <!-- BLOG-POST-LIST:END -->
 
 
