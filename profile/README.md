@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-h04)
+- [How Can Daily Habits Help You Achieve Your Goals?](https://dev.to/devteam/how-can-daily-habits-help-you-achieve-your-goals-503c)
+- [Discussion of the Week: What is the most fun coding language?](https://dev.to/devteam/discussion-of-the-week-what-is-the-most-fun-coding-language-col)
 - [Sloan&#39;s Inbox: What strategies are most effective for retaining acquired knowledge?](https://dev.to/devteam/sloans-inbox-what-strategies-are-most-effective-for-retaining-acquired-knowledge-131j)
 - [What Makes Confident People Confident, Including Healthy Boundaries?](https://dev.to/devteam/what-makes-confident-people-confident-including-healthy-boundaries-4jli)
 - [Welcome Thread - v253](https://dev.to/devteam/welcome-thread-v253-1p3b)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What Behaviors Boost Perceived Status Instantly?](https://dev.to/devteam/what-behaviors-boost-perceived-status-instantly-3e7o)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2i23)
 - [Music Monday — What are you listening to? &lpar;Sunset Edition 🌆&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-sunset-edition--54lj)
-- [Can You Transform Your Life in 6 Months?](https://dev.to/devteam/can-you-transform-your-life-in-6-months-2imb)
-- [Have You Explored Any New Career Opportunities in 2023?](https://dev.to/devteam/have-you-explored-any-new-career-opportunities-in-2023-23eg)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4bli)
 <!-- BLOG-POST-LIST:END -->
 
 
