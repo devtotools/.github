@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Can Problem-Solving Unlock Your Path to Happiness?](https://dev.to/devteam/can-problem-solving-unlock-your-path-to-happiness-52a0)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-kkj)
 - [What Should You Know About Multithreading and Concurrency Before Interviews?](https://dev.to/devteam/what-should-you-know-about-multithreading-and-concurrency-before-interviews-dg4)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-h04)
 - [How Can Daily Habits Help You Achieve Your Goals?](https://dev.to/devteam/how-can-daily-habits-help-you-achieve-your-goals-503c)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What Makes Confident People Confident, Including Healthy Boundaries?](https://dev.to/devteam/what-makes-confident-people-confident-including-healthy-boundaries-4jli)
 - [Welcome Thread - v253](https://dev.to/devteam/welcome-thread-v253-1p3b)
 - [How Do Snap Judgments Shape Our Perceptions?](https://dev.to/devteam/how-do-snap-judgments-shape-our-perceptions-cam)
-- [What Behaviors Boost Perceived Status Instantly?](https://dev.to/devteam/what-behaviors-boost-perceived-status-instantly-3e7o)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2i23)
 <!-- BLOG-POST-LIST:END -->
 
 
