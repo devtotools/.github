@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Can Looking Foolish Be the Key to Success?](https://dev.to/devteam/can-looking-foolish-be-the-key-to-success-4f9a)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3jbm)
 - [Music Monday — What are you listening to? &lpar;How-do-you-find-your-music? Edition 🔎&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-how-do-you-find-your-music-edition--1ojc)
 - [What&#39;s Your &quot;Yes, And?&quot;](https://dev.to/devteam/whats-your-yes-and-2p57)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-kkj)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-h04)
 - [How Can Daily Habits Help You Achieve Your Goals?](https://dev.to/devteam/how-can-daily-habits-help-you-achieve-your-goals-503c)
 - [Discussion of the Week: What is the most fun coding language?](https://dev.to/devteam/discussion-of-the-week-what-is-the-most-fun-coding-language-col)
-- [Sloan&#39;s Inbox: What strategies are most effective for retaining acquired knowledge?](https://dev.to/devteam/sloans-inbox-what-strategies-are-most-effective-for-retaining-acquired-knowledge-131j)
-- [What Makes Confident People Confident, Including Healthy Boundaries?](https://dev.to/devteam/what-makes-confident-people-confident-including-healthy-boundaries-4jli)
 <!-- BLOG-POST-LIST:END -->
 
 
