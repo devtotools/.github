@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Sloan&#39;s Inbox: How did open source come to be?](https://dev.to/devteam/sloans-inbox-how-did-open-source-come-to-be-453)
+- [How Do You Organize Your Digital World?](https://dev.to/devteam/how-do-you-organize-your-digital-world-446g)
 - [Welcome Thread - v254](https://dev.to/devteam/welcome-thread-v254-5d5m)
 - [What One-Sentence Lessons Make You Mentally Unbreakable?](https://dev.to/devteam/what-one-sentence-lessons-make-you-mentally-unbreakable-618)
 - [Featured Mod of the Month: Dumebi Okolo](https://dev.to/devteam/featured-mod-of-the-month-dumebi-okolo-4adk)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Music Monday — What are you listening to? &lpar;How-do-you-find-your-music? Edition 🔎&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-how-do-you-find-your-music-edition--1ojc)
 - [What&#39;s Your &quot;Yes, And?&quot;](https://dev.to/devteam/whats-your-yes-and-2p57)
 - [Can Problem-Solving Unlock Your Path to Happiness?](https://dev.to/devteam/can-problem-solving-unlock-your-path-to-happiness-52a0)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-kkj)
-- [What Should You Know About Multithreading and Concurrency Before Interviews?](https://dev.to/devteam/what-should-you-know-about-multithreading-and-concurrency-before-interviews-dg4)
 <!-- BLOG-POST-LIST:END -->
 
 
