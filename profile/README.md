@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-2nh7)
 - [Changelog: Updating the Stats Page](https://dev.to/devteam/changelog-updating-the-stats-page-dp0)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1496)
 - [Have You Faced the Challenge of Changing Jobs?](https://dev.to/devteam/have-you-faced-the-challenge-of-changing-jobs-2hci)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Welcome Thread - v254](https://dev.to/devteam/welcome-thread-v254-5d5m)
 - [What One-Sentence Lessons Make You Mentally Unbreakable?](https://dev.to/devteam/what-one-sentence-lessons-make-you-mentally-unbreakable-618)
 - [Featured Mod of the Month: Dumebi Okolo](https://dev.to/devteam/featured-mod-of-the-month-dumebi-okolo-4adk)
-- [Can Looking Foolish Be the Key to Success?](https://dev.to/devteam/can-looking-foolish-be-the-key-to-success-4f9a)
 <!-- BLOG-POST-LIST:END -->
 
 
