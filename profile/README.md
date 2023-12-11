@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [3 Essential Life Skills?](https://dev.to/devteam/3-essential-life-skills-2fld)
+- [Music Monday — What are you listening to? &lpar;Synthwave Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-synthwave-edition-3d3p)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-2nh7)
 - [Changelog: Updating the Stats Page](https://dev.to/devteam/changelog-updating-the-stats-page-dp0)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1496)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Sloan&#39;s Inbox: How did open source come to be?](https://dev.to/devteam/sloans-inbox-how-did-open-source-come-to-be-453)
 - [How Do You Organize Your Digital World?](https://dev.to/devteam/how-do-you-organize-your-digital-world-446g)
 - [Welcome Thread - v254](https://dev.to/devteam/welcome-thread-v254-5d5m)
-- [What One-Sentence Lessons Make You Mentally Unbreakable?](https://dev.to/devteam/what-one-sentence-lessons-make-you-mentally-unbreakable-618)
-- [Featured Mod of the Month: Dumebi Okolo](https://dev.to/devteam/featured-mod-of-the-month-dumebi-okolo-4adk)
 <!-- BLOG-POST-LIST:END -->
 
 
