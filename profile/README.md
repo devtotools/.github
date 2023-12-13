@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome Thread - v255](https://dev.to/devteam/welcome-thread-v255-2m85)
 - [How to End Your Day Productively?](https://dev.to/devteam/how-to-end-your-day-productively-4jpi)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-dgp)
 - [3 Essential Life Skills?](https://dev.to/devteam/3-essential-life-skills-2fld)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1496)
 - [Have You Faced the Challenge of Changing Jobs?](https://dev.to/devteam/have-you-faced-the-challenge-of-changing-jobs-2hci)
 - [Discussion of the Week: Money or Passion?](https://dev.to/devteam/discussion-of-the-week-money-or-passion-439m)
-- [Sloan&#39;s Inbox: How did open source come to be?](https://dev.to/devteam/sloans-inbox-how-did-open-source-come-to-be-453)
 <!-- BLOG-POST-LIST:END -->
 
 
