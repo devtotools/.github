@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Sloan&#39;s Inbox: What&#39;s the hardest thing about being a developer?](https://dev.to/devteam/sloans-inbox-whats-the-hardest-thing-about-being-a-developer-57b5)
+- [How Do You Turn Challenges into Triumphs?](https://dev.to/devteam/how-do-you-turn-challenges-into-triumphs-2h63)
 - [Welcome Thread - v255](https://dev.to/devteam/welcome-thread-v255-2m85)
 - [How to End Your Day Productively?](https://dev.to/devteam/how-to-end-your-day-productively-4jpi)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-dgp)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-2nh7)
 - [Changelog: Updating the Stats Page](https://dev.to/devteam/changelog-updating-the-stats-page-dp0)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1496)
-- [Have You Faced the Challenge of Changing Jobs?](https://dev.to/devteam/have-you-faced-the-challenge-of-changing-jobs-2hci)
-- [Discussion of the Week: Money or Passion?](https://dev.to/devteam/discussion-of-the-week-money-or-passion-439m)
 <!-- BLOG-POST-LIST:END -->
 
 
