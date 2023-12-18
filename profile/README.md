@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [🎬🍿What&#39;s Your Favorite Holiday Film?](https://dev.to/devteam/whats-your-favorite-holiday-film-2pnf)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-8e2)
 - [Tech Wishlists: Dream Gadget and Gift Recommendations?](https://dev.to/devteam/tech-wishlists-dream-gadget-and-gift-recommendations-17bd)
 - [Community Cheers🥂 Who Inspired You in 2023?](https://dev.to/devteam/community-cheers-who-inspired-you-in-2023-5e6h)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Discussion of the Week: Which is your first programming language?](https://dev.to/devteam/discussion-of-the-week-money-or-passion-3kd5)
 - [Sloan&#39;s Inbox: What&#39;s the hardest thing about being a developer?](https://dev.to/devteam/sloans-inbox-whats-the-hardest-thing-about-being-a-developer-57b5)
 - [How Do You Turn Challenges into Triumphs?](https://dev.to/devteam/how-do-you-turn-challenges-into-triumphs-2h63)
-- [Welcome Thread - v255](https://dev.to/devteam/welcome-thread-v255-2m85)
 <!-- BLOG-POST-LIST:END -->
 
 
