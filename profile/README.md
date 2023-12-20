@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome Thread - v256](https://dev.to/devteam/welcome-thread-v257-5g3e)
+- [Day 1 - The 12 Days of DEV: January 2023](https://dev.to/devteam/day-1-january-2023-4a9i)
+- [Tech Hype Unwrapped: Overrated Holiday Gadgets? 🤔🎁](https://dev.to/devteam/tech-hype-unwrapped-overrated-holiday-gadgets-1nio)
+- [DEV Top Stats &amp; Trends in 2023](https://dev.to/devteam/dev-top-stats-trends-in-2023-530c)
 - [Featured Mod of the Month: Helen Anderson](https://dev.to/devteam/featured-mod-of-the-month-helen-anderson-38mc)
 - [Open Source Impact: Reflecting on 2023 Contributions](https://dev.to/devteam/open-source-impact-reflecting-on-2023-contributions-2h6d)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1bd)
 - [🎬🍿What&#39;s Your Favorite Holiday Film?](https://dev.to/devteam/whats-your-favorite-holiday-film-2pnf)
 - [Tech Wishlists: Dream Gadget and Gift Recommendations?](https://dev.to/devteam/tech-wishlists-dream-gadget-and-gift-recommendations-17bd)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-8e2)
-- [Community Cheers🥂 Who Inspired You in 2023?](https://dev.to/devteam/community-cheers-who-inspired-you-in-2023-5e6h)
-- [🌟 Celebrate Your Impact: #DEVImpact2023 Reflections](https://dev.to/devteam/celebrate-your-impact-devimpact2023-reflections-g3f)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-11d5)
-- [Holiday Traditions: Any Special Coding Projects?](https://dev.to/devteam/holiday-traditions-any-special-coding-projects-33bi)
 <!-- BLOG-POST-LIST:END -->
 
 
