@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Sloan&#39;s Inbox: Any job-hunting advice for a newbie?](https://dev.to/devteam/sloans-inbox-any-job-hunting-advice-for-a-newbie-mp5)
+- [Day 2 - The 12 Days of DEV: February 2023](https://dev.to/devteam/day-2-the-12-days-of-dev-february-2023-5c2j)
+- [Your 2023 Coding Triumphs: What&#39;s Your Proudest Moment?](https://dev.to/devteam/your-2023-coding-triumphs-whats-your-proudest-moment-3p64)
 - [Welcome Thread - v256](https://dev.to/devteam/welcome-thread-v257-5g3e)
 - [Day 1 - The 12 Days of DEV: January 2023](https://dev.to/devteam/day-1-january-2023-4a9i)
 - [Tech Hype Unwrapped: Overrated Holiday Gadgets? 🤔🎁](https://dev.to/devteam/tech-hype-unwrapped-overrated-holiday-gadgets-1nio)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Featured Mod of the Month: Helen Anderson](https://dev.to/devteam/featured-mod-of-the-month-helen-anderson-38mc)
 - [Open Source Impact: Reflecting on 2023 Contributions](https://dev.to/devteam/open-source-impact-reflecting-on-2023-contributions-2h6d)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1bd)
-- [🎬🍿What&#39;s Your Favorite Holiday Film?](https://dev.to/devteam/whats-your-favorite-holiday-film-2pnf)
-- [Tech Wishlists: Dream Gadget and Gift Recommendations?](https://dev.to/devteam/tech-wishlists-dream-gadget-and-gift-recommendations-17bd)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-8e2)
 <!-- BLOG-POST-LIST:END -->
 
 
