@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1jke)
+- [DEV Mods&#39; Favorites of 2023](https://dev.to/devteam/dev-mods-favorites-of-2023-2k3c)
+- [Day 3 - The 12 Days of DEV: March 2023](https://dev.to/devteam/day-3-the-12-days-of-dev-march-2023-4dp2)
+- [Tech Trends 2024: What&#39;s Your Bold Prediction? 🔮](https://dev.to/devteam/tech-trends-2024-whats-your-bold-prediction-b0l)
 - [Sloan&#39;s Inbox: Any job-hunting advice for a newbie?](https://dev.to/devteam/sloans-inbox-any-job-hunting-advice-for-a-newbie-mp5)
 - [Day 2 - The 12 Days of DEV: February 2023](https://dev.to/devteam/day-2-the-12-days-of-dev-february-2023-5c2j)
 - [Your 2023 Coding Triumphs: What&#39;s Your Proudest Moment?](https://dev.to/devteam/your-2023-coding-triumphs-whats-your-proudest-moment-3p64)
 - [Welcome Thread - v256](https://dev.to/devteam/welcome-thread-v257-5g3e)
 - [Day 1 - The 12 Days of DEV: January 2023](https://dev.to/devteam/day-1-january-2023-4a9i)
 - [Tech Hype Unwrapped: Overrated Holiday Gadgets? 🤔🎁](https://dev.to/devteam/tech-hype-unwrapped-overrated-holiday-gadgets-1nio)
-- [DEV Top Stats &amp; Trends in 2023](https://dev.to/devteam/dev-top-stats-trends-in-2023-530c)
-- [Featured Mod of the Month: Helen Anderson](https://dev.to/devteam/featured-mod-of-the-month-helen-anderson-38mc)
-- [Open Source Impact: Reflecting on 2023 Contributions](https://dev.to/devteam/open-source-impact-reflecting-on-2023-contributions-2h6d)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1bd)
 <!-- BLOG-POST-LIST:END -->
 
 
