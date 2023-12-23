@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 4 - The 12 Days of DEV: April 2023](https://dev.to/devteam/day-4-the-12-days-of-dev-april-2023-2k7m)
+- [Top Coding Tools 2023: What Won Your Heart?](https://dev.to/devteam/top-coding-tools-2023-what-won-your-heart-51cn)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1jke)
 - [DEV Mods&#39; Favorites of 2023](https://dev.to/devteam/dev-mods-favorites-of-2023-2k3c)
 - [Day 3 - The 12 Days of DEV: March 2023](https://dev.to/devteam/day-3-the-12-days-of-dev-march-2023-4dp2)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Day 2 - The 12 Days of DEV: February 2023](https://dev.to/devteam/day-2-the-12-days-of-dev-february-2023-5c2j)
 - [Your 2023 Coding Triumphs: What&#39;s Your Proudest Moment?](https://dev.to/devteam/your-2023-coding-triumphs-whats-your-proudest-moment-3p64)
 - [Welcome Thread - v256](https://dev.to/devteam/welcome-thread-v257-5g3e)
-- [Day 1 - The 12 Days of DEV: January 2023](https://dev.to/devteam/day-1-january-2023-4a9i)
-- [Tech Hype Unwrapped: Overrated Holiday Gadgets? 🤔🎁](https://dev.to/devteam/tech-hype-unwrapped-overrated-holiday-gadgets-1nio)
 <!-- BLOG-POST-LIST:END -->
 
 
