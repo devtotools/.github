@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 5 - The 12 Days of DEV: May 2023](https://dev.to/devteam/day-5-the-12-days-of-dev-may-2023-1ngg)
+- [Coding Growth 2023: Share Your Milestones and Learnings](https://dev.to/devteam/coding-growth-2023-share-your-milestones-and-learnings-27la)
 - [Day 4 - The 12 Days of DEV: April 2023](https://dev.to/devteam/day-4-the-12-days-of-dev-april-2023-2k7m)
 - [Top Coding Tools 2023: What Won Your Heart?](https://dev.to/devteam/top-coding-tools-2023-what-won-your-heart-51cn)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1jke)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Tech Trends 2024: What&#39;s Your Bold Prediction? 🔮](https://dev.to/devteam/tech-trends-2024-whats-your-bold-prediction-b0l)
 - [Sloan&#39;s Inbox: Any job-hunting advice for a newbie?](https://dev.to/devteam/sloans-inbox-any-job-hunting-advice-for-a-newbie-mp5)
 - [Day 2 - The 12 Days of DEV: February 2023](https://dev.to/devteam/day-2-the-12-days-of-dev-february-2023-5c2j)
-- [Your 2023 Coding Triumphs: What&#39;s Your Proudest Moment?](https://dev.to/devteam/your-2023-coding-triumphs-whats-your-proudest-moment-3p64)
-- [Welcome Thread - v256](https://dev.to/devteam/welcome-thread-v257-5g3e)
 <!-- BLOG-POST-LIST:END -->
 
 
