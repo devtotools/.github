@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 6 - The 12 Days of DEV: June 2023](https://dev.to/devteam/day-6-the-12-days-of-dev-june-2023-3kam)
+- [Top 7&#39;s Top Authors of the Year](https://dev.to/devteam/top-7s-top-authors-of-the-year-120m)
+- [Coding Challenges 2024: What&#39;s Your New Year&#39;s Resolution?](https://dev.to/devteam/coding-challenges-2024-whats-your-new-years-resolution-4228)
 - [Day 5 - The 12 Days of DEV: May 2023](https://dev.to/devteam/day-5-the-12-days-of-dev-may-2023-1ngg)
 - [Coding Growth 2023: Share Your Milestones and Learnings](https://dev.to/devteam/coding-growth-2023-share-your-milestones-and-learnings-27la)
 - [Day 4 - The 12 Days of DEV: April 2023](https://dev.to/devteam/day-4-the-12-days-of-dev-april-2023-2k7m)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1jke)
 - [DEV Mods&#39; Favorites of 2023](https://dev.to/devteam/dev-mods-favorites-of-2023-2k3c)
 - [Day 3 - The 12 Days of DEV: March 2023](https://dev.to/devteam/day-3-the-12-days-of-dev-march-2023-4dp2)
-- [Tech Trends 2024: What&#39;s Your Bold Prediction? 🔮](https://dev.to/devteam/tech-trends-2024-whats-your-bold-prediction-b0l)
-- [Sloan&#39;s Inbox: Any job-hunting advice for a newbie?](https://dev.to/devteam/sloans-inbox-any-job-hunting-advice-for-a-newbie-mp5)
-- [Day 2 - The 12 Days of DEV: February 2023](https://dev.to/devteam/day-2-the-12-days-of-dev-february-2023-5c2j)
 <!-- BLOG-POST-LIST:END -->
 
 
