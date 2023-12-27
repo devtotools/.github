@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Featured Mods of the Year 2023](https://dev.to/devteam/featured-mods-of-the-year-2023-4726)
+- [Welcome Thread - v257](https://dev.to/devteam/welcome-thread-v258-5f23)
+- [Day 8 - The 12 Days of DEV: August 2023](https://dev.to/devteam/day-8-the-12-days-of-dev-august-2023-9p4)
+- [Outsmarting Bias: How Do You Think Clearly?](https://dev.to/devteam/outsmarting-bias-how-do-you-think-clearly-2971)
 - [Day 7 - The 12 Days of DEV: July 2023](https://dev.to/devteam/day-7-the-12-days-of-dev-july-2023-11a4)
-- [Day 6 - The 12 Days of DEV: June 2023](https://dev.to/devteam/day-6-the-12-days-of-dev-june-2023-3kam)
 - [Top 7&#39;s Top Authors of the Year](https://dev.to/devteam/top-7s-top-authors-of-the-year-120m)
+- [Day 6 - The 12 Days of DEV: June 2023](https://dev.to/devteam/day-6-the-12-days-of-dev-june-2023-3kam)
 - [Coding Challenges 2024: What&#39;s Your New Year&#39;s Resolution?](https://dev.to/devteam/coding-challenges-2024-whats-your-new-years-resolution-4228)
 - [Day 5 - The 12 Days of DEV: May 2023](https://dev.to/devteam/day-5-the-12-days-of-dev-may-2023-1ngg)
 - [Coding Growth 2023: Share Your Milestones and Learnings](https://dev.to/devteam/coding-growth-2023-share-your-milestones-and-learnings-27la)
-- [Day 4 - The 12 Days of DEV: April 2023](https://dev.to/devteam/day-4-the-12-days-of-dev-april-2023-2k7m)
-- [Top Coding Tools 2023: What Won Your Heart?](https://dev.to/devteam/top-coding-tools-2023-what-won-your-heart-51cn)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1jke)
-- [DEV Mods&#39; Favorites of 2023](https://dev.to/devteam/dev-mods-favorites-of-2023-2k3c)
 <!-- BLOG-POST-LIST:END -->
 
 
