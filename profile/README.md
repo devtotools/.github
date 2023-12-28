@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 9 - The 12 Days of DEV: September 2023](https://dev.to/devteam/day-9-the-12-days-of-dev-september-2023-44ag)
+- [Sloan&#39;s Inbox: Feeling like I&#39;m not doing enough...](https://dev.to/devteam/sloans-inbox-feeling-like-im-not-doing-enough-3b4a)
+- [Journey Over Goals: Share a Pivotal Story?](https://dev.to/devteam/journey-over-goals-share-a-pivotal-story-5ai5)
 - [Featured Mods of the Year 2023](https://dev.to/devteam/featured-mods-of-the-year-2023-4726)
 - [Welcome Thread - v257](https://dev.to/devteam/welcome-thread-v258-5f23)
 - [Day 8 - The 12 Days of DEV: August 2023](https://dev.to/devteam/day-8-the-12-days-of-dev-august-2023-9p4)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Day 7 - The 12 Days of DEV: July 2023](https://dev.to/devteam/day-7-the-12-days-of-dev-july-2023-11a4)
 - [Top 7&#39;s Top Authors of the Year](https://dev.to/devteam/top-7s-top-authors-of-the-year-120m)
 - [Day 6 - The 12 Days of DEV: June 2023](https://dev.to/devteam/day-6-the-12-days-of-dev-june-2023-3kam)
-- [Coding Challenges 2024: What&#39;s Your New Year&#39;s Resolution?](https://dev.to/devteam/coding-challenges-2024-whats-your-new-years-resolution-4228)
-- [Day 5 - The 12 Days of DEV: May 2023](https://dev.to/devteam/day-5-the-12-days-of-dev-may-2023-1ngg)
-- [Coding Growth 2023: Share Your Milestones and Learnings](https://dev.to/devteam/coding-growth-2023-share-your-milestones-and-learnings-27la)
 <!-- BLOG-POST-LIST:END -->
 
 
