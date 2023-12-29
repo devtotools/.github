@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5015)
+- [Day 10 - The 12 Days of DEV: October 2023](https://dev.to/devteam/day-10-the-12-days-of-dev-october-2023-591d)
+- [Charm and Connection: What&#39;s Your Secret?](https://dev.to/devteam/charm-and-connection-whats-your-secret-3al1)
 - [Day 9 - The 12 Days of DEV: September 2023](https://dev.to/devteam/day-9-the-12-days-of-dev-september-2023-44ag)
 - [Sloan&#39;s Inbox: Feeling like I&#39;m not doing enough...](https://dev.to/devteam/sloans-inbox-feeling-like-im-not-doing-enough-3b4a)
 - [Journey Over Goals: Share a Pivotal Story?](https://dev.to/devteam/journey-over-goals-share-a-pivotal-story-5ai5)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Welcome Thread - v257](https://dev.to/devteam/welcome-thread-v258-5f23)
 - [Day 8 - The 12 Days of DEV: August 2023](https://dev.to/devteam/day-8-the-12-days-of-dev-august-2023-9p4)
 - [Outsmarting Bias: How Do You Think Clearly?](https://dev.to/devteam/outsmarting-bias-how-do-you-think-clearly-2971)
-- [Day 7 - The 12 Days of DEV: July 2023](https://dev.to/devteam/day-7-the-12-days-of-dev-july-2023-11a4)
-- [Top 7&#39;s Top Authors of the Year](https://dev.to/devteam/top-7s-top-authors-of-the-year-120m)
-- [Day 6 - The 12 Days of DEV: June 2023](https://dev.to/devteam/day-6-the-12-days-of-dev-june-2023-3kam)
 <!-- BLOG-POST-LIST:END -->
 
 
