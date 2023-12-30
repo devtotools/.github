@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 11 - The 12 Days of DEV: November 2023](https://dev.to/devteam/day-11-the-12-days-of-dev-november-2023-1153)
+- [Simplify Life: Your Life-hack Playbook?](https://dev.to/devteam/simplify-life-your-life-hack-playbook-283n)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5015)
 - [Day 10 - The 12 Days of DEV: October 2023](https://dev.to/devteam/day-10-the-12-days-of-dev-october-2023-591d)
 - [Charm and Connection: What&#39;s Your Secret?](https://dev.to/devteam/charm-and-connection-whats-your-secret-3al1)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Journey Over Goals: Share a Pivotal Story?](https://dev.to/devteam/journey-over-goals-share-a-pivotal-story-5ai5)
 - [Featured Mods of the Year 2023](https://dev.to/devteam/featured-mods-of-the-year-2023-4726)
 - [Welcome Thread - v257](https://dev.to/devteam/welcome-thread-v258-5f23)
-- [Day 8 - The 12 Days of DEV: August 2023](https://dev.to/devteam/day-8-the-12-days-of-dev-august-2023-9p4)
-- [Outsmarting Bias: How Do You Think Clearly?](https://dev.to/devteam/outsmarting-bias-how-do-you-think-clearly-2971)
 <!-- BLOG-POST-LIST:END -->
 
 
