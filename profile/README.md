@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 12 - The 12 Days of DEV: December 2023](https://dev.to/devteam/day-12-the-12-days-of-dev-december-2023-1hdf)
+- [Excellence Unveiled: Your Essential Steps?](https://dev.to/devteam/excellence-unveiled-your-essential-steps-3lg1)
 - [Day 11 - The 12 Days of DEV: November 2023](https://dev.to/devteam/day-11-the-12-days-of-dev-november-2023-1153)
 - [Simplify Life: Your Life-hack Playbook?](https://dev.to/devteam/simplify-life-your-life-hack-playbook-283n)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5015)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Day 9 - The 12 Days of DEV: September 2023](https://dev.to/devteam/day-9-the-12-days-of-dev-september-2023-44ag)
 - [Sloan&#39;s Inbox: Feeling like I&#39;m not doing enough...](https://dev.to/devteam/sloans-inbox-feeling-like-im-not-doing-enough-3b4a)
 - [Journey Over Goals: Share a Pivotal Story?](https://dev.to/devteam/journey-over-goals-share-a-pivotal-story-5ai5)
-- [Featured Mods of the Year 2023](https://dev.to/devteam/featured-mods-of-the-year-2023-4726)
-- [Welcome Thread - v257](https://dev.to/devteam/welcome-thread-v258-5f23)
 <!-- BLOG-POST-LIST:END -->
 
 
