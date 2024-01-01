@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Music Monday — What are you listening to? &lpar;New Year&#39;s Edition 🥳&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-new-years-edition--29ih)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5boj)
+- [New Year, New Code: #DEVResolutions2024](https://dev.to/devteam/new-year-new-code-devresolutions2024-2e5h)
+- [What Did Coding Unveil About You in 2023?](https://dev.to/devteam/what-did-coding-unveil-about-you-in-2023-4e8j)
 - [Day 12 - The 12 Days of DEV: December 2023](https://dev.to/devteam/day-12-the-12-days-of-dev-december-2023-1hdf)
 - [Excellence Unveiled: Your Essential Steps?](https://dev.to/devteam/excellence-unveiled-your-essential-steps-3lg1)
 - [Day 11 - The 12 Days of DEV: November 2023](https://dev.to/devteam/day-11-the-12-days-of-dev-november-2023-1153)
 - [Simplify Life: Your Life-hack Playbook?](https://dev.to/devteam/simplify-life-your-life-hack-playbook-283n)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5015)
 - [Day 10 - The 12 Days of DEV: October 2023](https://dev.to/devteam/day-10-the-12-days-of-dev-october-2023-591d)
-- [Charm and Connection: What&#39;s Your Secret?](https://dev.to/devteam/charm-and-connection-whats-your-secret-3al1)
-- [Day 9 - The 12 Days of DEV: September 2023](https://dev.to/devteam/day-9-the-12-days-of-dev-september-2023-44ag)
-- [Sloan&#39;s Inbox: Feeling like I&#39;m not doing enough...](https://dev.to/devteam/sloans-inbox-feeling-like-im-not-doing-enough-3b4a)
-- [Journey Over Goals: Share a Pivotal Story?](https://dev.to/devteam/journey-over-goals-share-a-pivotal-story-5ai5)
 <!-- BLOG-POST-LIST:END -->
 
 
