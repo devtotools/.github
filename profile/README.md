@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [How Have You Contributed to the DEV Community?](https://dev.to/devteam/how-have-you-contributed-to-the-dev-community-1m5g)
 - [Music Monday — What are you listening to? &lpar;New Year&#39;s Edition 🥳&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-new-years-edition--29ih)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5boj)
 - [New Year, New Code: #DEVResolutions2024](https://dev.to/devteam/new-year-new-code-devresolutions2024-2e5h)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Day 11 - The 12 Days of DEV: November 2023](https://dev.to/devteam/day-11-the-12-days-of-dev-november-2023-1153)
 - [Simplify Life: Your Life-hack Playbook?](https://dev.to/devteam/simplify-life-your-life-hack-playbook-283n)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5015)
-- [Day 10 - The 12 Days of DEV: October 2023](https://dev.to/devteam/day-10-the-12-days-of-dev-october-2023-591d)
 <!-- BLOG-POST-LIST:END -->
 
 
