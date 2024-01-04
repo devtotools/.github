@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Sloan&#39;s Inbox: Is it realistic for someone&#39;s first developer job to be in game dev?](https://dev.to/devteam/sloans-inbox-is-it-realistic-for-someones-first-developer-job-to-be-in-game-dev-4j)
+- [How Did One Moment Alter Your Path?](https://dev.to/devteam/how-did-a-one-moment-alter-your-path-2g65)
 - [What Emotions Did Your Code Articulate?](https://dev.to/devteam/what-emotions-did-your-code-articulate-gbf)
 - [How Have You Contributed to the DEV Community?](https://dev.to/devteam/how-have-you-contributed-to-the-dev-community-1m5g)
 - [Music Monday — What are you listening to? &lpar;New Year&#39;s Edition 🥳&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-new-years-edition--29ih)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What Did Coding Unveil About You in 2023?](https://dev.to/devteam/what-did-coding-unveil-about-you-in-2023-4e8j)
 - [Day 12 - The 12 Days of DEV: December 2023](https://dev.to/devteam/day-12-the-12-days-of-dev-december-2023-1hdf)
 - [Excellence Unveiled: Your Essential Steps?](https://dev.to/devteam/excellence-unveiled-your-essential-steps-3lg1)
-- [Day 11 - The 12 Days of DEV: November 2023](https://dev.to/devteam/day-11-the-12-days-of-dev-november-2023-1153)
-- [Simplify Life: Your Life-hack Playbook?](https://dev.to/devteam/simplify-life-your-life-hack-playbook-283n)
 <!-- BLOG-POST-LIST:END -->
 
 
