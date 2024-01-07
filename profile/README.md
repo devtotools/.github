@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [How Will GPT Evolve in 2024?](https://dev.to/devteam/how-will-gpt-evolve-in-2024-2pc8)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-47fo)
 - [Do You Have a Mantra That Guides You?](https://dev.to/devteam/do-you-have-a-mantra-that-guides-you-17bf)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-6l8)
 - [How Has a DEV Friendship Enriched Your Experience?](https://dev.to/devteam/how-has-a-dev-friendship-enriched-your-experience-5bh5)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [How Did One Moment Alter Your Path?](https://dev.to/devteam/how-did-a-one-moment-alter-your-path-2g65)
 - [What Emotions Did Your Code Articulate?](https://dev.to/devteam/what-emotions-did-your-code-articulate-gbf)
 - [How Have You Contributed to the DEV Community?](https://dev.to/devteam/how-have-you-contributed-to-the-dev-community-1m5g)
-- [Music Monday — What are you listening to? &lpar;New Year&#39;s Edition 🥳&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-new-years-edition--29ih)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5boj)
 <!-- BLOG-POST-LIST:END -->
 
 
