@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Discussion of the Week: I need feedback on my first website](https://dev.to/devteam/discussion-of-the-week-i-need-feedback-on-my-first-website-26jh)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4fp1)
+- [Tech Certifications in 2024?](https://dev.to/devteam/tech-certifications-in-2024-3bf0)
+- [Sloan&#39;s Inbox: How do improve focus?](https://dev.to/devteam/sloans-inbox-how-do-improve-focus-4i51)
+- [Mentor Matching Monthly 🤝](https://dev.to/devteam/mentor-matching-monthly-3iae)
 - [Welcome Thread - v258](https://dev.to/devteam/welcome-thread-v256-d15)
 - [Growth Habits: Essentials for 2024?](https://dev.to/devteam/growth-habits-essentials-for-2024-49pk)
 - [Gratitude Practices: Positive Effects on Health?](https://dev.to/devteam/gratitude-practices-positive-effects-on-health-11o8)
 - [Talking to Yourself in 2024](https://dev.to/devteam/talking-to-yourself-in-2024-2abj)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1i5k)
-- [Music Monday — What are you listening to? &lpar;Good Memories Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-good-memories-edition-2cbg)
-- [2024 Health Routines for Well-being?](https://dev.to/devteam/2024-health-routines-for-well-being-2k7f)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-47fo)
-- [How Will GPT Evolve in 2024?](https://dev.to/devteam/how-will-gpt-evolve-in-2024-2pc8)
-- [Do You Have a Mantra That Guides You?](https://dev.to/devteam/do-you-have-a-mantra-that-guides-you-17bf)
 <!-- BLOG-POST-LIST:END -->
 
 
