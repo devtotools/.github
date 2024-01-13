@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Which JavaScript Tricks Have Enhanced Your Coding Skills?](https://dev.to/devteam/which-javascript-tricks-have-enhanced-your-coding-skills-5g54)
+- [How Did Feedback Propel Your Growth?](https://dev.to/devteam/how-did-feedback-propel-your-growth-4e5l)
+- [Double the Dreams: #DEVResolutions2024 Round 2](https://dev.to/devteam/double-the-dreams-devresolutions2024-round-2-2dnk)
 - [Discussion of the Week: I need feedback on my first website](https://dev.to/devteam/discussion-of-the-week-i-need-feedback-on-my-first-website-26jh)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4fp1)
 - [Tech Certifications in 2024?](https://dev.to/devteam/tech-certifications-in-2024-3bf0)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Mentor Matching Monthly 🤝](https://dev.to/devteam/mentor-matching-monthly-3iae)
 - [Welcome Thread - v258](https://dev.to/devteam/welcome-thread-v256-d15)
 - [Growth Habits: Essentials for 2024?](https://dev.to/devteam/growth-habits-essentials-for-2024-49pk)
-- [Gratitude Practices: Positive Effects on Health?](https://dev.to/devteam/gratitude-practices-positive-effects-on-health-11o8)
-- [Talking to Yourself in 2024](https://dev.to/devteam/talking-to-yourself-in-2024-2abj)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1i5k)
 <!-- BLOG-POST-LIST:END -->
 
 
