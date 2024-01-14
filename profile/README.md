@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
-- [Which JavaScript Tricks Have Enhanced Your Coding Skills?](https://dev.to/devteam/which-javascript-tricks-have-enhanced-your-coding-skills-5g54)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4k8i)
+- [How Does Bravery Affect Software Success?](https://dev.to/devteam/how-does-bravery-affect-software-success-44p6)
 - [How Did Feedback Propel Your Growth?](https://dev.to/devteam/how-did-feedback-propel-your-growth-4e5l)
+- [Which JavaScript Tricks Have Enhanced Your Coding Skills?](https://dev.to/devteam/which-javascript-tricks-have-enhanced-your-coding-skills-5g54)
 - [Double the Dreams: #DEVResolutions2024 Round 2](https://dev.to/devteam/double-the-dreams-devresolutions2024-round-2-2dnk)
 - [Discussion of the Week: I need feedback on my first website](https://dev.to/devteam/discussion-of-the-week-i-need-feedback-on-my-first-website-26jh)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4fp1)
 - [Tech Certifications in 2024?](https://dev.to/devteam/tech-certifications-in-2024-3bf0)
 - [Sloan&#39;s Inbox: How do improve focus?](https://dev.to/devteam/sloans-inbox-how-do-improve-focus-4i51)
 - [Mentor Matching Monthly 🤝](https://dev.to/devteam/mentor-matching-monthly-3iae)
-- [Welcome Thread - v258](https://dev.to/devteam/welcome-thread-v256-d15)
-- [Growth Habits: Essentials for 2024?](https://dev.to/devteam/growth-habits-essentials-for-2024-49pk)
 <!-- BLOG-POST-LIST:END -->
 
 
