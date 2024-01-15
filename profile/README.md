@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4k8i)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5bei)
+- [Music Monday — What are you listening to? &lpar;Dubstep Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-dubstep-edition-195m)
+- [What Are the Signs of Toxic Software Companies?](https://dev.to/devteam/what-are-the-signs-of-toxic-software-companies-2icg)
 - [How Does Bravery Affect Software Success?](https://dev.to/devteam/how-does-bravery-affect-software-success-44p6)
-- [How Did Feedback Propel Your Growth?](https://dev.to/devteam/how-did-feedback-propel-your-growth-4e5l)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4k8i)
 - [Which JavaScript Tricks Have Enhanced Your Coding Skills?](https://dev.to/devteam/which-javascript-tricks-have-enhanced-your-coding-skills-5g54)
+- [How Did Feedback Propel Your Growth?](https://dev.to/devteam/how-did-feedback-propel-your-growth-4e5l)
 - [Double the Dreams: #DEVResolutions2024 Round 2](https://dev.to/devteam/double-the-dreams-devresolutions2024-round-2-2dnk)
 - [Discussion of the Week: I need feedback on my first website](https://dev.to/devteam/discussion-of-the-week-i-need-feedback-on-my-first-website-26jh)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4fp1)
-- [Tech Certifications in 2024?](https://dev.to/devteam/tech-certifications-in-2024-3bf0)
-- [Sloan&#39;s Inbox: How do improve focus?](https://dev.to/devteam/sloans-inbox-how-do-improve-focus-4i51)
-- [Mentor Matching Monthly 🤝](https://dev.to/devteam/mentor-matching-monthly-3iae)
 <!-- BLOG-POST-LIST:END -->
 
 
