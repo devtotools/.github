@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Sloan&#39;s Inbox: As a beginner, should I use AI as a tool and how?](https://dev.to/devteam/sloans-inbox-as-a-beginner-should-i-use-ai-as-a-tool-and-how-1eph)
+- [Can Uncomfortable Conversations Catalyze Personal Growth?](https://dev.to/devteam/can-uncomfortable-conversations-catalyze-personal-growth-376h)
 - [Welcome Thread - v259](https://dev.to/devteam/welcome-thread-v259-j4c)
 - [What Non-Tech Skills Do You Value in Software Engineers?](https://dev.to/devteam/what-non-tech-skills-do-you-value-in-software-engineers-fjp)
 - [Make it Happen in January with &lpar;DEV&rpar;eloper Goals! 💜✨](https://dev.to/devteam/choose-3-developer-goals-customize-your-checklist-4497)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Music Monday — What are you listening to? &lpar;Dubstep Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-dubstep-edition-195m)
 - [What Are the Signs of Toxic Software Companies?](https://dev.to/devteam/what-are-the-signs-of-toxic-software-companies-2icg)
 - [How Does Bravery Affect Software Success?](https://dev.to/devteam/how-does-bravery-affect-software-success-44p6)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4k8i)
-- [Which JavaScript Tricks Have Enhanced Your Coding Skills?](https://dev.to/devteam/which-javascript-tricks-have-enhanced-your-coding-skills-5g54)
 <!-- BLOG-POST-LIST:END -->
 
 
