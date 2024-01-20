@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-1ngh)
+- [Balancing Act: Code Less or Lead More?](https://dev.to/devteam/balancing-act-code-less-or-lead-more-4hf4)
 - [Let&#39;s talk #DEVResolutions - what strikes a chord with you?](https://dev.to/devteam/lets-talk-devresolutions-what-strikes-a-chord-with-you-21i7)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-59pe)
 - [How to Enhance Senior Collaboration?](https://dev.to/devteam/how-to-enhance-senior-collaboration-2i7p)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Can Uncomfortable Conversations Catalyze Personal Growth?](https://dev.to/devteam/can-uncomfortable-conversations-catalyze-personal-growth-376h)
 - [Welcome Thread - v259](https://dev.to/devteam/welcome-thread-v259-j4c)
 - [What Non-Tech Skills Do You Value in Software Engineers?](https://dev.to/devteam/what-non-tech-skills-do-you-value-in-software-engineers-fjp)
-- [Make it Happen in January with &lpar;DEV&rpar;eloper Goals! 💜✨](https://dev.to/devteam/choose-3-developer-goals-customize-your-checklist-4497)
-- [How Do You Restart Your Career After 55?](https://dev.to/devteam/how-do-you-restart-your-career-after-55-doe)
 <!-- BLOG-POST-LIST:END -->
 
 
