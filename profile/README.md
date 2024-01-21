@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What Defines Senior Developer Growth?](https://dev.to/devteam/what-defines-senior-developer-growth-3mg6)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-5e8i)
 - [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-1ngh)
 - [Balancing Act: Code Less or Lead More?](https://dev.to/devteam/balancing-act-code-less-or-lead-more-4hf4)
 - [Let&#39;s talk #DEVResolutions - what strikes a chord with you?](https://dev.to/devteam/lets-talk-devresolutions-what-strikes-a-chord-with-you-21i7)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Discussion of the Week: &quot;React, where are you going?&quot;](https://dev.to/devteam/discussion-of-the-week-react-where-are-you-going-2fn2)
 - [Sloan&#39;s Inbox: As a beginner, should I use AI as a tool and how?](https://dev.to/devteam/sloans-inbox-as-a-beginner-should-i-use-ai-as-a-tool-and-how-1eph)
 - [Can Uncomfortable Conversations Catalyze Personal Growth?](https://dev.to/devteam/can-uncomfortable-conversations-catalyze-personal-growth-376h)
-- [Welcome Thread - v259](https://dev.to/devteam/welcome-thread-v259-j4c)
-- [What Non-Tech Skills Do You Value in Software Engineers?](https://dev.to/devteam/what-non-tech-skills-do-you-value-in-software-engineers-fjp)
 <!-- BLOG-POST-LIST:END -->
 
 
