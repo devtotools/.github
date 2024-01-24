@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Tackling Clickbait on DEV: Strategy and Technical Approach](https://dev.to/devteam/tackling-clickbait-on-dev-strategy-and-technical-approach-3dh9)
+- [Welcome Thread - v260](https://dev.to/devteam/welcome-thread-v260-aca)
+- [Does Your Company Prioritize Tech Learning?](https://dev.to/devteam/does-your-company-prioritize-tech-learning-21k2)
 - [How Crucial Are Code Reviews?](https://dev.to/devteam/how-crucial-code-are-reviews-43nk)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-11k3)
 - [Music Monday — What are you listening to? &lpar;Unpopular Picks Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-unpopular-picks-edition-56fp)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What Defines Senior Developer Growth?](https://dev.to/devteam/what-defines-senior-developer-growth-3mg6)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-5e8i)
 - [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-1ngh)
-- [Balancing Act: Code Less or Lead More?](https://dev.to/devteam/balancing-act-code-less-or-lead-more-4hf4)
-- [Let&#39;s talk #DEVResolutions - what strikes a chord with you?](https://dev.to/devteam/lets-talk-devresolutions-what-strikes-a-chord-with-you-21i7)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-59pe)
 <!-- BLOG-POST-LIST:END -->
 
 
