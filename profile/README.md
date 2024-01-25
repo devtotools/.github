@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Sloan&#39;s Inbox: Any advice for overcoming a fear of public speaking?](https://dev.to/devteam/sloans-inbox-any-advice-for-overcoming-a-fear-of-public-speaking-1261)
+- [How Do You Measure Software Impact?](https://dev.to/devteam/how-do-you-measure-software-impact-fb4)
 - [Tackling Clickbait on DEV: Strategy and Technical Approach](https://dev.to/devteam/tackling-clickbait-on-dev-strategy-and-technical-approach-3dh9)
 - [Welcome Thread - v260](https://dev.to/devteam/welcome-thread-v260-aca)
 - [Does Your Company Prioritize Tech Learning?](https://dev.to/devteam/does-your-company-prioritize-tech-learning-21k2)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Music Monday — What are you listening to? &lpar;Unpopular Picks Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-unpopular-picks-edition-56fp)
 - [Is Trust the Key to Successful Leadership?](https://dev.to/devteam/is-trust-the-key-to-successful-leadership-397a)
 - [What Defines Senior Developer Growth?](https://dev.to/devteam/what-defines-senior-developer-growth-3mg6)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-5e8i)
-- [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-1ngh)
 <!-- BLOG-POST-LIST:END -->
 
 
