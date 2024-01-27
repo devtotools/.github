@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-3m1c)
+- [What Leadership Lessons Beyond Books Impact You?](https://dev.to/devteam/what-leadership-lessons-beyond-books-impact-you-1eoc)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-32bb)
 - [Solutions for Current Software Challenges?](https://dev.to/devteam/solutions-for-current-software-challenges-54gf)
 - [Discussion of the Week: &quot;What is the ideal Tech stack to build a website in 2024?&quot;](https://dev.to/devteam/discussion-of-the-week-what-is-the-ideal-tech-stack-to-build-a-website-in-2024-2ja0)
 - [Sloan&#39;s Inbox: Any advice for overcoming a fear of public speaking?](https://dev.to/devteam/sloans-inbox-any-advice-for-overcoming-a-fear-of-public-speaking-1261)
 - [How Do You Measure Software Impact?](https://dev.to/devteam/how-do-you-measure-software-impact-fb4)
 - [Tackling Clickbait on DEV: Strategy and Technical Approach](https://dev.to/devteam/tackling-clickbait-on-dev-strategy-and-technical-approach-3dh9)
-- [Does Your Company Prioritize Tech Learning?](https://dev.to/devteam/does-your-company-prioritize-tech-learning-21k2)
 - [Welcome Thread - v260](https://dev.to/devteam/welcome-thread-v260-aca)
-- [How Crucial Are Code Reviews?](https://dev.to/devteam/how-crucial-code-are-reviews-43nk)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-11k3)
+- [Does Your Company Prioritize Tech Learning?](https://dev.to/devteam/does-your-company-prioritize-tech-learning-21k2)
 <!-- BLOG-POST-LIST:END -->
 
 
