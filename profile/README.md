@@ -26,8 +26,8 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Sloan&#39;s Inbox: Any advice for overcoming a fear of public speaking?](https://dev.to/devteam/sloans-inbox-any-advice-for-overcoming-a-fear-of-public-speaking-1261)
 - [How Do You Measure Software Impact?](https://dev.to/devteam/how-do-you-measure-software-impact-fb4)
 - [Tackling Clickbait on DEV: Strategy and Technical Approach](https://dev.to/devteam/tackling-clickbait-on-dev-strategy-and-technical-approach-3dh9)
-- [Welcome Thread - v260](https://dev.to/devteam/welcome-thread-v260-aca)
 - [Does Your Company Prioritize Tech Learning?](https://dev.to/devteam/does-your-company-prioritize-tech-learning-21k2)
+- [Welcome Thread - v260](https://dev.to/devteam/welcome-thread-v260-aca)
 <!-- BLOG-POST-LIST:END -->
 
 
