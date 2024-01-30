@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [How Do You Navigate Success beyond the Paycheck?](https://dev.to/devteam/how-do-you-navigate-success-beyond-the-paycheck-n4g)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3jad)
 - [How Do You Balance Social Media in Your Career?](https://dev.to/devteam/how-do-you-balance-social-media-in-your-career-b9c)
 - [Music Monday — What are you listening to? &lpar;Country Edition&rpar; 🤠](https://dev.to/devteam/music-monday-what-are-you-listening-to-country-edition-27j5)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-32bb)
 - [Solutions for Current Software Challenges?](https://dev.to/devteam/solutions-for-current-software-challenges-54gf)
 - [Discussion of the Week: &quot;What is the ideal Tech stack to build a website in 2024?&quot;](https://dev.to/devteam/discussion-of-the-week-what-is-the-ideal-tech-stack-to-build-a-website-in-2024-2ja0)
-- [Sloan&#39;s Inbox: Any advice for overcoming a fear of public speaking?](https://dev.to/devteam/sloans-inbox-any-advice-for-overcoming-a-fear-of-public-speaking-1261)
 <!-- BLOG-POST-LIST:END -->
 
 
