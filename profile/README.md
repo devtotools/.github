@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [How Do You Overcome Leadership Loneliness?](https://dev.to/devteam/how-do-you-overcome-leadership-loneliness-11jb)
+- [Welcome Thread - v261](https://dev.to/devteam/welcome-thread-v261-1goi)
 - [How Do You Navigate Success beyond the Paycheck?](https://dev.to/devteam/how-do-you-navigate-success-beyond-the-paycheck-n4g)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3jad)
 - [How Do You Balance Social Media in Your Career?](https://dev.to/devteam/how-do-you-balance-social-media-in-your-career-b9c)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-3m1c)
 - [What Leadership Lessons Beyond Books Impact You?](https://dev.to/devteam/what-leadership-lessons-beyond-books-impact-you-1eoc)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-32bb)
-- [Solutions for Current Software Challenges?](https://dev.to/devteam/solutions-for-current-software-challenges-54gf)
-- [Discussion of the Week: &quot;What is the ideal Tech stack to build a website in 2024?&quot;](https://dev.to/devteam/discussion-of-the-week-what-is-the-ideal-tech-stack-to-build-a-website-in-2024-2ja0)
 <!-- BLOG-POST-LIST:END -->
 
 
