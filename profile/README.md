@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-cga)
+- [Discussion of the Week: &quot;What are your best tips to create a developer portfolio?&quot;](https://dev.to/devteam/discussion-of-the-week-what-are-your-best-tips-to-create-a-developer-portfolio-2jo4)
 - [#DEVResolutions2024: Wrapping Up a Month of Wins 🏆](https://dev.to/devteam/devresolutions2024-wrapping-up-a-month-of-wins-350d)
 - [10 Organizations to Support for Black History Month](https://dev.to/devteam/10-organizations-to-support-for-black-history-month-2op0)
 - [Sloan&#39;s Inbox: Going With Vanilla JS or Frameworks as a Beginner?](https://dev.to/devteam/sloans-inbox-going-with-vanilla-js-or-frameworks-as-a-beginner-1gcf)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Welcome Thread - v261](https://dev.to/devteam/welcome-thread-v261-1goi)
 - [How Do You Navigate Success beyond the Paycheck?](https://dev.to/devteam/how-do-you-navigate-success-beyond-the-paycheck-n4g)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3jad)
-- [How Do You Balance Social Media in Your Career?](https://dev.to/devteam/how-do-you-balance-social-media-in-your-career-b9c)
-- [Music Monday — What are you listening to? &lpar;Country Edition&rpar; 🤠](https://dev.to/devteam/music-monday-what-are-you-listening-to-country-edition-27j5)
 <!-- BLOG-POST-LIST:END -->
 
 
