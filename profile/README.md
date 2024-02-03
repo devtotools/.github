@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-3b6)
+- [What Are Some Strategies for Achieving Team Alignment?](https://dev.to/devteam/what-are-some-strategies-for-achieving-team-alignment-21ji)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-cga)
 - [Discussion of the Week: &quot;What are your best tips to create a developer portfolio?&quot;](https://dev.to/devteam/discussion-of-the-week-what-are-your-best-tips-to-create-a-developer-portfolio-2jo4)
 - [#DEVResolutions2024: Wrapping Up a Month of Wins 🏆](https://dev.to/devteam/devresolutions2024-wrapping-up-a-month-of-wins-350d)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Innovating for Equality: How Can Technology Address Racial Disparities?](https://dev.to/devteam/innovating-for-equality-how-can-technology-address-racial-disparities-bo8)
 - [How Do You Overcome Leadership Loneliness?](https://dev.to/devteam/how-do-you-overcome-leadership-loneliness-11jb)
 - [Welcome Thread - v261](https://dev.to/devteam/welcome-thread-v261-1goi)
-- [How Do You Navigate Success beyond the Paycheck?](https://dev.to/devteam/how-do-you-navigate-success-beyond-the-paycheck-n4g)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3jad)
 <!-- BLOG-POST-LIST:END -->
 
 
