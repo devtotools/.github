@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [In What Ways Can Tech Be a Medium for Cultural Expression?](https://dev.to/devteam/in-what-ways-can-tech-be-a-medium-for-cultural-expression-4cng)
+- [When Was the Last Time You Felt Truly Alive?](https://dev.to/devteam/when-was-the-last-time-you-felt-truly-alive-11ee)
 - [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-3b6)
 - [What Are Some Strategies for Achieving Team Alignment?](https://dev.to/devteam/what-are-some-strategies-for-achieving-team-alignment-21ji)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-cga)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [10 Organizations to Support for Black History Month](https://dev.to/devteam/10-organizations-to-support-for-black-history-month-2op0)
 - [Sloan&#39;s Inbox: Going With Vanilla JS or Frameworks as a Beginner?](https://dev.to/devteam/sloans-inbox-going-with-vanilla-js-or-frameworks-as-a-beginner-1gcf)
 - [Innovating for Equality: How Can Technology Address Racial Disparities?](https://dev.to/devteam/innovating-for-equality-how-can-technology-address-racial-disparities-bo8)
-- [How Do You Overcome Leadership Loneliness?](https://dev.to/devteam/how-do-you-overcome-leadership-loneliness-11jb)
-- [Welcome Thread - v261](https://dev.to/devteam/welcome-thread-v261-1goi)
 <!-- BLOG-POST-LIST:END -->
 
 
