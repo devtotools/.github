@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Featured Mod of the Month: Fabrizio Bagalá](https://dev.to/devteam/featured-mod-of-the-month-fabrizio-bagala-26ob)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2j17)
+- [Introducing Our New Writing Streak Badges! ✏️👌](https://dev.to/devteam/introducing-our-new-writing-streak-badges-2jh9)
+- [Music Monday — What are you listening to? &lpar;Homeland Edition II 🏠&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-homeland-edition-ii--3peb)
+- [How Do You Shift the Focus from Individual to Collective Success?](https://dev.to/devteam/how-do-you-shift-the-focus-from-individual-to-collective-success-433l)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-2n8e)
 - [In What Ways Can Tech Be a Medium for Cultural Expression?](https://dev.to/devteam/in-what-ways-can-tech-be-a-medium-for-cultural-expression-4cng)
 - [When Was the Last Time You Felt Truly Alive?](https://dev.to/devteam/when-was-the-last-time-you-felt-truly-alive-11ee)
 - [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-3b6)
 - [What Are Some Strategies for Achieving Team Alignment?](https://dev.to/devteam/what-are-some-strategies-for-achieving-team-alignment-21ji)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-cga)
-- [Discussion of the Week: &quot;What are your best tips to create a developer portfolio?&quot;](https://dev.to/devteam/discussion-of-the-week-what-are-your-best-tips-to-create-a-developer-portfolio-2jo4)
-- [#DEVResolutions2024: Wrapping Up a Month of Wins 🏆](https://dev.to/devteam/devresolutions2024-wrapping-up-a-month-of-wins-350d)
-- [10 Organizations to Support for Black History Month](https://dev.to/devteam/10-organizations-to-support-for-black-history-month-2op0)
-- [Sloan&#39;s Inbox: Going With Vanilla JS or Frameworks as a Beginner?](https://dev.to/devteam/sloans-inbox-going-with-vanilla-js-or-frameworks-as-a-beginner-1gcf)
-- [Innovating for Equality: How Can Technology Address Racial Disparities?](https://dev.to/devteam/innovating-for-equality-how-can-technology-address-racial-disparities-bo8)
 <!-- BLOG-POST-LIST:END -->
 
 
