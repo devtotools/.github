@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome Thread - v262](https://dev.to/devteam/welcome-thread-v262-140l)
+- [Work-Life Balance: Is It Possible When You&#39;re Tring to Get Ahead?](https://dev.to/devteam/work-life-balance-is-it-possible-when-youre-tring-to-get-ahead-3mjo)
 - [What Would You Do If You Knew You Could Not Fail?](https://dev.to/devteam/what-would-you-do-if-you-knew-you-could-not-fail-5573)
 - [Some great first posts from new authors 💞](https://dev.to/devteam/some-great-first-posts-from-new-authors-3g4d)
 - [Featured Mod of the Month: Fabrizio Bagalá](https://dev.to/devteam/featured-mod-of-the-month-fabrizio-bagala-26ob)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Music Monday — What are you listening to? &lpar;Homeland Edition II 🏠&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-homeland-edition-ii--3peb)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-2n8e)
 - [How Do You Shift the Focus from Individual to Collective Success?](https://dev.to/devteam/how-do-you-shift-the-focus-from-individual-to-collective-success-433l)
-- [In What Ways Can Tech Be a Medium for Cultural Expression?](https://dev.to/devteam/in-what-ways-can-tech-be-a-medium-for-cultural-expression-4cng)
-- [When Was the Last Time You Felt Truly Alive?](https://dev.to/devteam/when-was-the-last-time-you-felt-truly-alive-11ee)
 <!-- BLOG-POST-LIST:END -->
 
 
