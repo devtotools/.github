@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Sloan&#39;s Inbox: Any advice for a web dev who is considering a career in cybersecurity?](https://dev.to/devteam/sloans-inbox-any-advice-for-a-web-dev-who-is-considering-a-career-in-cybersecurity-1764)
+- [What Problem Do You Wake Up To?](https://dev.to/devteam/what-problem-do-you-wake-up-to-fo4)
 - [Welcome Thread - v262](https://dev.to/devteam/welcome-thread-v262-140l)
 - [Work-Life Balance: Is It Possible When You&#39;re Tring to Get Ahead?](https://dev.to/devteam/work-life-balance-is-it-possible-when-youre-tring-to-get-ahead-3mjo)
 - [What Would You Do If You Knew You Could Not Fail?](https://dev.to/devteam/what-would-you-do-if-you-knew-you-could-not-fail-5573)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2j17)
 - [Introducing Our New Writing Streak Badges! ✏️👌](https://dev.to/devteam/introducing-our-new-writing-streak-badges-2jh9)
 - [Music Monday — What are you listening to? &lpar;Homeland Edition II 🏠&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-homeland-edition-ii--3peb)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-2n8e)
-- [How Do You Shift the Focus from Individual to Collective Success?](https://dev.to/devteam/how-do-you-shift-the-focus-from-individual-to-collective-success-433l)
 <!-- BLOG-POST-LIST:END -->
 
 
