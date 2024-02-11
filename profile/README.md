@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Should You Be Documenting Your Coding Journey?](https://dev.to/devteam/should-you-be-documenting-your-coding-journey-56lm)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4f8c)
 - [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-4na)
 - [Cracking the JD Code: How Important Are Job Requirements?](https://dev.to/devteam/cracking-the-jd-code-how-important-are-job-requirements-5f14)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1c72)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What Problem Do You Wake Up To?](https://dev.to/devteam/what-problem-do-you-wake-up-to-fo4)
 - [Welcome Thread - v262](https://dev.to/devteam/welcome-thread-v262-140l)
 - [Work-Life Balance: Is It Possible When You&#39;re Tring to Get Ahead?](https://dev.to/devteam/work-life-balance-is-it-possible-when-youre-tring-to-get-ahead-3mjo)
-- [What Would You Do If You Knew You Could Not Fail?](https://dev.to/devteam/what-would-you-do-if-you-knew-you-could-not-fail-5573)
-- [Some great first posts from new authors 💞](https://dev.to/devteam/some-great-first-posts-from-new-authors-3g4d)
 <!-- BLOG-POST-LIST:END -->
 
 
