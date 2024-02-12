@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
-- [Should You Be Documenting Your Coding Journey?](https://dev.to/devteam/should-you-be-documenting-your-coding-journey-56lm)
+- [Introducing the Writing Debut Badge: Celebrating Your First Post on DEV!](https://dev.to/devteam/introducing-the-writing-debut-badge-celebrating-your-first-post-on-dev-331l)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3180)
+- [Music Monday — What are you listening to? &lpar;Blues &amp; Jazz Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-blues-jazz-edition-9ne)
+- [How Crucial is Your LinkedIn Profile?](https://dev.to/devteam/how-crucial-is-your-linkedin-profile-689)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4f8c)
+- [Should You Be Documenting Your Coding Journey?](https://dev.to/devteam/should-you-be-documenting-your-coding-journey-56lm)
 - [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-4na)
 - [Cracking the JD Code: How Important Are Job Requirements?](https://dev.to/devteam/cracking-the-jd-code-how-important-are-job-requirements-5f14)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1c72)
 - [Are Self-Made Apps the Game-Changer?](https://dev.to/devteam/are-self-made-apps-the-game-changer-4mn5)
-- [Sloan&#39;s Inbox: Any advice for a web dev who is considering a career in cybersecurity?](https://dev.to/devteam/sloans-inbox-any-advice-for-a-web-dev-who-is-considering-a-career-in-cybersecurity-1764)
-- [What Problem Do You Wake Up To?](https://dev.to/devteam/what-problem-do-you-wake-up-to-fo4)
-- [Welcome Thread - v262](https://dev.to/devteam/welcome-thread-v262-140l)
-- [Work-Life Balance: Is It Possible When You&#39;re Tring to Get Ahead?](https://dev.to/devteam/work-life-balance-is-it-possible-when-youre-tring-to-get-ahead-3mjo)
 <!-- BLOG-POST-LIST:END -->
 
 
