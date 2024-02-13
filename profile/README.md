@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Podcast Palooza— What are you listening to? &lpar;Comedy Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-comedy-edition-2k41)
+- [Discussion of the Week: &quot;Any advice for someone who wants to start learning React.js?&quot;](https://dev.to/devteam/discussion-of-the-week-any-advice-for-someone-who-wants-to-start-learning-reactjs-1m0j)
 - [Introducing the Writing Debut Badge: Celebrating Your First Post on DEV!](https://dev.to/devteam/introducing-the-writing-debut-badge-celebrating-your-first-post-on-dev-331l)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3180)
 - [Music Monday — What are you listening to? &lpar;Blues &amp; Jazz Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-blues-jazz-edition-9ne)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Should You Be Documenting Your Coding Journey?](https://dev.to/devteam/should-you-be-documenting-your-coding-journey-56lm)
 - [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-4na)
 - [Cracking the JD Code: How Important Are Job Requirements?](https://dev.to/devteam/cracking-the-jd-code-how-important-are-job-requirements-5f14)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1c72)
-- [Are Self-Made Apps the Game-Changer?](https://dev.to/devteam/are-self-made-apps-the-game-changer-4mn5)
 <!-- BLOG-POST-LIST:END -->
 
 
