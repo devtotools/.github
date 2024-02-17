@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-2f66)
+- [What Defines a Senior Software Engineer?](https://dev.to/devteam/what-defines-a-senior-software-engineer-2bkp)
+- [Discussion of the Week: &quot;I suck at writing!&quot;](https://dev.to/devteam/discussion-of-the-week-i-suck-at-writing-23d2)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5f0l)
 - [How Do You Handle Overwhelm in Your Daily Life?](https://dev.to/devteam/how-do-you-handle-overwhelm-in-your-daily-life-4abb)
 - [Sloan&#39;s Inbox: How to ask for a raise?](https://dev.to/devteam/sloans-inbox-how-to-ask-for-a-raise-5f2f)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Who&#39;s Your DEValentine? Spread the Love! 💖&quot;](https://dev.to/devteam/whos-your-devalentine-spread-the-love--1i20)
 - [Free Tools for Aspiring Developers: Unpacking GitHub&#39;s Student Pack](https://dev.to/devteam/fee-tools-for-aspiring-developers-unpacking-githubs-student-pack-mmd)
 - [Welcome Thread - v263](https://dev.to/devteam/welcome-thread-v263-adc)
-- [Podcast Palooza— What are you listening to? &lpar;Comedy Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-comedy-edition-2k41)
-- [Discussion of the Week: &quot;Any advice for someone who wants to start learning React.js?&quot;](https://dev.to/devteam/discussion-of-the-week-any-advice-for-someone-who-wants-to-start-learning-reactjs-1m0j)
-- [Introducing the Writing Debut Badge: Celebrating Your First Post on DEV!](https://dev.to/devteam/introducing-the-writing-debut-badge-celebrating-your-first-post-on-dev-331l)
 <!-- BLOG-POST-LIST:END -->
 
 
