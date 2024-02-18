@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [How Can High Performers Work Less and Achieve More?](https://dev.to/devteam/how-can-high-performers-work-less-and-achieve-more-2e2g)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-1186)
 - [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-2f66)
 - [What Defines a Senior Software Engineer?](https://dev.to/devteam/what-defines-a-senior-software-engineer-2bkp)
 - [Discussion of the Week: &quot;I suck at writing!&quot;](https://dev.to/devteam/discussion-of-the-week-i-suck-at-writing-23d2)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Sloan&#39;s Inbox: How to ask for a raise?](https://dev.to/devteam/sloans-inbox-how-to-ask-for-a-raise-5f2f)
 - [What Should Every Manager Do Daily?](https://dev.to/devteam/what-should-every-manager-do-daily-2a69)
 - [Who&#39;s Your DEValentine? Spread the Love! 💖&quot;](https://dev.to/devteam/whos-your-devalentine-spread-the-love--1i20)
-- [Free Tools for Aspiring Developers: Unpacking GitHub&#39;s Student Pack](https://dev.to/devteam/fee-tools-for-aspiring-developers-unpacking-githubs-student-pack-mmd)
-- [Welcome Thread - v263](https://dev.to/devteam/welcome-thread-v263-adc)
 <!-- BLOG-POST-LIST:END -->
 
 
