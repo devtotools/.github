@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-ln7)
+- [Podcast Palooza— What are you listening to? &lpar;Science Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-science-edition-586c)
+- [Music Monday — What are you listening to? &lpar;Funk, Soul, Disco, &amp; Reggae Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-funk-soul-disco-reggae-edition-iee)
+- [Is the Tech Job Market Really as Grim as It Seems?](https://dev.to/devteam/is-the-tech-job-market-really-as-grim-as-it-seems-372d)
 - [How Can High Performers Work Less and Achieve More?](https://dev.to/devteam/how-can-high-performers-work-less-and-achieve-more-2e2g)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-1186)
 - [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-2f66)
 - [What Defines a Senior Software Engineer?](https://dev.to/devteam/what-defines-a-senior-software-engineer-2bkp)
 - [Discussion of the Week: &quot;I suck at writing!&quot;](https://dev.to/devteam/discussion-of-the-week-i-suck-at-writing-23d2)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5f0l)
-- [How Do You Handle Overwhelm in Your Daily Life?](https://dev.to/devteam/how-do-you-handle-overwhelm-in-your-daily-life-4abb)
-- [Sloan&#39;s Inbox: How to ask for a raise?](https://dev.to/devteam/sloans-inbox-how-to-ask-for-a-raise-5f2f)
-- [What Should Every Manager Do Daily?](https://dev.to/devteam/what-should-every-manager-do-daily-2a69)
-- [Who&#39;s Your DEValentine? Spread the Love! 💖&quot;](https://dev.to/devteam/whos-your-devalentine-spread-the-love--1i20)
 <!-- BLOG-POST-LIST:END -->
 
 
