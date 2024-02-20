@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What Habits Are Holding You Back from Success?](https://dev.to/devteam/what-habits-are-holding-you-back-from-success-2n5m)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-ln7)
 - [Podcast Palooza— What are you listening to? &lpar;Science Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-science-edition-586c)
 - [Music Monday — What are you listening to? &lpar;Funk, Soul, Disco, &amp; Reggae Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-funk-soul-disco-reggae-edition-iee)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-2f66)
 - [What Defines a Senior Software Engineer?](https://dev.to/devteam/what-defines-a-senior-software-engineer-2bkp)
 - [Discussion of the Week: &quot;I suck at writing!&quot;](https://dev.to/devteam/discussion-of-the-week-i-suck-at-writing-23d2)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5f0l)
 <!-- BLOG-POST-LIST:END -->
 
 
