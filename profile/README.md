@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Do Developers Flock to Rust?](https://dev.to/devteam/why-do-developers-flock-to-rust-3ibb)
+- [Welcome Thread - v264](https://dev.to/devteam/welcome-thread-v264-2agm)
 - [What Habits Are Holding You Back from Success?](https://dev.to/devteam/what-habits-are-holding-you-back-from-success-2n5m)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-ln7)
 - [Podcast Palooza— What are you listening to? &lpar;Science Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-science-edition-586c)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [How Can High Performers Work Less and Achieve More?](https://dev.to/devteam/how-can-high-performers-work-less-and-achieve-more-2e2g)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-1186)
 - [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-2f66)
-- [What Defines a Senior Software Engineer?](https://dev.to/devteam/what-defines-a-senior-software-engineer-2bkp)
-- [Discussion of the Week: &quot;I suck at writing!&quot;](https://dev.to/devteam/discussion-of-the-week-i-suck-at-writing-23d2)
 <!-- BLOG-POST-LIST:END -->
 
 
