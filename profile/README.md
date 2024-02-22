@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Sloan&#39;s Inbox: How would you approach designing an authentication system from scratch?](https://dev.to/devteam/sloans-inbox-how-would-you-approach-designing-an-authentication-system-from-scratch-5708)
+- [How Do You Navigate Layoffs &amp; Maintain Productivity?](https://dev.to/devteam/how-do-you-navigate-layoffs-maintain-productivity-41ah)
 - [Why Do Developers Flock to Rust?](https://dev.to/devteam/why-do-developers-flock-to-rust-3ibb)
 - [Welcome Thread - v264](https://dev.to/devteam/welcome-thread-v264-2agm)
 - [What Habits Are Holding You Back from Success?](https://dev.to/devteam/what-habits-are-holding-you-back-from-success-2n5m)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Music Monday — What are you listening to? &lpar;Funk, Soul, Disco, &amp; Reggae Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-funk-soul-disco-reggae-edition-iee)
 - [Is the Tech Job Market Really as Grim as It Seems?](https://dev.to/devteam/is-the-tech-job-market-really-as-grim-as-it-seems-372d)
 - [How Can High Performers Work Less and Achieve More?](https://dev.to/devteam/how-can-high-performers-work-less-and-achieve-more-2e2g)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-1186)
-- [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-2f66)
 <!-- BLOG-POST-LIST:END -->
 
 
