@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-lih)
+- [How Can You Move Beyond Traditional Definitions of Success?](https://dev.to/devteam/how-can-you-move-beyond-traditional-definitions-of-success-2gjc)
+- [Discussion of the Week: &quot;Why is everything JavaScript?&quot;](https://dev.to/devteam/discussion-of-the-week-why-is-everything-javascript-325a)
+- [Featured Mod of the Month: Pachi](https://dev.to/devteam/featured-mod-of-the-month-pachi-16hh)
 - [Sloan&#39;s Inbox: How would you approach designing an authentication system from scratch?](https://dev.to/devteam/sloans-inbox-how-would-you-approach-designing-an-authentication-system-from-scratch-5708)
 - [How Do You Navigate Layoffs &amp; Maintain Productivity?](https://dev.to/devteam/how-do-you-navigate-layoffs-maintain-productivity-41ah)
 - [Why Do Developers Flock to Rust?](https://dev.to/devteam/why-do-developers-flock-to-rust-3ibb)
 - [Welcome Thread - v264](https://dev.to/devteam/welcome-thread-v264-2agm)
 - [What Habits Are Holding You Back from Success?](https://dev.to/devteam/what-habits-are-holding-you-back-from-success-2n5m)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-ln7)
-- [Podcast Palooza— What are you listening to? &lpar;Science Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-science-edition-586c)
-- [Music Monday — What are you listening to? &lpar;Funk, Soul, Disco, &amp; Reggae Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-funk-soul-disco-reggae-edition-iee)
-- [Is the Tech Job Market Really as Grim as It Seems?](https://dev.to/devteam/is-the-tech-job-market-really-as-grim-as-it-seems-372d)
-- [How Can High Performers Work Less and Achieve More?](https://dev.to/devteam/how-can-high-performers-work-less-and-achieve-more-2e2g)
 <!-- BLOG-POST-LIST:END -->
 
 
