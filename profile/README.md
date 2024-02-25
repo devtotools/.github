@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [How Do You Mitigate Miscommunication?](https://dev.to/devteam/how-do-you-mitigate-miscommunication-3bhl)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4bgm)
 - [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-3d2o)
 - [What are the Signs of Underperformance?](https://dev.to/devteam/what-are-the-signs-of-underperformance-2gh4)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-lih)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Featured Mod of the Month: Pachi](https://dev.to/devteam/featured-mod-of-the-month-pachi-16hh)
 - [Sloan&#39;s Inbox: How would you approach designing an authentication system from scratch?](https://dev.to/devteam/sloans-inbox-how-would-you-approach-designing-an-authentication-system-from-scratch-5708)
 - [How Do You Navigate Layoffs &amp; Maintain Productivity?](https://dev.to/devteam/how-do-you-navigate-layoffs-maintain-productivity-41ah)
-- [Why Do Developers Flock to Rust?](https://dev.to/devteam/why-do-developers-flock-to-rust-3ibb)
-- [Welcome Thread - v264](https://dev.to/devteam/welcome-thread-v264-2agm)
 <!-- BLOG-POST-LIST:END -->
 
 
