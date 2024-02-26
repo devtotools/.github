@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Podcast Palooza— What are you listening to? &lpar;Self-Help Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-self-help-edition-1f04)
+- [Music Monday — What are you listening to? &lpar;Hip Hop and R&amp;B Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-hip-hop-and-rb-edition-2aif)
+- [Is Doubt a Sign You&#39;re on the Right Path?](https://dev.to/devteam/is-doubt-a-sign-youre-on-the-right-path-5709)
 - [How Do You Mitigate Miscommunication?](https://dev.to/devteam/how-do-you-mitigate-miscommunication-3bhl)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4bgm)
 - [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-3d2o)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-lih)
 - [How Can You Move Beyond Traditional Definitions of Success?](https://dev.to/devteam/how-can-you-move-beyond-traditional-definitions-of-success-2gjc)
 - [Discussion of the Week: &quot;Why is everything JavaScript?&quot;](https://dev.to/devteam/discussion-of-the-week-why-is-everything-javascript-325a)
-- [Featured Mod of the Month: Pachi](https://dev.to/devteam/featured-mod-of-the-month-pachi-16hh)
-- [Sloan&#39;s Inbox: How would you approach designing an authentication system from scratch?](https://dev.to/devteam/sloans-inbox-how-would-you-approach-designing-an-authentication-system-from-scratch-5708)
-- [How Do You Navigate Layoffs &amp; Maintain Productivity?](https://dev.to/devteam/how-do-you-navigate-layoffs-maintain-productivity-41ah)
 <!-- BLOG-POST-LIST:END -->
 
 
