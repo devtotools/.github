@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Mentor Matching — February 2024 🤝](https://dev.to/devteam/mentor-matching-monthly-4ann)
+- [Are You Embracing AI in Your Dev Workflow?](https://dev.to/devteam/are-you-embracing-ai-inyour-dev-workflow-5dbb)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4bmh)
 - [Podcast Palooza— What are you listening to? &lpar;Self-Help Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-self-help-edition-1f04)
 - [Music Monday — What are you listening to? &lpar;Hip Hop and R&amp;B Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-hip-hop-and-rb-edition-2aif)
 - [Is Doubt a Sign You&#39;re on the Right Path?](https://dev.to/devteam/is-doubt-a-sign-youre-on-the-right-path-5709)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4bgm)
 - [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-3d2o)
 - [What are the Signs of Underperformance?](https://dev.to/devteam/what-are-the-signs-of-underperformance-2gh4)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-lih)
-- [How Can You Move Beyond Traditional Definitions of Success?](https://dev.to/devteam/how-can-you-move-beyond-traditional-definitions-of-success-2gjc)
-- [Discussion of the Week: &quot;Why is everything JavaScript?&quot;](https://dev.to/devteam/discussion-of-the-week-why-is-everything-javascript-325a)
 <!-- BLOG-POST-LIST:END -->
 
 
