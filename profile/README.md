@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What Leads to Coding Mistakes?](https://dev.to/devteam/what-leads-to-coding-mistakes-1nni)
+- [Welcome Thread - v265](https://dev.to/devteam/welcome-thread-v265-3a1l)
 - [Mentor Matching — February 2024 🤝](https://dev.to/devteam/mentor-matching-monthly-4ann)
 - [Are You Embracing AI in Your Dev Workflow?](https://dev.to/devteam/are-you-embracing-ai-inyour-dev-workflow-5dbb)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4bmh)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Is Doubt a Sign You&#39;re on the Right Path?](https://dev.to/devteam/is-doubt-a-sign-youre-on-the-right-path-5709)
 - [How Do You Mitigate Miscommunication?](https://dev.to/devteam/how-do-you-mitigate-miscommunication-3bhl)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4bgm)
-- [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-3d2o)
-- [What are the Signs of Underperformance?](https://dev.to/devteam/what-are-the-signs-of-underperformance-2gh4)
 <!-- BLOG-POST-LIST:END -->
 
 
