@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Sloan&#39;s Inbox: Am I too old to get into tech?](https://dev.to/devteam/sloans-inbox-am-i-too-old-to-get-into-tech-3lp8)
+- [Is Higher Ed Needed for Data Science Success?](https://dev.to/devteam/is-higher-ed-needed-for-data-science-success-33l2)
+- [Leap Year: How Will You Spend Your Bonus Day?](https://dev.to/devteam/leap-year-how-will-you-spend-your-bonus-day-1hof)
 - [What Leads to Coding Mistakes?](https://dev.to/devteam/what-leads-to-coding-mistakes-1nni)
 - [Welcome Thread - v265](https://dev.to/devteam/welcome-thread-v265-3a1l)
 - [Mentor Matching — February 2024 🤝](https://dev.to/devteam/mentor-matching-monthly-4ann)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4bmh)
 - [Podcast Palooza— What are you listening to? &lpar;Self-Help Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-self-help-edition-1f04)
 - [Music Monday — What are you listening to? &lpar;Hip Hop and R&amp;B Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-hip-hop-and-rb-edition-2aif)
-- [Is Doubt a Sign You&#39;re on the Right Path?](https://dev.to/devteam/is-doubt-a-sign-youre-on-the-right-path-5709)
-- [How Do You Mitigate Miscommunication?](https://dev.to/devteam/how-do-you-mitigate-miscommunication-3bhl)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4bgm)
 <!-- BLOG-POST-LIST:END -->
 
 
