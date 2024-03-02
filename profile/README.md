@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s Your New Favorite Productivity App?](https://dev.to/devteam/whats-your-new-favorite-productivity-app-5a04)
+- [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-3ml0)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-1673)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1hej)
-- [we_coded 2024! Empowering Change for Gender Equity in Tech 🔥💪🏽](https://dev.to/devteam/wecoded-2024-empowering-change-for-gender-equity-in-tech-30nj)
 - [Change One Thing in Tech](https://dev.to/devteam/change-one-thing-in-tech-3jgb)
+- [we_coded 2024! Empowering Change for Gender Equity in Tech 🔥💪🏽](https://dev.to/devteam/wecoded-2024-empowering-change-for-gender-equity-in-tech-30nj)
 - [Sloan&#39;s Inbox: Am I too old to get into tech?](https://dev.to/devteam/sloans-inbox-am-i-too-old-to-get-into-tech-3lp8)
-- [Leap Year: How Will You Spend Your Bonus Day?](https://dev.to/devteam/leap-year-how-will-you-spend-your-bonus-day-1hof)
 - [Is Higher Ed Needed for Data Science Success?](https://dev.to/devteam/is-higher-ed-needed-for-data-science-success-33l2)
+- [Leap Year: How Will You Spend Your Bonus Day?](https://dev.to/devteam/leap-year-how-will-you-spend-your-bonus-day-1hof)
 - [What Leads to Coding Mistakes?](https://dev.to/devteam/what-leads-to-coding-mistakes-1nni)
-- [Welcome Thread - v265](https://dev.to/devteam/welcome-thread-v265-3a1l)
-- [Mentor Matching — February 2024 🤝](https://dev.to/devteam/mentor-matching-monthly-4ann)
-- [Are You Embracing AI in Your Dev Workflow?](https://dev.to/devteam/are-you-embracing-ai-inyour-dev-workflow-5dbb)
 <!-- BLOG-POST-LIST:END -->
 
 
