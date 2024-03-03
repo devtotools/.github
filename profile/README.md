@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Where Will Life Take You in Five Years?](https://dev.to/devteam/where-will-life-take-you-in-five-years-3l2)
 - [What&#39;s Your New Favorite Productivity App?](https://dev.to/devteam/whats-your-new-favorite-productivity-app-5a04)
 - [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-3ml0)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-1673)
@@ -25,9 +26,8 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Change One Thing in Tech](https://dev.to/devteam/change-one-thing-in-tech-3jgb)
 - [we_coded 2024! Empowering Change for Gender Equity in Tech 🔥💪🏽](https://dev.to/devteam/wecoded-2024-empowering-change-for-gender-equity-in-tech-30nj)
 - [Sloan&#39;s Inbox: Am I too old to get into tech?](https://dev.to/devteam/sloans-inbox-am-i-too-old-to-get-into-tech-3lp8)
-- [Is Higher Ed Needed for Data Science Success?](https://dev.to/devteam/is-higher-ed-needed-for-data-science-success-33l2)
 - [Leap Year: How Will You Spend Your Bonus Day?](https://dev.to/devteam/leap-year-how-will-you-spend-your-bonus-day-1hof)
-- [What Leads to Coding Mistakes?](https://dev.to/devteam/what-leads-to-coding-mistakes-1nni)
+- [Is Higher Ed Needed for Data Science Success?](https://dev.to/devteam/is-higher-ed-needed-for-data-science-success-33l2)
 <!-- BLOG-POST-LIST:END -->
 
 
