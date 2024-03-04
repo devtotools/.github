@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Some great new posts from new authors in February 💞](https://dev.to/devteam/some-great-new-posts-from-new-authors-in-february-5em1)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2933)
+- [Podcast Palooza— What are you listening to? &lpar;History Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-history-edition-i8n)
+- [How Will Tech Hiring Evolve in 2024?](https://dev.to/devteam/how-will-tech-hiring-evolve-in-2024-58go)
+- [Music Monday — What are you listening to? &lpar;Playlist Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-playlist-edition-2176)
 - [Where Will Life Take You in Five Years?](https://dev.to/devteam/where-will-life-take-you-in-five-years-3l2)
 - [What&#39;s Your New Favorite Productivity App?](https://dev.to/devteam/whats-your-new-favorite-productivity-app-5a04)
 - [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-3ml0)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-1673)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1hej)
-- [Change One Thing in Tech](https://dev.to/devteam/change-one-thing-in-tech-3jgb)
-- [we_coded 2024! Empowering Change for Gender Equity in Tech 🔥💪🏽](https://dev.to/devteam/wecoded-2024-empowering-change-for-gender-equity-in-tech-30nj)
-- [Sloan&#39;s Inbox: Am I too old to get into tech?](https://dev.to/devteam/sloans-inbox-am-i-too-old-to-get-into-tech-3lp8)
-- [Leap Year: How Will You Spend Your Bonus Day?](https://dev.to/devteam/leap-year-how-will-you-spend-your-bonus-day-1hof)
-- [Is Higher Ed Needed for Data Science Success?](https://dev.to/devteam/is-higher-ed-needed-for-data-science-success-33l2)
 <!-- BLOG-POST-LIST:END -->
 
 
