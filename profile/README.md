@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [How Can You Prioritize What Matters Most Outside of Work?](https://dev.to/devteam/how-can-you-prioritize-what-matters-most-outside-of-work-4kpj)
 - [Some great new posts from new authors in February 💞](https://dev.to/devteam/some-great-new-posts-from-new-authors-in-february-5em1)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2933)
 - [Podcast Palooza— What are you listening to? &lpar;History Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-history-edition-i8n)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What&#39;s Your New Favorite Productivity App?](https://dev.to/devteam/whats-your-new-favorite-productivity-app-5a04)
 - [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-3ml0)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-1673)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1hej)
 <!-- BLOG-POST-LIST:END -->
 
 
