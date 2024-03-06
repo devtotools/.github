@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Lost in Tabs? What&#39;s Your Strategy for Focus?](https://dev.to/devteam/lost-in-tabs-whats-your-strategy-for-focus-1kdb)
+- [Welcome Thread - v266](https://dev.to/devteam/welcome-thread-v266-gkf)
 - [How Can You Prioritize What Matters Most Outside of Work?](https://dev.to/devteam/how-can-you-prioritize-what-matters-most-outside-of-work-4kpj)
 - [Some great new posts from new authors in February 💞](https://dev.to/devteam/some-great-new-posts-from-new-authors-in-february-5em1)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2933)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Music Monday — What are you listening to? &lpar;Playlist Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-playlist-edition-2176)
 - [Where Will Life Take You in Five Years?](https://dev.to/devteam/where-will-life-take-you-in-five-years-3l2)
 - [What&#39;s Your New Favorite Productivity App?](https://dev.to/devteam/whats-your-new-favorite-productivity-app-5a04)
-- [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-3ml0)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-1673)
 <!-- BLOG-POST-LIST:END -->
 
 
