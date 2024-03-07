@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Sloan&#39;s Inbox: Did you face any unexpected challenges in your first dev job?](https://dev.to/devteam/sloans-inbox-did-you-face-any-unexpected-challenges-in-your-first-dev-job-3op1)
 - [Lost in Tabs? What&#39;s Your Strategy for Focus?](https://dev.to/devteam/lost-in-tabs-whats-your-strategy-for-focus-1kdb)
 - [Welcome Thread - v266](https://dev.to/devteam/welcome-thread-v266-gkf)
 - [How Can You Prioritize What Matters Most Outside of Work?](https://dev.to/devteam/how-can-you-prioritize-what-matters-most-outside-of-work-4kpj)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [How Will Tech Hiring Evolve in 2024?](https://dev.to/devteam/how-will-tech-hiring-evolve-in-2024-58go)
 - [Music Monday — What are you listening to? &lpar;Playlist Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-playlist-edition-2176)
 - [Where Will Life Take You in Five Years?](https://dev.to/devteam/where-will-life-take-you-in-five-years-3l2)
-- [What&#39;s Your New Favorite Productivity App?](https://dev.to/devteam/whats-your-new-favorite-productivity-app-5a04)
 <!-- BLOG-POST-LIST:END -->
 
 
