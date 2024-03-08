@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Celebrate International Women&#39;s Day with New Swag &amp; A Sweet Surprise 💖](https://dev.to/devteam/we-made-wecoded-merch-51ic)
+- [Happy International Women&#39;s Day!🌟](https://dev.to/devteam/happy-international-womens-day-55n4)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-211b)
+- [Calling for Shout Outs on International Women&#39;s Day!](https://dev.to/devteam/calling-for-shout-outs-on-international-womens-day-3fj0)
 - [Sloan&#39;s Inbox: Did you face any unexpected challenges in your first dev job?](https://dev.to/devteam/sloans-inbox-did-you-face-any-unexpected-challenges-in-your-first-dev-job-3op1)
 - [Lost in Tabs? What&#39;s Your Strategy for Focus?](https://dev.to/devteam/lost-in-tabs-whats-your-strategy-for-focus-1kdb)
 - [Welcome Thread - v266](https://dev.to/devteam/welcome-thread-v266-gkf)
 - [How Can You Prioritize What Matters Most Outside of Work?](https://dev.to/devteam/how-can-you-prioritize-what-matters-most-outside-of-work-4kpj)
 - [Some great new posts from new authors in February 💞](https://dev.to/devteam/some-great-new-posts-from-new-authors-in-february-5em1)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2933)
-- [Podcast Palooza— What are you listening to? &lpar;History Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-history-edition-i8n)
-- [How Will Tech Hiring Evolve in 2024?](https://dev.to/devteam/how-will-tech-hiring-evolve-in-2024-58go)
-- [Music Monday — What are you listening to? &lpar;Playlist Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-playlist-edition-2176)
-- [Where Will Life Take You in Five Years?](https://dev.to/devteam/where-will-life-take-you-in-five-years-3l2)
 <!-- BLOG-POST-LIST:END -->
 
 
