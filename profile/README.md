@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust, JavaScript, or Python?](https://dev.to/devteam/rust-javascript-or-python-3dd0)
 - [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-183o)
 - [Can Ergonomic Keyboards Boost Your Productivity?](https://dev.to/devteam/can-ergonomic-keyboards-boost-your-productivity-5em)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4jkd)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Calling for Shout Outs on International Women&#39;s Day!](https://dev.to/devteam/calling-for-shout-outs-on-international-womens-day-3fj0)
 - [Sloan&#39;s Inbox: Did you face any unexpected challenges in your first dev job?](https://dev.to/devteam/sloans-inbox-did-you-face-any-unexpected-challenges-in-your-first-dev-job-3op1)
 - [Lost in Tabs? What&#39;s Your Strategy for Focus?](https://dev.to/devteam/lost-in-tabs-whats-your-strategy-for-focus-1kdb)
-- [Welcome Thread - v266](https://dev.to/devteam/welcome-thread-v266-gkf)
 <!-- BLOG-POST-LIST:END -->
 
 
