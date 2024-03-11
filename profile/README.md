@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-36c)
+- [Podcast Palooza— What are you listening to? &lpar;Interview Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-interview-edition-3a8)
+- [Music Monday — What are you listening to? &lpar;Women Edition ♀&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-women-edition--1k16)
+- [Are You Ready to Game Dev?](https://dev.to/devteam/are-you-ready-to-game-dev-35h8)
 - [Rust, JavaScript, or Python?](https://dev.to/devteam/rust-javascript-or-python-3dd0)
 - [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-183o)
 - [Can Ergonomic Keyboards Boost Your Productivity?](https://dev.to/devteam/can-ergonomic-keyboards-boost-your-productivity-5em)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4jkd)
 - [Celebrate International Women&#39;s Day with New Swag &amp; A Sweet Surprise 💖](https://dev.to/devteam/we-made-wecoded-merch-51ic)
 - [Happy International Women&#39;s Day!🌟](https://dev.to/devteam/happy-international-womens-day-55n4)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-211b)
-- [Calling for Shout Outs on International Women&#39;s Day!](https://dev.to/devteam/calling-for-shout-outs-on-international-womens-day-3fj0)
-- [Sloan&#39;s Inbox: Did you face any unexpected challenges in your first dev job?](https://dev.to/devteam/sloans-inbox-did-you-face-any-unexpected-challenges-in-your-first-dev-job-3op1)
-- [Lost in Tabs? What&#39;s Your Strategy for Focus?](https://dev.to/devteam/lost-in-tabs-whats-your-strategy-for-focus-1kdb)
 <!-- BLOG-POST-LIST:END -->
 
 
