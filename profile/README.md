@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What Are the Top Database Optimization Techniques?](https://dev.to/devteam/what-are-the-top-database-optimization-techniques-4ode)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-36c)
 - [Podcast Palooza— What are you listening to? &lpar;Interview Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-interview-edition-3a8)
 - [Music Monday — What are you listening to? &lpar;Women Edition ♀&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-women-edition--1k16)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Can Ergonomic Keyboards Boost Your Productivity?](https://dev.to/devteam/can-ergonomic-keyboards-boost-your-productivity-5em)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4jkd)
 - [Celebrate International Women&#39;s Day with New Swag &amp; A Sweet Surprise 💖](https://dev.to/devteam/we-made-wecoded-merch-51ic)
-- [Happy International Women&#39;s Day!🌟](https://dev.to/devteam/happy-international-womens-day-55n4)
 <!-- BLOG-POST-LIST:END -->
 
 
