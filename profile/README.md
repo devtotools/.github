@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing DEV Challenges](https://dev.to/devteam/introducing-dev-challenges-1mk9)
+- [Happy Pi Day — Share Your Favorite Raspberry Pi Projects &amp; Posts! 🥧](https://dev.to/devteam/happy-pi-day-share-your-favorite-raspberry-pi-projects-posts-2dgc)
+- [Sloan&#39;s Inbox: How to answer &quot;Where do you see yourself in 5 years?&quot; when I&#39;m content where I am.](https://dev.to/devteam/sloans-inbox-how-to-answer-where-do-you-see-yourself-in-5-years-when-im-content-where-i-am-jbm)
 - [Essential Investments for Remote Programmers?](https://dev.to/devteam/essential-investments-for-remote-programmers-4807)
 - [Welcome Thread - v267](https://dev.to/devteam/welcome-thread-v267-4na2)
 - [What Are the Top Database Optimization Techniques?](https://dev.to/devteam/what-are-the-top-database-optimization-techniques-4ode)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Podcast Palooza— What are you listening to? &lpar;Interview Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-interview-edition-3a8)
 - [Music Monday — What are you listening to? &lpar;Women Edition ♀&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-women-edition--1k16)
 - [Are You Ready to Game Dev?](https://dev.to/devteam/are-you-ready-to-game-dev-35h8)
-- [Rust, JavaScript, or Python?](https://dev.to/devteam/rust-javascript-or-python-3dd0)
-- [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-183o)
-- [Can Ergonomic Keyboards Boost Your Productivity?](https://dev.to/devteam/can-ergonomic-keyboards-boost-your-productivity-5em)
 <!-- BLOG-POST-LIST:END -->
 
 
