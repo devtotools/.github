@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What Do You Wish You&#39;d Known Before Becoming A Manager?](https://dev.to/devteam/what-do-you-wish-youd-known-before-becoming-a-manager-2146)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4pe5)
 - [Introducing DEV Challenges](https://dev.to/devteam/introducing-dev-challenges-1mk9)
 - [Happy Pi Day — Share Your Favorite Raspberry Pi Projects &amp; Posts! 🥧](https://dev.to/devteam/happy-pi-day-share-your-favorite-raspberry-pi-projects-posts-2dgc)
 - [Sloan&#39;s Inbox: How to answer &quot;Where do you see yourself in 5 years?&quot; when I&#39;m content where I am.](https://dev.to/devteam/sloans-inbox-how-to-answer-where-do-you-see-yourself-in-5-years-when-im-content-where-i-am-jbm)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What Are the Top Database Optimization Techniques?](https://dev.to/devteam/what-are-the-top-database-optimization-techniques-4ode)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-36c)
 - [Podcast Palooza— What are you listening to? &lpar;Interview Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-interview-edition-3a8)
-- [Music Monday — What are you listening to? &lpar;Women Edition ♀&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-women-edition--1k16)
-- [Are You Ready to Game Dev?](https://dev.to/devteam/are-you-ready-to-game-dev-35h8)
 <!-- BLOG-POST-LIST:END -->
 
 
