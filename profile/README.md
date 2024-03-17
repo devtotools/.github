@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Do You Feel Lucky? ☘️](https://dev.to/devteam/do-you-feel-lucky-2b7n)
 - [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-355j)
 - [Do You Feel Appreciated in Your Job?](https://dev.to/devteam/do-you-feel-appreciated-in-your-job-3g7d)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-5h2g)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Happy Pi Day — Share Your Favorite Raspberry Pi Projects &amp; Posts! 🥧](https://dev.to/devteam/happy-pi-day-share-your-favorite-raspberry-pi-projects-posts-2dgc)
 - [Sloan&#39;s Inbox: How to answer &quot;Where do you see yourself in 5 years?&quot; when I&#39;m content where I am.](https://dev.to/devteam/sloans-inbox-how-to-answer-where-do-you-see-yourself-in-5-years-when-im-content-where-i-am-jbm)
 - [Essential Investments for Remote Programmers?](https://dev.to/devteam/essential-investments-for-remote-programmers-4807)
-- [Welcome Thread - v267](https://dev.to/devteam/welcome-thread-v267-4na2)
 <!-- BLOG-POST-LIST:END -->
 
 
