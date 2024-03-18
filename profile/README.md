@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-nmg)
+- [Podcast Palooza— What are you listening to? &lpar;Tech Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-tech-edition-1eib)
+- [Music Monday — What are you listening to? &lpar;Gender-nonconforming Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-gender-nonconforming-edition-3oi5)
+- [What&#39;s Got You Excited This Week?](https://dev.to/devteam/whats-got-you-excited-this-week-2332)
 - [Do You Feel Lucky? ☘️](https://dev.to/devteam/do-you-feel-lucky-2b7n)
 - [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-355j)
 - [Do You Feel Appreciated in Your Job?](https://dev.to/devteam/do-you-feel-appreciated-in-your-job-3g7d)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-5h2g)
 - [What Do You Wish You&#39;d Known Before Becoming A Manager?](https://dev.to/devteam/what-do-you-wish-youd-known-before-becoming-a-manager-2146)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4pe5)
-- [Introducing DEV Challenges](https://dev.to/devteam/introducing-dev-challenges-1mk9)
-- [Happy Pi Day — Share Your Favorite Raspberry Pi Projects &amp; Posts! 🥧](https://dev.to/devteam/happy-pi-day-share-your-favorite-raspberry-pi-projects-posts-2dgc)
-- [Sloan&#39;s Inbox: How to answer &quot;Where do you see yourself in 5 years?&quot; when I&#39;m content where I am.](https://dev.to/devteam/sloans-inbox-how-to-answer-where-do-you-see-yourself-in-5-years-when-im-content-where-i-am-jbm)
-- [Essential Investments for Remote Programmers?](https://dev.to/devteam/essential-investments-for-remote-programmers-4807)
 <!-- BLOG-POST-LIST:END -->
 
 
