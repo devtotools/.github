@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What Are the Common Complaints of Software Engineers?](https://dev.to/devteam/what-are-the-common-complaints-of-software-engineers-2k6a)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-nmg)
 - [Podcast Palooza— What are you listening to? &lpar;Tech Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-tech-edition-1eib)
 - [Music Monday — What are you listening to? &lpar;Gender-nonconforming Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-gender-nonconforming-edition-3oi5)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Do You Feel Appreciated in Your Job?](https://dev.to/devteam/do-you-feel-appreciated-in-your-job-3g7d)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-5h2g)
 - [What Do You Wish You&#39;d Known Before Becoming A Manager?](https://dev.to/devteam/what-do-you-wish-youd-known-before-becoming-a-manager-2146)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4pe5)
 <!-- BLOG-POST-LIST:END -->
 
 
