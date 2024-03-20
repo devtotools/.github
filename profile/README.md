@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Join Our First Community Challenge: The Frontend Challenge](https://dev.to/devteam/join-our-first-community-challenge-the-frontend-challenge-8be)
+- [Welcome Thread - v268](https://dev.to/devteam/welcome-thread-v268-2p0f)
 - [What Are the Common Complaints of Software Engineers?](https://dev.to/devteam/what-are-the-common-complaints-of-software-engineers-2k6a)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-nmg)
 - [Podcast Palooza— What are you listening to? &lpar;Tech Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-tech-edition-1eib)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Do You Feel Lucky? ☘️](https://dev.to/devteam/do-you-feel-lucky-2b7n)
 - [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-355j)
 - [Do You Feel Appreciated in Your Job?](https://dev.to/devteam/do-you-feel-appreciated-in-your-job-3g7d)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-5h2g)
-- [What Do You Wish You&#39;d Known Before Becoming A Manager?](https://dev.to/devteam/what-do-you-wish-youd-known-before-becoming-a-manager-2146)
 <!-- BLOG-POST-LIST:END -->
 
 
