@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Sloan&#39;s Inbox: Is security still an afterthought?](https://dev.to/devteam/sloans-inbox-is-security-still-an-afterthought-48ln)
 - [Join Our First Community Challenge: The Frontend Challenge](https://dev.to/devteam/join-our-first-community-challenge-the-frontend-challenge-8be)
 - [Welcome Thread - v268](https://dev.to/devteam/welcome-thread-v268-2p0f)
 - [What Are the Common Complaints of Software Engineers?](https://dev.to/devteam/what-are-the-common-complaints-of-software-engineers-2k6a)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What&#39;s Got You Excited This Week?](https://dev.to/devteam/whats-got-you-excited-this-week-2332)
 - [Do You Feel Lucky? ☘️](https://dev.to/devteam/do-you-feel-lucky-2b7n)
 - [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-355j)
-- [Do You Feel Appreciated in Your Job?](https://dev.to/devteam/do-you-feel-appreciated-in-your-job-3g7d)
 <!-- BLOG-POST-LIST:END -->
 
 
