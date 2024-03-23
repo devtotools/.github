@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-1pj2)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4fff)
 - [Featured Org of the Month: Feministech](https://dev.to/devteam/featured-org-of-the-month-feministech-39bb)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1h57)
 - [Sloan&#39;s Inbox: Is security still an afterthought?](https://dev.to/devteam/sloans-inbox-is-security-still-an-afterthought-48ln)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What Are the Common Complaints of Software Engineers?](https://dev.to/devteam/what-are-the-common-complaints-of-software-engineers-2k6a)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-nmg)
 - [Podcast Palooza— What are you listening to? &lpar;Tech Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-tech-edition-1eib)
-- [Music Monday — What are you listening to? &lpar;Gender-nonconforming Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-gender-nonconforming-edition-3oi5)
-- [What&#39;s Got You Excited This Week?](https://dev.to/devteam/whats-got-you-excited-this-week-2332)
 <!-- BLOG-POST-LIST:END -->
 
 
