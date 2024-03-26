@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Functionality &amp; Maintainability: What&#39;s the Difference?](https://dev.to/devteam/functionality-maintainability-whats-the-difference-1cjc)
+- [Podcast Palooza— What are you listening to? &lpar;Best-of-all-time edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-best-of-all-time-edition-3gll)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3hik)
 - [How Do You &quot;Prove Your Worth&quot; in Interviews?](https://dev.to/devteam/how-do-you-prove-your-worth-in-interviews-2n2h)
 - [Music Monday — What are you listening to? &lpar;Suno.AI Edition 🤖&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-sunoai-edition--2aoa)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Featured Org of the Month: Feministech](https://dev.to/devteam/featured-org-of-the-month-feministech-39bb)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1h57)
 - [Sloan&#39;s Inbox: Is security still an afterthought?](https://dev.to/devteam/sloans-inbox-is-security-still-an-afterthought-48ln)
-- [Join Our First Community Challenge: The Frontend Challenge](https://dev.to/devteam/join-our-first-community-challenge-the-frontend-challenge-8be)
-- [Welcome Thread - v268](https://dev.to/devteam/welcome-thread-v268-2p0f)
 <!-- BLOG-POST-LIST:END -->
 
 
