@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Does Stress Lead to Personal Growth and Resilience?](https://dev.to/devteam/does-stress-lead-to-personal-growth-and-resilience-44e0)
+- [Welcome Thread - v269](https://dev.to/devteam/welcome-thread-v269-2naa)
 - [Functionality &amp; Maintainability: What&#39;s the Difference?](https://dev.to/devteam/functionality-maintainability-whats-the-difference-1cjc)
 - [Podcast Palooza— What are you listening to? &lpar;Best-of-all-time edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-best-of-all-time-edition-3gll)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3hik)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-1pj2)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4fff)
 - [Featured Org of the Month: Feministech](https://dev.to/devteam/featured-org-of-the-month-feministech-39bb)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1h57)
-- [Sloan&#39;s Inbox: Is security still an afterthought?](https://dev.to/devteam/sloans-inbox-is-security-still-an-afterthought-48ln)
 <!-- BLOG-POST-LIST:END -->
 
 
