@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-1lf3)
+- [How Do You Learn New Things When You&#39;re So Busy?](https://dev.to/devteam/how-do-you-learn-new-things-when-youre-so-busy-5efo)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-1mnc)
 - [Helping You Build Machine Learning Products: CodeNewbie Podcast](https://dev.to/devteam/helping-you-build-machine-learning-products-codenewbie-podcast-683)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-13ld)
 - [What&#39;s the Difference Between A Good Developer &amp; A Great One?](https://dev.to/devteam/whats-the-difference-between-a-good-developer-a-great-one-383l)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Have You Ever Gotten A Job through LinkedIn?](https://dev.to/devteam/have-you-ever-gotten-a-job-through-linkedin-fmj)
 - [Sloan&#39;s Inbox: How do you ask for help?](https://dev.to/devteam/sloans-inbox-how-do-you-ask-for-help-2ee2)
 - [Does Stress Lead to Personal Growth and Resilience?](https://dev.to/devteam/does-stress-lead-to-personal-growth-and-resilience-44e0)
-- [Welcome Thread - v269](https://dev.to/devteam/welcome-thread-v269-2naa)
-- [Functionality &amp; Maintainability: What&#39;s the Difference?](https://dev.to/devteam/functionality-maintainability-whats-the-difference-1cjc)
-- [Podcast Palooza— What are you listening to? &lpar;Best-of-all-time edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-best-of-all-time-edition-3gll)
 <!-- BLOG-POST-LIST:END -->
 
 
