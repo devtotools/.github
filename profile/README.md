@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Celebrating Diversity in Tech: Reflections on we_coded 2024](https://dev.to/devteam/celebrating-diversity-in-tech-reflections-on-wecoded-2024-4bb4)
+- [What Are the Must-Know Software Architectures?](https://dev.to/devteam/what-are-the-must-know-software-architectures-5aai)
 - [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-1lf3)
 - [How Do You Learn New Things When You&#39;re So Busy?](https://dev.to/devteam/how-do-you-learn-new-things-when-youre-so-busy-5efo)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-1mnc)
 - [Helping You Build Machine Learning Products: CodeNewbie Podcast](https://dev.to/devteam/helping-you-build-machine-learning-products-codenewbie-podcast-683)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-13ld)
-- [What&#39;s the Difference Between A Good Developer &amp; A Great One?](https://dev.to/devteam/whats-the-difference-between-a-good-developer-a-great-one-383l)
 - [What Do You Remember about the Early Days of webdev and HTML?](https://dev.to/devteam/what-do-you-remember-about-the-early-days-of-webdev-and-html-57d0)
+- [What&#39;s the Difference Between A Good Developer &amp; A Great One?](https://dev.to/devteam/whats-the-difference-between-a-good-developer-a-great-one-383l)
 - [Have You Ever Gotten A Job through LinkedIn?](https://dev.to/devteam/have-you-ever-gotten-a-job-through-linkedin-fmj)
-- [Sloan&#39;s Inbox: How do you ask for help?](https://dev.to/devteam/sloans-inbox-how-do-you-ask-for-help-2ee2)
-- [Does Stress Lead to Personal Growth and Resilience?](https://dev.to/devteam/does-stress-lead-to-personal-growth-and-resilience-44e0)
 <!-- BLOG-POST-LIST:END -->
 
 
