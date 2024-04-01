@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts of the Week, No Joke 😜](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-no-joke-5277)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5g8l)
+- [What&#39;s Your Favorite Productivity Tool?](https://dev.to/devteam/whats-your-favorite-productivity-tool-1d9)
 - [Celebrating Diversity in Tech: Reflections on we_coded 2024](https://dev.to/devteam/celebrating-diversity-in-tech-reflections-on-wecoded-2024-4bb4)
 - [What Are the Must-Know Software Architectures?](https://dev.to/devteam/what-are-the-must-know-software-architectures-5aai)
 - [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-1lf3)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-1mnc)
 - [Helping You Build Machine Learning Products: CodeNewbie Podcast](https://dev.to/devteam/helping-you-build-machine-learning-products-codenewbie-podcast-683)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-13ld)
-- [What Do You Remember about the Early Days of webdev and HTML?](https://dev.to/devteam/what-do-you-remember-about-the-early-days-of-webdev-and-html-57d0)
-- [What&#39;s the Difference Between A Good Developer &amp; A Great One?](https://dev.to/devteam/whats-the-difference-between-a-good-developer-a-great-one-383l)
-- [Have You Ever Gotten A Job through LinkedIn?](https://dev.to/devteam/have-you-ever-gotten-a-job-through-linkedin-fmj)
 <!-- BLOG-POST-LIST:END -->
 
 
