@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Featured Mod of the Month: Anita Olsen](https://dev.to/devteam/featured-mod-of-the-month-anita-olsen-10jn)
+- [Sloan&#39;s Inbox: Any advice for calming an opinionated contributor? 😬](https://dev.to/devteam/sloans-inbox-advice-for-calming-an-opinionated-contributor-804)
+- [What Are Your Go-to Icebreakers? 🧊⛏️](https://dev.to/devteam/what-are-your-go-to-icebreakers-2942)
 - [Living The Dream With AI: CodeNewbie Podcast](https://dev.to/devteam/living-the-dream-with-ai-codenewbie-podcast-1hhl)
 - [Join us for the Cloudflare AI Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-cloudflare-ai-challenge-3000-in-prizes-5f99)
 - [How to Think Like A Programmer?](https://dev.to/devteam/how-to-think-like-a-programmer-4436)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Congrats to our Frontend Challenge Winners!](https://dev.to/devteam/congrats-to-our-frontend-challenge-winners-2h5f)
 - [What Are You Wasting Time On?](https://dev.to/devteam/what-are-you-wasting-time-on-2544)
 - [Podcast Palooza— What are you listening to? &lpar;DnD Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-dnd-edition-3p1f)
-- [Music Monday — What are you listening to? &lpar;Covers Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-covers-edition-3aj5)
-- [Top 7 Featured DEV Posts of the Week, No Joke 😜](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-no-joke-5277)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5g8l)
 <!-- BLOG-POST-LIST:END -->
 
 
