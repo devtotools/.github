@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-3de0)
+- [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-5e9b)
+- [What Drives Your Daily Choices?](https://dev.to/devteam/what-drives-your-daily-choices-15lb)
 - [Featured Mod of the Month: Anita Olsen](https://dev.to/devteam/featured-mod-of-the-month-anita-olsen-10jn)
 - [Sloan&#39;s Inbox: Any advice for calming an opinionated contributor? 😬](https://dev.to/devteam/sloans-inbox-advice-for-calming-an-opinionated-contributor-804)
 - [What Are Your Go-to Icebreakers? 🧊⛏️](https://dev.to/devteam/what-are-your-go-to-icebreakers-2942)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Join us for the Cloudflare AI Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-cloudflare-ai-challenge-3000-in-prizes-5f99)
 - [How to Think Like A Programmer?](https://dev.to/devteam/how-to-think-like-a-programmer-4436)
 - [Welcome Thread - v270](https://dev.to/devteam/welcome-thread-v270-3cpb)
-- [Congrats to our Frontend Challenge Winners!](https://dev.to/devteam/congrats-to-our-frontend-challenge-winners-2h5f)
-- [What Are You Wasting Time On?](https://dev.to/devteam/what-are-you-wasting-time-on-2544)
-- [Podcast Palooza— What are you listening to? &lpar;DnD Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-dnd-edition-3p1f)
 <!-- BLOG-POST-LIST:END -->
 
 
