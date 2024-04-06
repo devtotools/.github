@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Networking Connections: Is it Quality or Quantity?](https://dev.to/devteam/networking-connections-is-it-quality-or-quantity-670)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4m8a)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-3de0)
 - [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-5e9b)
 - [What Drives Your Daily Choices?](https://dev.to/devteam/what-drives-your-daily-choices-15lb)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What Are Your Go-to Icebreakers? 🧊⛏️](https://dev.to/devteam/what-are-your-go-to-icebreakers-2942)
 - [Living The Dream With AI: CodeNewbie Podcast](https://dev.to/devteam/living-the-dream-with-ai-codenewbie-podcast-1hhl)
 - [Join us for the Cloudflare AI Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-cloudflare-ai-challenge-3000-in-prizes-5f99)
-- [How to Think Like A Programmer?](https://dev.to/devteam/how-to-think-like-a-programmer-4436)
-- [Welcome Thread - v270](https://dev.to/devteam/welcome-thread-v270-3cpb)
 <!-- BLOG-POST-LIST:END -->
 
 
