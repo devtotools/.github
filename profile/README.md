@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Share the Love and Earn Some Badges! ❤️](https://dev.to/devteam/share-the-love-and-earn-some-badges-55hf)
+- [Wealthy? Or WELLthy?](https://dev.to/devteam/wealthy-or-wellthy-2h8)
+- [Podcast Palooza— What are you listening to? &lpar;Eclipse Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-eclipse-edition-9ii)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3h7c)
 - [Music Monday — What are you listening to? &lpar;Favorite Album Titles Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-favorite-album-titles-edition-26lg)
 - [Have You Ever Walked Away from A Job Offer?](https://dev.to/devteam/have-you-ever-walked-away-from-a-job-offer-54da)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Networking Connections: Is it Quality or Quantity?](https://dev.to/devteam/networking-connections-is-it-quality-or-quantity-670)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4m8a)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-3de0)
-- [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-5e9b)
-- [What Drives Your Daily Choices?](https://dev.to/devteam/what-drives-your-daily-choices-15lb)
-- [Featured Mod of the Month: Anita Olsen](https://dev.to/devteam/featured-mod-of-the-month-anita-olsen-10jn)
 <!-- BLOG-POST-LIST:END -->
 
 
