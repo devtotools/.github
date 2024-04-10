@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [How Do You Lead without Authority?](https://dev.to/devteam/how-do-you-lead-without-authority-514a)
+- [Welcome Thread - v271](https://dev.to/devteam/welcome-thread-v271-1e8o)
 - [Share the Love and Earn Some Badges! ❤️](https://dev.to/devteam/share-the-love-and-earn-some-badges-55hf)
 - [Wealthy? Or WELLthy?](https://dev.to/devteam/wealthy-or-wellthy-2h8)
 - [Podcast Palooza— What are you listening to? &lpar;Eclipse Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-eclipse-edition-9ii)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Have You Ever Walked Away from A Job Offer?](https://dev.to/devteam/have-you-ever-walked-away-from-a-job-offer-54da)
 - [What Are Your Best Clean Code Tips?](https://dev.to/devteam/what-are-your-best-clean-code-tips-khm)
 - [Networking Connections: Is it Quality or Quantity?](https://dev.to/devteam/networking-connections-is-it-quality-or-quantity-670)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4m8a)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-3de0)
 <!-- BLOG-POST-LIST:END -->
 
 
