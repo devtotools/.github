@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Sloan&#39;s Inbox: How important is understanding backend as a website designer?](https://dev.to/devteam/sloans-inbox-how-important-is-understanding-backend-as-a-website-designer-3l6h)
+- [Are You Ready for These JavaScript Interview Puzzles?](https://dev.to/devteam/are-you-ready-for-these-javascript-interview-puzzles-25k8)
 - [How Do You Lead without Authority?](https://dev.to/devteam/how-do-you-lead-without-authority-514a)
 - [Welcome Thread - v271](https://dev.to/devteam/welcome-thread-v271-1e8o)
 - [Share the Love and Earn Some Badges! ❤️](https://dev.to/devteam/share-the-love-and-earn-some-badges-55hf)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3h7c)
 - [Music Monday — What are you listening to? &lpar;Favorite Album Titles Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-favorite-album-titles-edition-26lg)
 - [Have You Ever Walked Away from A Job Offer?](https://dev.to/devteam/have-you-ever-walked-away-from-a-job-offer-54da)
-- [What Are Your Best Clean Code Tips?](https://dev.to/devteam/what-are-your-best-clean-code-tips-khm)
-- [Networking Connections: Is it Quality or Quantity?](https://dev.to/devteam/networking-connections-is-it-quality-or-quantity-670)
 <!-- BLOG-POST-LIST:END -->
 
 
