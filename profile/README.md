@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-47f5)
+- [How Not to Kill Motivation](https://dev.to/devteam/how-not-to-kill-motivation-k6i)
 - [Sloan&#39;s Inbox: How important is understanding backend as a website designer?](https://dev.to/devteam/sloans-inbox-how-important-is-understanding-backend-as-a-website-designer-3l6h)
 - [Are You Ready for These JavaScript Interview Puzzles?](https://dev.to/devteam/are-you-ready-for-these-javascript-interview-puzzles-25k8)
 - [How Do You Lead without Authority?](https://dev.to/devteam/how-do-you-lead-without-authority-514a)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Wealthy? Or WELLthy?](https://dev.to/devteam/wealthy-or-wellthy-2h8)
 - [Podcast Palooza— What are you listening to? &lpar;Eclipse Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-eclipse-edition-9ii)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3h7c)
-- [Music Monday — What are you listening to? &lpar;Favorite Album Titles Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-favorite-album-titles-edition-26lg)
-- [Have You Ever Walked Away from A Job Offer?](https://dev.to/devteam/have-you-ever-walked-away-from-a-job-offer-54da)
 <!-- BLOG-POST-LIST:END -->
 
 
