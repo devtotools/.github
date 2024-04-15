@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Music Monday — What are you listening to? &lpar;Album Artwork Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-album-artwork-edition-2pna)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-22e0)
+- [Podcast Palooza— What are you listening to? &lpar;Audiobook Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-audiobook-edition-1pf)
+- [How Do You Define &quot;Meaningful Work?&quot;](https://dev.to/devteam/how-do-you-define-meaningful-work-36ha)
 - [Do You Question Life&#39;s Unwritten Rules?](https://dev.to/devteam/do-you-question-lifes-unwritten-rules-a8d)
 - [When Are Layoffs Good?](https://dev.to/devteam/when-are-layoffs-good-38pp)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-44b3)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-p85)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-44b3)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-47f5)
 - [How Not to Kill Motivation](https://dev.to/devteam/how-not-to-kill-motivation-k6i)
-- [Sloan&#39;s Inbox: How important is understanding backend as a website designer?](https://dev.to/devteam/sloans-inbox-how-important-is-understanding-backend-as-a-website-designer-3l6h)
-- [Are You Ready for These JavaScript Interview Puzzles?](https://dev.to/devteam/are-you-ready-for-these-javascript-interview-puzzles-25k8)
-- [How Do You Lead without Authority?](https://dev.to/devteam/how-do-you-lead-without-authority-514a)
-- [Welcome Thread - v271](https://dev.to/devteam/welcome-thread-v271-1e8o)
 <!-- BLOG-POST-LIST:END -->
 
 
