@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Mentor Matching — April 2024 🤝](https://dev.to/devteam/mentor-matching-april-2024-30a2)
+- [Join Us For The Next Frontend Challenge: Earth Day Edition!](https://dev.to/devteam/join-us-for-the-next-frontend-challenge-earth-day-edition-52e4)
+- [Join us for the Coze AI Bot Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-coze-ai-bot-challenge-3000-in-prizes-4dp7)
+- [Do People Even Get Bored Anymore?](https://dev.to/devteam/do-people-even-get-bored-anymore-2949)
+- [Welcome Thread - v272](https://dev.to/devteam/welcome-thread-v272-283o)
 - [Featured Mod of the Month: Phil Ashby](https://dev.to/devteam/featured-mod-of-the-month-phil-ashby-25oc)
 - [Congrats to the Cloudflare AI Challenge Winners!](https://dev.to/devteam/congrats-to-the-cloudflare-ai-challenge-winners-25lm)
 - [Crack the Code: Can Anybody Learn?](https://dev.to/devteam/crack-the-code-can-anybody-learn-4lmf)
 - [Music Monday — What are you listening to? &lpar;Album Artwork Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-album-artwork-edition-2pna)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-22e0)
-- [Podcast Palooza— What are you listening to? &lpar;Audiobook Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-audiobook-edition-1pf)
-- [How Do You Define &quot;Meaningful Work?&quot;](https://dev.to/devteam/how-do-you-define-meaningful-work-36ha)
-- [Do You Question Life&#39;s Unwritten Rules?](https://dev.to/devteam/do-you-question-lifes-unwritten-rules-a8d)
-- [When Are Layoffs Good?](https://dev.to/devteam/when-are-layoffs-good-38pp)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-p85)
 <!-- BLOG-POST-LIST:END -->
 
 
