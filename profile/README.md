@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2l0b)
+- [Is Your Boss Annoying?](https://dev.to/devteam/is-your-boss-annoying-24n5)
 - [Sloan&#39;s Inbox: Pursuing passion or practicality?](https://dev.to/devteam/sloans-inbox-pursuing-passion-or-practicality-2fc7)
 - [When to Hire More Engineers?](https://dev.to/devteam/when-to-hire-more-engineers-1nhm)
 - [Mentor Matching — April 2024 🤝](https://dev.to/devteam/mentor-matching-april-2024-30a2)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Do People Even Get Bored Anymore?](https://dev.to/devteam/do-people-even-get-bored-anymore-2949)
 - [Welcome Thread - v272](https://dev.to/devteam/welcome-thread-v272-283o)
 - [Featured Mod of the Month: Phil Ashby](https://dev.to/devteam/featured-mod-of-the-month-phil-ashby-25oc)
-- [Congrats to the Cloudflare AI Challenge Winners!](https://dev.to/devteam/congrats-to-the-cloudflare-ai-challenge-winners-25lm)
-- [Crack the Code: Can Anybody Learn?](https://dev.to/devteam/crack-the-code-can-anybody-learn-4lmf)
 <!-- BLOG-POST-LIST:END -->
 
 
