@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-244c)
+- [Overthinking: Is It a Curse or a Superpower?](https://dev.to/devteam/overthinking-is-it-a-curse-or-a-superpower-428p)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-51cl)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2l0b)
 - [Is Your Boss Annoying?](https://dev.to/devteam/is-your-boss-annoying-24n5)
 - [Sloan&#39;s Inbox: Pursuing passion or practicality?](https://dev.to/devteam/sloans-inbox-pursuing-passion-or-practicality-2fc7)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Mentor Matching — April 2024 🤝](https://dev.to/devteam/mentor-matching-april-2024-30a2)
 - [Join Us For The Next Frontend Challenge: Earth Day Edition!](https://dev.to/devteam/join-us-for-the-next-frontend-challenge-earth-day-edition-52e4)
 - [Join us for the Coze AI Bot Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-coze-ai-bot-challenge-3000-in-prizes-4dp7)
-- [Do People Even Get Bored Anymore?](https://dev.to/devteam/do-people-even-get-bored-anymore-2949)
-- [Welcome Thread - v272](https://dev.to/devteam/welcome-thread-v272-283o)
-- [Featured Mod of the Month: Phil Ashby](https://dev.to/devteam/featured-mod-of-the-month-phil-ashby-25oc)
 <!-- BLOG-POST-LIST:END -->
 
 
