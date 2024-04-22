@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-55po)
+- [Podcast Palooza— What are you listening to? &lpar;Business Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-business-edition-33jl)
+- [Music Monday — What are you listening to? &lpar;Music Videos Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-music-videos-edition-15g5)
+- [How Are You Celebrating Earth Day? 🌱💧](https://dev.to/devteam/how-are-you-celebrating-earth-day-29aa)
 - [Are You Too Good at Your Job?](https://dev.to/devteam/are-you-too-good-at-your-job-4dkm)
 - [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-244c)
 - [Overthinking: Is It a Curse or a Superpower?](https://dev.to/devteam/overthinking-is-it-a-curse-or-a-superpower-428p)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-51cl)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2l0b)
 - [Is Your Boss Annoying?](https://dev.to/devteam/is-your-boss-annoying-24n5)
-- [Sloan&#39;s Inbox: Pursuing passion or practicality?](https://dev.to/devteam/sloans-inbox-pursuing-passion-or-practicality-2fc7)
-- [When to Hire More Engineers?](https://dev.to/devteam/when-to-hire-more-engineers-1nhm)
-- [Mentor Matching — April 2024 🤝](https://dev.to/devteam/mentor-matching-april-2024-30a2)
-- [Join Us For The Next Frontend Challenge: Earth Day Edition!](https://dev.to/devteam/join-us-for-the-next-frontend-challenge-earth-day-edition-52e4)
 <!-- BLOG-POST-LIST:END -->
 
 
