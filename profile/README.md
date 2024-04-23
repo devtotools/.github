@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s the Best Question to Ask in a Meeting?](https://dev.to/devteam/whats-the-best-question-to-ask-in-a-meeting-4fm5)
+- [Are You Surviving the Software Rollercoaster?](https://dev.to/devteam/are-you-surviving-the-software-rollercoaster-19n2)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-55po)
 - [Podcast Palooza— What are you listening to? &lpar;Business Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-business-edition-33jl)
 - [Music Monday — What are you listening to? &lpar;Music Videos Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-music-videos-edition-15g5)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-244c)
 - [Overthinking: Is It a Curse or a Superpower?](https://dev.to/devteam/overthinking-is-it-a-curse-or-a-superpower-428p)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-51cl)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2l0b)
-- [Is Your Boss Annoying?](https://dev.to/devteam/is-your-boss-annoying-24n5)
 <!-- BLOG-POST-LIST:END -->
 
 
