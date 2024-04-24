@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Are Morning Routines Overrated?](https://dev.to/devteam/are-morning-routines-overrated-427k)
+- [Welcome Thread - v273](https://dev.to/devteam/welcome-thread-v273-5djj)
 - [What&#39;s the Best Question to Ask in a Meeting?](https://dev.to/devteam/whats-the-best-question-to-ask-in-a-meeting-4fm5)
 - [Are You Surviving the Software Rollercoaster?](https://dev.to/devteam/are-you-surviving-the-software-rollercoaster-19n2)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-55po)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [How Are You Celebrating Earth Day? 🌱💧](https://dev.to/devteam/how-are-you-celebrating-earth-day-29aa)
 - [Are You Too Good at Your Job?](https://dev.to/devteam/are-you-too-good-at-your-job-4dkm)
 - [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-244c)
-- [Overthinking: Is It a Curse or a Superpower?](https://dev.to/devteam/overthinking-is-it-a-curse-or-a-superpower-428p)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-51cl)
 <!-- BLOG-POST-LIST:END -->
 
 
