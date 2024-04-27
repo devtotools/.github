@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-2ipc)
+- [What Are Your C# Strategies?](https://dev.to/devteam/what-are-your-c-strategies-41o2)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-k97)
 - [Are You An Expert?](https://dev.to/devteam/are-you-an-expert-4hpi)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2h56)
 - [Is Comparison the Thief of Joy?](https://dev.to/devteam/is-comparison-the-thief-of-joy-h6f)
 - [Sloan&#39;s Inbox: How to Approach Beginners Writing On Worn-Out Topics?](https://dev.to/devteam/sloans-inbox-how-to-approach-beginners-writing-on-worn-out-topics-ik9)
 - [Are Morning Routines Overrated?](https://dev.to/devteam/are-morning-routines-overrated-427k)
 - [Welcome Thread - v273](https://dev.to/devteam/welcome-thread-v273-5djj)
-- [What&#39;s the Best Question to Ask in a Meeting?](https://dev.to/devteam/whats-the-best-question-to-ask-in-a-meeting-4fm5)
 - [Are You Surviving the Software Rollercoaster?](https://dev.to/devteam/are-you-surviving-the-software-rollercoaster-19n2)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-55po)
-- [Podcast Palooza— What are you listening to? &lpar;Business Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-business-edition-33jl)
 <!-- BLOG-POST-LIST:END -->
 
 
