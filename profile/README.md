@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Do You Procrastinate?](https://dev.to/devteam/do-you-procrastinate-5bio)
 - [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-2ipc)
 - [What Are Your C# Strategies?](https://dev.to/devteam/what-are-your-c-strategies-41o2)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-k97)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Sloan&#39;s Inbox: How to Approach Beginners Writing On Worn-Out Topics?](https://dev.to/devteam/sloans-inbox-how-to-approach-beginners-writing-on-worn-out-topics-ik9)
 - [Are Morning Routines Overrated?](https://dev.to/devteam/are-morning-routines-overrated-427k)
 - [Welcome Thread - v273](https://dev.to/devteam/welcome-thread-v273-5djj)
-- [Are You Surviving the Software Rollercoaster?](https://dev.to/devteam/are-you-surviving-the-software-rollercoaster-19n2)
 <!-- BLOG-POST-LIST:END -->
 
 
