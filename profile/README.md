@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Congrats to the winners of the Frontend Challenge: Earth Day Edition!](https://dev.to/devteam/congrats-to-the-winners-of-the-frontend-challenge-earth-day-edition-4gd7)
+- [How Do You &lpar;Unconventionally&rpar; Use ChatGPT?](https://dev.to/devteam/how-do-you-unconventionally-use-chatgpt-3c7g)
+- [Podcast Palooza— What are you listening to? &lpar;YouTube Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-youtube-edition-3p9a)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-79a)
 - [Music Monday — What are you listening to? &lpar;Year-of-your-birth Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-year-of-your-birth-edition-4kff)
 - [Lesser Known Features of DEV — Embeds!](https://dev.to/devteam/lesser-known-features-of-dev-embeds-3bpn)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Do You Procrastinate?](https://dev.to/devteam/do-you-procrastinate-5bio)
 - [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-2ipc)
 - [What Are Your C# Strategies?](https://dev.to/devteam/what-are-your-c-strategies-41o2)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-k97)
-- [Are You An Expert?](https://dev.to/devteam/are-you-an-expert-4hpi)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2h56)
 <!-- BLOG-POST-LIST:END -->
 
 
