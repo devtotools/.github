@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Featured Org of the Month: Green Software Foundation](https://dev.to/devteam/featured-org-of-the-month-green-software-foundation-41a3)
+- [Join us for the Netlify Dynamic Site Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-netlify-dynamic-site-challenge-3000-in-prizes-3mfn)
+- [What&#39;s Your One Thing?](https://dev.to/devteam/whats-your-one-thing-4g7f)
+- [Welcome Thread - v274](https://dev.to/devteam/welcome-thread-v274-552d)
+- [Congrats to the Coze AI Bot Challenge Winners!](https://dev.to/devteam/congrats-to-the-coze-ai-bot-challenge-winners-1n3l)
 - [Congrats to the winners of the Frontend Challenge: Earth Day Edition!](https://dev.to/devteam/congrats-to-the-winners-of-the-frontend-challenge-earth-day-edition-4gd7)
 - [How Do You &lpar;Unconventionally&rpar; Use ChatGPT?](https://dev.to/devteam/how-do-you-unconventionally-use-chatgpt-3c7g)
 - [Podcast Palooza— What are you listening to? &lpar;YouTube Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-youtube-edition-3p9a)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-79a)
 - [Music Monday — What are you listening to? &lpar;Year-of-your-birth Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-year-of-your-birth-edition-4kff)
-- [Lesser Known Features of DEV — Embeds!](https://dev.to/devteam/lesser-known-features-of-dev-embeds-3bpn)
-- [Who Needs Coffee When You&#39;ve Got...?](https://dev.to/devteam/who-needs-coffee-when-youve-got-4nh2)
-- [Do You Procrastinate?](https://dev.to/devteam/do-you-procrastinate-5bio)
-- [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-2ipc)
-- [What Are Your C# Strategies?](https://dev.to/devteam/what-are-your-c-strategies-41o2)
 <!-- BLOG-POST-LIST:END -->
 
 
