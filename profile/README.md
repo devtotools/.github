@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Sloan&#39;s Inbox: How Do I Achieve a Four-Day Work Week?](https://dev.to/devteam/sloans-inbox-how-do-i-achieve-a-four-day-work-week-3jeo)
+- [Do You Fear Code Changes? 😱](https://dev.to/devteam/do-you-fear-code-changes-210c)
 - [Featured Org of the Month: Green Software Foundation](https://dev.to/devteam/featured-org-of-the-month-green-software-foundation-41a3)
 - [Join us for the Netlify Dynamic Site Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-netlify-dynamic-site-challenge-3000-in-prizes-3mfn)
 - [What&#39;s Your One Thing?](https://dev.to/devteam/whats-your-one-thing-4g7f)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Congrats to the winners of the Frontend Challenge: Earth Day Edition!](https://dev.to/devteam/congrats-to-the-winners-of-the-frontend-challenge-earth-day-edition-4gd7)
 - [How Do You &lpar;Unconventionally&rpar; Use ChatGPT?](https://dev.to/devteam/how-do-you-unconventionally-use-chatgpt-3c7g)
 - [Podcast Palooza— What are you listening to? &lpar;YouTube Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-youtube-edition-3p9a)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-79a)
-- [Music Monday — What are you listening to? &lpar;Year-of-your-birth Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-year-of-your-birth-edition-4kff)
 <!-- BLOG-POST-LIST:END -->
 
 
