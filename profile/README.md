@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Any Favorite Hiking Escapes for Code Breaks?](https://dev.to/devteam/any-favorite-hiking-escapes-for-code-breaks-1f5p)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-280o)
+- [🌌 May The Fourth Be With You! ⚔️ 🌠](https://dev.to/devteam/may-the-fourth-be-with-you-43p7)
 - [Sloan&#39;s Inbox: How Do I Achieve a Four-Day Work Week?](https://dev.to/devteam/sloans-inbox-how-do-i-achieve-a-four-day-work-week-3jeo)
 - [Do You Fear Code Changes? 😱](https://dev.to/devteam/do-you-fear-code-changes-210c)
 - [Featured Org of the Month: Green Software Foundation](https://dev.to/devteam/featured-org-of-the-month-green-software-foundation-41a3)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What&#39;s Your One Thing?](https://dev.to/devteam/whats-your-one-thing-4g7f)
 - [Welcome Thread - v274](https://dev.to/devteam/welcome-thread-v274-552d)
 - [Congrats to the Coze AI Bot Challenge Winners!](https://dev.to/devteam/congrats-to-the-coze-ai-bot-challenge-winners-1n3l)
-- [Congrats to the winners of the Frontend Challenge: Earth Day Edition!](https://dev.to/devteam/congrats-to-the-winners-of-the-frontend-challenge-earth-day-edition-4gd7)
-- [How Do You &lpar;Unconventionally&rpar; Use ChatGPT?](https://dev.to/devteam/how-do-you-unconventionally-use-chatgpt-3c7g)
-- [Podcast Palooza— What are you listening to? &lpar;YouTube Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-youtube-edition-3p9a)
 <!-- BLOG-POST-LIST:END -->
 
 
