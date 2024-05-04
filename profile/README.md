@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-1ca9)
+- [Caption This! &lpar;Star Wars Edition&rpar; 🌌](https://dev.to/devteam/caption-this-star-wars-edition-3bb5)
+- [Spill the Space Tea on Your Star Wars Faves 🌌🍵](https://dev.to/devteam/spill-the-space-tea-on-your-star-wars-faves-7fi)
 - [Any Favorite Hiking Escapes for Code Breaks?](https://dev.to/devteam/any-favorite-hiking-escapes-for-code-breaks-1f5p)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-280o)
 - [🌌 May The Fourth Be With You! ⚔️ 🌠](https://dev.to/devteam/may-the-fourth-be-with-you-43p7)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Do You Fear Code Changes? 😱](https://dev.to/devteam/do-you-fear-code-changes-210c)
 - [Featured Org of the Month: Green Software Foundation](https://dev.to/devteam/featured-org-of-the-month-green-software-foundation-41a3)
 - [Join us for the Netlify Dynamic Site Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-netlify-dynamic-site-challenge-3000-in-prizes-3mfn)
-- [What&#39;s Your One Thing?](https://dev.to/devteam/whats-your-one-thing-4g7f)
-- [Welcome Thread - v274](https://dev.to/devteam/welcome-thread-v274-552d)
-- [Congrats to the Coze AI Bot Challenge Winners!](https://dev.to/devteam/congrats-to-the-coze-ai-bot-challenge-winners-1n3l)
 <!-- BLOG-POST-LIST:END -->
 
 
