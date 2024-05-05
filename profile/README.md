@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What Guided Your DEV Path?](https://dev.to/devteam/what-guided-your-dev-path-4h9o)
 - [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-1ca9)
 - [Caption This! &lpar;Star Wars Edition&rpar; 🌌](https://dev.to/devteam/caption-this-star-wars-edition-3bb5)
 - [Spill the Space Tea on Your Star Wars Faves 🌌🍵](https://dev.to/devteam/spill-the-space-tea-on-your-star-wars-faves-7fi)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Sloan&#39;s Inbox: How Do I Achieve a Four-Day Work Week?](https://dev.to/devteam/sloans-inbox-how-do-i-achieve-a-four-day-work-week-3jeo)
 - [Do You Fear Code Changes? 😱](https://dev.to/devteam/do-you-fear-code-changes-210c)
 - [Featured Org of the Month: Green Software Foundation](https://dev.to/devteam/featured-org-of-the-month-green-software-foundation-41a3)
-- [Join us for the Netlify Dynamic Site Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-netlify-dynamic-site-challenge-3000-in-prizes-3mfn)
 <!-- BLOG-POST-LIST:END -->
 
 
