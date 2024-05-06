@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2nek)
+- [Music Monday — What are you listening to? &lpar;Best Interpolation Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-best-interpolation-edition-5nc)
+- [Your Daily Challenge: What&#39;s the Scary Thing for Today?](https://dev.to/devteam/your-daily-challenge-whats-the-scary-thing-for-today-461i)
 - [What Guided Your DEV Path?](https://dev.to/devteam/what-guided-your-dev-path-4h9o)
 - [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-1ca9)
 - [Caption This! &lpar;Star Wars Edition&rpar; 🌌](https://dev.to/devteam/caption-this-star-wars-edition-3bb5)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Any Favorite Hiking Escapes for Code Breaks?](https://dev.to/devteam/any-favorite-hiking-escapes-for-code-breaks-1f5p)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-280o)
 - [🌌 May The Fourth Be With You! ⚔️ 🌠](https://dev.to/devteam/may-the-fourth-be-with-you-43p7)
-- [Sloan&#39;s Inbox: How Do I Achieve a Four-Day Work Week?](https://dev.to/devteam/sloans-inbox-how-do-i-achieve-a-four-day-work-week-3jeo)
-- [Do You Fear Code Changes? 😱](https://dev.to/devteam/do-you-fear-code-changes-210c)
-- [Featured Org of the Month: Green Software Foundation](https://dev.to/devteam/featured-org-of-the-month-green-software-foundation-41a3)
 <!-- BLOG-POST-LIST:END -->
 
 
