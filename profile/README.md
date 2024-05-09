@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Sloan&#39;s Inbox: Will I Ever Feel Like I Know This Stuff?](https://dev.to/devteam/sloans-inbox-will-i-ever-feel-like-i-know-this-stuff-22dj)
+- [Does Personality Boost ChatGPT Interactions?](https://dev.to/devteam/does-personality-boost-chatgpt-interactions-135n)
 - [Do Night Owls Code Better?](https://dev.to/devteam/do-night-owls-code-better-4ddj)
 - [Welcome Thread - v275](https://dev.to/devteam/welcome-thread-v275-5a9f)
 - [Podcast Palooza— What are you listening to? &lpar;Parenting + Doomsday Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-parenting-doomsday-edition-3eg)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2nek)
 - [Music Monday — What are you listening to? &lpar;Best Interpolation Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-best-interpolation-edition-5nc)
 - [Your Daily Challenge: What&#39;s the Scary Thing for Today?](https://dev.to/devteam/your-daily-challenge-whats-the-scary-thing-for-today-461i)
-- [What Guided Your DEV Path?](https://dev.to/devteam/what-guided-your-dev-path-4h9o)
-- [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-1ca9)
 <!-- BLOG-POST-LIST:END -->
 
 
