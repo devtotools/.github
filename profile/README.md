@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week? 🙌](https://dev.to/devteam/what-was-your-win-this-week-4hnp)
+- [Making It Work vs. Making It Perfect?](https://dev.to/devteam/making-it-work-vs-making-it-perfect-212b)
 - [Sloan&#39;s Inbox: Will I Ever Feel Like I Know This Stuff?](https://dev.to/devteam/sloans-inbox-will-i-ever-feel-like-i-know-this-stuff-22dj)
 - [Does Personality Boost ChatGPT Interactions?](https://dev.to/devteam/does-personality-boost-chatgpt-interactions-135n)
 - [Do Night Owls Code Better?](https://dev.to/devteam/do-night-owls-code-better-4ddj)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Let’s Get Dynamic! Ideas for the Netlify Dynamic Site Challenge](https://dev.to/devteam/lets-get-dynamic-ideas-for-the-netlify-dynamic-site-challenge-5d4a)
 - [Have You Ever Stepped Back to Move Forward?](https://dev.to/devteam/have-you-ever-stepped-back-to-move-forward-45j4)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2nek)
-- [Music Monday — What are you listening to? &lpar;Best Interpolation Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-best-interpolation-edition-5nc)
-- [Your Daily Challenge: What&#39;s the Scary Thing for Today?](https://dev.to/devteam/your-daily-challenge-whats-the-scary-thing-for-today-461i)
 <!-- BLOG-POST-LIST:END -->
 
 
