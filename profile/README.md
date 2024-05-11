@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-2nfd)
+- [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-1nn8)
+- [Toxic Workplaces: When Is Enough Enough?](https://dev.to/devteam/toxic-workplaces-when-is-enough-enough-3cm)
 - [What was your win this week? 🙌](https://dev.to/devteam/what-was-your-win-this-week-4hnp)
 - [Making It Work vs. Making It Perfect?](https://dev.to/devteam/making-it-work-vs-making-it-perfect-212b)
 - [Sloan&#39;s Inbox: Will I Ever Feel Like I Know This Stuff?](https://dev.to/devteam/sloans-inbox-will-i-ever-feel-like-i-know-this-stuff-22dj)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Do Night Owls Code Better?](https://dev.to/devteam/do-night-owls-code-better-4ddj)
 - [Welcome Thread - v275](https://dev.to/devteam/welcome-thread-v275-5a9f)
 - [Podcast Palooza— What are you listening to? &lpar;Parenting + Doomsday Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-parenting-doomsday-edition-3eg)
-- [Let’s Get Dynamic! Ideas for the Netlify Dynamic Site Challenge](https://dev.to/devteam/lets-get-dynamic-ideas-for-the-netlify-dynamic-site-challenge-5d4a)
-- [Have You Ever Stepped Back to Move Forward?](https://dev.to/devteam/have-you-ever-stepped-back-to-move-forward-45j4)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2nek)
 <!-- BLOG-POST-LIST:END -->
 
 
