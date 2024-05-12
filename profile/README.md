@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Do You Meditate? 🧘‍♂️](https://dev.to/devteam/do-you-meditate-2b6e)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-2nfd)
 - [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-1nn8)
 - [Toxic Workplaces: When Is Enough Enough?](https://dev.to/devteam/toxic-workplaces-when-is-enough-enough-3cm)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Does Personality Boost ChatGPT Interactions?](https://dev.to/devteam/does-personality-boost-chatgpt-interactions-135n)
 - [Do Night Owls Code Better?](https://dev.to/devteam/do-night-owls-code-better-4ddj)
 - [Welcome Thread - v275](https://dev.to/devteam/welcome-thread-v275-5a9f)
-- [Podcast Palooza— What are you listening to? &lpar;Parenting + Doomsday Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-parenting-doomsday-edition-3eg)
 <!-- BLOG-POST-LIST:END -->
 
 
