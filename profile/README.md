@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Congrats to the Netlify Dynamic Site Challenge Winners!](https://dev.to/devteam/congrats-to-the-netlify-dynamic-site-challenge-winners-4of3)
+- [Mentor Matching — May 2024 🤝](https://dev.to/devteam/mentor-matching-may-2024-115g)
+- [Have You Settled for &quot;Good Enough&quot; in Your Career?](https://dev.to/devteam/have-you-settled-for-good-enough-in-your-career-20ff)
+- [Podcast Palooza— What are you listening to? &lpar;Music Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-music-edition-325k)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-7k7)
 - [Music Monday — What are you listening to? &lpar;Storytelling Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-storytelling-edition-4pf)
 - [Do Hard Habits Pay Off?](https://dev.to/devteam/do-hard-habits-pay-off-2cjh)
 - [Do You Meditate? 🧘‍♂️](https://dev.to/devteam/do-you-meditate-2b6e)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-2nfd)
 - [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-1nn8)
-- [Toxic Workplaces: When Is Enough Enough?](https://dev.to/devteam/toxic-workplaces-when-is-enough-enough-3cm)
-- [What was your win this week? 🙌](https://dev.to/devteam/what-was-your-win-this-week-4hnp)
-- [Making It Work vs. Making It Perfect?](https://dev.to/devteam/making-it-work-vs-making-it-perfect-212b)
-- [Sloan&#39;s Inbox: Will I Ever Feel Like I Know This Stuff?](https://dev.to/devteam/sloans-inbox-will-i-ever-feel-like-i-know-this-stuff-22dj)
 <!-- BLOG-POST-LIST:END -->
 
 
