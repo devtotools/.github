@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Join us for the The AWS Amplify Fullstack TypeScript Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-the-aws-amplify-fullstack-typescript-challenge-3000-in-prizes-ghm)
+- [Mental Burnout: Can We Beat It?](https://dev.to/devteam/mental-burnout-can-we-beat-it-2k2o)
+- [Welcome Thread - v276](https://dev.to/devteam/welcome-thread-v276-4mok)
 - [Congrats to the Netlify Dynamic Site Challenge Winners!](https://dev.to/devteam/congrats-to-the-netlify-dynamic-site-challenge-winners-4of3)
 - [Mentor Matching — May 2024 🤝](https://dev.to/devteam/mentor-matching-may-2024-115g)
 - [Have You Settled for &quot;Good Enough&quot; in Your Career?](https://dev.to/devteam/have-you-settled-for-good-enough-in-your-career-20ff)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-7k7)
 - [Music Monday — What are you listening to? &lpar;Storytelling Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-storytelling-edition-4pf)
 - [Do Hard Habits Pay Off?](https://dev.to/devteam/do-hard-habits-pay-off-2cjh)
-- [Do You Meditate? 🧘‍♂️](https://dev.to/devteam/do-you-meditate-2b6e)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-2nfd)
-- [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-1nn8)
 <!-- BLOG-POST-LIST:END -->
 
 
