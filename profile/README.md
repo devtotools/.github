@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Sloan&#39;s Inbox: Can I make a career off of WordPress? Should I?](https://dev.to/devteam/sloans-inbox-why-does-folks-often-disrespect-wordpress-4iim)
+- [Is Life without Screens Possible?](https://dev.to/devteam/is-life-without-screens-possible-5fb1)
 - [Join us for the The AWS Amplify Fullstack TypeScript Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-the-aws-amplify-fullstack-typescript-challenge-3000-in-prizes-ghm)
 - [Mental Burnout: Can We Beat It?](https://dev.to/devteam/mental-burnout-can-we-beat-it-2k2o)
 - [Welcome Thread - v276](https://dev.to/devteam/welcome-thread-v276-4mok)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Have You Settled for &quot;Good Enough&quot; in Your Career?](https://dev.to/devteam/have-you-settled-for-good-enough-in-your-career-20ff)
 - [Podcast Palooza— What are you listening to? &lpar;Music Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-music-edition-325k)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-7k7)
-- [Music Monday — What are you listening to? &lpar;Storytelling Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-storytelling-edition-4pf)
-- [Do Hard Habits Pay Off?](https://dev.to/devteam/do-hard-habits-pay-off-2cjh)
 <!-- BLOG-POST-LIST:END -->
 
 
