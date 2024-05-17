@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [DEV Team Update](https://dev.to/devteam/dev-team-update-2age)
+- [What was your win this week? 🙌](https://dev.to/devteam/what-was-your-win-this-week-5gdf)
 - [Sloan&#39;s Inbox: Can I make a career off of WordPress? Should I?](https://dev.to/devteam/sloans-inbox-why-does-folks-often-disrespect-wordpress-4iim)
 - [Is Life without Screens Possible?](https://dev.to/devteam/is-life-without-screens-possible-5fb1)
 - [Join us for the The AWS Amplify Fullstack TypeScript Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-the-aws-amplify-fullstack-typescript-challenge-3000-in-prizes-ghm)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Congrats to the Netlify Dynamic Site Challenge Winners!](https://dev.to/devteam/congrats-to-the-netlify-dynamic-site-challenge-winners-4of3)
 - [Mentor Matching — May 2024 🤝](https://dev.to/devteam/mentor-matching-may-2024-115g)
 - [Have You Settled for &quot;Good Enough&quot; in Your Career?](https://dev.to/devteam/have-you-settled-for-good-enough-in-your-career-20ff)
-- [Podcast Palooza— What are you listening to? &lpar;Music Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-music-edition-325k)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-7k7)
 <!-- BLOG-POST-LIST:END -->
 
 
