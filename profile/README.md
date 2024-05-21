@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5c87)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-fm9)
 - [DEV Team Update](https://dev.to/devteam/dev-team-update-2age)
 - [What was your win this week? 🙌](https://dev.to/devteam/what-was-your-win-this-week-5gdf)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Mental Burnout: Can We Beat It?](https://dev.to/devteam/mental-burnout-can-we-beat-it-2k2o)
 - [Welcome Thread - v276](https://dev.to/devteam/welcome-thread-v276-4mok)
 - [Congrats to the Netlify Dynamic Site Challenge Winners!](https://dev.to/devteam/congrats-to-the-netlify-dynamic-site-challenge-winners-4of3)
-- [Mentor Matching — May 2024 🤝](https://dev.to/devteam/mentor-matching-may-2024-115g)
 <!-- BLOG-POST-LIST:END -->
 
 
