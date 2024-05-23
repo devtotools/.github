@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Sloan&#39;s Inbox: Any advice for avoiding burnout?](https://dev.to/devteam/sloans-inbox-ways-to-avoid-burnout-2k49)
 - [Welcome Thread - v277](https://dev.to/devteam/welcome-thread-v277-31ho)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5c87)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-fm9)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Is Life without Screens Possible?](https://dev.to/devteam/is-life-without-screens-possible-5fb1)
 - [Join us for the The AWS Amplify Fullstack TypeScript Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-the-aws-amplify-fullstack-typescript-challenge-3000-in-prizes-ghm)
 - [Mental Burnout: Can We Beat It?](https://dev.to/devteam/mental-burnout-can-we-beat-it-2k2o)
-- [Welcome Thread - v276](https://dev.to/devteam/welcome-thread-v276-4mok)
 <!-- BLOG-POST-LIST:END -->
 
 
