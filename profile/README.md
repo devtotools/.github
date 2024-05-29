@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Join us for the next Frontend Challenge: June Edition](https://dev.to/devteam/join-us-for-the-next-frontend-challenge-june-edition-3ngl)
+- [Welcome Thread - v278](https://dev.to/devteam/welcome-thread-v278-2jha)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-160j)
 - [Congrats to the The AWS Amplify Fullstack TypeScript Challenge Winners!](https://dev.to/devteam/congrats-to-the-the-aws-amplify-fullstack-typescript-challenge-winners-1l37)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-3pa6)
 - [Sloan&#39;s Inbox: Any advice for avoiding burnout?](https://dev.to/devteam/sloans-inbox-ways-to-avoid-burnout-2k49)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5c87)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-fm9)
 - [DEV Team Update](https://dev.to/devteam/dev-team-update-2age)
-- [What was your win this week? 🙌](https://dev.to/devteam/what-was-your-win-this-week-5gdf)
-- [Sloan&#39;s Inbox: Can I make a career off of WordPress? Should I?](https://dev.to/devteam/sloans-inbox-why-does-folks-often-disrespect-wordpress-4iim)
-- [Is Life without Screens Possible?](https://dev.to/devteam/is-life-without-screens-possible-5fb1)
 <!-- BLOG-POST-LIST:END -->
 
 
