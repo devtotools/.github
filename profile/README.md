@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3jj5)
+- [Congrats to the Twilio Challenge Winners!](https://dev.to/devteam/congrats-to-the-twilio-challenge-winners-2b1n)
+- [Congrats to our first Computer Science Challenge Winners!](https://dev.to/devteam/congrats-to-our-first-computer-science-challenge-winners-2mg2)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-mj)
 - [Welcome Thread - v281](https://dev.to/devteam/welcome-thread-v281-5fc7)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1368)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Introducing Our First Computer Science Challenge!](https://dev.to/devteam/introducing-our-first-computer-science-challenge-hp2)
 - [Join us for the Twilio Challenge: $5,000 in Prizes!](https://dev.to/devteam/join-us-for-the-twilio-challenge-5000-in-prizes-4fdi)
 - [Welcome Thread - v280](https://dev.to/devteam/welcome-thread-v280-1mmp)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3dk1)
-- [Congrats to the Frontend Challenge: June Edition Winners!](https://dev.to/devteam/congrats-to-the-frontend-challenge-june-edition-winners-26kd)
-- [What was your win this week? 🙌](https://dev.to/devteam/what-was-your-win-this-week-5ep8)
 <!-- BLOG-POST-LIST:END -->
 
 
