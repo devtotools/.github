@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Join Us For The First Community Smart Contract Challenge With $50,000 In Prizes!](https://dev.to/devteam/join-us-for-the-first-community-smart-contract-challenge-with-50000-in-prizes-41gl)
+- [Welcome Thread - v284](https://dev.to/devteam/welcome-thread-v284-46df)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2ko2)
 - [Deadline Extended for the Wix Studio Challenge](https://dev.to/devteam/deadline-extended-for-the-wix-studio-challenge-2c7f)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-99h)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-71j)
 - [Join us for the Wix Studio Challenge with Special Guest Judge Ania Kubów: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-wix-studio-challenge-with-special-guest-judge-ania-kubow-3000-in-prizes-3ial)
 - [Welcome Thread - v282](https://dev.to/devteam/welcome-thread-v282-1ca9)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3jj5)
-- [Congrats to the Twilio Challenge Winners!](https://dev.to/devteam/congrats-to-the-twilio-challenge-winners-2b1n)
 <!-- BLOG-POST-LIST:END -->
 
 
