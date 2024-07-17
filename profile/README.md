@@ -18,7 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
-- [Congrats to the Wix Studio Challenge Winners!](https://dev.to/devteam/congrats-to-the-wix-studio-challenge-winners-1d23)
+- [Welcome Thread - v285](https://dev.to/devteam/welcome-thread-v285-3ddb)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-k38)
+- [Congrats to the Wix Studio Challenge Winner!](https://dev.to/devteam/congrats-to-the-wix-studio-challenge-winners-1d23)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2gej)
 - [Join Us For The First Community Smart Contract Challenge With $50,000 In Prizes!](https://dev.to/devteam/join-us-for-the-first-community-smart-contract-challenge-with-50000-in-prizes-41gl)
 - [Welcome Thread - v284](https://dev.to/devteam/welcome-thread-v284-46df)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Deadline Extended for the Wix Studio Challenge](https://dev.to/devteam/deadline-extended-for-the-wix-studio-challenge-2c7f)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-99h)
 - [Welcome Thread - v283](https://dev.to/devteam/welcome-thread-v283-g1a)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2cfe)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-71j)
 <!-- BLOG-POST-LIST:END -->
 
 
