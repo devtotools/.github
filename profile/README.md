@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2751)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-33jf)
 - [Join us for the next Frontend Challenge: Recreation Edition](https://dev.to/devteam/join-us-for-the-next-frontend-challenge-recreation-edition-222n)
 - [Welcome Thread - v286](https://dev.to/devteam/welcome-thread-v286-3kl3)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-k38)
 - [Congrats to the Wix Studio Challenge Winner!](https://dev.to/devteam/congrats-to-the-wix-studio-challenge-winners-1d23)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2gej)
-- [Join Us For The First Community Smart Contract Challenge With $50,000 In Prizes!](https://dev.to/devteam/join-us-for-the-first-community-smart-contract-challenge-with-50000-in-prizes-41gl)
 <!-- BLOG-POST-LIST:END -->
 
 
