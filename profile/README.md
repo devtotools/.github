@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Congrats to the Frontend Challenge: Recreation Edition Winners!](https://dev.to/devteam/congrats-to-the-frontend-challenge-recreation-edition-winners-18lj)
+- [Top 8 &lpar;!&rpar; Featured DEV Posts of the Week](https://dev.to/devteam/top-8-featured-dev-posts-of-the-week-48p)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4c96)
 - [Welcome Thread - v287](https://dev.to/devteam/welcome-thread-v287-91p)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2751)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Welcome Thread - v286](https://dev.to/devteam/welcome-thread-v286-3kl3)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-pol)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-3cke)
-- [Welcome Thread - v285](https://dev.to/devteam/welcome-thread-v285-3ddb)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-k38)
 <!-- BLOG-POST-LIST:END -->
 
 
