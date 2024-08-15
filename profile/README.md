@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Deadline Extended for the Nylas AI and Communications Challenge](https://dev.to/devteam/deadline-extended-for-the-nylas-ai-and-communications-challenge-3h1j)
+- [The Fight Against Low-Quality Automation](https://dev.to/devteam/the-fight-against-low-quality-automation-3p7f)
 - [DEV Search: 20x Latency Reduction By Layering Algolia On Top of Postgres](https://dev.to/devteam/dev-search-20x-latency-reduction-by-layering-algolia-on-top-of-postgres-3845)
 - [Welcome Thread - v289](https://dev.to/devteam/welcome-thread-v289-2ep7)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3hng)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Join us for the Nylas AI and Communications Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-nylas-ai-and-communications-challenge-3000-in-prizes-3dnm)
 - [Welcome Thread - v288](https://dev.to/devteam/welcome-thread-v288-2mo)
 - [Congrats to the Frontend Challenge: Recreation Edition Winners!](https://dev.to/devteam/congrats-to-the-frontend-challenge-recreation-edition-winners-18lj)
-- [Top 8 &lpar;!&rpar; Featured DEV Posts of the Week](https://dev.to/devteam/top-8-featured-dev-posts-of-the-week-48p)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4c96)
 <!-- BLOG-POST-LIST:END -->
 
 
