@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Join us for the Neon Open Source Starter Kit Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-neon-open-source-starter-kit-challenge-3000-in-prizes-3oe2)
+- [Welcome Thread - v290](https://dev.to/devteam/welcome-thread-v290-g2k)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-k9b)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-41l0)
 - [Deadline Extended for the Nylas AI and Communications Challenge](https://dev.to/devteam/deadline-extended-for-the-nylas-ai-and-communications-challenge-3h1j)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Welcome Thread - v289](https://dev.to/devteam/welcome-thread-v289-2ep7)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3hng)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1pma)
-- [We just launched DEV Challenges on product hunt](https://dev.to/devteam/we-just-launched-dev-challenges-on-product-hunt-1bo3)
-- [Join us for the Nylas AI and Communications Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-nylas-ai-and-communications-challenge-3000-in-prizes-3dnm)
 <!-- BLOG-POST-LIST:END -->
 
 
