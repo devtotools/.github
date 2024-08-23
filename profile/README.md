@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4hil)
 - [Join us for the Neon Open Source Starter Kit Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-neon-open-source-starter-kit-challenge-3000-in-prizes-3oe2)
 - [Welcome Thread - v290](https://dev.to/devteam/welcome-thread-v290-g2k)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-k9b)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [DEV Search: 20x Latency Reduction By Layering Algolia On Top of Postgres](https://dev.to/devteam/dev-search-20x-latency-reduction-by-layering-algolia-on-top-of-postgres-3845)
 - [Welcome Thread - v289](https://dev.to/devteam/welcome-thread-v289-2ep7)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3hng)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1pma)
 <!-- BLOG-POST-LIST:END -->
 
 
