@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4do6)
 - [Introducing DEV++](https://dev.to/devteam/introducing-dev-2k6d)
 - [Welcome Thread - v291](https://dev.to/devteam/welcome-thread-v291-1fmj)
 - [Congrats to the Build Better on Stellar: Smart Contract Challenge Winners!](https://dev.to/devteam/congrats-to-the-build-better-on-stellar-smart-contract-challenge-winners-5h9m)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Welcome Thread - v290](https://dev.to/devteam/welcome-thread-v290-g2k)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-k9b)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-41l0)
-- [Deadline Extended for the Nylas AI and Communications Challenge](https://dev.to/devteam/deadline-extended-for-the-nylas-ai-and-communications-challenge-3h1j)
 <!-- BLOG-POST-LIST:END -->
 
 
