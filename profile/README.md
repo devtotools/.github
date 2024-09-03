@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Congrats to the Nylas Challenge Winners!](https://dev.to/devteam/congrats-to-the-nylas-challenge-winners-2kic)
+- [Congrats to the Neon Open Source Starter Kit Challenge Winners!](https://dev.to/devteam/congrats-to-the-neon-open-source-starter-kit-challenge-winners-247p)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3co9)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4do6)
 - [Introducing DEV++](https://dev.to/devteam/introducing-dev-2k6d)
 - [Welcome Thread - v291](https://dev.to/devteam/welcome-thread-v291-1fmj)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2fm4)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4hil)
 - [Join us for the Neon Open Source Starter Kit Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-neon-open-source-starter-kit-challenge-3000-in-prizes-3oe2)
-- [Welcome Thread - v290](https://dev.to/devteam/welcome-thread-v290-g2k)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-k9b)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-41l0)
 <!-- BLOG-POST-LIST:END -->
 
 
