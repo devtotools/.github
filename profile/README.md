@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Join us for the next Frontend Challenge: Space Edition 👾🪐👽](https://dev.to/devteam/join-us-for-the-next-frontend-challenge-space-edition-2d9g)
+- [Welcome Thread - v292](https://dev.to/devteam/welcome-thread-v292-17j)
 - [Congrats to the Nylas Challenge Winners!](https://dev.to/devteam/congrats-to-the-nylas-challenge-winners-2kic)
 - [Congrats to the Neon Open Source Starter Kit Challenge Winners!](https://dev.to/devteam/congrats-to-the-neon-open-source-starter-kit-challenge-winners-247p)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3co9)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Welcome Thread - v291](https://dev.to/devteam/welcome-thread-v291-1fmj)
 - [Congrats to the Build Better on Stellar: Smart Contract Challenge Winners!](https://dev.to/devteam/congrats-to-the-build-better-on-stellar-smart-contract-challenge-winners-5h9m)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2fm4)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4hil)
-- [Join us for the Neon Open Source Starter Kit Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-neon-open-source-starter-kit-challenge-3000-in-prizes-3oe2)
 <!-- BLOG-POST-LIST:END -->
 
 
