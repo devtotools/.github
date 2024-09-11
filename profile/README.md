@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome Thread - v293](https://dev.to/devteam/welcome-thread-v293-kf1)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2ed9)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-6ae)
 - [New DEV++ Deal: 25% Off Scrimba Pro](https://dev.to/devteam/new-dev-deal-25-off-scrimba-pro-3eed)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Congrats to the Neon Open Source Starter Kit Challenge Winners!](https://dev.to/devteam/congrats-to-the-neon-open-source-starter-kit-challenge-winners-247p)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3co9)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4do6)
-- [Introducing DEV++](https://dev.to/devteam/introducing-dev-2k6d)
 <!-- BLOG-POST-LIST:END -->
 
 
