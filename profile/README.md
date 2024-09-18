@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing our First Community Web Game Challenge 👾](https://dev.to/devteam/introducing-our-first-community-web-game-challenge-1loo)
+- [Welcome Thread - v294](https://dev.to/devteam/welcome-thread-v294-216e)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3n8n)
 - [Congrats to the Frontend Challenge: Space Edition Winners!](https://dev.to/devteam/congrats-to-the-frontend-challenge-space-edition-winners-4a03)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1281)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-6ae)
 - [New DEV++ Deal: 25% Off Scrimba Pro](https://dev.to/devteam/new-dev-deal-25-off-scrimba-pro-3eed)
 - [Join us for the next Frontend Challenge: Space Edition 👾🪐👽](https://dev.to/devteam/join-us-for-the-next-frontend-challenge-space-edition-2d9g)
-- [Welcome Thread - v292](https://dev.to/devteam/welcome-thread-v292-17j)
-- [Congrats to the Nylas Challenge Winners!](https://dev.to/devteam/congrats-to-the-nylas-challenge-winners-2kic)
 <!-- BLOG-POST-LIST:END -->
 
 
