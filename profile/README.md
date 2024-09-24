@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Three New Deals Are Live on DEV++ 🎉](https://dev.to/devteam/three-new-deals-are-live-on-dev-31n6)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3eoh)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-48jp)
 - [Introducing our First Community Web Game Challenge 👾](https://dev.to/devteam/introducing-our-first-community-web-game-challenge-1loo)
 - [Welcome Thread - v294](https://dev.to/devteam/welcome-thread-v294-216e)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1281)
 - [Welcome Thread - v293](https://dev.to/devteam/welcome-thread-v293-kf1)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2ed9)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-6ae)
-- [New DEV++ Deal: 25% Off Scrimba Pro](https://dev.to/devteam/new-dev-deal-25-off-scrimba-pro-3eed)
 <!-- BLOG-POST-LIST:END -->
 
 
