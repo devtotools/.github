@@ -20,6 +20,7 @@ Some repositorys are forked from members who designed the script. If this is you
 <!-- BLOG-POST-LIST:START -->
 - [Join the 2024 Hacktoberfest Writing Challenge: Reflect on your Journey as a Contributor or Maintainer](https://dev.to/devteam/join-the-2024-hacktoberfest-writing-challenge-reflect-on-your-journey-as-a-contributor-or-maintainer-nd0)
 - [Join us for The Pinata Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-the-pinata-challenge-3000-in-prizes-59cb)
+- [Welcome Thread - v296](https://dev.to/devteam/welcome-thread-v296-1ce8)
 - [Congrats to the Winners of Our First Web Game Challenge!](https://dev.to/devteam/congrats-to-the-winners-of-our-first-web-game-challenge-32co)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-hi6)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2cin)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Three New Deals Are Live on DEV++ 🎉](https://dev.to/devteam/three-new-deals-are-live-on-dev-31n6)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3eoh)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-48jp)
-- [Introducing our First Community Web Game Challenge 👾](https://dev.to/devteam/introducing-our-first-community-web-game-challenge-1loo)
 <!-- BLOG-POST-LIST:END -->
 
 
