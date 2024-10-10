@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [We are donating $2k worth of advertising to the Open Source pledge](https://dev.to/devteam/we-are-donating-2k-worth-of-advertising-to-the-open-source-pledge-4p75)
 - [Welcome Thread - v297](https://dev.to/devteam/welcome-thread-v297-22mc)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1k1m)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-13hp)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Congrats to the Winners of Our First Web Game Challenge!](https://dev.to/devteam/congrats-to-the-winners-of-our-first-web-game-challenge-32co)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-hi6)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2cin)
-- [Welcome Thread - v295](https://dev.to/devteam/welcome-thread-v295-162b)
 <!-- BLOG-POST-LIST:END -->
 
 
