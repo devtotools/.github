@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-36o4)
+- [Congrats to the Wix Studio Challenge: Community Edition Winner!](https://dev.to/devteam/congrats-to-the-wix-studio-challenge-community-edition-winner-57jo)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2e6k)
 - [Welcome Thread - v299](https://dev.to/devteam/welcome-thread-v299-2770)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-6fk)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Welcome Thread - v298](https://dev.to/devteam/welcome-thread-v298-3le2)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2mf)
 - [Congrats to The Pinata Challenge Winners!](https://dev.to/devteam/congrats-to-the-pinata-challenge-winners-5d2e)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4bm7)
-- [We are donating $2k worth of advertising to the Open Source pledge](https://dev.to/devteam/we-are-donating-2k-worth-of-advertising-to-the-open-source-pledge-4p75)
 <!-- BLOG-POST-LIST:END -->
 
 
