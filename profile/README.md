@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Join us for the Open Source AI Challenge with pgai and Ollama: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-open-source-ai-challenge-with-pgai-and-ollama-3000-in-prizes-mjj)
+- [Welcome Thread - v300](https://dev.to/devteam/welcome-thread-v300-6np)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-36o4)
 - [Congrats to the Wix Studio Challenge: Community Edition Winner!](https://dev.to/devteam/congrats-to-the-wix-studio-challenge-community-edition-winner-57jo)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2e6k)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-53kn)
 - [Join us for the next Wix Studio Challenge: Build Your Dream Community Platform!](https://dev.to/devteam/join-us-for-the-next-wix-studio-challenge-build-your-dream-community-platform-5aoc)
 - [Welcome Thread - v298](https://dev.to/devteam/welcome-thread-v298-3le2)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2mf)
-- [Congrats to The Pinata Challenge Winners!](https://dev.to/devteam/congrats-to-the-pinata-challenge-winners-5d2e)
 <!-- BLOG-POST-LIST:END -->
 
 
