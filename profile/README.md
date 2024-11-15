@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5816)
+- [Hacktoberfest Writing Challenge Winner Announcement Delay](https://dev.to/devteam/hacktoberfest-writing-challenge-winner-announcement-delay-2hfl)
 - [Congrats to the Winners of the Open Source AI Challenge with pgai and Ollama!](https://dev.to/devteam/congrats-to-the-winners-of-the-open-source-ai-challenge-with-pgai-and-ollama-46b6)
 - [Join us for the AssemblyAI Challenge and capture the nuance of human speech: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-assemblyai-challenge-and-capture-the-nuance-of-human-speech-3000-in-prizes-4g4f)
 - [Welcome Thread - v302](https://dev.to/devteam/welcome-thread-v302-1m81)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Welcome Thread - v301](https://dev.to/devteam/welcome-thread-v301-3eom)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-26pg)
 - [Extending Winner Announcement Dates for DEV Challenges](https://dev.to/devteam/extending-winner-announcement-dates-for-dev-challenges-1ob0)
-- [Seeking Volunteer Judges for DEV Challenges!](https://dev.to/devteam/seeking-volunteer-judges-for-dev-challenges-2i3a)
-- [Join us for the Open Source AI Challenge with pgai and Ollama: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-open-source-ai-challenge-with-pgai-and-ollama-3000-in-prizes-mjj)
 <!-- BLOG-POST-LIST:END -->
 
 
