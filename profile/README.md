@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Join us for the DevCycle Feature Flag Challenge: $1,000 in Prizes!](https://dev.to/devteam/join-us-for-the-devcycle-feature-flag-challenge-1000-in-prizes-1h23)
+- [Welcome Thread - v304](https://dev.to/devteam/welcome-thread-v305-57bl)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5f4p)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-35l9)
 - [New DEV Feature: Following Tab](https://dev.to/devteam/new-dev-feature-following-tab-5fae)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Congrats to the 2024 Hacktoberfest Writing Challenge Winners!](https://dev.to/devteam/congrats-to-the-2024-hacktoberfest-writing-challenge-winners-4g62)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5816)
 - [Hacktoberfest Writing Challenge Winner Announcement Delay](https://dev.to/devteam/hacktoberfest-writing-challenge-winner-announcement-delay-2hfl)
-- [Congrats to the Winners of the Open Source AI Challenge with pgai and Ollama!](https://dev.to/devteam/congrats-to-the-winners-of-the-open-source-ai-challenge-with-pgai-and-ollama-46b6)
-- [Join us for the AssemblyAI Challenge and capture the nuance of human speech: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-assemblyai-challenge-and-capture-the-nuance-of-human-speech-3000-in-prizes-4g4f)
 <!-- BLOG-POST-LIST:END -->
 
 
