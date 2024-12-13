@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-7k6)
 - [Join us for the Bright Data Web Scraping Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-bright-data-web-scraping-challenge-3000-in-prizes-3mg2)
 - [Just Launched: Shopify’s BORING Edition!](https://dev.to/devteam/just-launched-shopifys-boring-edition-10p5)
 - [Welcome Thread - v306](https://dev.to/devteam/welcome-thread-v306-d1j)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Congrats to the AssemblyAI Challenge Winners!](https://dev.to/devteam/congrats-to-the-assemblyai-challenge-winners-5f8a)
 - [Join us for the next Frontend Challenge: December Edition!](https://dev.to/devteam/join-us-for-the-next-frontend-challenge-december-edition-187c)
 - [Welcome Thread - v305](https://dev.to/devteam/welcome-thread-v305-398)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4hna)
 <!-- BLOG-POST-LIST:END -->
 
 
