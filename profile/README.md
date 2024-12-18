@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome Thread - v307](https://dev.to/devteam/welcome-thread-v307-5hbd)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-k6m)
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-7k6)
 - [Join us for the Bright Data Web Scraping Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-bright-data-web-scraping-challenge-3000-in-prizes-3mg2)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Good News! Deadline Extended for the DevCycle Feature Flag Challenge.](https://dev.to/devteam/good-news-deadline-extended-for-the-devcycle-feature-flag-challenge-304p)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2m3o)
 - [Congrats to the AssemblyAI Challenge Winners!](https://dev.to/devteam/congrats-to-the-assemblyai-challenge-winners-5f8a)
-- [Join us for the next Frontend Challenge: December Edition!](https://dev.to/devteam/join-us-for-the-next-frontend-challenge-december-edition-187c)
 <!-- BLOG-POST-LIST:END -->
 
 
