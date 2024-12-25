@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome Thread - v308](https://dev.to/devteam/welcome-thread-v308-12hc)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3cma)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2l0o)
 - [Welcome Thread - v307](https://dev.to/devteam/welcome-thread-v307-5hbd)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Just Launched: Shopify’s BORING Edition!](https://dev.to/devteam/just-launched-shopifys-boring-edition-10p5)
 - [Welcome Thread - v306](https://dev.to/devteam/welcome-thread-v306-d1j)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2e1e)
-- [Good News! Deadline Extended for the DevCycle Feature Flag Challenge.](https://dev.to/devteam/good-news-deadline-extended-for-the-devcycle-feature-flag-challenge-304p)
 <!-- BLOG-POST-LIST:END -->
 
 
