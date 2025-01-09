@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Congrats to the Frontend Challenge: December Edition Winners!](https://dev.to/devteam/congrats-to-the-frontend-challenge-december-edition-winners-2ei9)
 - [Welcome Thread - v309](https://dev.to/devteam/welcome-thread-v309-1dej)
 - [Join us for the GitHub Copilot 1-Day Build Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-github-copilot-1-day-build-challenge-3000-in-prizes-3o2i)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3nk5)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Happy 11111101001! Join our New Year Writing Challenge 🔮](https://dev.to/devteam/happy-11111101001-join-our-new-year-writing-challenge-43g4)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-p8l)
 - [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-5776)
-- [Welcome Thread - v308](https://dev.to/devteam/welcome-thread-v308-12hc)
 <!-- BLOG-POST-LIST:END -->
 
 
