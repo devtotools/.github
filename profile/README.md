@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Join us for the Agent.ai Challenge: $10,000 in Prizes!](https://dev.to/devteam/join-us-for-the-agentai-challenge-10000-in-prizes-dh9)
+- [Welcome Thread - v310](https://dev.to/devteam/welcome-thread-v310-348i)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-528)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5j6)
 - [Congrats to the Bright Data Web Scraping Challenge Winners!](https://dev.to/devteam/congrats-to-the-bright-data-web-scraping-challenge-winners-46nf)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Join us for the GitHub Copilot 1-Day Build Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-github-copilot-1-day-build-challenge-3000-in-prizes-3o2i)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3nk5)
 - [Eight New Partner Deals Join DEV++! Early-bird pricing ends this month.](https://dev.to/devteam/eight-new-partner-deals-join-dev-early-bird-pricing-ends-this-month-2h42)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4hmk)
-- [Congrats to the DevCycle Feature Flag Challenge Winners!](https://dev.to/devteam/congrats-to-the-devcycle-feature-flag-challenge-winners-2jie)
 <!-- BLOG-POST-LIST:END -->
 
 
