@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Congrats to the Agent.ai Challenge Winners!](https://dev.to/devteam/congrats-to-the-agentai-challenge-winners-5eg5)
 - [Welcome Thread - v312](https://dev.to/devteam/welcome-thread-v312-3gmp)
 - [New DEV++ Deal: 50% Off Trueguard. Early-bird pricing ends this month!](https://dev.to/devteam/new-dev-deal-50-off-trueguard-early-bird-pricing-ends-this-month-4igk)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-gk6)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3ob4)
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-2eei)
 - [Join us for the Agent.ai Challenge: $10,000 in Prizes!](https://dev.to/devteam/join-us-for-the-agentai-challenge-10000-in-prizes-dh9)
-- [Welcome Thread - v310](https://dev.to/devteam/welcome-thread-v310-348i)
 <!-- BLOG-POST-LIST:END -->
 
 
