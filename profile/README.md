@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-ean)
+- [You can now embed Bluesky on DEV/Forem](https://dev.to/devteam/you-can-now-embed-bluesky-on-devforem-2ak1)
 - [Welcome Thread - v313](https://dev.to/devteam/welcome-thread-v313-50bg)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4pen)
 - [The Future of...](https://dev.to/devteam/the-future-of-4ml4)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Welcome Thread - v312](https://dev.to/devteam/welcome-thread-v312-3gmp)
 - [New DEV++ Deal: 50% Off Trueguard. Early-bird pricing ends this month!](https://dev.to/devteam/new-dev-deal-50-off-trueguard-early-bird-pricing-ends-this-month-4igk)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-gk6)
-- [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-odp)
-- [Congrats to the GitHub Copilot 1-Day Build Challenge Winners!](https://dev.to/devteam/congrats-to-the-github-copilot-1-day-build-challenge-winners-4iok)
 <!-- BLOG-POST-LIST:END -->
 
 
