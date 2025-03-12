@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Join the KendoReact Free Components Challenge: $5,000 in Prizes!](https://dev.to/devteam/join-the-kendoreact-free-components-challenge-5000-in-prizes-2896)
+- [Welcome Thread - v318](https://dev.to/devteam/welcome-thread-v318-56i1)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-17ik)
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-52n3)
 - [Congrats to the Frontend Challenge: February Edition Winners!](https://dev.to/devteam/congrats-to-the-frontend-challenge-february-edition-winners-3an9)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [New DEV++ Deal: get a .fun domain for free!](https://dev.to/devteam/new-dev-deal-get-a-fun-domain-for-free-47m2)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-35o5)
 - [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-nc7)
-- [Warp Now Available on Windows! DEV++ Members Enjoy 2 Months of Warp Pro Free.](https://dev.to/devteam/warp-now-available-on-windows-dev-members-enjoy-2-months-of-warp-pro-free-lf1)
-- [Welcome Thread - v316](https://dev.to/devteam/welcome-thread-v316-4ief)
 <!-- BLOG-POST-LIST:END -->
 
 
