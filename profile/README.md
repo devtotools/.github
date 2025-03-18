@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5cm2)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-d7f)
 - [Join the KendoReact Free Components Challenge: $5,000 in Prizes!](https://dev.to/devteam/join-the-kendoreact-free-components-challenge-5000-in-prizes-2896)
 - [Welcome Thread - v318](https://dev.to/devteam/welcome-thread-v318-56i1)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Join Our First-Ever WeCoded Challenge – Celebrating Underrepresented Voices in Tech Through Stories &amp; Code!](https://dev.to/devteam/join-our-first-ever-wecoded-challenge-celebrating-underrepresented-voices-in-tech-through-stories-5m5)
 - [Welcome Thread - v317](https://dev.to/devteam/welcome-thread-v317-57i0)
 - [New DEV++ Deal: get a .fun domain for free!](https://dev.to/devteam/new-dev-deal-get-a-fun-domain-for-free-47m2)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-35o5)
 <!-- BLOG-POST-LIST:END -->
 
 
