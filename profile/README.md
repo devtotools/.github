@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Join us for the Alibaba Cloud Web Game Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-alibaba-cloud-web-game-challenge-3000-in-prizes-1n5d)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-al)
 - [Introducing &quot;DUMB DEV&quot;](https://dev.to/devteam/introducing-dumb-dev-5hjl)
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-2h4f)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-l70)
 - [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-1k07)
 - [Welcome Thread - v319](https://dev.to/devteam/welcome-thread-v319-3i21)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5cm2)
 <!-- BLOG-POST-LIST:END -->
 
 
