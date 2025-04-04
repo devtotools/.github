@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1in)
 - [Congrats to the KendoReact Free Components Challenge Winners!](https://dev.to/devteam/congrats-to-the-kendoreact-free-components-challenge-winners-f8f)
 - [Join us for the Alibaba Cloud Web Game Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-alibaba-cloud-web-game-challenge-3000-in-prizes-1n5d)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-al)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Announcing the Pulumi Deploy and Document Challenge: $3,000 in Prizes!](https://dev.to/devteam/announcing-the-pulumi-deploy-and-document-challenge-3000-in-prizes-887)
 - [Welcome Thread - v320](https://dev.to/devteam/welcome-thread-v320-og9)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-l70)
-- [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-1k07)
 <!-- BLOG-POST-LIST:END -->
 
 
