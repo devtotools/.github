@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-7on)
+- [DEV Hackathons Coming Soon 👀](https://dev.to/devteam/dev-hackathons-coming-soon-4e6i)
 - [Welcome Thread - v321](https://dev.to/devteam/welcome-thread-v321-444l)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-229d)
 - [Deadline Extended for the Alibaba Cloud Web Game Challenge!](https://dev.to/devteam/deadline-extended-for-the-alibaba-cloud-web-game-challenge-45ip)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Congrats to the KendoReact Free Components Challenge Winners!](https://dev.to/devteam/congrats-to-the-kendoreact-free-components-challenge-winners-f8f)
 - [Join us for the Alibaba Cloud Web Game Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-alibaba-cloud-web-game-challenge-3000-in-prizes-1n5d)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-al)
-- [Introducing &quot;DUMB DEV&quot;](https://dev.to/devteam/introducing-dumb-dev-5hjl)
-- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-2h4f)
 <!-- BLOG-POST-LIST:END -->
 
 
