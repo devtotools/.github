@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Congrats to the winners of our first-ever WeCoded Challenge!](https://dev.to/devteam/congrats-to-the-winners-of-our-first-ever-wecoded-challenge-1j8i)
+- [Congrats to the Pulumi Deploy and Document Challenge Winners!](https://dev.to/devteam/congrats-to-the-pulumi-deploy-and-document-challenge-winners-40ao)
 - [Welcome Thread - v322](https://dev.to/devteam/welcome-thread-v322-g8h)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-7on)
 - [DEV Hackathons Coming Soon 👀](https://dev.to/devteam/dev-hackathons-coming-soon-4e6i)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Deadline Extended for the Alibaba Cloud Web Game Challenge!](https://dev.to/devteam/deadline-extended-for-the-alibaba-cloud-web-game-challenge-45ip)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5946)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1in)
-- [Congrats to the KendoReact Free Components Challenge Winners!](https://dev.to/devteam/congrats-to-the-kendoreact-free-components-challenge-winners-f8f)
-- [Join us for the Alibaba Cloud Web Game Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-alibaba-cloud-web-game-challenge-3000-in-prizes-1n5d)
 <!-- BLOG-POST-LIST:END -->
 
 
