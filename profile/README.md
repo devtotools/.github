@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Join us for the Permit.io Authorization Challenge: $3,000 in Prizes and a Mechanical Keyboard for Each Winner 🤩](https://dev.to/devteam/join-us-for-the-permitio-authorization-challenge-3000-in-prizes-and-a-mechanical-keyboard-for-5ah)
+- [Welcome Thread - v323](https://dev.to/devteam/welcome-thread-v323-148c)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4hc8)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-3m98)
 - [Congrats to the winners of our first-ever WeCoded Challenge!](https://dev.to/devteam/congrats-to-the-winners-of-our-first-ever-wecoded-challenge-1j8i)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-7on)
 - [DEV Hackathons Coming Soon 👀](https://dev.to/devteam/dev-hackathons-coming-soon-4e6i)
 - [Welcome Thread - v321](https://dev.to/devteam/welcome-thread-v321-444l)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-229d)
-- [Deadline Extended for the Alibaba Cloud Web Game Challenge!](https://dev.to/devteam/deadline-extended-for-the-alibaba-cloud-web-game-challenge-45ip)
 <!-- BLOG-POST-LIST:END -->
 
 
