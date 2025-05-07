@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Join the Bright Data Real-Time AI Agents Challenge: $3,000 in prizes!](https://dev.to/devteam/join-the-bright-data-real-time-ai-agents-challenge-3000-in-prizes-cog)
+- [Welcome Thread - v325](https://dev.to/devteam/welcome-thread-v325-1cj3)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-39l)
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-5h5i)
 - [Join the Amazon Q Developer &quot;Quack The Code&quot; Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-amazon-q-developer-quack-the-code-challenge-3000-in-prizes-ng5)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2keg)
 - [Join us for the Permit.io Authorization Challenge: $3,000 in Prizes and a Mechanical Keyboard for Each Winner 🤩](https://dev.to/devteam/join-us-for-the-permitio-authorization-challenge-3000-in-prizes-and-a-mechanical-keyboard-for-5ah)
 - [Welcome Thread - v323](https://dev.to/devteam/welcome-thread-v323-148c)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4hc8)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-3m98)
 <!-- BLOG-POST-LIST:END -->
 
 
