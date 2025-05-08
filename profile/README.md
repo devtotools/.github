@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [A new space for discussions surrounding the Forem core open source project](https://dev.to/devteam/a-new-space-for-discussions-surrounding-the-forem-core-open-source-project-3o54)
+- [Congrats to the Alibaba Cloud Web Game Challenge Winners!](https://dev.to/devteam/congrats-to-the-alibaba-cloud-web-game-challenge-winners-2a3m)
 - [Join the Bright Data Real-Time AI Agents Challenge: $3,000 in prizes!](https://dev.to/devteam/join-the-bright-data-real-time-ai-agents-challenge-3000-in-prizes-cog)
 - [Welcome Thread - v325](https://dev.to/devteam/welcome-thread-v325-1cj3)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-39l)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Welcome Thread - v324](https://dev.to/devteam/welcome-thread-v324-1fgg)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2li0)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2keg)
-- [Join us for the Permit.io Authorization Challenge: $3,000 in Prizes and a Mechanical Keyboard for Each Winner 🤩](https://dev.to/devteam/join-us-for-the-permitio-authorization-challenge-3000-in-prizes-and-a-mechanical-keyboard-for-5ah)
-- [Welcome Thread - v323](https://dev.to/devteam/welcome-thread-v323-148c)
 <!-- BLOG-POST-LIST:END -->
 
 
