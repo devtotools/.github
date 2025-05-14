@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Deadline Extended for the Bright Data Real-Time AI Agents Challenge](https://dev.to/devteam/deadline-extended-for-bright-data-real-time-ai-agents-challenge-p1n)
+- [Welcome Thread - v326](https://dev.to/devteam/welcome-thread-v326-1gg)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5dd1)
 - [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-3cif)
 - [A new space for discussions surrounding the Forem core open source project](https://dev.to/devteam/a-new-space-for-discussions-surrounding-the-forem-core-open-source-project-3o54)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Welcome Thread - v325](https://dev.to/devteam/welcome-thread-v325-1cj3)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-39l)
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-5h5i)
-- [Join the Amazon Q Developer &quot;Quack The Code&quot; Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-amazon-q-developer-quack-the-code-challenge-3000-in-prizes-ng5)
-- [Welcome Thread - v324](https://dev.to/devteam/welcome-thread-v324-1fgg)
 <!-- BLOG-POST-LIST:END -->
 
 
