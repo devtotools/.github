@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Congrats to the Permit.io Authorization Challenge Winners!](https://dev.to/devteam/congrats-to-the-permitio-authorization-challenge-winners-35f)
 - [Deadline Extended for the Bright Data Real-Time AI Agents Challenge](https://dev.to/devteam/deadline-extended-for-bright-data-real-time-ai-agents-challenge-p1n)
 - [Welcome Thread - v326](https://dev.to/devteam/welcome-thread-v326-1gg)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5dd1)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Join the Bright Data Real-Time AI Agents Challenge: $3,000 in prizes!](https://dev.to/devteam/join-the-bright-data-real-time-ai-agents-challenge-3000-in-prizes-cog)
 - [Welcome Thread - v325](https://dev.to/devteam/welcome-thread-v325-1cj3)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-39l)
-- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-5h5i)
 <!-- BLOG-POST-LIST:END -->
 
 
