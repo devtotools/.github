@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3hpe)
 - [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-aca)
 - [Congrats to the Permit.io Authorization Challenge Winners!](https://dev.to/devteam/congrats-to-the-permitio-authorization-challenge-winners-35f)
 - [Deadline Extended for the Bright Data Real-Time AI Agents Challenge](https://dev.to/devteam/deadline-extended-for-bright-data-real-time-ai-agents-challenge-p1n)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [A new space for discussions surrounding the Forem core open source project](https://dev.to/devteam/a-new-space-for-discussions-surrounding-the-forem-core-open-source-project-3o54)
 - [Congrats to the Alibaba Cloud Web Game Challenge Winners!](https://dev.to/devteam/congrats-to-the-alibaba-cloud-web-game-challenge-winners-2a3m)
 - [Join the Bright Data Real-Time AI Agents Challenge: $3,000 in prizes!](https://dev.to/devteam/join-the-bright-data-real-time-ai-agents-challenge-3000-in-prizes-cog)
-- [Welcome Thread - v325](https://dev.to/devteam/welcome-thread-v325-1cj3)
 <!-- BLOG-POST-LIST:END -->
 
 
