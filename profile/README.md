@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Deadline Extended for Postmark Challenge: Inbox Innovators](https://dev.to/devteam/deadline-extended-for-postmark-challenge-inbox-innovators-g5n)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-34ab)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-49de)
 - [Congrats to the Amazon Q Developer &quot;Quack The Code&quot; Challenge Winners!](https://dev.to/devteam/congrats-to-the-amazon-q-developer-quack-the-code-challenge-winners-2jn7)
 - [Join the Postmark Challenge: Inbox Innovators - $3,000 in Prizes!](https://dev.to/devteam/join-the-postmark-challenge-inbox-innovators-3000-in-prizes-497l)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-aca)
 - [Congrats to the Permit.io Authorization Challenge Winners!](https://dev.to/devteam/congrats-to-the-permitio-authorization-challenge-winners-35f)
 - [Deadline Extended for the Bright Data Real-Time AI Agents Challenge](https://dev.to/devteam/deadline-extended-for-bright-data-real-time-ai-agents-challenge-p1n)
-- [Welcome Thread - v326](https://dev.to/devteam/welcome-thread-v326-1gg)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5dd1)
 <!-- BLOG-POST-LIST:END -->
 
 
