@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Join the World&#39;s Largest Hackathon: $1 Million in Prizes 💸](https://dev.to/devteam/join-the-worlds-largest-hackathon-1-million-in-prizes-3hfh)
+- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-1pa8)
 - [Welcome Thread - v328](https://dev.to/devteam/welcome-thread-v328-4c1m)
 - [Deadline Extended for Postmark Challenge: Inbox Innovators](https://dev.to/devteam/deadline-extended-for-postmark-challenge-inbox-innovators-g5n)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-34ab)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Join the Postmark Challenge: Inbox Innovators - $3,000 in Prizes!](https://dev.to/devteam/join-the-postmark-challenge-inbox-innovators-3000-in-prizes-497l)
 - [Welcome Thread - v327](https://dev.to/devteam/welcome-thread-v327-479o)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3hpe)
-- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-aca)
-- [Congrats to the Permit.io Authorization Challenge Winners!](https://dev.to/devteam/congrats-to-the-permitio-authorization-challenge-winners-35f)
 <!-- BLOG-POST-LIST:END -->
 
 
