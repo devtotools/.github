@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Exciting Community News: We&#39;re Partnering with Google AI!](https://dev.to/devteam/exciting-community-news-were-partnering-with-google-ai-55c4)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1ccl)
 - [Join the World&#39;s Largest Hackathon: $1 Million in Prizes 💸](https://dev.to/devteam/join-the-worlds-largest-hackathon-1-million-in-prizes-3hfh)
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-1pa8)
 - [Welcome Thread - v328](https://dev.to/devteam/welcome-thread-v328-4c1m)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-49de)
 - [Congrats to the Amazon Q Developer &quot;Quack The Code&quot; Challenge Winners!](https://dev.to/devteam/congrats-to-the-amazon-q-developer-quack-the-code-challenge-winners-2jn7)
 - [Join the Postmark Challenge: Inbox Innovators - $3,000 in Prizes!](https://dev.to/devteam/join-the-postmark-challenge-inbox-innovators-3000-in-prizes-497l)
-- [Welcome Thread - v327](https://dev.to/devteam/welcome-thread-v327-479o)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3hpe)
 <!-- BLOG-POST-LIST:END -->
 
 
