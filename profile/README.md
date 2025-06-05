@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Join the Runner H &quot;AI Agent Prompting&quot; Challenge: $10,000 in Prizes for 20 Winners!!!](https://dev.to/devteam/join-the-runner-h-ai-agent-prompting-challenge-10000-in-prizes-for-20-winners-30ki)
 - [Join our latest Frontend Challenge: June Celebrations](https://dev.to/devteam/join-our-latest-frontend-challenge-june-celebrations-34kc)
 - [Welcome Thread - v329](https://dev.to/devteam/welcome-thread-v329-549m)
 - [Exciting Community News: We&#39;re Partnering with Google AI!](https://dev.to/devteam/exciting-community-news-were-partnering-with-google-ai-55c4)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Welcome Thread - v328](https://dev.to/devteam/welcome-thread-v328-4c1m)
 - [Deadline Extended for Postmark Challenge: Inbox Innovators](https://dev.to/devteam/deadline-extended-for-postmark-challenge-inbox-innovators-g5n)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-34ab)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-49de)
 <!-- BLOG-POST-LIST:END -->
 
 
