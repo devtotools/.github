@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [There are so many challenges and hackathons live right now!](https://dev.to/devteam/there-are-so-many-challenges-and-hackathons-live-right-now-5eo7)
+- [Bright Data Real-Time AI Agents Challenge Winner Announcement Delay](https://dev.to/devteam/bright-data-real-time-ai-agents-challenge-winner-announcement-delay-21a0)
+- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-1937)
 - [Join the Runner H &quot;AI Agent Prompting&quot; Challenge: $10,000 in Prizes for 20 Winners!!!](https://dev.to/devteam/join-the-runner-h-ai-agent-prompting-challenge-10000-in-prizes-for-20-winners-30ki)
 - [Join our latest Frontend Challenge: June Celebrations](https://dev.to/devteam/join-our-latest-frontend-challenge-june-celebrations-34kc)
 - [Welcome Thread - v329](https://dev.to/devteam/welcome-thread-v329-549m)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1ccl)
 - [Join the World&#39;s Largest Hackathon: $1 Million in Prizes 💸](https://dev.to/devteam/join-the-worlds-largest-hackathon-1-million-in-prizes-3hfh)
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-1pa8)
-- [Welcome Thread - v328](https://dev.to/devteam/welcome-thread-v328-4c1m)
-- [Deadline Extended for Postmark Challenge: Inbox Innovators](https://dev.to/devteam/deadline-extended-for-postmark-challenge-inbox-innovators-g5n)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-34ab)
 <!-- BLOG-POST-LIST:END -->
 
 
