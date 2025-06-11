@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Join the Storyblok Headless CMS Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-storyblok-headless-cms-challenge-3000-in-prizes-154n)
+- [Welcome Thread - v330](https://dev.to/devteam/welcome-thread-v330-55km)
 - [Congratulations to the winner of the Bright Data Real-Time AI Agents Challenge!](https://dev.to/devteam/congratulations-to-the-winner-of-the-bright-data-real-time-ai-agents-challenge-h92)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1g7i)
 - [There are so many challenges and hackathons live right now!](https://dev.to/devteam/there-are-so-many-challenges-and-hackathons-live-right-now-5eo7)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Join the Runner H &quot;AI Agent Prompting&quot; Challenge: $10,000 in Prizes for 20 Winners!!!](https://dev.to/devteam/join-the-runner-h-ai-agent-prompting-challenge-10000-in-prizes-for-20-winners-30ki)
 - [Join our latest Frontend Challenge: June Celebrations](https://dev.to/devteam/join-our-latest-frontend-challenge-june-celebrations-34kc)
 - [Welcome Thread - v329](https://dev.to/devteam/welcome-thread-v329-549m)
-- [Exciting Community News: We&#39;re Partnering with Google AI!](https://dev.to/devteam/exciting-community-news-were-partnering-with-google-ai-55c4)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1ccl)
 <!-- BLOG-POST-LIST:END -->
 
 
