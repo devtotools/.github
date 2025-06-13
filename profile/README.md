@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-bbf)
 - [Join the Storyblok Headless CMS Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-storyblok-headless-cms-challenge-3000-in-prizes-154n)
 - [Welcome Thread - v330](https://dev.to/devteam/welcome-thread-v330-55km)
 - [Congratulations to the winner of the Bright Data Real-Time AI Agents Challenge!](https://dev.to/devteam/congratulations-to-the-winner-of-the-bright-data-real-time-ai-agents-challenge-h92)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-1937)
 - [Join the Runner H &quot;AI Agent Prompting&quot; Challenge: $10,000 in Prizes for 20 Winners!!!](https://dev.to/devteam/join-the-runner-h-ai-agent-prompting-challenge-10000-in-prizes-for-20-winners-30ki)
 - [Join our latest Frontend Challenge: June Celebrations](https://dev.to/devteam/join-our-latest-frontend-challenge-june-celebrations-34kc)
-- [Welcome Thread - v329](https://dev.to/devteam/welcome-thread-v329-549m)
 <!-- BLOG-POST-LIST:END -->
 
 
