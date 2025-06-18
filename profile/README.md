@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Postmark Challenge: Inbox Innovators Winner Announcement Delay](https://dev.to/devteam/postmark-challenge-inbox-innovators-winner-announcement-delay-400i)
+- [Deadline Extended for Storyblok Headless CMS Challenge! Jump in while there&#39;s time.](https://dev.to/devteam/deadline-extended-for-storyblok-headless-cms-challenge-jump-in-while-theres-time-15m8)
+- [Welcome Thread - v331](https://dev.to/devteam/welcome-thread-v331-550e)
 - [Save the Date: Runner H Demo and Livestream on June 26 and July 3!](https://dev.to/devteam/save-the-date-runner-h-demo-and-livestream-on-june-26-and-july-3-3alf)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-17pe)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-bbf)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Welcome Thread - v330](https://dev.to/devteam/welcome-thread-v330-55km)
 - [Congratulations to the winner of the Bright Data Real-Time AI Agents Challenge!](https://dev.to/devteam/congratulations-to-the-winner-of-the-bright-data-real-time-ai-agents-challenge-h92)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1g7i)
-- [There are so many challenges and hackathons live right now!](https://dev.to/devteam/there-are-so-many-challenges-and-hackathons-live-right-now-5eo7)
-- [Bright Data Real-Time AI Agents Challenge Winner Announcement Delay](https://dev.to/devteam/bright-data-real-time-ai-agents-challenge-winner-announcement-delay-21a0)
-- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-1937)
 <!-- BLOG-POST-LIST:END -->
 
 
