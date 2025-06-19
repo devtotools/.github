@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Evolving Our Infrastructure: Why We Moved from Heroku Postgres to Neon](https://dev.to/devteam/evolving-our-infrastructure-why-we-moved-from-heroku-postgres-to-neon-1928)
 - [Postmark Challenge: Inbox Innovators Winner Announcement Delay](https://dev.to/devteam/postmark-challenge-inbox-innovators-winner-announcement-delay-400i)
 - [Deadline Extended for Storyblok Headless CMS Challenge! Jump in while there&#39;s time.](https://dev.to/devteam/deadline-extended-for-storyblok-headless-cms-challenge-jump-in-while-theres-time-15m8)
 - [Welcome Thread - v331](https://dev.to/devteam/welcome-thread-v331-550e)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Join the Storyblok Headless CMS Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-storyblok-headless-cms-challenge-3000-in-prizes-154n)
 - [Welcome Thread - v330](https://dev.to/devteam/welcome-thread-v330-55km)
 - [Congratulations to the winner of the Bright Data Real-Time AI Agents Challenge!](https://dev.to/devteam/congratulations-to-the-winner-of-the-bright-data-real-time-ai-agents-challenge-h92)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1g7i)
 <!-- BLOG-POST-LIST:END -->
 
 
