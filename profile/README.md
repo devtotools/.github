@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-457e)
+- [Congrats to the Winners of Postmark Challenge: Inbox Innovators!](https://dev.to/devteam/congrats-to-the-winners-of-postmark-challenge-inbox-innovators-56f2)
 - [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-2kkb)
 - [Evolving Our Infrastructure: Why We Moved from Heroku Postgres to Neon](https://dev.to/devteam/evolving-our-infrastructure-why-we-moved-from-heroku-postgres-to-neon-1928)
 - [Postmark Challenge: Inbox Innovators Winner Announcement Delay](https://dev.to/devteam/postmark-challenge-inbox-innovators-winner-announcement-delay-400i)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Save the Date: Runner H Demo and Livestream on June 26 and July 3!](https://dev.to/devteam/save-the-date-runner-h-demo-and-livestream-on-june-26-and-july-3-3alf)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-17pe)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-bbf)
-- [Join the Storyblok Headless CMS Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-storyblok-headless-cms-challenge-3000-in-prizes-154n)
-- [Welcome Thread - v330](https://dev.to/devteam/welcome-thread-v330-55km)
 <!-- BLOG-POST-LIST:END -->
 
 
