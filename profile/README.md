@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-40jp)
 - [Welcome Thread - v332](https://dev.to/devteam/welcome-thread-v332-3caj)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-457e)
 - [Congrats to the Winners of Postmark Challenge: Inbox Innovators!](https://dev.to/devteam/congrats-to-the-winners-of-postmark-challenge-inbox-innovators-56f2)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Deadline Extended for Storyblok Headless CMS Challenge! Jump in while there&#39;s time.](https://dev.to/devteam/deadline-extended-for-storyblok-headless-cms-challenge-jump-in-while-theres-time-15m8)
 - [Welcome Thread - v331](https://dev.to/devteam/welcome-thread-v331-550e)
 - [Save the Date: Runner H Demo and Livestream on June 26 and July 3!](https://dev.to/devteam/save-the-date-runner-h-demo-and-livestream-on-june-26-and-july-3-3alf)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-17pe)
 <!-- BLOG-POST-LIST:END -->
 
 
