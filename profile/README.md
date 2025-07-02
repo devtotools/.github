@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Announcing the First DEV Education Track: &quot;Build Apps with Google AI Studio&quot;](https://dev.to/devteam/announcing-the-first-dev-education-track-build-apps-with-google-ai-studio-ej7)
+- [Welcome Thread - v333](https://dev.to/devteam/welcome-thread-v333-22mm)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-ne4)
 - [Reflect and Share Your World&#39;s Largest Hackathon Journey: Writing Challenge Now Open 🌟](https://dev.to/devteam/reflect-and-share-your-worlds-largest-hackathon-journey-writing-challenge-now-open-g82)
 - [Introducing DEV Education Tracks: Expert-Guided Tutorials for Learning New Skills and Earning Badges](https://dev.to/devteam/introducing-dev-education-tracks-expert-guided-tutorials-for-learning-new-skills-and-earning-badges-48oi)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-457e)
 - [Congrats to the Winners of Postmark Challenge: Inbox Innovators!](https://dev.to/devteam/congrats-to-the-winners-of-postmark-challenge-inbox-innovators-56f2)
 - [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-2kkb)
-- [Evolving Our Infrastructure: Why We Moved from Heroku Postgres to Neon](https://dev.to/devteam/evolving-our-infrastructure-why-we-moved-from-heroku-postgres-to-neon-1928)
-- [Postmark Challenge: Inbox Innovators Winner Announcement Delay](https://dev.to/devteam/postmark-challenge-inbox-innovators-winner-announcement-delay-400i)
 <!-- BLOG-POST-LIST:END -->
 
 
