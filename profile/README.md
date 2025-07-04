@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-n84)
 - [Join Our Newest Frontend Challenge: Office Edition! Sponsored by Axero with $3,000 in Prizes 💸](https://dev.to/devteam/join-our-newest-frontend-challenge-office-edition-sponsored-by-axero-with-3000-in-prizes-21ap)
 - [Announcing the First DEV Education Track: &quot;Build Apps with Google AI Studio&quot;](https://dev.to/devteam/announcing-the-first-dev-education-track-build-apps-with-google-ai-studio-ej7)
 - [Welcome Thread - v333](https://dev.to/devteam/welcome-thread-v333-22mm)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-40jp)
 - [Welcome Thread - v332](https://dev.to/devteam/welcome-thread-v332-3caj)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-457e)
-- [Congrats to the Winners of Postmark Challenge: Inbox Innovators!](https://dev.to/devteam/congrats-to-the-winners-of-postmark-challenge-inbox-innovators-56f2)
 <!-- BLOG-POST-LIST:END -->
 
 
