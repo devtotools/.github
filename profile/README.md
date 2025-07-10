@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Join the Algolia MCP Server Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-algolia-mcp-server-challenge-3000-in-prizes-1non)
+- [Congrats to the Storyblok Headless CMS Challenge Winners!](https://dev.to/devteam/congrats-to-the-storyblok-headless-cms-challenge-winners-12i2)
 - [Welcome Thread - v334](https://dev.to/devteam/welcome-thread-v334-53mp)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3pi8)
 - [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-n84)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Welcome Thread - v333](https://dev.to/devteam/welcome-thread-v333-22mm)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-ne4)
 - [Reflect and Share Your World&#39;s Largest Hackathon Journey: Writing Challenge Now Open 🌟](https://dev.to/devteam/reflect-and-share-your-worlds-largest-hackathon-journey-writing-challenge-now-open-g82)
-- [Introducing DEV Education Tracks: Expert-Guided Tutorials for Learning New Skills and Earning Badges](https://dev.to/devteam/introducing-dev-education-tracks-expert-guided-tutorials-for-learning-new-skills-and-earning-badges-48oi)
-- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-40jp)
 <!-- BLOG-POST-LIST:END -->
 
 
