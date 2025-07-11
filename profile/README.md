@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-23li)
+- [Congrats to the Frontend Challenge: June Celebrations Winners!](https://dev.to/devteam/congrats-to-the-frontend-challenge-june-celebrations-winners-5dd1)
 - [Join the Algolia MCP Server Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-algolia-mcp-server-challenge-3000-in-prizes-1non)
 - [Congrats to the Storyblok Headless CMS Challenge Winners!](https://dev.to/devteam/congrats-to-the-storyblok-headless-cms-challenge-winners-12i2)
 - [Welcome Thread - v334](https://dev.to/devteam/welcome-thread-v334-53mp)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Join Our Newest Frontend Challenge: Office Edition! Sponsored by Axero with $3,000 in Prizes 💸](https://dev.to/devteam/join-our-newest-frontend-challenge-office-edition-sponsored-by-axero-with-3000-in-prizes-21ap)
 - [Announcing the First DEV Education Track: &quot;Build Apps with Google AI Studio&quot;](https://dev.to/devteam/announcing-the-first-dev-education-track-build-apps-with-google-ai-studio-ej7)
 - [Welcome Thread - v333](https://dev.to/devteam/welcome-thread-v333-22mm)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-ne4)
-- [Reflect and Share Your World&#39;s Largest Hackathon Journey: Writing Challenge Now Open 🌟](https://dev.to/devteam/reflect-and-share-your-worlds-largest-hackathon-journey-writing-challenge-now-open-g82)
 <!-- BLOG-POST-LIST:END -->
 
 
