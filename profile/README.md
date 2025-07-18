@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week!?!](https://dev.to/devteam/what-was-your-win-this-week-45n0)
 - [Congrats to the Runner H &quot;AI Agent Prompting&quot; Challenge Winners!](https://dev.to/devteam/congrats-to-the-runner-h-ai-agent-prompting-challenge-winners-3aap)
 - [Join the AssemblyAI Voice Agents Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-assemblyai-voice-agents-challenge-3000-in-prizes-109a)
 - [Welcome Thread - v335](https://dev.to/devteam/welcome-thread-v335-2hm1)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Join the Algolia MCP Server Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-algolia-mcp-server-challenge-3000-in-prizes-1non)
 - [Congrats to the Storyblok Headless CMS Challenge Winners!](https://dev.to/devteam/congrats-to-the-storyblok-headless-cms-challenge-winners-12i2)
 - [Welcome Thread - v334](https://dev.to/devteam/welcome-thread-v334-53mp)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3pi8)
 <!-- BLOG-POST-LIST:END -->
 
 
