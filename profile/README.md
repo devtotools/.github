@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Join the Redis AI Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-redis-ai-challenge-3000-in-prizes-3oj2)
+- [Welcome Thread - v336](https://dev.to/devteam/welcome-thread-v336-1jd8)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3ok7)
 - [What was your win this week!?!](https://dev.to/devteam/what-was-your-win-this-week-45n0)
 - [Congrats to the Runner H &quot;AI Agent Prompting&quot; Challenge Winners!](https://dev.to/devteam/congrats-to-the-runner-h-ai-agent-prompting-challenge-winners-3aap)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2g90)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-23li)
 - [Congrats to the Frontend Challenge: June Celebrations Winners!](https://dev.to/devteam/congrats-to-the-frontend-challenge-june-celebrations-winners-5dd1)
-- [Join the Algolia MCP Server Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-algolia-mcp-server-challenge-3000-in-prizes-1non)
-- [Congrats to the Storyblok Headless CMS Challenge Winners!](https://dev.to/devteam/congrats-to-the-storyblok-headless-cms-challenge-winners-12i2)
 <!-- BLOG-POST-LIST:END -->
 
 
