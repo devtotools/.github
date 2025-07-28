@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1490)
+- [Congratulations to the World&#39;s Largest Hackathon Winners! Now it&#39;s time to share your full reflection.](https://dev.to/devteam/congratulations-to-the-worlds-largest-hackathon-winners-now-its-time-to-share-your-full-3df8)
 - [Five challenges live = better odds of winning! Three closing this weekend, and no new challenges for two weeks.](https://dev.to/devteam/five-challenges-live-better-odds-of-winning-three-closing-this-weekend-and-no-new-challenges-10m7)
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-51ja)
 - [Join the Redis AI Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-redis-ai-challenge-3000-in-prizes-3oj2)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What was your win this week!?!](https://dev.to/devteam/what-was-your-win-this-week-45n0)
 - [Congrats to the Runner H &quot;AI Agent Prompting&quot; Challenge Winners!](https://dev.to/devteam/congrats-to-the-runner-h-ai-agent-prompting-challenge-winners-3aap)
 - [Join the AssemblyAI Voice Agents Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-assemblyai-voice-agents-challenge-3000-in-prizes-109a)
-- [Welcome Thread - v335](https://dev.to/devteam/welcome-thread-v335-2hm1)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2g90)
 <!-- BLOG-POST-LIST:END -->
 
 
