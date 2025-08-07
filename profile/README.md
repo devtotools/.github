@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Congrats to the AssemblyAI Voice Agents Challenge Winners!](https://dev.to/devteam/congrats-to-the-assemblyai-voice-agents-challenge-winners-1ppk)
 - [Welcome Thread - v338](https://dev.to/devteam/welcome-thread-v338-3d69)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4pmf)
 - [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-n0)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Five challenges live = better odds of winning! Three closing this weekend, and no new challenges for two weeks.](https://dev.to/devteam/five-challenges-live-better-odds-of-winning-three-closing-this-weekend-and-no-new-challenges-10m7)
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-51ja)
 - [Join the Redis AI Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-redis-ai-challenge-3000-in-prizes-3oj2)
-- [Welcome Thread - v336](https://dev.to/devteam/welcome-thread-v336-1jd8)
 <!-- BLOG-POST-LIST:END -->
 
 
