@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-f0f)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-3856)
 - [Congrats to the Algolia MCP Challenge Winners!](https://dev.to/devteam/congrats-to-the-algolia-mcp-challenge-winners-2ccd)
 - [Congrats to the AssemblyAI Voice Agents Challenge Winners!](https://dev.to/devteam/congrats-to-the-assemblyai-voice-agents-challenge-winners-1ppk)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Welcome Thread - v337](https://dev.to/devteam/welcome-thread-v337-4efm)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1490)
 - [Congratulations to the World&#39;s Largest Hackathon Winners! Now it&#39;s time to share your full reflection.](https://dev.to/devteam/congratulations-to-the-worlds-largest-hackathon-winners-now-its-time-to-share-your-full-3df8)
-- [Five challenges live = better odds of winning! Three closing this weekend, and no new challenges for two weeks.](https://dev.to/devteam/five-challenges-live-better-odds-of-winning-three-closing-this-weekend-and-no-new-challenges-10m7)
 <!-- BLOG-POST-LIST:END -->
 
 
