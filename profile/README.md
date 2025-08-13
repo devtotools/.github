@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Join the Real-Time AI Agents Challenge powered by n8n and Bright Data: $5,000 in prizes across FIVE winners!](https://dev.to/devteam/join-the-real-time-ai-agents-challenge-powered-by-n8n-and-bright-data-5000-in-prizes-across-five-3nmb)
+- [Welcome Thread - v339](https://dev.to/devteam/welcome-thread-v339-2fao)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-f0f)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-3856)
 - [Congrats to the Algolia MCP Challenge Winners!](https://dev.to/devteam/congrats-to-the-algolia-mcp-challenge-winners-2ccd)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4pmf)
 - [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-n0)
 - [Welcome Thread - v337](https://dev.to/devteam/welcome-thread-v337-4efm)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1490)
-- [Congratulations to the World&#39;s Largest Hackathon Winners! Now it&#39;s time to share your full reflection.](https://dev.to/devteam/congratulations-to-the-worlds-largest-hackathon-winners-now-its-time-to-share-your-full-3df8)
 <!-- BLOG-POST-LIST:END -->
 
 
