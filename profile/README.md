@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Join the Midnight Network &quot;Privacy First&quot; Challenge: $5,000 in Prizes!](https://dev.to/devteam/join-the-midnight-network-privacy-first-challenge-5000-in-prizes-3l45)
+- [Welcome Thread - v340](https://dev.to/devteam/welcome-thread-v340-3j0c)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-54fg)
 - [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-27ca)
 - [Congrats to the Frontend Challenge: Office Edition Winners!](https://dev.to/devteam/congrats-to-the-frontend-challenge-office-edition-winners-30p9)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-f0f)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-3856)
 - [Congrats to the Algolia MCP Challenge Winners!](https://dev.to/devteam/congrats-to-the-algolia-mcp-challenge-winners-2ccd)
-- [Congrats to the AssemblyAI Voice Agents Challenge Winners!](https://dev.to/devteam/congrats-to-the-assemblyai-voice-agents-challenge-winners-1ppk)
-- [Welcome Thread - v338](https://dev.to/devteam/welcome-thread-v338-3d69)
 <!-- BLOG-POST-LIST:END -->
 
 
