@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Congrats to the Redis AI Challenge Winners!](https://dev.to/devteam/congrats-to-the-redis-ai-challenge-winners-2f2j)
 - [Join the Midnight Network &quot;Privacy First&quot; Challenge: $5,000 in Prizes!](https://dev.to/devteam/join-the-midnight-network-privacy-first-challenge-5000-in-prizes-3l45)
 - [Welcome Thread - v340](https://dev.to/devteam/welcome-thread-v340-3j0c)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-54fg)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Welcome Thread - v339](https://dev.to/devteam/welcome-thread-v339-2fao)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-f0f)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-3856)
-- [Congrats to the Algolia MCP Challenge Winners!](https://dev.to/devteam/congrats-to-the-algolia-mcp-challenge-winners-2ccd)
 <!-- BLOG-POST-LIST:END -->
 
 
