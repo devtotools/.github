@@ -18,6 +18,9 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [New Demo Videos from the n8n and Bright Data Teams for the Real-Time AI Agents Challenge!](https://dev.to/devteam/new-demo-videos-from-the-n8n-and-bright-data-teams-for-the-real-time-ai-agents-challenge-3of3)
+- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-1ack)
+- [Congrats to the World&#39;s Largest Hackathon Writing Challenge Winners!](https://dev.to/devteam/congrats-to-the-worlds-largest-hackathon-writing-challenge-winners-4fa3)
 - [Congrats to the Redis AI Challenge Winners!](https://dev.to/devteam/congrats-to-the-redis-ai-challenge-winners-2f2j)
 - [Join the Midnight Network &quot;Privacy First&quot; Challenge: $5,000 in Prizes!](https://dev.to/devteam/join-the-midnight-network-privacy-first-challenge-5000-in-prizes-3l45)
 - [Welcome Thread - v340](https://dev.to/devteam/welcome-thread-v340-3j0c)
@@ -25,9 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-27ca)
 - [Congrats to the Frontend Challenge: Office Edition Winners!](https://dev.to/devteam/congrats-to-the-frontend-challenge-office-edition-winners-30p9)
 - [Join the Real-Time AI Agents Challenge powered by n8n and Bright Data: $5,000 in prizes across FIVE winners!](https://dev.to/devteam/join-the-real-time-ai-agents-challenge-powered-by-n8n-and-bright-data-5000-in-prizes-across-five-3nmb)
-- [Welcome Thread - v339](https://dev.to/devteam/welcome-thread-v339-2fao)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-f0f)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-3856)
 <!-- BLOG-POST-LIST:END -->
 
 
