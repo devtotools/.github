@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4hd4)
 - [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-4ka)
 - [Join the Heroku &quot;Back to School&quot; AI Challenge: $3,000 in Prizes, just for students!](https://dev.to/devteam/join-the-heroku-back-to-school-ai-challenge-3000-in-prizes-just-for-students-2me4)
 - [Welcome Thread - v341](https://dev.to/devteam/welcome-thread-v341-47g8)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-1ack)
 - [Congrats to the World&#39;s Largest Hackathon Writing Challenge Winners!](https://dev.to/devteam/congrats-to-the-worlds-largest-hackathon-writing-challenge-winners-4fa3)
 - [Congrats to the Redis AI Challenge Winners!](https://dev.to/devteam/congrats-to-the-redis-ai-challenge-winners-2f2j)
-- [Join the Midnight Network &quot;Privacy First&quot; Challenge: $5,000 in Prizes!](https://dev.to/devteam/join-the-midnight-network-privacy-first-challenge-5000-in-prizes-3l45)
 <!-- BLOG-POST-LIST:END -->
 
 
