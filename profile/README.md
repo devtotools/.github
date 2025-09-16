@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5e1)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2d93)
 - [Congrats to the Winners of the Real-Time AI Agents Challenge powered by n8n and Bright Data!](https://dev.to/devteam/congrats-to-the-winners-of-the-real-time-ai-agents-challenge-powered-by-n8n-and-bright-data-104c)
 - [Join the latest KendoReact Free Components Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-latest-kendoreact-free-components-challenge-3000-in-prizes-4fch)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Join the Google AI Studio Multimodal Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-google-ai-studio-multimodal-challenge-3000-in-prizes-58g)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4hd4)
 - [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-4ka)
-- [Join the Heroku &quot;Back to School&quot; AI Challenge: $3,000 in Prizes, just for students!](https://dev.to/devteam/join-the-heroku-back-to-school-ai-challenge-3000-in-prizes-just-for-students-2me4)
 <!-- BLOG-POST-LIST:END -->
 
 
