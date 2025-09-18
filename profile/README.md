@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Congrats to the Midnight Network &quot;Privacy First&quot; Challenge Winners!](https://dev.to/devteam/congrats-to-the-midnight-network-privacy-first-challenge-winners-4o04)
 - [Welcome Thread - v343](https://dev.to/devteam/welcome-thread-v343-2h5f)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5e1)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2d93)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1fea)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2ag0)
 - [Join the Google AI Studio Multimodal Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-google-ai-studio-multimodal-challenge-3000-in-prizes-58g)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4hd4)
 <!-- BLOG-POST-LIST:END -->
 
 
