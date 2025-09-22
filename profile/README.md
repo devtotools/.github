@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Two challenges and $6,000 in prizes! Get your submissions in by September 28.](https://dev.to/devteam/two-challenges-and-6000-in-prizes-get-your-submissions-in-by-september-28-5cm9)
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-1pc5)
 - [Congrats to the Midnight Network &quot;Privacy First&quot; Challenge Winners!](https://dev.to/devteam/congrats-to-the-midnight-network-privacy-first-challenge-winners-4o04)
 - [Welcome Thread - v343](https://dev.to/devteam/welcome-thread-v343-2h5f)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Join the latest KendoReact Free Components Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-latest-kendoreact-free-components-challenge-3000-in-prizes-4fch)
 - [Welcome Thread - v342](https://dev.to/devteam/welcome-thread-v342-20be)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1fea)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2ag0)
 <!-- BLOG-POST-LIST:END -->
 
 
