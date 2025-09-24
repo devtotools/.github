@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome Thread - v344](https://dev.to/devteam/welcome-thread-v344-42b3)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-47ik)
 - [Two challenges and $6,000 in prizes! Get your submissions in by September 28.](https://dev.to/devteam/two-challenges-and-6000-in-prizes-get-your-submissions-in-by-september-28-5cm9)
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-1pc5)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2d93)
 - [Congrats to the Winners of the Real-Time AI Agents Challenge powered by n8n and Bright Data!](https://dev.to/devteam/congrats-to-the-winners-of-the-real-time-ai-agents-challenge-powered-by-n8n-and-bright-data-104c)
 - [Join the latest KendoReact Free Components Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-latest-kendoreact-free-components-challenge-3000-in-prizes-4fch)
-- [Welcome Thread - v342](https://dev.to/devteam/welcome-thread-v342-20be)
 <!-- BLOG-POST-LIST:END -->
 
 
