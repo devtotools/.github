@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Behind the Scenes: How We Judge DEV Challenge Submissions](https://dev.to/devteam/behind-the-scenes-how-we-judge-dev-challenge-submissions-ki2)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-38eb)
 - [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-43a)
 - [Welcome Thread - v344](https://dev.to/devteam/welcome-thread-v344-42b3)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-47ik)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Congrats to the Midnight Network &quot;Privacy First&quot; Challenge Winners!](https://dev.to/devteam/congrats-to-the-midnight-network-privacy-first-challenge-winners-4o04)
 - [Welcome Thread - v343](https://dev.to/devteam/welcome-thread-v343-2h5f)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5e1)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2d93)
-- [Congrats to the Winners of the Real-Time AI Agents Challenge powered by n8n and Bright Data!](https://dev.to/devteam/congrats-to-the-winners-of-the-real-time-ai-agents-challenge-powered-by-n8n-and-bright-data-104c)
 <!-- BLOG-POST-LIST:END -->
 
 
