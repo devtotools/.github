@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [🎃 Spotlight your projects and contributions as you go: 2025 Hacktoberfest Writing Challenge is now live!](https://dev.to/devteam/spotlight-your-projects-and-contributions-as-you-go-2025-hacktoberfest-writing-challenge-is-now-1412)
+- [Welcome Thread - v345](https://dev.to/devteam/welcome-thread-v345-2bjh)
 - [Behind the Scenes: How We Judge DEV Challenge Submissions](https://dev.to/devteam/behind-the-scenes-how-we-judge-dev-challenge-submissions-ki2)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-38eb)
 - [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-43a)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Two challenges and $6,000 in prizes! Get your submissions in by September 28.](https://dev.to/devteam/two-challenges-and-6000-in-prizes-get-your-submissions-in-by-september-28-5cm9)
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-1pc5)
 - [Congrats to the Midnight Network &quot;Privacy First&quot; Challenge Winners!](https://dev.to/devteam/congrats-to-the-midnight-network-privacy-first-challenge-winners-4o04)
-- [Welcome Thread - v343](https://dev.to/devteam/welcome-thread-v343-2h5f)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5e1)
 <!-- BLOG-POST-LIST:END -->
 
 
