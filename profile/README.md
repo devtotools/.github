@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Join the Auth0 for AI Agents Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-auth0-for-ai-agents-challenge-3000-in-prizes-11gi)
+- [Welcome Thread - v346](https://dev.to/devteam/welcome-thread-v346-1bm8)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-cen)
 - [Preloading the DEV &lpar;and Forem&rpar; home feed and sidebar for substantial performance benefits](https://dev.to/devteam/preloading-the-dev-and-forem-home-feed-and-sidebar-for-substantial-performance-benefits-2cg8)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4835)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Welcome Thread - v345](https://dev.to/devteam/welcome-thread-v345-2bjh)
 - [Behind the Scenes: How We Judge DEV Challenge Submissions](https://dev.to/devteam/behind-the-scenes-how-we-judge-dev-challenge-submissions-ki2)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-38eb)
-- [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-43a)
-- [Welcome Thread - v344](https://dev.to/devteam/welcome-thread-v344-42b3)
 <!-- BLOG-POST-LIST:END -->
 
 
