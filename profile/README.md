@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Heroku &quot;Back to School&quot; AI Challenge: Winner Announcement Delayed](https://dev.to/devteam/heroku-back-to-school-ai-challenge-winner-announcement-delayed-1h4b)
+- [Congrats to the latest KendoReact Free Components Challenge Winners!](https://dev.to/devteam/congrats-to-the-latest-kendoreact-free-components-challenge-winners-2b11)
 - [Join the Auth0 for AI Agents Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-auth0-for-ai-agents-challenge-3000-in-prizes-11gi)
 - [Welcome Thread - v346](https://dev.to/devteam/welcome-thread-v346-1bm8)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-cen)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Congrats to the Google AI Multimodal Challenge Winners!](https://dev.to/devteam/congrats-to-the-google-ai-multimodal-challenge-winners-385f)
 - [🎃 Spotlight your projects and contributions as you go: 2025 Hacktoberfest Writing Challenge is now live!](https://dev.to/devteam/spotlight-your-projects-and-contributions-as-you-go-2025-hacktoberfest-writing-challenge-is-now-1412)
 - [Welcome Thread - v345](https://dev.to/devteam/welcome-thread-v345-2bjh)
-- [Behind the Scenes: How We Judge DEV Challenge Submissions](https://dev.to/devteam/behind-the-scenes-how-we-judge-dev-challenge-submissions-ki2)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-38eb)
 <!-- BLOG-POST-LIST:END -->
 
 
