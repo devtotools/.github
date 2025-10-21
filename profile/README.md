@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-294d)
 - [Auth0 for AI Agents Challenge: Deadline Extended by 1-Week!](https://dev.to/devteam/auth0-for-ai-agents-challenge-deadline-extended-by-1-week-4knk)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-ga0)
 - [Join our latest Frontend Challenge: Halloween Edition 🦇](https://dev.to/devteam/join-our-latest-frontend-challenge-halloween-edition-55oi)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-2e64)
 - [Heroku &quot;Back to School&quot; AI Challenge: Winner Announcement Delayed](https://dev.to/devteam/heroku-back-to-school-ai-challenge-winner-announcement-delayed-1h4b)
 - [Congrats to the latest KendoReact Free Components Challenge Winners!](https://dev.to/devteam/congrats-to-the-latest-kendoreact-free-components-challenge-winners-2b11)
-- [Join the Auth0 for AI Agents Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-auth0-for-ai-agents-challenge-3000-in-prizes-11gi)
 <!-- BLOG-POST-LIST:END -->
 
 
