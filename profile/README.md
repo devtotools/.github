@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Join the Agentic Postgres Challenge with Tiger Data: $3,000 in Prizes!](https://dev.to/devteam/join-the-agentic-postgres-challenge-with-tiger-data-3000-in-prizes-17ip)
+- [Welcome Thread - v348](https://dev.to/devteam/welcome-thread-v348-29i2)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-294d)
 - [Auth0 for AI Agents Challenge: Deadline Extended by 1-Week!](https://dev.to/devteam/auth0-for-ai-agents-challenge-deadline-extended-by-1-week-4knk)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-ga0)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-53an)
 - [Congrats to the Heroku &quot;Back to School&quot; AI Challenge Winners!](https://dev.to/devteam/congrats-to-the-heroku-back-to-school-ai-challenge-winners-303h)
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-2e64)
-- [Heroku &quot;Back to School&quot; AI Challenge: Winner Announcement Delayed](https://dev.to/devteam/heroku-back-to-school-ai-challenge-winner-announcement-delayed-1h4b)
-- [Congrats to the latest KendoReact Free Components Challenge Winners!](https://dev.to/devteam/congrats-to-the-latest-kendoreact-free-components-challenge-winners-2b11)
 <!-- BLOG-POST-LIST:END -->
 
 
