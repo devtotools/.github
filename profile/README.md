@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4hn5)
 - [We have four DEV Challenges for you to dive into this weekend!](https://dev.to/devteam/we-have-four-dev-challenges-for-you-to-dive-into-this-weekend-6be)
 - [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-e76)
 - [Join the Agentic Postgres Challenge with Tiger Data: $3,000 in Prizes!](https://dev.to/devteam/join-the-agentic-postgres-challenge-with-tiger-data-3000-in-prizes-17ip)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-ga0)
 - [Join our latest Frontend Challenge: Halloween Edition 🦇](https://dev.to/devteam/join-our-latest-frontend-challenge-halloween-edition-55oi)
 - [Welcome Thread - v347](https://dev.to/devteam/welcome-thread-v347-2ica)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-53an)
 <!-- BLOG-POST-LIST:END -->
 
 
