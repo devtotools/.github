@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Join the AI Agents Intensive Course Writing Challenge with Google and Kaggle!](https://dev.to/devteam/join-the-ai-agents-intensive-course-writing-challenge-with-google-and-kaggle-1i46)
+- [What was your win this week?!!](https://dev.to/devteam/what-was-your-win-this-week-4ec5)
 - [Welcome Thread - v349](https://dev.to/devteam/welcome-thread-v349-446k)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4hn5)
 - [We have four DEV Challenges for you to dive into this weekend!](https://dev.to/devteam/we-have-four-dev-challenges-for-you-to-dive-into-this-weekend-6be)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Welcome Thread - v348](https://dev.to/devteam/welcome-thread-v348-29i2)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-294d)
 - [Auth0 for AI Agents Challenge: Deadline Extended by 1-Week!](https://dev.to/devteam/auth0-for-ai-agents-challenge-deadline-extended-by-1-week-4knk)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-ga0)
-- [Join our latest Frontend Challenge: Halloween Edition 🦇](https://dev.to/devteam/join-our-latest-frontend-challenge-halloween-edition-55oi)
 <!-- BLOG-POST-LIST:END -->
 
 
