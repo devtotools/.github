@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Agentic Postgres Challenge: Winner Announcement Delayed](https://dev.to/devteam/agentic-postgres-challenge-winner-announcement-delayed-27c7)
+- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-3php)
 - [Congrats to the 2025 Hacktoberfest Writing Challenge Winners!](https://dev.to/devteam/congrats-to-the-2025-hacktoberfest-writing-challenge-winners-1hpn)
 - [Join the AI Challenge for Cross-Platform Apps: $3,000 in Prizes!](https://dev.to/devteam/join-the-ai-challenge-for-cross-platform-apps-3000-in-prizes-25c3)
 - [Welcome Thread - v352](https://dev.to/devteam/welcome-thread-v352-41df)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [AWS Builder Center: Connect, Learn, and Build with the Cloud Community](https://dev.to/devteam/aws-builder-center-connect-learn-and-build-with-the-cloud-community-3jge)
 - [Cover Image Generation Now an Option in the DEV Editor](https://dev.to/devteam/cover-image-generation-now-an-option-in-the-dev-editor-1nld)
 - [Welcome Thread - v351](https://dev.to/devteam/welcome-thread-v351-460h)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2ah)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-41h2)
 <!-- BLOG-POST-LIST:END -->
 
 
