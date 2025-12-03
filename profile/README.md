@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [You can now use YouTube videos as your cover video on DEV Posts &lpar;Also Mux and Twitch videos&rpar;](https://dev.to/devteam/you-can-now-use-youtube-videos-as-your-cover-video-on-dev-posts-also-mux-and-twitch-videos-360b)
+- [AI Agents Intensive Course Writing Challenge with Google and Kaggle: Deadline Extended](https://dev.to/devteam/ai-agents-intensive-course-writing-challenge-with-google-and-kaggle-deadline-extended-324d)
+- [DEV&#39;s Worldwide Show and Tell Challenge Presented by Mux: Pitch Your Projects! $3,000 in Prizes. 🎥](https://dev.to/devteam/devs-worldwide-show-and-tell-challenge-presented-by-mux-pitch-your-projects-3000-in-prizes-40g7)
+- [Welcome Thread - v354](https://dev.to/devteam/welcome-thread-v354-ccj)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-i3c)
 - [Congrats to the Winners of the Agentic Postgres Challenge with Tiger Data!](https://dev.to/devteam/congrats-to-the-winners-of-the-agentic-postgres-challenge-with-tiger-data-51m6)
 - [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-nbl)
 - [Join the Xano AI-Powered Backend Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-xano-ai-powered-backend-challenge-3000-in-prizes-3c11)
 - [Welcome Thread - v353](https://dev.to/devteam/welcome-thread-v353-22mj)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-e4i)
-- [Agentic Postgres Challenge: Winner Announcement Delayed](https://dev.to/devteam/agentic-postgres-challenge-winner-announcement-delayed-27c7)
-- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-3php)
-- [Congrats to the 2025 Hacktoberfest Writing Challenge Winners!](https://dev.to/devteam/congrats-to-the-2025-hacktoberfest-writing-challenge-winners-1hpn)
-- [Join the AI Challenge for Cross-Platform Apps: $3,000 in Prizes!](https://dev.to/devteam/join-the-ai-challenge-for-cross-platform-apps-3000-in-prizes-25c3)
 <!-- BLOG-POST-LIST:END -->
 
 
