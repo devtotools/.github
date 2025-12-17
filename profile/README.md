@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome Thread - v356](https://dev.to/devteam/welcome-thread-v356-137j)
 - [You can now embed Cloud Run deployments directly in your DEV posts!](https://dev.to/devteam/you-can-now-embed-cloud-run-deployments-directly-in-your-dev-posts-1jk8)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3pab)
 - [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-j2p)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4e6o)
 - [You can now use YouTube videos as your cover video on DEV Posts &lpar;Also Mux and Twitch videos&rpar;](https://dev.to/devteam/you-can-now-use-youtube-videos-as-your-cover-video-on-dev-posts-also-mux-and-twitch-videos-360b)
 - [AI Agents Intensive Course Writing Challenge with Google and Kaggle: Deadline Extended](https://dev.to/devteam/ai-agents-intensive-course-writing-challenge-with-google-and-kaggle-deadline-extended-324d)
-- [DEV&#39;s Worldwide Show and Tell Challenge Presented by Mux: Pitch Your Projects! $3,000 in Prizes. 🎥](https://dev.to/devteam/devs-worldwide-show-and-tell-challenge-presented-by-mux-pitch-your-projects-3000-in-prizes-40g7)
 <!-- BLOG-POST-LIST:END -->
 
 
