@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Congrats to the Winners of the AI Challenge for Cross-Platform Apps!](https://dev.to/devteam/congrats-to-the-winners-of-the-ai-challenge-for-cross-platform-apps-3f7f)
+- [What was your win this week???](https://dev.to/devteam/what-was-your-win-this-week-1d6c)
 - [Congrats to the Frontend Challenge: Halloween Edition Winners!](https://dev.to/devteam/congrats-to-the-frontend-challenge-halloween-edition-winners-13pg)
 - [Welcome Thread - v356](https://dev.to/devteam/welcome-thread-v356-137j)
 - [You can now embed Cloud Run deployments directly in your DEV posts!](https://dev.to/devteam/you-can-now-embed-cloud-run-deployments-directly-in-your-dev-posts-1jk8)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Welcome Thread - v355](https://dev.to/devteam/welcome-thread-v355-189)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-a98)
 - [Our current challenges add up to $9,000 in total prizes! Give one a try this weekend.](https://dev.to/devteam/our-current-challenges-add-up-to-9000-in-total-prizes-give-one-a-try-this-weekend-eel)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4e6o)
-- [You can now use YouTube videos as your cover video on DEV Posts &lpar;Also Mux and Twitch videos&rpar;](https://dev.to/devteam/you-can-now-use-youtube-videos-as-your-cover-video-on-dev-posts-also-mux-and-twitch-videos-360b)
 <!-- BLOG-POST-LIST:END -->
 
 
