@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome Thread - v357](https://dev.to/devteam/welcome-thread-v357-39k7)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2p6l)
 - [Congrats to the Winners of the AI Challenge for Cross-Platform Apps!](https://dev.to/devteam/congrats-to-the-winners-of-the-ai-challenge-for-cross-platform-apps-3f7f)
 - [What was your win this week???](https://dev.to/devteam/what-was-your-win-this-week-1d6c)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3pab)
 - [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-j2p)
 - [Welcome Thread - v355](https://dev.to/devteam/welcome-thread-v355-189)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-a98)
 <!-- BLOG-POST-LIST:END -->
 
 
