@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Join the Algolia Agent Studio Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-algolia-agent-studio-challenge-3000-in-prizes-4eli)
+- [Welcome Thread - v359](https://dev.to/devteam/welcome-thread-v359-2ala)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2cgm)
 - [Do you have any New Year resolutions or goals?](https://dev.to/devteam/do-you-have-any-new-year-resolutions-or-goals-53e9)
 - [Happy New Year! What was your win this week?!](https://dev.to/devteam/happy-new-year-what-was-your-win-this-week-4h5l)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Welcome Thread - v358](https://dev.to/devteam/welcome-thread-v358-4m6k)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3hh6)
 - [How was your 2025?](https://dev.to/devteam/how-was-your-2025-5gdn)
-- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-2ih5)
-- [Welcome Thread - v357](https://dev.to/devteam/welcome-thread-v357-39k7)
 <!-- BLOG-POST-LIST:END -->
 
 
