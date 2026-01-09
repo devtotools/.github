@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week???](https://dev.to/devteam/what-was-your-win-this-week-8d7)
 - [Congrats to the AI Agents Intensive Course Writing Challenge Winners!](https://dev.to/devteam/congrats-to-the-ai-agents-intensive-course-writing-challenge-winners-1969)
 - [Join the Algolia Agent Studio Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-algolia-agent-studio-challenge-3000-in-prizes-4eli)
 - [Welcome Thread - v359](https://dev.to/devteam/welcome-thread-v359-2ala)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Congrats to the Xano AI-Powered Backend Challenge Winners!](https://dev.to/devteam/congrats-to-the-xano-ai-powered-backend-challenge-winners-2llg)
 - [Join the New Year, New You Portfolio Challenge: $3,000 in Prizes + Feedback from Google AI Team &lpar;For Winners and Runner Ups!&rpar;](https://dev.to/devteam/join-the-new-year-new-you-portfolio-challenge-3000-in-prizes-feedback-from-google-ai-team-4e7g)
 - [Welcome Thread - v358](https://dev.to/devteam/welcome-thread-v358-4m6k)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3hh6)
 <!-- BLOG-POST-LIST:END -->
 
 
