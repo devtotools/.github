@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Fighting Spam at Scale: How We Use Gemini to Protect the DEV Community](https://dev.to/devteam/fighting-spam-at-scale-how-we-use-gemini-to-protect-the-dev-community-277j)
+- [Join the GitHub Copilot CLI Challenge! Win GitHub Universe Tickets, Copilot Pro+ Subscriptions and $1,000 in Cash 💸](https://dev.to/devteam/join-the-github-copilot-cli-challenge-win-github-universe-tickets-copilot-pro-subscriptions-and-50af)
 - [Welcome Thread - v361](https://dev.to/devteam/welcome-thread-v361-1k7l)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2jd)
 - [The Warm Welcome Badge is Back! 🌟🎉](https://dev.to/devteam/the-warm-welcome-badge-is-back-5a6d)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1ho6)
 - [What was your win this week???](https://dev.to/devteam/what-was-your-win-this-week-8d7)
 - [Congrats to the AI Agents Intensive Course Writing Challenge Winners!](https://dev.to/devteam/congrats-to-the-ai-agents-intensive-course-writing-challenge-winners-1969)
-- [Join the Algolia Agent Studio Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-algolia-agent-studio-challenge-3000-in-prizes-4eli)
-- [Welcome Thread - v359](https://dev.to/devteam/welcome-thread-v359-2ala)
 <!-- BLOG-POST-LIST:END -->
 
 
