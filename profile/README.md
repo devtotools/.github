@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-e8p)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4ig9)
 - [Congrats to the Winners of the &quot;Worldwide Show and Tell Challenge&quot; Presented by Mux!](https://dev.to/devteam/congrats-to-the-winners-of-the-worldwide-show-and-tell-challenge-presented-by-mux-10o9)
 - [Fighting Spam at Scale: How We Use Gemini to Protect the DEV Community](https://dev.to/devteam/fighting-spam-at-scale-how-we-use-gemini-to-protect-the-dev-community-277j)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [The Warm Welcome Badge is Back! 🌟🎉](https://dev.to/devteam/the-warm-welcome-badge-is-back-5a6d)
 - [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-3k8n)
 - [Welcome Thread - v360](https://dev.to/devteam/welcome-thread-v360-2op5)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1ho6)
 <!-- BLOG-POST-LIST:END -->
 
 
