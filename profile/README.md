@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Got Gemini CLI questions? The Google team will answer DEV&#39;s questions in their new livestream series!](https://dev.to/devteam/got-gemini-cli-questions-the-google-team-will-answer-devs-questions-in-their-new-livestream-5b7j)
 - [Welcome Thread - v363](https://dev.to/devteam/welcome-thread-v363-13be)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-bao)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1916)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4ig9)
 - [Congrats to the Winners of the &quot;Worldwide Show and Tell Challenge&quot; Presented by Mux!](https://dev.to/devteam/congrats-to-the-winners-of-the-worldwide-show-and-tell-challenge-presented-by-mux-10o9)
 - [Fighting Spam at Scale: How We Use Gemini to Protect the DEV Community](https://dev.to/devteam/fighting-spam-at-scale-how-we-use-gemini-to-protect-the-dev-community-277j)
-- [Join the GitHub Copilot CLI Challenge! Win GitHub Universe Tickets, Copilot Pro+ Subscriptions and $1,000 in Cash 💸](https://dev.to/devteam/join-the-github-copilot-cli-challenge-win-github-universe-tickets-copilot-pro-subscriptions-and-50af)
 <!-- BLOG-POST-LIST:END -->
 
 
