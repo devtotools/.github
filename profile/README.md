@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [$100 OFF Google Cloud Next for the Community! Let&#39;s meet up?](https://dev.to/devteam/100-off-google-cloud-next-for-the-community-lets-meet-up-3mbo)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5am7)
 - [Got Gemini CLI questions? The Google team will answer DEV&#39;s questions in their new livestream series!](https://dev.to/devteam/got-gemini-cli-questions-the-google-team-will-answer-devs-questions-in-their-new-livestream-5b7j)
 - [Welcome Thread - v363](https://dev.to/devteam/welcome-thread-v363-13be)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Welcome Thread - v362](https://dev.to/devteam/welcome-thread-v362-il4)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-e8p)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4ig9)
-- [Congrats to the Winners of the &quot;Worldwide Show and Tell Challenge&quot; Presented by Mux!](https://dev.to/devteam/congrats-to-the-winners-of-the-worldwide-show-and-tell-challenge-presented-by-mux-10o9)
 <!-- BLOG-POST-LIST:END -->
 
 
