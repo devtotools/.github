@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Join the &quot;Built with Google Gemini: Writing Challenge&quot; Presented by Major League Hacking &lpar;MLH&rpar;. Win a Raspberry Pi AI Kit!](https://dev.to/devteam/join-the-built-with-google-gemini-writing-challenge-presented-by-major-league-hacking-mlh-win-17pk)
+- [Welcome Thread - v366](https://dev.to/devteam/welcome-thread-v366-3khj)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2phc)
 - [First DEV Weekend Challenge Launches on Feb 26 - Mar 2. Mark Your Calendar!](https://dev.to/devteam/first-dev-weekend-challenge-launches-on-feb-26-mar-2-mark-your-calendar-5dc3)
 - [What Do You Want to Know About Antigravity?](https://dev.to/devteam/what-do-you-want-to-know-about-antigravity-1o7a)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [A New Chapter: DEV is Joining Forces with Major League Hacking &lpar;MLH&rpar;](https://dev.to/devteam/a-new-chapter-dev-is-joining-forces-with-major-league-hacking-mlh-3kfd)
 - [Welcome Thread - v365](https://dev.to/devteam/welcome-thread-v365-1n88)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3h5k)
-- [Introducing Our Next DEV Education Track: &quot;Build Multi-Agent Systems with ADK&quot;](https://dev.to/devteam/introducing-our-next-dev-education-track-build-multi-agent-systems-with-adk-4bg8)
-- [What else do you want to know about Gemini CLI?](https://dev.to/devteam/what-else-do-you-want-to-know-about-gemini-cli-457h)
 <!-- BLOG-POST-LIST:END -->
 
 
