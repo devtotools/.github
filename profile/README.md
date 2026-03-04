@@ -18,16 +18,16 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Share, Embed, and Curate Agent Sessions on DEV [Beta]](https://dev.to/devteam/share-embed-and-curate-agent-sessions-on-dev-beta-5bj6)
+- [Congrats to the Algolia Agent Studio Challenge Winners!](https://dev.to/devteam/congrats-to-the-algolia-agent-studio-challenge-winners-3ocn)
+- [Join the Notion MCP Challenge: $1,500 in Prizes!](https://dev.to/devteam/join-the-notion-mcp-challenge-1500-in-prizes-73e)
+- [Welcome Thread - v367](https://dev.to/devteam/welcome-thread-v367-33cn)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2of0)
 - [Upgraded embed experience and new embed types in DEV posts](https://dev.to/devteam/upgraded-embed-experience-and-new-embed-types-in-dev-posts-1kho)
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-5h33)
 - [Happening Now: DEV Weekend Challenge!! Submissions due March 2 at 7:59am UTC.](https://dev.to/devteam/happening-now-dev-weekend-challenge-submissions-due-march-2-at-759am-utc-5fg8)
 - [Winner Announcement Delayed for Algolia Agent Studio Challenge and GitHub CLI Challenge](https://dev.to/devteam/winner-announcement-delayed-for-algolia-agent-studio-challenge-and-github-cli-challenge-53ac)
 - [Want your agent to write better code with fewer tokens? Ask the Google AI Team about Agent Skills!](https://dev.to/devteam/want-your-agent-to-write-better-code-with-fewer-tokens-ask-the-google-ai-team-about-agent-skills-44pg)
-- [Join the &quot;Built with Google Gemini: Writing Challenge&quot; Presented by Major League Hacking &lpar;MLH&rpar;. Win a Raspberry Pi AI Kit!](https://dev.to/devteam/join-the-built-with-google-gemini-writing-challenge-presented-by-major-league-hacking-mlh-win-17pk)
-- [Welcome Thread - v366](https://dev.to/devteam/welcome-thread-v366-3khj)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2phc)
-- [First DEV Weekend Challenge Launches on Feb 26 - Mar 2. Mark Your Calendar!](https://dev.to/devteam/first-dev-weekend-challenge-launches-on-feb-26-mar-2-mark-your-calendar-5dc3)
 <!-- BLOG-POST-LIST:END -->
 
 
