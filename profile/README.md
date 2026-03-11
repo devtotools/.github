@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome Thread - v368](https://dev.to/devteam/welcome-thread-v368-15ed)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1889)
 - [Congrats to the GitHub Copilot CLI Challenge Winners!](https://dev.to/devteam/congrats-to-the-github-copilot-cli-challenge-winners-2240)
 - [Revamped RSS Feed Imports](https://dev.to/devteam/revamped-rss-feed-imports-3j1e)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [GitHub Copilot CLI Challenge Winner Announcement - Further Delayed](https://dev.to/devteam/github-copilot-cli-challenge-further-delay-5abg)
 - [Share, Embed, and Curate Agent Sessions on DEV [Beta]](https://dev.to/devteam/share-embed-and-curate-agent-sessions-on-dev-beta-5bj6)
 - [Congrats to the Algolia Agent Studio Challenge Winners!](https://dev.to/devteam/congrats-to-the-algolia-agent-studio-challenge-winners-3ocn)
-- [Join the Notion MCP Challenge: $1,500 in Prizes!](https://dev.to/devteam/join-the-notion-mcp-challenge-1500-in-prizes-73e)
 <!-- BLOG-POST-LIST:END -->
 
 
