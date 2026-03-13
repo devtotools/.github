@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-ilf)
 - [An Update on How We Judge DEV Challenges](https://dev.to/devteam/an-update-on-how-we-judge-dev-challenges-34eg)
 - [Welcome Thread - v368](https://dev.to/devteam/welcome-thread-v368-15ed)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1889)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Join the 2026 WeCoded Challenge and Celebrate Underrepresented Voices in Tech Through Writing &amp; Frontend Art 🎨!](https://dev.to/devteam/join-the-2026-wecoded-challenge-and-celebrate-underrepresented-voices-in-tech-through-writing--4828)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1m96)
 - [GitHub Copilot CLI Challenge Winner Announcement - Further Delayed](https://dev.to/devteam/github-copilot-cli-challenge-further-delay-5abg)
-- [Share, Embed, and Curate Agent Sessions on DEV [Beta]](https://dev.to/devteam/share-embed-and-curate-agent-sessions-on-dev-beta-5bj6)
 <!-- BLOG-POST-LIST:END -->
 
 
