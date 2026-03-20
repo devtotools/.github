@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-35ja)
 - [Congrats to the Winners of Our First DEV Weekend Challenge!](https://dev.to/devteam/congrats-to-the-winners-of-our-first-dev-weekend-challenge-1gml)
 - [Congrats to the &quot;Built with Google Gemini: Writing Challenge&quot; Winners!](https://dev.to/devteam/congrats-to-the-built-with-google-gemini-writing-challenge-winners-5ej6)
 - [Notion MCP Challenge: Badges Revealed + A New Prize! 🏆 😻](https://dev.to/devteam/notion-mcp-challenge-badges-revealed-a-new-prize-324k)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [An Update on How We Judge DEV Challenges](https://dev.to/devteam/an-update-on-how-we-judge-dev-challenges-34eg)
 - [Welcome Thread - v368](https://dev.to/devteam/welcome-thread-v368-15ed)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1889)
-- [Congrats to the GitHub Copilot CLI Challenge Winners!](https://dev.to/devteam/congrats-to-the-github-copilot-cli-challenge-winners-2240)
 <!-- BLOG-POST-LIST:END -->
 
 
