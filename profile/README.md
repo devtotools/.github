@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What do you want to know about hardware acceleration? Ask the Google team!](https://dev.to/devteam/what-do-you-want-to-know-about-hardware-acceleration-ask-the-google-team-3nj0)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2on5)
 - [Join our April Fools Challenge for a chance at TEA-RRIFIC prizes!!!](https://dev.to/devteam/join-our-april-fools-challenge-for-a-chance-at-tea-rrific-prizes-1ofa)
 - [Welcome Thread - v371](https://dev.to/devteam/welcome-thread-v371-406b)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-ba0)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Welcome Thread - v370](https://dev.to/devteam/welcome-thread-v370-2ddl)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4ig2)
 - [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-35ja)
-- [Congrats to the Winners of Our First DEV Weekend Challenge!](https://dev.to/devteam/congrats-to-the-winners-of-our-first-dev-weekend-challenge-1gml)
-- [Congrats to the &quot;Built with Google Gemini: Writing Challenge&quot; Winners!](https://dev.to/devteam/congrats-to-the-built-with-google-gemini-writing-challenge-winners-5ej6)
 <!-- BLOG-POST-LIST:END -->
 
 
