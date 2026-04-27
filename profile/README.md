@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2njl)
 - [Officially Introducing: The Google AI and Google Cloud Run Badges](https://dev.to/devteam/officially-introducing-the-google-ai-and-google-cloud-run-badges-mn9)
 - [Watch the Google Cloud NEXT &#39;26 Sessions and Enter the Writing Challenge. There&#39;s $1,000 on the Line!](https://dev.to/devteam/watch-the-google-cloud-next-26-sessions-and-enter-the-writing-challenge-theres-1000-on-the-3cg8)
 - [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-8ep)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-555a)
 - [Watch Google Cloud NEXT Live Right Here on DEV!](https://dev.to/devteam/watch-google-cloud-next-live-right-here-on-dev-2g6h)
 - [Congrats to the Notion MCP Challenge Winners!](https://dev.to/devteam/congrats-to-the-notion-mcp-challenge-winners-28ab)
-- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-28fb)
 <!-- BLOG-POST-LIST:END -->
 
 
