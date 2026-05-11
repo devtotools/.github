@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4nik)
 - [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-96l)
 - [Congrats to the OpenClaw Challenge Winners!](https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha)
 - [Congrats to the Google Cloud NEXT &#39;26 Writing Challenge Winners!](https://dev.to/devteam/congrats-to-the-google-cloud-next-26-writing-challenge-winners-5990)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Announcing the Winners of the DEV Weekend Challenge: Earth Day Edition 🌍](https://dev.to/devteam/announcing-the-winners-of-the-dev-weekend-challenge-earth-day-edition-1n4)
 - [Welcome Thread - v375](https://dev.to/devteam/welcome-thread-v375-3d7d)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2njl)
-- [Officially Introducing: The Google AI and Google Cloud Run Badges](https://dev.to/devteam/officially-introducing-the-google-ai-and-google-cloud-run-badges-mn9)
 <!-- BLOG-POST-LIST:END -->
 
 
