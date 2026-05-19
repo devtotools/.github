@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Tune in and Join the Google I/O 2026 Writing Challenge: $1,000 in Prizes!!](https://dev.to/devteam/tune-in-and-join-the-google-io-2026-writing-challenge-1000-in-prizes-4apl)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1obd)
 - [Join the Hermes Agent Challenge: $1,000 in Prizes!](https://dev.to/devteam/join-the-hermes-agent-challenge-1000-in-prizes-13cd)
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-110l)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Congrats to the Google Cloud NEXT &#39;26 Writing Challenge Winners!](https://dev.to/devteam/congrats-to-the-google-cloud-next-26-writing-challenge-winners-5990)
 - [Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!](https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1136)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-ig5)
 <!-- BLOG-POST-LIST:END -->
 
 
