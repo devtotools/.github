@@ -27,7 +27,7 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Congrats to the OpenClaw Challenge Winners!](https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha)
 - [Congrats to the Google Cloud NEXT &#39;26 Writing Challenge Winners!](https://dev.to/devteam/congrats-to-the-google-cloud-next-26-writing-challenge-winners-5990)
 - [Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!](https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1136)
+- [Welcome Thread - v376](https://dev.to/devteam/welcome-thread-v376-n8a)
 <!-- BLOG-POST-LIST:END -->
 
 
