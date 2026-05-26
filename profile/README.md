@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-45na)
 - [How we&#39;re using Gemini Embeddings to build a smarter, community-driven feed on DEV](https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f)
 - [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-2ohc)
 - [Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!](https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-110l)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4nik)
 - [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-96l)
-- [Congrats to the OpenClaw Challenge Winners!](https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha)
 <!-- BLOG-POST-LIST:END -->
 
 
