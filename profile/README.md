@@ -26,8 +26,8 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1obd)
 - [Join the Hermes Agent Challenge: $1,000 in Prizes!](https://dev.to/devteam/join-the-hermes-agent-challenge-1000-in-prizes-13cd)
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-110l)
+- [Welcome Thread - v377](https://dev.to/devteam/welcome-thread-v377-o87)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4nik)
-- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-96l)
 <!-- BLOG-POST-LIST:END -->
 
 
