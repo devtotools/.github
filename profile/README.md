@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4k11)
 - [Congrats to the Google I/O 2026 Writing Challenge Winners!](https://dev.to/devteam/congrats-to-the-google-io-writing-challenge-winners-1364)
 - [Welcome Thread - v379](https://dev.to/devteam/welcome-thread-v379-9fb)
 - [Github &quot;Finish-Up-A-Thon&quot; Challenge Winner Announcement Delayed &amp; General Challenge Timeline Updates](https://dev.to/devteam/github-finish-up-a-thon-challenge-winner-announcement-delayed-general-challenge-timeline-updates-ckk)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Want to work with me? We&#39;re hiring a Community Program Manager at DEV!](https://dev.to/devteam/want-to-work-with-me-were-hiring-a-community-program-manager-at-dev-3fol)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-62k)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-i1)
-- [Winner Announcement Delayed for the Gemma 4 Challenge](https://dev.to/devteam/winner-announcement-delayed-for-the-gemma-4-challenge-2opb)
 <!-- BLOG-POST-LIST:END -->
 
 
