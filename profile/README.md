@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-4na1)
 - [Winner Announcement Delayed for the Github &quot;Finish-Up-A-Thon&quot; Challenge](https://dev.to/devteam/winner-announcement-delayed-for-the-github-finish-up-a-thon-challenge-1766)
 - [Welcome Thread - v381](https://dev.to/devteam/welcome-thread-v381-3ko4)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-55d8)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Welcome Thread - v380](https://dev.to/devteam/welcome-thread-v380-oi4)
 - [How We Saved Big and Simplified Our Image Pipeline: Adopting bunny.net on DEV](https://dev.to/devteam/how-we-saved-big-and-simplified-our-image-pipeline-adopting-bunnynet-on-dev-3d53)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1h65)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4k11)
 <!-- BLOG-POST-LIST:END -->
 
 
