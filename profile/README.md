@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome Thread - v383](https://dev.to/devteam/welcome-thread-v383-2edd)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-144b)
 - [The Next DEV Weekend Challenge Launches on July 9 - 13. Mark Your Calendar!](https://dev.to/devteam/the-next-dev-weekend-challenge-launches-on-july-9-13-mark-your-calendar-2fcb)
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-1np3)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-18mk)
 - [Need a break? Play today&#39;s game from The Daily Context.](https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli)
 - [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-4na1)
-- [Winner Announcement Delayed for the Github &quot;Finish-Up-A-Thon&quot; Challenge](https://dev.to/devteam/winner-announcement-delayed-for-the-github-finish-up-a-thon-challenge-1766)
 <!-- BLOG-POST-LIST:END -->
 
 
