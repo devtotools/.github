@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1oei)
 - [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-amo)
 - [Welcome Thread - v384](https://dev.to/devteam/welcome-thread-v384-45fn)
 - [DEV’s Big Summer Bug Smash is now LIVE! Share $5,000 in cash prizes, skateboards, and more across 20+ winners. 🐛🐞🪲](https://dev.to/devteam/devs-big-summer-bug-smash-is-now-live-share-5000-in-cash-prizes-skateboards-and-more-across-57mk)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Congrats to the June Solstice Game Jam Winners!](https://dev.to/devteam/congrats-to-the-june-solstice-game-jam-winners-46c0)
 - [DEV&#39;s Summer Bug Smash Launches on July 14. Register Now!](https://dev.to/devteam/devs-summer-bug-smash-launches-on-july-14-register-now-3g2n)
 - [Welcome Thread - v383](https://dev.to/devteam/welcome-thread-v383-2edd)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-144b)
 <!-- BLOG-POST-LIST:END -->
 
 
