@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Bug Smash isn&#39;t glamorous and that&#39;s what I love about it.](https://dev.to/devteam/bug-smash-isnt-glamorous-and-thats-what-i-love-about-it-445i)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-257h)
 - [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-5ak2)
 - [Welcome Thread - v385](https://dev.to/devteam/welcome-thread-v385-5en1)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [DEV’s Big Summer Bug Smash is now LIVE! Share $5,000 in cash prizes, skateboards, and more across 20+ winners. 🐛🐞🪲](https://dev.to/devteam/devs-big-summer-bug-smash-is-now-live-share-5000-in-cash-prizes-skateboards-and-more-across-57mk)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-815)
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-50ea)
-- [Join our DEV Weekend Challenge: Passion Edition — $1,000 in Prizes Across FIVE Winners! Submissions Due July 13 at 6:59 AM UTC.](https://dev.to/devteam/join-our-dev-weekend-challenge-passion-edition-1000-in-prizes-across-five-winners-submissions-10j5)
 <!-- BLOG-POST-LIST:END -->
 
 
