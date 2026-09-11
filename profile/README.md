@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-5amk)
 - [DEV Weekend Challenge: Dog Days Edition Winner Announcement Delayed](https://dev.to/devteam/dev-weekend-challenge-dog-days-edition-winner-announcement-delayed-36f0)
 - [Congrats to the Frontend Challenge: Comfort Food Edition Winners!](https://dev.to/devteam/congrats-to-the-frontend-challenge-comfort-food-edition-winners-1l8)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-40ma)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2aic)
 - [Fixing Delicate Cache Mismatches in a Brownfield SPA: A Pragmatic Solution](https://dev.to/devteam/fixing-delicate-cache-mismatches-in-a-brownfield-spa-a-pragmatic-solution-dk9)
 - [What should the next Weekend Challenge theme be??](https://dev.to/devteam/what-should-the-next-weekend-challenge-theme-be-3mha)
-- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-51oc)
 <!-- BLOG-POST-LIST:END -->
 
 
