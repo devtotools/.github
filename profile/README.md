@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-odj)
 - [Congrats to the Summer Bug Smash Winners!](https://dev.to/devteam/congrats-to-the-summer-bug-smash-winners-50ei)
 - [Join the Kaggle Benchmarking Challenge: $2,500 in Prizes for FIVE Winners!](https://dev.to/devteam/join-the-kaggle-benchmarking-challenge-2500-in-prizes-for-five-winners-18ml)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2agl)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [A Quick Update on the Summer Bug Smash Winners](https://dev.to/devteam/a-quick-update-on-the-summer-bug-smash-winners-3021)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-272b)
 - [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-5amk)
-- [DEV Weekend Challenge: Dog Days Edition Winner Announcement Delayed](https://dev.to/devteam/dev-weekend-challenge-dog-days-edition-winner-announcement-delayed-36f0)
 <!-- BLOG-POST-LIST:END -->
 
 
