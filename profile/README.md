@@ -18,6 +18,8 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [That&#39;s a Wrap on Hacktoberfest 2026! 🎃👻](https://dev.to/devteam/thats-a-wrap-on-hacktoberfest-2026-148k)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-cio)
 - [Congrats to the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady Winners!](https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-3-slow-and-steady-winners-3e4a)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-47ci)
 - [Your DEV posts have a beautiful new share card ✨](https://dev.to/devteam/your-dev-posts-have-a-beautiful-new-share-card-4be8)
@@ -26,8 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [Congrats to the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle Winners!](https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-2-side-hustle-winners-2i33)
 - [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-4ipe)
 - [Congrats to the Sanity Challenge Winners!](https://dev.to/devteam/congrats-to-the-sanity-challenge-winners-1140)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-13ii)
-- [Join the Hacktoberfest Open-Source AI Challenge: Slow and Steady! $2,850 in Prizes Across 21 Winners.](https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-slow-and-steady-2850-in-prizes-across-21-3iee)
 <!-- BLOG-POST-LIST:END -->
 
 
