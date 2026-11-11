@@ -18,6 +18,7 @@ Some repositorys are forked from members who designed the script. If this is you
 ## 📝 — Latest post from [DEV Team](https://dev.to/devteam)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-432g)
 - [An Update on the Hacktoberfest Open-Source AI Challenge: Ghost in the Machine Winners](https://dev.to/devteam/an-update-on-the-hacktoberfest-open-source-ai-challenge-ghost-in-the-machine-winners-44bp)
 - [Congrats to October&#39;s MLH x DEV Writing Challenge Winner!](https://dev.to/devteam/congrats-to-octobers-mlh-x-dev-writing-challenge-winner-36a9)
 - [Want to make DEV your full-time job? We&#39;re hiring a Community Manager!](https://dev.to/devteam/want-to-make-dev-your-full-time-job-were-hiring-a-community-manager-4p1f)
@@ -27,7 +28,6 @@ Some repositorys are forked from members who designed the script. If this is you
 - [That&#39;s a Wrap on Hacktoberfest 2026! 🎃👻](https://dev.to/devteam/thats-a-wrap-on-hacktoberfest-2026-148k)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-cio)
 - [Congrats to the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady Winners!](https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-3-slow-and-steady-winners-3e4a)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-47ci)
 <!-- BLOG-POST-LIST:END -->
 
 
